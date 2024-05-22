@@ -23,3 +23,17 @@ Es gibt ein paar Einzelheiten, die nicht in dem Spielleitfaden erklärt werden:
 Viel Glück, Abenteurer! 
 
 ---
+
+### Inhaltsverzeichnis
+
+---
+
+### Vor dem Spiel 
+
+Oh nein! Du wurdest durch Magie geschrumpft! Um zu deiner vorherigen Größe zurückzukehren, musst du dich in dieser neuen Welt zurechtfinden und eine Reihe von Szenarien bestreiten, die dich durch diese Miniaturwelt führen werden. Unterwegs findest du villeicht ein paar Freunde, aber vorallem wirst du verschiedene Gegner im Kampf besiegen müssen. Zum Glück bist du (ja) ein fähiger/geschickter Söldner mit verschiedenen Fähigkeiten, die durch (deine) Karten representiert werden. Um die vielen verschiedenen Gefahren, die dich auf deiner Reise erwarten, zu bewältigen/überwinden, wirst du die richtigen Karten zu der (zur) richtigen Zeit spielen müssen.
+
+Es gibt sechs Charakterklassen mit verschiedenen Fähigkeiten und Spilstilen zur Auswahl. Im Spielverlauf kannst du dann (noch) mit Gegenständen und fortgeschrittenen Fähigkeitskarten deinen Charakter anpassen. 
+
+Dieses Regelwerk versorgt dich mit allen Details die du brauchst, um das Spiel zu spielen. Falls du schonmal einen anderen Gloomhaven Titel gespielst hast, werden dir viele Regeln bekannt vorkommen. Wir schlagen (dir) vor, einmal alles durchzulesen, um ein vollständiges Verständnis für das Spiel zu bekommen.
+
+---
