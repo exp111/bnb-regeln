@@ -11,9 +11,9 @@ Für mehr Infos, besuche einfach: https://www.feuerland-spiele.de/
 
 ### Continuing to Learn and Play 
 
-Mit dem Gerlernten aus dem Learn to Play Heft solltet ihr in der Lage sein, das erste Szenario zu spielen. Danach könnt ihr hier in den vollständigen Regeln nocheinmal alles nachlesen. 
+Mit dem Gerlernten aus dem Spielleitfaden solltet ihr in der Lage sein, das erste Szenario zu spielen. Danach könnt ihr hier in den vollständigen Regeln nocheinmal alles nachlesen. 
 
-Es gibt ein paar Einzelheiten, die nicht in dem Learn to Play Heft erklärt werden: 
+Es gibt ein paar Einzelheiten, die nicht in dem Spielleitfaden erklärt werden: 
 
 * Gegenstände
 * Regenerieren
