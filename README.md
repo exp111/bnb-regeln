@@ -1,6 +1,5 @@
 # Gloomhaven: Buttons & Bugs fluide Regeln  
 
----
 Dieses Regelwerk für Gloomhaven: Buttons & Bugs soll einfach zugänglich, durchsuchbar und ausdruckbar sein. Es wird mit Korrekturen aktualisiert.
 
 Zuletzt aktualisiert: 22.05.2024
