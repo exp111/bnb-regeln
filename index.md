@@ -166,7 +166,7 @@ Viel Glück, Abenteurer!
 
 # Vor dem Spiel
 
-Oh nein! Du wurdest durch Magie geschrumpft! Um zu deiner vorherigen Größe zurückzukehren, musst du dich in dieser neuen Welt zurechtfinden und eine Reihe von Szenarien bestreiten, die dich durch diese Miniaturwelt führen (werden). Unterwegs findest du vielleicht ein paar Freunde, aber vor allem wirst du verschiedene Gegner im Kampf besiegen müssen. Zum Glück bist du (ja) ein fähiger/geschickter Söldner mit verschiedenen Fähigkeiten, die/welche durch (deine) Karten repräsentiert werden. Um die vielen verschiedenen Gefahren, die dich auf deiner Reise erwarten, zu bewältigen/überwinden, wirst du die richtigen Karten zu der (zur) richtigen Zeit spielen müssen.
+Oh nein! Du wurdest durch Magie geschrumpft! Um zu deiner vorherigen Größe zurückzukehren, musst du dich in dieser neuen Welt zurechtfinden und eine Reihe von Szenarien bestreiten, die dich durch diese Miniaturwelt führen (werden). Unterwegs findest du vielleicht ein paar Freunde, aber vor allem musst du verschiedene Gegner im Kampf besiegen. Zum Glück bist du (ja) ein fähiger/geschickter Söldner mit verschiedenen Fähigkeiten, die/welche durch (deine) Karten repräsentiert werden. Um die vielen verschiedenen Gefahren, die dich auf deiner Reise erwarten, zu bewältigen/überwinden, musst du die richtigen Karten zu der (zur) richtigen Zeit spielen.
 
 Es gibt sechs Charakterklassen mit verschiedenen Fähigkeiten und Spielstilen zur Auswahl. Im Spielverlauf kannst du dann (noch) mit Gegenständen und fortgeschrittenen Fähigkeitskarten deinen Charakter anpassen. 
 
