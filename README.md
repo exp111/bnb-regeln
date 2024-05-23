@@ -1,7 +1,7 @@
-# Gloomhaven: Buttons & Bugs Living Rules
+# Gloomhaven: Buttons & Bugs fluide Regeln 
 
-This light weight rules resource for Gloomhaven: Buttons & Bugs is intended to be easy to access, search, and print. It is updated with any corrections and errata.
+Dieses Regelwerk für Gloomhaven: Buttons & Bugs soll einfach zugänglich, durchsuchbar und ausdruckbar sein. Es wird mit Korrekturen aktualisiert.
 
-For more resources, visit [cephalofair.com/bnb](https://cephalofair.com/bnb)
+Für mehr Infos, besuche einfach: [feuerland-spiele.de](https://www.feuerland-spiele.de/)
 
 © 2024 Cephalofair Games, LLC. All Rights Reserved.
