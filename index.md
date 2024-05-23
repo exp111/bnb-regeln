@@ -12,7 +12,7 @@ Zuletzt aktualisiert: 23.05.2024
 
 Für mehr Informationen besuche einfach: [feuerland-spiele.de](https://www.feuerland-spiele.de/)
 
-© 2024 Cephalofair Games, LLC. All Rights Reserved.
+© 2024 Feuerland Verlagsgesellschaft mbH. Alle Rechte vorbehalten.
 
 ### Continuing to Learn and Play
  
