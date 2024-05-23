@@ -14,7 +14,7 @@ Für mehr Informationen besuche einfach: [feuerland-spiele.de](https://www.feuer
 
 © 2024 Feuerland Verlagsgesellschaft mbH. Alle Rechte vorbehalten.
 
-### Continuing to Learn and Play
+### Continuing to Learn and Play ( Lernen und Spielen im Wechsel)
  
 Mit dem ersten Überblick aus dem Spielleitfaden solltest du in der Lage sein, das erste Szenario zu spielen. Danach kannst du hier in dem vollständigen Regelwerk noch einmal alles nachlesen. 
 
