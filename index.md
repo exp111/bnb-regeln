@@ -171,7 +171,7 @@ Oh nein! Du wurdest durch Magie geschrumpft! Um zu deiner vorherigen Größe zur
 
 Es gibt sechs Charakterklassen mit verschiedenen Fähigkeiten und Spielstilen zur Auswahl. Im weiteren Spielverlauf kannst du deinen Charakter dann mit Gegenständen und fortgeschrittenen Fähigkeitskarten anpassen. 
 
-Dieses Regelwerk versorgt dich mit allen Details, die du brauchst, um das Spiel zu spielen. Falls du schonmal einen anderen Gloomhaven Titel gespielt hast, werden dir viele Regeln bekannt vorkommen. Wir schlagen dir vor, einmal alles durchzulesen, um ein vollständiges Verständnis für das Spiel zu bekommen.<span class="new-to-bnb"> Alle in lila hervorgehobenen Regeln sind neu für Buttons & Bugs und unterscheiden sich von Gloomhaven und Frosthaven. .</span>
+Dieses Regelwerk versorgt dich mit allen Details, die du brauchst, um das Spiel zu spielen. Falls du schon einmal einen anderen Gloomhaven Titel gespielt hast, werden dir viele Regeln bekannt vorkommen. Wir schlagen dir vor, einmal alles durchzulesen, um ein vollständiges Verständnis für das Spiel zu bekommen.<span class="new-to-bnb"> Alle in lila hervorgehobenen Regeln sind neu für Buttons & Bugs und unterscheiden sich von Gloomhaven und Frosthaven. .</span>
 
 ---
 
