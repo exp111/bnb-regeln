@@ -14,11 +14,11 @@ Für mehr Informationen besuche einfach: [feuerland-spiele.de](https://www.feuer
 
 © 2024 Feuerland Verlagsgesellschaft mbH. Alle Rechte vorbehalten.
 
-### Continuing to Learn and Play ( Lernen und Spielen im Wechsel)
+### Weiter auf dem Pfad des Lernen und Spielens
  
 Mit dem ersten Überblick aus dem Spielleitfaden solltest du in der Lage sein, das erste Szenario zu spielen. Danach kannst du hier in dem vollständigen Regelwerk noch einmal alles nachlesen. 
 
-(Außerdem) Es gibt ein paar Einzelheiten, die nicht in dem Spielleitfaden erklärt werden:
+Insbesondere gibt es ein paar Einzelheiten, die nicht in dem Spielleitfaden erklärt werden:
 
 - Gegenstände [p.26](#page_26), [35](#page_35)
 - Regenerieren [p.24](#page_24)
@@ -167,11 +167,11 @@ Viel Glück, Abenteurer!
 
 # Vor dem Spiel
 
-Oh nein! Du wurdest durch Magie geschrumpft! Um zu deiner vorherigen Größe zurückzukehren, musst du dich in dieser neuen Welt zurechtfinden und eine Reihe von Szenarien bestreiten, die dich durch diese Miniaturwelt führen (werden). Unterwegs findest du vielleicht ein paar Freunde, aber vor allem musst du verschiedene Gegner im Kampf besiegen. Zum Glück bist du (ja) ein fähiger/geschickter Söldner mit verschiedenen Fähigkeiten, die/welche durch (deine) Karten repräsentiert werden. Um die vielen verschiedenen Gefahren, die dich auf deiner Reise erwarten, zu bewältigen/überwinden, musst du die richtigen Karten zu der (zur) richtigen Zeit spielen.
+Oh nein! Du wurdest durch Magie geschrumpft! Um zu deiner vorherigen Größe zurückzukehren, musst du dich in dieser neuen Welt zurechtfinden und eine Reihe von Szenarien bestreiten, die dich durch diese Miniaturwelt führen. Unterwegs findest du vielleicht ein paar Freunde, aber vor allem musst du verschiedene Gegner im Kampf besiegen. Zum Glück bist du ja ein geschickter Söldner mit verschiedenen Fähigkeiten, welche durch deine Karten repräsentiert werden. Um die vielen verschiedenen Gefahren zu bewältigen, die dich auf deiner Reise erwarten, musst du die richtigen Karten zur richtigen Zeit spielen.
 
-Es gibt sechs Charakterklassen mit verschiedenen Fähigkeiten und Spielstilen zur Auswahl. Im Spielverlauf kannst du dann (noch) mit Gegenständen und fortgeschrittenen Fähigkeitskarten deinen Charakter anpassen. 
+Es gibt sechs Charakterklassen mit verschiedenen Fähigkeiten und Spielstilen zur Auswahl. Im weiteren Spielverlauf kannst du deinen Charakter dann mit Gegenständen und fortgeschrittenen Fähigkeitskarten anpassen. 
 
-Dieses Regelwerk versorgt dich mit allen Details, die du brauchst, um das Spiel zu spielen. Falls du schonmal einen anderen Gloomhaven Titel gespielt hast, werden dir viele Regeln bekannt vorkommen. Wir schlagen (dir) vor, einmal alles durchzulesen, um ein vollständiges Verständnis für das Spiel zu bekommen.<span class="new-to-bnb"> Alle in lila hervorgehobenen Regeln sind neu für Buttons & Bugs und unterscheiden sich von Gloomhaven und Frosthaven. .</span>
+Dieses Regelwerk versorgt dich mit allen Details, die du brauchst, um das Spiel zu spielen. Falls du schonmal einen anderen Gloomhaven Titel gespielt hast, werden dir viele Regeln bekannt vorkommen. Wir schlagen dir vor, einmal alles durchzulesen, um ein vollständiges Verständnis für das Spiel zu bekommen.<span class="new-to-bnb"> Alle in lila hervorgehobenen Regeln sind neu für Buttons & Bugs und unterscheiden sich von Gloomhaven und Frosthaven. .</span>
 
 ---
 
