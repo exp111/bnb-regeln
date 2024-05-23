@@ -17,6 +17,7 @@ Für mehr Informationen besuche einfach: [feuerland-spiele.de](https://www.feuer
 ### Continuing to Learn and Play
  
 Mit dem ersten Überblick aus dem Spielleitfaden solltest du in der Lage sein, das erste Szenario zu spielen. Danach kannst du hier in dem vollständigen Regelwerk noch einmal alles nachlesen. 
+
 Es gibt ein paar Einzelheiten, die nicht in dem Spielleitfaden erklärt werden:
 
 - Gegenstände [p.26](#page_26), [35](#page_35)
