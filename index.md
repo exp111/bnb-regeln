@@ -6,27 +6,26 @@
 
 ---
 
-This light weight rules resource for *Gloomhaven: Buttons & Bugs* is intended to be easy to access, search, and print. It is updated with any corrections and errata.
+Dieses Regelwerk für *Gloomhaven: Buttons & Bugs* soll einfach zugänglich, durchsuchbar und ausdruckbar sein. Es wird mit Korrekturen aktualisiert.
 
-Last updated 05/08/2024
+Zuletzt aktualisiert: 23.05.2024
 
-For more resources, visit [cephalofair.com/bnb](https://cephalofair.com/bnb)
+Für mehr Informationen besuche einfach: [feuerland-spiele.de](https://www.feuerland-spiele.de/)
 
 © 2024 Cephalofair Games, LLC. All Rights Reserved.
 
 ### Continuing to Learn and Play
+ 
+Mit dem Gelernten aus dem Spielleitfaden solltet ihr in der Lage sein, das erste Szenario zu spielen. Danach könnt ihr hier in den vollständigen Regeln noch einmal alles nachlesen. 
+Es gibt ein paar Einzelheiten, die nicht in dem Spielleitfaden erklärt werden:
 
-Using what you learned in the Learn to Play, you should be able to play the entirety of scenario 1. After finishing the scenario, you can review what you've learned here in the full rules.
+- Gegenstände [p.26](#page_26), [35](#page_35)
+- Regenerieren [p.24](#page_24)
+- Szenario Effekte [p.7](#page_7), [8](#page_8)
+- Gelände [p.9](#page_9)
+- Verbesserte Fähigkeiten [p.35](#page_35)
 
-There are a few concepts not covered by the Learn to Play that you will want to take special notice of:
-
-- Items [p.26](#page_26), [35](#page_35)
-- Recover [p.24](#page_24)
-- Scenario Effects [p.7](#page_7), [8](#page_8)
-- Terrain [p.9](#page_9)
-- Upgraded Abilities [p.35](#page_35)
-
-Good luck, adventurer!
+Viel Glück, Abenteurer!
 
 ---
 
@@ -34,7 +33,7 @@ Good luck, adventurer!
 
 ---
 
-# Table of Contents
+# Inhaltsverzeichnis
 
 <div class="three-columns">
 <table>
@@ -165,13 +164,13 @@ Good luck, adventurer!
 
 ---
 
-# Getting Started
+# Vor dem Spiel
 
-Oh no! You have been shrunk by magic! To return to your former size, you’ll need to navigate this strange new world by playing through a series of scenarios that will lead you through the miniature world you now find yourself in. You may find a few friends along the way, but you’ll mostly meet a variety of enemies you will need to defeat in combat. Luckily, you are a capable mercenary with abilities, which are represented by cards. You’ll need to play the right cards at the right times to overcome the many threats that await you on your journey.
+Oh nein! Du wurdest durch Magie geschrumpft! Um zu deiner vorherigen Größe zurückzukehren, musst du dich in dieser neuen Welt zurechtfinden und eine Reihe von Szenarien bestreiten, die dich durch diese Miniaturwelt führen werden. Unterwegs findest du vielleicht ein paar Freunde, aber vor allem wirst du verschiedene Gegner im Kampf besiegen müssen. Zum Glück bist du (ja) ein fähiger/geschickter Söldner mit verschiedenen Fähigkeiten, die durch (deine) Karten repräsentiert werden. Um die vielen verschiedenen Gefahren, die dich auf deiner Reise erwarten, zu bewältigen/überwinden, wirst du die richtigen Karten zu der (zur) richtigen Zeit spielen müssen.
 
-There are six character classes to choose from, each with their own unique abilities and play styles. You will also be able to customize your character as you progress through items and advanced ability cards.
+Es gibt sechs Charakterklassen mit verschiedenen Fähigkeiten und Spielstilen zur Auswahl. Im Spielverlauf kannst du dann (noch) mit Gegenständen und fortgeschrittenen Fähigkeitskarten deinen Charakter anpassen. 
 
-This document will provide you with details on how to play the game, but if you played another Gloomhaven game, many of these rules will be familiar. We suggest reading all the way through anyways to get a full understanding of how the game works. <span class="new-to-bnb">Rules text highlighted in lavender is information unique to the Buttons & Bugs system and is different from Gloomhaven and Frosthaven.</span>
+Dieses Regelwerk versorgt dich mit allen Details, die du brauchst, um das Spiel zu spielen. Falls du schonmal einen anderen Gloomhaven Titel gespielt hast, werden dir viele Regeln bekannt vorkommen. Wir schlagen (dir) vor, einmal alles durchzulesen, um ein vollständiges Verständnis für das Spiel zu bekommen.<span class="new-to-bnb"> Alle in lila hervorgehobenen Regeln sind neu für Buttons & Bugs und unterscheiden sich von Gloomhaven und Frosthaven. .</span>
 
 ---
 
