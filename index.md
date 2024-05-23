@@ -16,7 +16,7 @@ Für mehr Informationen besuche einfach: [feuerland-spiele.de](https://www.feuer
 
 ### Continuing to Learn and Play
  
-Mit dem Gelernten aus dem Spielleitfaden solltet ihr in der Lage sein, das erste Szenario zu spielen. Danach könnt ihr hier in den vollständigen Regeln noch einmal alles nachlesen. 
+Mit dem ersten Überblick aus dem Spielleitfaden solltest du in der Lage sein, das erste Szenario zu spielen. Danach kannst du hier in dem vollständigen Regelwerk noch einmal alles nachlesen. 
 Es gibt ein paar Einzelheiten, die nicht in dem Spielleitfaden erklärt werden:
 
 - Gegenstände [p.26](#page_26), [35](#page_35)
@@ -166,7 +166,7 @@ Viel Glück, Abenteurer!
 
 # Vor dem Spiel
 
-Oh nein! Du wurdest durch Magie geschrumpft! Um zu deiner vorherigen Größe zurückzukehren, musst du dich in dieser neuen Welt zurechtfinden und eine Reihe von Szenarien bestreiten, die dich durch diese Miniaturwelt führen werden. Unterwegs findest du vielleicht ein paar Freunde, aber vor allem wirst du verschiedene Gegner im Kampf besiegen müssen. Zum Glück bist du (ja) ein fähiger/geschickter Söldner mit verschiedenen Fähigkeiten, die durch (deine) Karten repräsentiert werden. Um die vielen verschiedenen Gefahren, die dich auf deiner Reise erwarten, zu bewältigen/überwinden, wirst du die richtigen Karten zu der (zur) richtigen Zeit spielen müssen.
+Oh nein! Du wurdest durch Magie geschrumpft! Um zu deiner vorherigen Größe zurückzukehren, musst du dich in dieser neuen Welt zurechtfinden und eine Reihe von Szenarien bestreiten, die dich durch diese Miniaturwelt führen (werden). Unterwegs findest du vielleicht ein paar Freunde, aber vor allem wirst du verschiedene Gegner im Kampf besiegen müssen. Zum Glück bist du (ja) ein fähiger/geschickter Söldner mit verschiedenen Fähigkeiten, die/welche durch (deine) Karten repräsentiert werden. Um die vielen verschiedenen Gefahren, die dich auf deiner Reise erwarten, zu bewältigen/überwinden, wirst du die richtigen Karten zu der (zur) richtigen Zeit spielen müssen.
 
 Es gibt sechs Charakterklassen mit verschiedenen Fähigkeiten und Spielstilen zur Auswahl. Im Spielverlauf kannst du dann (noch) mit Gegenständen und fortgeschrittenen Fähigkeitskarten deinen Charakter anpassen. 
 
