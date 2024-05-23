@@ -179,18 +179,18 @@ Dieses Regelwerk versorgt dich mit allen Details, die du brauchst, um das Spiel 
 
 ---
 
-## Choose a Character
+## Charakterauswahl
 
-Creating a character and starting your journey in Buttons & Bugs is a simple process: you just choose a character class and start playing.
+Die Auswahl eines Charakters und der Anfang deiner Reise in Buttons & Bugs ist einfach: Du wählst einen Charakter aus und fängst an zu spielen.
 
-You will need to gather the following components for your chosen character to play:
+Für deinen ausgewählten Charakter sammelst du folgende Materialien:
 
-- **Character Card:** This card provides a visual representation of your character, along with your hit point values at different levels and a place to put condition tokens. On the back, you can find a short description of the character and a list of your ability cards and upgrades.
-- **Character Mini:** This is a small plastic piece to represent your character.
-- **Ability Cards:** There are four double-sided level 1 cards and four double-sided level 2 cards. The appropriate cards are listed on your character card.
-- **Attack Modifier Tray (with white cube):** This is used to track your attack modifier table. At level 1, you will use the default table printed on the tray.
-- **Advanced Attack Modifier Cards:** Two double-sided cards to upgrade your attack modifier table at later levels.
-- **Character Hit Point Dial:** This is to track your hit points during a scenario.
+- **Charakterkarte:** This card provides a visual representation of your character, along with your hit point values at different levels and a place to put condition tokens. On the back, you can find a short description of the character and a list of your ability cards and upgrades.
+- **Spielfigur:** This is a small plastic piece to represent your character.
+- **Fertigkeitskarten:** There are four double-sided level 1 cards and four double-sided level 2 cards. The appropriate cards are listed on your character card.
+- **Angriffsmodifikator-Ablage:** This is used to track your attack modifier table. At level 1, you will use the default table printed on the tray.
+- **Fortgeschritte Angriffsmodifiktor-Karten:** Two double-sided cards to upgrade your attack modifier table at later levels.
+- **braune Zählscheibe:** This is to track your hit points during a scenario.
 
 ---
 
