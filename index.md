@@ -34,7 +34,7 @@ Viel Glück, Abenteurer!
 
 ---
 
-## Inhaltsverzeichnis
+# Inhaltsverzeichnis
 
 <div class="three-columns">
 <table>
