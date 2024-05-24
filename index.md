@@ -14,7 +14,7 @@ Für mehr Informationen besuche einfach: [feuerland-spiele.de](https://www.feuer
 
 © 2024 Feuerland Verlagsgesellschaft mbH. Alle Rechte vorbehalten.
 
-### Weiter auf dem Pfad des Lernen und Spielens
+## Weiter auf dem Pfad des Lernen und Spielens
  
 Mit dem ersten Überblick aus dem Spielleitfaden solltest du in der Lage sein, das erste Szenario zu spielen. Danach kannst du hier in dem vollständigen Regelwerk noch einmal alles nachlesen. 
 
@@ -34,7 +34,7 @@ Viel Glück, Abenteurer!
 
 ---
 
-# Inhaltsverzeichnis
+## Inhaltsverzeichnis
 
 <div class="three-columns">
 <table>
@@ -165,7 +165,7 @@ Viel Glück, Abenteurer!
 
 ---
 
-# Vor dem Spiel
+## Vor dem Spiel
 
 Oh nein! Du wurdest durch Magie geschrumpft! Um zu deiner vorherigen Größe zurückzukehren, musst du dich in dieser neuen Welt zurechtfinden und eine Reihe von Szenarien bestreiten, die dich durch diese Miniaturwelt führen. Unterwegs findest du vielleicht ein paar Freunde, aber vor allem musst du verschiedene Gegner im Kampf besiegen. Zum Glück bist du ja ein geschickter Söldner mit verschiedenen Fähigkeiten, welche durch deine Karten repräsentiert werden. Um die vielen verschiedenen Gefahren zu bewältigen, die dich auf deiner Reise erwarten, musst du die richtigen Karten zur richtigen Zeit spielen.
 
@@ -212,7 +212,7 @@ Ein großer Teil des Regelwerks behandelt das Spielen eines einzelnen Szenarios.
 
 ---
 
-# Szenariophase
+## Szenariophase
 
 Szenarien sind eigenständige Missionen und so gestaltet, dass sie in einer Sitzung durchgespielt werden können. Das Szenariendeck enthält zwar 20 Szenarien, aber in einer einzelnen Kampagne werden nicht alle durchgespielt. Im Gegensatz zu anderen Gloomhaven-Spielen ist die Geschichte von Buttons & Bugs größtenteils linear.
 
@@ -228,7 +228,7 @@ Jede Szenariophase besteht aus drei verschiedenen Schritten:
 
 ---
 
-> # Beginning a Scenario
+> ## Beginning a Scenario
 > 
 > Each time you play a scenario, you will prepare the scenario by performing the following steps in order:
 >
