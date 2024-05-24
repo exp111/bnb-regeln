@@ -218,9 +218,9 @@ Szenarien sind eigenständige Missionen und so gestaltet, dass sie in einer Sitz
 
 Jede Szenariophase besteht aus drei verschiedenen Schritten:
 
-- **Beginnen eines Szenarios:** In diesem Schritt bereitest du alles vor, was du für das Spielen des Szenarios benötigst. Dazu gehört der ausgewählte Charakter, die zu bekämpfenden Monster und die Kartenanordnung, auf der der Kampf stattfindet.
-- **Spielen eines Szenarios:** Ein Szenario wird über mehrere Runden gespielt. In jeder Runde sind alle Figuren auf der Karte, sowohl dein Charakter als auch die Monster, an der Reihe. So spielst du Runde für Runde, bis das Szenario verloren oder bestanden ist.
-- **Beenden eines Szenarios:** In diesem Schritt löst du die Auswirkungen des Scheiterns oder Bestehens des Szenarios auf.
+- **Beginnen eines Szenarios:** In diesem Schritt bereitest du alles vor, was du für das Spielen eines Szenarios benötigst. Dazu gehört der ausgewählte Charakter, die zu bekämpfenden Monster und die Kartenanordnung, auf der der Kampf stattfindet.
+- **Spielen eines Szenarios:** Ein Szenario wird über mehrere Runden gespielt. In jeder Runde sind alle Figuren auf der Karte, sowohl dein Charakter als auch die Monster, an der Reihe. So spielst du Runde für Runde, bis ein Szenario verloren oder bestanden ist.
+- **Beenden eines Szenarios:** In diesem Schritt handelst du die Auswirkungen des Scheiterns oder Bestehens eines Szenarios ab.
 
 ---
 
