@@ -14,7 +14,7 @@ Für mehr Informationen besuche einfach: [feuerland-spiele.de](https://www.feuer
 
 © 2024 Feuerland Verlagsgesellschaft mbH. Alle Rechte vorbehalten.
 
-## Weiter auf dem Pfad des Lernen und Spielens
+### Weiter auf dem Pfad des Lernen und Spielens
  
 Mit dem ersten Überblick aus dem Spielleitfaden solltest du in der Lage sein, das erste Szenario zu spielen. Danach kannst du hier in dem vollständigen Regelwerk noch einmal alles nachlesen. 
 
