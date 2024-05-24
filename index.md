@@ -198,13 +198,13 @@ Für deinen ausgewählten Charakter sammelst du folgende Materialien:
 
 ---
 
-## Learning the Rules
+## Die Regeln lernen
 
-Now that you’ve chosen a character, it is time to learn the rules. If you would prefer to watch a video instead, you can find that here:
+Da du nun einen Charakter ausgewählt hast, ist es an der Zeit, die Regeln zu lernen. Wenn du dir lieber ein Video dazu angucken möchtest, findest du es hier:
 
-[cephalofair.com/bnb](https://cephalofair.com/bnb)
+[feuerland-spiele.de](https://www.feuerland-spiele.de/)
 
-Most of the rules of this game focus on how you play through a scenario. Since this is intended to be a campaign game, where you play through a series of scenarios in order, there will be some explanation of how to do that after the basic rules.
+Ein großer Teil des Regelwerks behandelt das Spielen eines einzelnen Szenarios. Da es sich bei Buttons & Bugs aber um ein Kampagnen-Spiel handelt, bei dem du viele Szenarien in einer festgelegten Reihenfolge spielst, gibt es dazu noch einige Informationen nach den grundlegenden Regeln. 
 
 ---
 
