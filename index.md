@@ -212,15 +212,15 @@ Ein großer Teil des Regelwerks behandelt das Spielen eines einzelnen Szenarios.
 
 ---
 
-# Scenario Phase
+# Szenariophase
 
-Scenarios are self-contained missions designed to be played in a single sitting. The scenario deck contains 20 scenarios, but you will not play through them all in a single campaign. Unlike other Gloomhaven games, the story of Buttons & Bugs is mostly linear.
+Szenarien sind eigenständige Missionen und so gestaltet, dass sie in einer Sitzung durchgespielt werden können. Das Szenariendeck enthält zwar 20 Szenarien, aber in einer einzelnen Kampagne werden nicht alle gespielt. Im Gegensatz zu anderen Gloomhaven-Spielen ist die Geschichte von Buttons & Bugs größtenteils linear.
 
-Each Scenario Phase consists of three distinct steps:
+Jede Szenariophase besteht aus drei verschiedenen Schritten:
 
-- **Beginning a Scenario:** In this step, you will prepare everything needed for the scenario, including your own character, the monsters you will fight against, and the map layout where the fight will occur.
-- **Playing a Scenario:** The scenario is played over a series of rounds. During each round, all figures on the map, both your character and the monsters, will take a turn. You will play through round after round until the scenario is lost or completed.
-- **Ending a Scenario:** In this step, you will resolve the effects of losing or completing the scenario.
+- **Beginnen eines Szenarios:** In diesem Schritt bereitest du alles vor, was du für das Spielen des Szenarios benötigst. Dazu gehört der ausgewählte Charakter, die zu bekämpfenden Monster und die Kartenanordnung, auf der der Kampf stattfindet.
+- **Spielen eines Szenarios:** Ein Szenario wird über mehrere Runden gespielt. In jeder Runde sind alle Figuren auf der Karte, sowohl dein Charakter als auch die Monster, an der Reihe. So spielst du Runde für Runde, bis das Szenario verloren oder bestanden ist.
+- **Beenden eines Szenarios:** In diesem Schritt löst du die Auswirkungen des Scheiterns oder Bestehens des Szenarios auf.
 
 ---
 
