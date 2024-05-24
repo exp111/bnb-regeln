@@ -185,12 +185,12 @@ Die Auswahl eines Charakters und der Anfang deiner Reise in Buttons & Bugs ist e
 
 Für deinen ausgewählten Charakter sammelst du folgende Materialien:
 
-- **Charakterkarte:** This card provides a visual representation of your character, along with your hit point values at different levels and a place to put condition tokens. On the back, you can find a short description of the character and a list of your ability cards and upgrades.
-- **Spielfigur:** This is a small plastic piece to represent your character.
-- **Fertigkeitskarten:** There are four double-sided level 1 cards and four double-sided level 2 cards. The appropriate cards are listed on your character card.
-- **Angriffsmodifikator-Ablage:** This is used to track your attack modifier table. At level 1, you will use the default table printed on the tray.
-- **Fortgeschritte Angriffsmodifiktor-Karten:** Two double-sided cards to upgrade your attack modifier table at later levels.
-- **braune Zählscheibe:** This is to track your hit points during a scenario.
+- **Charakterkarte:** Diese Karte bietet eine visuelle Darstellung deines Charakters, zusammen mit deinen maximalen Trefferpunkten auf den verschiedenen Stufen und einem Platz zum Ablegen der Zustandsmarker. Auf der Rückseite befindet sich eine kurze Beschreibung deines Charakters und eine Liste der Fähigkeitskarten und deren Verbesserungen.
+- **Spielfigur:** Die Spielfigur aus Platik repräsentiert deinen Charakter.
+- **Fertigkeitskarten:** Es gibt vier doppelseitige Stufe 1 Karten und vier doppelseitige Stufe 2 Karten. Die entsprechenden Fertigkeitskarten sind auf der Rückseite deiner Charakterkarte aufgelistet.
+- **Angriffsmodifikator-Ablage:** Diese Ablage zeigt deinen entsprechenden Angriffsmodifikator. Auf Stufe 1 verwendest du die aufgedruckte Tabelle.
+- **Fortgeschritte Angriffsmodifiktor-Karten:** Zwei doppelseitige Karten die im späterem Spielverlauf deine Angriffsmodifikator-Ablage verbessern.
+- **braune Zählscheibe:** Sie hält deine Trefferpunkte während eines Szenarios fest.
 
 ---
 
