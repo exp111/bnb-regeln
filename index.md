@@ -181,15 +181,15 @@ Dieses Regelwerk versorgt dich mit allen Details, die du brauchst, um das Spiel 
 
 ## Charakterauswahl
 
-Die Auswahl eines Charakters und der Anfang deiner Reise in Buttons & Bugs ist einfach: Du wählst einen Charakter aus und fängst an zu spielen.
+Die Auswahl eines Charakters und der Anfang deiner Reise in Buttons & Bugs sind einfach: Du wählst einen Charakter aus und fängst an zu spielen.
 
 Für deinen ausgewählten Charakter sammelst du folgende Materialien:
 
 - **Charakterkarte:** Diese Karte bietet eine visuelle Darstellung deines Charakters, zusammen mit deinen maximalen Trefferpunkten auf den verschiedenen Stufen und einem Platz zum Ablegen der Zustandsmarker. Auf der Rückseite befindet sich eine kurze Beschreibung deines Charakters und eine Liste der Fähigkeitskarten und deren Verbesserungen.
-- **Spielfigur:** Die Spielfigur aus Platik repräsentiert deinen Charakter.
+- **Spielfigur:** Die Spielfigur aus Plastik repräsentiert deinen Charakter.
 - **Fertigkeitskarten:** Es gibt vier doppelseitige Stufe 1 Karten und vier doppelseitige Stufe 2 Karten. Die entsprechenden Fertigkeitskarten sind auf der Rückseite deiner Charakterkarte aufgelistet.
 - **Angriffsmodifikator-Ablage:** Diese Ablage zeigt deinen entsprechenden Angriffsmodifikator. Auf Stufe 1 verwendest du die aufgedruckte Tabelle.
-- **Fortgeschritte Angriffsmodifiktor-Karten:** Zwei doppelseitige Karten die im späterem Spielverlauf deine Angriffsmodifikator-Ablage verbessern.
+- **Fortgeschrittene Angriffsmodifikator-Karten:** Zwei doppelseitige Karten, die im späteren Spielverlauf deine Angriffsmodifikator-Ablage verbessern.
 - **braune Zählscheibe:** Sie hält deine Trefferpunkte während eines Szenarios fest.
 
 ---
