@@ -214,7 +214,7 @@ Ein großer Teil des Regelwerks behandelt das Spielen eines einzelnen Szenarios.
 
 # Szenariophase
 
-Szenarien sind eigenständige Missionen und so gestaltet, dass sie in einer Sitzung durchgespielt werden können. Das Szenariendeck enthält zwar 20 Szenarien, aber in einer einzelnen Kampagne werden nicht alle gespielt. Im Gegensatz zu anderen Gloomhaven-Spielen ist die Geschichte von Buttons & Bugs größtenteils linear.
+Szenarien sind eigenständige Missionen und so gestaltet, dass sie in einer Sitzung durchgespielt werden können. Das Szenariendeck enthält zwar 20 Szenarien, aber in einer einzelnen Kampagne werden nicht alle durchgespielt. Im Gegensatz zu anderen Gloomhaven-Spielen ist die Geschichte von Buttons & Bugs größtenteils linear.
 
 Jede Szenariophase besteht aus drei verschiedenen Schritten:
 
