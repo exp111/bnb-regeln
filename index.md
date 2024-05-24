@@ -251,7 +251,7 @@ Jede Szenariophase besteht aus drei verschiedenen Schritten:
 
 ---
 
-> ## Scenario Cards
+> ### Scenario Cards
 > 
 > Each card contains a scenario entry with everything you need to know to play through it. Most scenario entries contain the following information:
 
