@@ -236,7 +236,7 @@ Jede Szenariophase besteht aus drei verschiedenen Schritten:
 > 1. Lies die Szenarioeinleitung, die Sonderregeln und das Ziel im Szenarioeintrag und überprüfe die Szenariostufe.
 > 1. Lege die Monsterkarte für jeden Monstertypen in diesem Szenario bereit.
 > 1. Handle alle Szenarioeffekte ab oder schreibe dir eine Notiz, falls diese erst im späteren Spielverlauf abgehandelt werden. Drehe die Szenariokarte auf den Szenarioraum um.
-> 1. Lege die Monsterkarten in ihre Ablage und platziere auf jedes einen weißen Würfel. Lege außerdem die Monster-Trefferpunkte-Räder in der Farbe bereit, in der die Trefferpunkte auf dem Szenarioraum markiert sind.
+> 1. Lege die Monsterkarten in ihre Ablage und platziere auf jede einen weißen Würfel. Lege außerdem die Monster-Trefferpunkte-Räder in der Farbe bereit, in der die Trefferpunkte auf dem Szenarioraum markiert sind.
 > 1. Die bunten Würfel stellen die Monster dar. Platziere sie in der Farbe, in der sie auf der Szenariokarte angezeigt werden. Platziere außerdem deine Charakterfigur auf dem vorgesehenen Startfeld. 
 > 1. Retrieve both attack modifier trays. If the scenario is level 2 or higher, retrieve the appropriate level modifier card for your character and place it in the character modifier tray. You may select a monster difficulty other than “standard” by placing the chosen difficulty monster modifier card in the monster modifier tray.
 > 1. Keep all condition tokens, the die, and the icon reference card nearby.
