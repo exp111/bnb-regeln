@@ -214,7 +214,7 @@ Ein großer Teil des Regelwerks behandelt das Spielen eines einzelnen Szenarios.
 
 ## Szenariophase
 
-Szenarien sind eigenständige Missionen und so gestaltet, dass sie in einer Sitzung durchgespielt werden können. Das Szenariendeck enthält zwar 20 Szenarien, aber in einer einzelnen Kampagne werden nicht alle durchgespielt. Im Gegensatz zu anderen Gloomhaven-Spielen ist die Geschichte von Buttons & Bugs größtenteils linear.
+Szenarien sind eigenständige Missionen und so gestaltet, dass sie in einer Sitzung durchgespielt werden können. Das Szenariendeck enthält zwar 20 Szenarien, aber in einer einzelnen Kampagne werden nicht alle gespielt. Im Gegensatz zu anderen Gloomhaven-Spielen ist die Geschichte von Buttons & Bugs größtenteils linear.
 
 Jede Szenariophase besteht aus drei verschiedenen Schritten:
 
@@ -228,16 +228,16 @@ Jede Szenariophase besteht aus drei verschiedenen Schritten:
 
 ---
 
-> ## Beginning a Scenario
+> ## Beginnen eines Szenarios
 > 
-> Each time you play a scenario, you will prepare the scenario by performing the following steps in order:
+> Jedes Mal, wenn du ein Szenario startest, bereitest du es vor, indem du die folgenden Schritte in ihrer Reihenfolge ausführst:
 >
-> 1. Select a scenario to play and find the corresponding scenario card. **Note:** You can play any scenario, but for the best story experience, we suggest that you follow the conclusion text of each scenario.
-> 1. Read the scenario introduction, special rules, and goal in the scenario entry and check the scenario level.
-> 1. Retrieve the monster card for each monster type present in the scenario.
-> 1. Resolve any scenario effects or note them to be resolved later in setup. Flip the scenario card to its map side.
-> 1. Place each monster card in its own monster tray. For each tray, place one white cube on the tray’s “o” slot. Retrieve the monster hit point dial colored to correspond to each monster on the scenario map. 
-> 1. Place uniquely colored cubes on the map to represent each monster in the scenario, matching the color shown on the scenario map. Place your character mini on the indicated starting space.
+> 1. Wähle ein Szenario aus und finde die entsprechende Szenariokarte. **Hinweis:** Du kannst jedes beliebige Szenario spielen, aber für das beste Spielerlebnis empfehlen wir, dem Abschlusstext der vorherigen Szenariokarte zu folgen.
+> 1. Lies die Szenarioeinleitung, die Sonderregeln und das Ziel im Szenarioeintrag und überprüfe die Szenariostufe.
+> 1. Lege die Monsterkarte für jeden Monstertypen in diesem Szenario bereit.
+> 1. Handle alle Szenarioeffekte ab oder schreibe dir eine Notiz, falls diese erst im späteren Spielverlauf abgehandelt werden. Drehe die Szenariokarte auf den Szenarioraum um.
+> 1. Lege die Monsterkarten in ihre Ablage und platziere auf jedes einen weißen Würfel. Lege außerdem die Monster-Trefferpunkte-Räder in der Farbe bereit, in der die Trefferpunkte auf dem Szenarioraum markiert sind.
+> 1. Die bunten Würfel stellen die Monster dar. Platziere sie in der Farbe, in der sie auf der Szenariokarte angezeigt werden. Platziere außerdem deine Charakterfigur auf dem vorgesehenen Startfeld. 
 > 1. Retrieve both attack modifier trays. If the scenario is level 2 or higher, retrieve the appropriate level modifier card for your character and place it in the character modifier tray. You may select a monster difficulty other than “standard” by placing the chosen difficulty monster modifier card in the monster modifier tray.
 > 1. Keep all condition tokens, the die, and the icon reference card nearby.
 > 1. Decide which items to equip from the pool of available items (see [p.26](#page_26)).
