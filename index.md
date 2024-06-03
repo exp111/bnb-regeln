@@ -260,10 +260,10 @@ Jede Szenariophase besteht aus drei verschiedenen Schritten:
 <blockquote>
   <ol type="A">
     <li>Nummer, Name und Stufe des Szenarios.</li>
-    <li>Evenuell ein vorgegebener Charakter.</li>
+    <li>Eventuell ein vorgegebener Charakter.</li>
     <li>Eine Einführung in das Szenario.</li>
     <li>Eine Liste der anzutreffenden Monster.</li>
-    <li>Das Ziel des Szenarios. Wenn dieses erreicht ist, ist das Szenario bestanden, und du liest dir den Abschluss des Szenarios nach deiner aktuellen Runde durch.</li>
+    <li>Das Ziel des Szenarios. Sobald du dieses erreicht hast, ist das Szenario bestanden, und du liest dir den Abschluss des Szenarios nach deiner aktuellen Runde durch.</li>
     <li>Eventuelle Sonderregeln für dieses Szenario.</li>
     <li>Der Abschluss des Szenarios.</li>
     <li>Das nächste oder die nächsten Szenarios, die in der Kampagne gespielt werden.</li>
