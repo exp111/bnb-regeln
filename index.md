@@ -251,35 +251,35 @@ Jede Szenariophase besteht aus drei verschiedenen Schritten:
 
 ---
 
-> ### Scenario Cards
+> ### Szenariokarten
 > 
-> Each card contains a scenario entry with everything you need to know to play through it. Most scenario entries contain the following information:
+> Jede Karte enthält einen Szenarioeintrag mit allem, was du zum Spielen diesen Szenarios wissen musst. Meistens sind folgende Informationen vorhanden:
 
 ![component breakdown for scenario card entry side](/assets/diagrams/component_diagram_scenarioentry.png)
 
 <blockquote>
   <ol type="A">
-    <li>The scenario’s number, name, and level.</li>
-    <li>The character required to play the scenario, if any.</li>
-    <li>The narrative introduction to the scenario.</li>
-    <li>The list of monsters that appear in the scenario.</li>
-    <li>The goal of the scenario. When this is achieved, the scenario is completed, and the scenario conclusion should be read at the end of the current round.</li>
-    <li>Any special rules for the scenario.</li>
-    <li>The narrative conclusion to the scenario.</li>
-    <li>The scenario or scenarios to be played next in the campaign.</li>
+    <li>Nummer, Name und Stufe des Szenarios.</li>
+    <li>Evenuell ein vorgegebener Charakter.</li>
+    <li>Eine Einführung in das Szenario.</li>
+    <li>Eine Liste der anzutreffenden Monster.</li>
+    <li>Das Ziel des Szenarios. Wenn dieses erreicht ist, ist das Szenario bestanden, und du liest dir den Abschluss des Szenarios nach deiner aktuellen Runde durch.</li>
+    <li>Eventuelle Sonderregeln für dieses Szenario.</li>
+    <li>Der Abschluss des Szenarios.</li>
+    <li>Das nächste oder die nächsten Szenarios, die in der Kampagne gespielt werden.</li>
   </ol>
 </blockquote>
 
-> The map side of each scenario card also displays the map details for the scenario. This includes the following information:
+> Auf der Raumseite jeder Szenariokarte werden alle Raumdetails gezeigt. Dazu gehören folgende Informationen:
 
 ![component breakdown for scenario card map side](/assets/diagrams/component_diagram_scenariomap.png)
 
 <blockquote>
   <ol type="A">
-    <li><strong>Starting Hex:</strong> You place your miniature in this hex at the start of the scenario.</li>
-    <li><strong>Terrain:</strong> These are hexes indicating additional map features (see <a href="#page_9">p.9</a>).</li>
-    <li><strong>Monster Placements:</strong> These hexes show monster placements. Place each monster cube in the hex showing the corresponding cube color.</li>
-    <li><strong>Notable Hexes:</strong> These hexes, marked by letters, are explained in the special rules of the scenario.</li>
+    <li><strong>Startfeld:</strong> Am Anfang des Szenarios stellst du deine Figur auf dieses Feld.</li>
+    <li><strong>Gelände:</strong> Auf diesen Feldern gelten besondere Raumeigenschaften (see <a href="#page_9">p.9</a>).</li>
+    <li><strong>Monsterfelder:</strong> Auf diesen Feldern ist ein Monster abgebildet. Platziere den jeweilgen Monsterwürfel auf das Feld mit der entsprechenden Farbe.</li>
+    <li><strong>Besondere Felder:</strong> Diese Felder sind mit einem Buchstaben markiert und werden in den Sonderregeln des Szenarios erläutert.</li>
   </ol>
 </blockquote>
 
