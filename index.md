@@ -238,12 +238,12 @@ Jede Szenariophase besteht aus drei verschiedenen Schritten:
 > 1. Handle alle Szenarioeffekte ab oder schreibe dir eine Notiz, falls diese erst im späteren Spielverlauf abgehandelt werden. Drehe die Szenariokarte auf den Szenarioraum um.
 > 1. Lege die Monsterkarten in ihre Ablage und platziere auf jede einen weißen Würfel. Lege außerdem die Monster-Trefferpunkte-Räder in der Farbe bereit, in der die Trefferpunkte auf dem Szenarioraum markiert sind.
 > 1. Die bunten Würfel stellen die Monster dar. Platziere sie in der Farbe, in der sie auf der Szenariokarte angezeigt werden. Platziere außerdem deine Charakterfigur auf dem vorgesehenen Startfeld. 
-> 1. Retrieve both attack modifier trays. If the scenario is level 2 or higher, retrieve the appropriate level modifier card for your character and place it in the character modifier tray. You may select a monster difficulty other than “standard” by placing the chosen difficulty monster modifier card in the monster modifier tray.
-> 1. Keep all condition tokens, the die, and the icon reference card nearby.
-> 1. Decide which items to equip from the pool of available items (see [p.26](#page_26)).
-> 1. Retrieve your character’s level 1 ability cards and select a number of cards to upgrade equal to the scenario level minus one. Replace the selected level 1 ability cards with the corresponding level 2 ability cards (listed on the back of your character card). Your selected cards will start in your hand.
-> 1. Set the character hit point dial to your character’s maximum hit point value, which is shown below the scenario level in the chart at the bottom of your character card. Set each monster’s corresponding colored hit point dial to their respective maximum hit points.
-> 1. Apply any remaining scenario effects.
+> 1. Lege beide Angriffsmodifikator-Ablagen bereit. Falls das Szenario Stufe 2 oder höher ist, nimm dir die entsprechende Level-Modifikatorkarte für deinen Charakter und lege sie in die Charaktermodifikator-Ablage. Du kannst einen anderen Monster-Schwierigkeitsgrad als “Standart” auswählen, indem du die gewählte Monster-Modifikatorkarte für den entsprechenden Schwierigkeitsgrad in die Monstermodifikator-Ablage legst.
+> 1. Halte alle Zustandsmarker, den Würfel und die Symbol-Referenzkarte griffbereit.
+> 1. Entscheide, welche Gegenstände du von den verfügbaren Gegenständen ausrüsten willst. (see [p.26](#page_26)).
+> 1. Nehme dir die Fertigkeitskarten der Stufe 1 für deinen Charakter und wähle eine Anzahl an Karten aus, die du verbessern möchtest. Die Anzahl entspricht der Szenariostufe minus eins. Ersetze dann die ausgewählten Fertigkeitskarten der Stufe 1 durch die entsprechenden Fertigkeitskarten der Stufe 2 (abgebildet auf der Rückseite deiner Charakterkarte). Die ausgewählten Karten nimmst du direkt auf deine Hand. 
+> 1. Stelle das Trefferpunkte-Rad deines Charakters auf deinen maximalen Trefferwert. Diesen findest du auf deiner Charakterkarte in der Tabelle unter der Szenariostufe. Stelle nun die entsprechenden Monster-Trefferpunkte-Räder für die jeweiligen Monster auf ihren maximalen Trefferwert.
+> 1. Wende alle verbleibenden Szenarioeffekte an. 
 
 ---
 
