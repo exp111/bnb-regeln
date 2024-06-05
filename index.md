@@ -6,7 +6,7 @@
 
 ---
 
-Dieses Regelwerk für *Gloomhaven: Buttons & Bugs* soll einfach zugänglich, durchsuchbar und ausdruckbar sein. Es wird mit Korrekturen aktualisiert.
+Dieses Regelwerk für *Gloomhaven: Knöpfe & Krabbler* soll einfach zugänglich, durchsuchbar und ausdruckbar sein. Es wird mit Korrekturen aktualisiert.
 
 Zuletzt aktualisiert: 23.05.2024
 
@@ -171,7 +171,7 @@ Oh nein! Du wurdest durch Magie geschrumpft! Um zu deiner vorherigen Größe zur
 
 Es gibt sechs Charakterklassen mit verschiedenen Fähigkeiten und Spielstilen zur Auswahl. Im weiteren Spielverlauf kannst du deinen Charakter dann mit Gegenständen und fortgeschrittenen Fähigkeitskarten anpassen. 
 
-Dieses Regelwerk versorgt dich mit allen Details, die du brauchst, um das Spiel zu spielen. Falls du schon einmal einen anderen Gloomhaven Titel gespielt hast, werden dir viele Regeln bekannt vorkommen. Wir schlagen dir vor, einmal alles durchzulesen, um ein vollständiges Verständnis für das Spiel zu bekommen.<span class="new-to-bnb"> Alle in lila hervorgehobenen Regeln sind neu für Buttons & Bugs und unterscheiden sich von Gloomhaven und Frosthaven.</span>
+Dieses Regelwerk versorgt dich mit allen Details, die du brauchst, um das Spiel zu spielen. Falls du schon einmal einen anderen Gloomhaven Titel gespielt hast, werden dir viele Regeln bekannt vorkommen. Wir schlagen dir vor, einmal alles durchzulesen, um ein vollständiges Verständnis für das Spiel zu bekommen.<span class="new-to-bnb"> Alle in lila hervorgehobenen Regeln sind neu für Knöpfe & Krabbler und unterscheiden sich von Gloomhaven und Frosthaven.</span>
 
 ---
 
@@ -181,7 +181,7 @@ Dieses Regelwerk versorgt dich mit allen Details, die du brauchst, um das Spiel 
 
 ## Charakterauswahl
 
-Die Auswahl eines Charakters und der Anfang deiner Reise in Buttons & Bugs sind einfach: Du wählst einen Charakter aus und fängst an zu spielen.
+Die Auswahl eines Charakters und der Anfang deiner Reise in Knöpfe & Krabbler sind einfach: Du wählst einen Charakter aus und fängst an zu spielen.
 
 Für deinen ausgewählten Charakter sammelst du folgende Materialien:
 
@@ -204,7 +204,7 @@ Da du nun einen Charakter ausgewählt hast, ist es an der Zeit, die Regeln zu le
 
 [feuerland-spiele.de](https://www.feuerland-spiele.de/)
 
-Ein großer Teil des Regelwerks behandelt das Spielen eines einzelnen Szenarios. Da es sich bei Buttons & Bugs aber um ein Kampagnen-Spiel handelt, bei dem du viele Szenarien in einer festgelegten Reihenfolge spielst, gibt es dazu noch einige Informationen nach den grundlegenden Regeln. 
+Ein großer Teil des Regelwerks behandelt das Spielen eines einzelnen Szenarios. Da es sich bei Knöpfe & Krabbler aber um ein Kampagnen-Spiel handelt, bei dem du viele Szenarien in einer festgelegten Reihenfolge spielst, gibt es dazu noch einige Informationen nach den grundlegenden Regeln. 
 
 ---
 
@@ -214,7 +214,7 @@ Ein großer Teil des Regelwerks behandelt das Spielen eines einzelnen Szenarios.
 
 ## Szenariophase
 
-Szenarien sind eigenständige Missionen und so gestaltet, dass sie in einer Sitzung durchgespielt werden können. Das Szenariendeck enthält zwar 20 Szenarien, aber in einer einzelnen Kampagne werden nicht alle gespielt. Im Gegensatz zu anderen Gloomhaven-Spielen ist die Geschichte von Buttons & Bugs größtenteils linear.
+Szenarien sind eigenständige Missionen und so gestaltet, dass sie in einer Sitzung durchgespielt werden können. Das Szenariendeck enthält zwar 20 Szenarien, aber in einer einzelnen Kampagne werden nicht alle gespielt. Im Gegensatz zu anderen Gloomhaven-Spielen ist die Geschichte von Knöpfe & Krabbler größtenteils linear.
 
 Jede Szenariophase besteht aus drei verschiedenen Schritten:
 
