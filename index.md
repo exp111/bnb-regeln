@@ -265,7 +265,7 @@ Jede Szenariophase besteht aus drei verschiedenen Schritten:
     <li>Eine Liste der anzutreffenden Monster.</li>
     <li>Das Ziel des Szenarios. Sobald du dieses erreicht hast, ist das Szenario bestanden, und du liest dir den Abschluss des Szenarios nach deiner aktuellen Runde durch.</li>
     <li>Eventuelle Sonderregeln für dieses Szenario.</li>
-    <li>Der Abschluss des Szenarios.</li>
+    <li>Dieser Abschluss des Szenarios.</li>
     <li>Das nächste oder die nächsten Szenarios, die in der Kampagne gespielt werden.</li>
   </ol>
 </blockquote>
@@ -291,7 +291,7 @@ Jede Szenariophase besteht aus drei verschiedenen Schritten:
 
 ### Gelände
 
-Jedes Szenario enthält verschiedene Geländetypen. Der Typ wird durch die Farbe des Feldrandes festgelegt und nicht durch die Illustration. Ein Feld ohne einen farbigen Rand ist  <strong>merkmallos</strong>. Ein Feld ohne eine Figur ist <strong>unbesetzt</strong>. Ein Feld das sowohl merkmallos als auch unbesetzt ist, ist <strong>leer</strong>. 
+Jedes Szenario besteht aus verschiedenen Geländetypen. Dieser Typ wird durch die Farbe des Feldrandes festgelegt und nicht durch die Illustration. Ein Feld ohne einen farbigen Rand ist  <strong>merkmallos</strong>. Ein Feld, auf dem keine Figur steht, ist <strong>unbesetzt</strong>. Ein Feld das sowohl merkmallos als auch unbesetzt ist, ist <strong>leer</strong>. 
 
 #### Obstacles
 
