@@ -293,11 +293,11 @@ Jede Szenariophase besteht aus drei verschiedenen Schritten:
 
 Jedes Szenario besteht aus verschiedenen Geländetypen. Dieser Typ wird durch die Farbe des Feldrandes festgelegt und nicht durch die Illustration. Ein Feld ohne einen farbigen Rand ist  <strong>merkmallos</strong>. Ein Feld, auf dem keine Figur steht, ist <strong>unbesetzt</strong>. Ein Feld das sowohl merkmallos als auch unbesetzt ist, ist <strong>leer</strong>. 
 
-#### Obstacles
+#### Hindernisse
 
 <div class="float-container">
   <span class="floating-image"><img src="assets/icons/terrain_obstacle.png" height="48"/></span>
-  <p>Figures cannot enter a hex with an obstacle, except when flying or jumping (unless the jump movement would end there). Range can be counted through obstacles, and obstacles do not block ranged attacks.</p>
+  <p>Figuren können nicht ein Feld mit einem Hinderniss betreten, außer sie fliegen. Es kann aber über ein Hindernis gesprungen werden. Reichweite darf durch Hindernisse gezählt werden. Außerdem fangen Hindernisse keine Fernangriffe ab.</p>
 </div>
 
 #### Difficult Terrain
