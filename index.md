@@ -289,10 +289,9 @@ Jede Szenariophase besteht aus drei verschiedenen Schritten:
 
 ---
 
-### Terrain
+### Gelände
 
-Each scenario map contains various types of terrain. The type of terrain is defined by the colored border of the tile, as depicted on the scenario map, not necessarily by the illustration of the hex.
-A hex with no terrain outline is considered **featureless**. A hex with no figure is considered **unoccupied**. A hex that is both featureless and unoccupied is considered **empty**.
+Jedes Szenario enthält verschiedene Geländetypen. Der Typ wird durch die Farbe des Feldrandes festgelegt und nicht durch die Illustration. Ein Feld ohne einen farbigen Rand ist  <strong>merkmallos</strong>. Ein Feld ohne eine Figur ist <strong>unbesetzt</strong>. Ein Feld das sowohl merkmallos als auch unbesetzt ist, ist <strong>leer</strong>. 
 
 #### Obstacles
 
