@@ -297,14 +297,14 @@ Jedes Szenario besteht aus verschiedenen Geländetypen. Dieser Typ wird durch di
 
 <div class="float-container">
   <span class="floating-image"><img src="assets/icons/terrain_obstacle.png" height="48"/></span>
-  <p>Figuren können nicht ein Feld mit einem Hinderniss betreten, außer sie fliegen. Es kann aber über ein Hindernis gesprungen werden. Reichweite darf durch Hindernisse gezählt werden. Außerdem fangen Hindernisse keine Fernangriffe ab.</p>
+  <p>Figuren können nicht ein Feld mit einem Hinderniss betreten, außer sie fliegen. Es kann aber über ein Hindernis gesprungen werden. Reichweite darf durch Hindernisse gezählt werden. Hindernisse fangen keine Fernagriffe ab.</p>
 </div>
 
 #### Schwieriges Gelände	
 
 <div class="float-container">
   <span class="floating-image"><img src="assets/icons/terrain_difficult_terrain.png" height="48"/></span>
-  <p>A Figuren müssen 2 Bewegungspunkte verbrauchen, um dieses Gelände zu betreten, außer sie fliegen oder springen (auch wenn der Sprung auf diesem Feld endet).</p>
+  <p>Figuren müssen 2 Bewegungspunkte verbrauchen, um ein schwieriges Gelände zu betreten, außer sie fliegen oder springen (auch wenn der Sprung auf diesem Feld endet).</p>
 </div>
 
 > #### Gefahren
@@ -312,7 +312,7 @@ Jedes Szenario besteht aus verschiedenen Geländetypen. Dieser Typ wird durch di
 <blockquote>
   <div class="float-container">
     <span class="floating-image"><img src="assets/icons/terrain_hazard.png" height="48"/></span>
-    <p>Wenn eine Figur ohne zu fliegen oder springen ein Gefahrenfeld betritt, wird ein Effekt auf diese Figur angewendet. Es gibt viele verschiedene Effekte und sie werden auf der jeweiligen Szenariokarte spezifiziert. Figuren erleiden keinen Effekt, wenn sie auf einem Gefahrenfeld eine Runde beginnen oder dieses verlassen. Falls aber eine Sprungbewegung auf einem Gefahrenfeld beendet wird, wird ein Effekt angewendet. Wenn eine Figur sich auf einem  <strong>Immobiliseren</strong>-<img src="assets/icons/condition_immobilize.png" class="inline-condition"/>Gefahrenfeld befindet (see p.20), gilt sie als Hindernis für die Bewegungen anderer Figuren.</p>
+    <p>Wenn eine Figur ohne zu fliegen oder springen ein Gefahrenfeld betritt, wird ein Effekt auf diese Figur angewendet. Es gibt viele verschiedene Effekte und sie werden auf der jeweiligen Szenariokarte spezifiziert. Figuren erleiden keinen Effekt, wenn sie auf einem Gefahrenfeld eine Runde beginnen oder dieses verlassen. Falls aber eine Sprungbewegung auf einem Gefahrenfeld beendet wird, wird ein Effekt angewendet. Wenn eine Figur sich auf einem  <strong>Immobiliseren</strong><img src="assets/icons/condition_immobilize.png" class="inline-condition"/>Gefahrenfeld befindet (see p.20), gilt sie als Hindernis für die Bewegung anderer Figuren.</p>
   </div>
 </blockquote>
 
@@ -320,7 +320,7 @@ Jedes Szenario besteht aus verschiedenen Geländetypen. Dieser Typ wird durch di
 
 <div class="float-container">
   <span class="floating-image"><img src="assets/icons/terrain_pressure_plate.png" height="48"/></span>
-  <p>Der Auslöser einer Druckplatte und ihr Effekt wird in den Sonderregeln des jeweiligen Szenarios erklärt. Druckplatten gelten als leere Felder.</p>
+  <p>Das Auslösen einer Druckplatte und ihr Effekt wird in den Sonderregeln des jeweiligen Szenarios beschrieben. Druckplatten gelten als leere Felder.</p>
 </div>
 
 #### Ziele
