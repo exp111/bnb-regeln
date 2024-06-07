@@ -300,34 +300,34 @@ Jedes Szenario besteht aus verschiedenen Geländetypen. Dieser Typ wird durch di
   <p>Figuren können nicht ein Feld mit einem Hinderniss betreten, außer sie fliegen. Es kann aber über ein Hindernis gesprungen werden. Reichweite darf durch Hindernisse gezählt werden. Außerdem fangen Hindernisse keine Fernangriffe ab.</p>
 </div>
 
-#### Difficult Terrain
+#### Schwieriges Gelände	
 
 <div class="float-container">
   <span class="floating-image"><img src="assets/icons/terrain_difficult_terrain.png" height="48"/></span>
-  <p>A figure requires 2 movement points to enter a difficult terrain hex, except when flying or jumping (even if the jump movement ends there).</p>
+  <p>A Figuren müssen 2 Bewegungspunkte verbrauchen, um dieses Gelände zu betreten, außer sie fliegen oder springen (auch wenn der Sprung auf diesem Feld endet).</p>
 </div>
 
-> #### Hazards
+> #### Gefahren
 
 <blockquote>
   <div class="float-container">
     <span class="floating-image"><img src="assets/icons/terrain_hazard.png" height="48"/></span>
-    <p>If any figure enters a hazard hex, unless they are flying or jumping, some effect is applied to that figure. Hazard effects are varied and are specified by each individual hazard on the scenario map. Figures do not suffer additional effects when starting a turn in or exiting a hazard hex, but the effects are applied if you end a jump movement in a hazard hex. If a figure occupies a hex with an <strong>immobilize</strong> <img src="assets/icons/condition_immobilize.png" class="inline-condition"/> hazard (see p.20), treat them as an obstacle when determining the movement of other figures.</p>
+    <p>Wenn eine Figur ohne zu fliegen oder springen ein Gefahrenfeld betritt, wird ein Effekt auf diese Figur angewendet. Es gibt viele verschiedene Effekte und sie werden auf der jeweiligen Szenariokarte spezifiziert. Figuren erleiden keinen Effekt, wenn sie auf einem Gefahrenfeld eine Runde beginnen oder dieses verlassen. Falls aber eine Sprungbewegung auf einem Gefahrenfeld beendet wird, wird ein Effekt angewendet. Wenn eine Figur sich auf einem  <strong>Immobiliseren</strong>-<img src="assets/icons/condition_immobilize.png" class="inline-condition"/>Gefahrenfeld befindet (see p.20), gilt sie als Hindernis für die Bewegungen anderer Figuren.</p>
   </div>
 </blockquote>
 
-#### Pressure Plates
+#### Druckplatten
 
 <div class="float-container">
   <span class="floating-image"><img src="assets/icons/terrain_pressure_plate.png" height="48"/></span>
-  <p>A pressure plate’s trigger and all of its effects are defined in the special rules for the scenario. Pressure plates are considered empty hexes.</p>
+  <p>Der Auslöser einer Druckplatte und ihr Effekt wird in den Sonderregeln des jeweiligen Szenarios erklärt. Druckplatten gelten als leere Felder.</p>
 </div>
 
-#### Objectives
+#### Ziele
 
 <div class="float-container">
 	<span class="floating-image"><img src="assets/icons/terrain_objective.png" height="48"/></span>
-	<p>Objectives are tied to the goals of some scenarios and typically need to be attacked or protected. Objectives can be targeted by attacks, but are immune to all conditions, and forced movement. Objectives are considered to have initiative 99 for the purpose of focusing, unless otherwise stated by the special rules for the scenario, but do not take turns. Objectives are considered figures, and the hexes they are in are considered occupied. Objectives are not considered obstacles. The special rules for the scenario will describe how the objective relates to the scenario’s goal.</p>
+	<p>Objectives sind mit den Zielen einiger Szenarien verbunden und müssen in der Regel angegriffen oder beschützt werden. Objectives können angegriffen werden, sind aber immun gegen alle Zustände und erzwungene Bewegungen. Objectives haben eine Initiative von 99 wenn sie fokussiert werden, außer die Sonderregel des Szenarios schreibt etwas anderes vor. Außerdem sind sie nie am Zug. Objectives gelten als Figur. Die Felder, die sie belegen, sind gelten als besetzt. Objectives sind keine Hindernisse. Die Sonderregel des jeweiligen Szenarios beschreibt, wie das Objective mit dem Ziel des Szenarios zusammenhängt.</p>
 </div>
 
 ---
