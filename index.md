@@ -323,7 +323,7 @@ Jedes Szenario besteht aus verschiedenen Geländetypen. Dieser Typ wird durch di
   <p>Das Auslösen einer Druckplatte und ihr Effekt wird in den Sonderregeln des jeweiligen Szenarios beschrieben. Druckplatten gelten als leere Felder.</p>
 </div>
 
-#### Ziele
+#### Ziele 
 
 <div class="float-container">
 	<span class="floating-image"><img src="assets/icons/terrain_objective.png" height="48"/></span>
