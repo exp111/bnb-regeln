@@ -336,25 +336,25 @@ Jedes Szenario besteht aus verschiedenen Geländetypen. Dieser Typ wird durch di
 
 ---
 
-# Playing a Scenario
+# Spielen eines Szenarios 
 
-Once a scenario is set up, you are ready to play! Each scenario is played in a series of rounds, and each round consists of the following steps:
-1. Start of Round Effects
-1. Card Selection
-1. Ordering of Initiative
-1. Character and Monster Turns
-1. End of Round
-These rounds continue until the scenario goal is reached. 
+Sobald ein Szenario aufgebaut ist, kannst du loslegen! Jedes Szenario wird in einer Reihe von Runden gespielt. Jede Runde besteht aus den folgenden Schritten:
+1. Rundenbeginn mit Szenarioeffekten
+1. Kartenauswahl
+1. Reihenfolge bestimmen
+1. Charakter- und Monsterzüge
+1. Rundenende
+Diese Schritte werden wiederholt, bis das Szenarioziel erreicht ist.
 
-## Start of Round Effects
+## Rundenbeginn mit Szenarioeffekten
 
-Apply any start of round effects from the scenario rules, such as spawning monsters. These effects can be applied in any order, though all spawning should happen at the same time (see [p.32](#page_32)).
+Wende zu Beginn der Runde alle Effekte aus den Szenarioregeln an, wie zum Beispiel das Erscheinen von Monstern. Diese Effekte können in beliebiger Reihenfolge angewendet werden, das Erscheinen sollte jedoch gleichzeitig passieren.  (see [p.32](#page_32)).
 
-## Card Selection
+## Kartenauswahl
 
-After all start-of-round effects are applied, select two ability cards from your hand to play this round. Of the two cards, one should be selected as the initiative card. The initiative value at the center of that card will determine your position in the initiative order (see [p.11](#page_11)).
+Nachdem alle Effekte angewendet wurden, wählst du zwei Fertigkeitskarten aus deiner Hand aus, die du während der Runde ausspielst. Eine dieser beiden Karten gilt als Initiativkarte. Der Initiativwert in der Mitte der Karte bestimmt deine Position in der Initiativreihenfolge.  (see [p.11](#page_11)).
 
-Alternatively, if you have at least two cards in your hand and/or discard pile, you can instead declare a long rest at this time (see [p.27](#page_27)). You will perform your long rest on initiative 99 as your entire turn for the round and will not play any cards.
+Alternativ kannst du eine lange Pause ansagen, wenn du mindestens zwei Karten auf der Hand und/oder im Ablagestapel hast. (see [p.27](#page_27)). Die lange Pause hält die gesamte Runde an und wärendessen hast du eine Initiative von 99 und darfst keine Karten spielen.
 
 ---
 
@@ -362,19 +362,19 @@ Alternatively, if you have at least two cards in your hand and/or discard pile, 
 
 ---
 
-## Ordering of Initiative
+## Reihenfolge bestimmen
+Nachdem du entweder zwei Fertigkeitskarten ausgewählt oder eine lange Pause angesagt hast, legst du alle Monsterinitiativen und -aktionen fest. <span class="new-to-bnb">Für jeden Monstertyp, der mindestens einmal auf dem Spielplan vertreten ist, würfelst du und bewegst den weißen Würfel auf die entsprechende Aktion. </span>
 
-After you have selected two ability cards or declared a long rest, determine the monster initiatives and actions for the round. <span class="new-to-bnb">For each monster type that has at least one monster on the board, roll the die and move the white cube to the action indicated by the die result.</span>
+Dann bestimmst du die Initiativreihenfolge, indem du die Initiativwerte auf deiner ausgewählten Karte und allen gewürfelten Monsteraktionen vergleichst. Vom niedrigsten zum höchsten Initiativwert gibt dies dann die Zugreihenfolge für diese Runde an. Bei einer langen Pause hast du eine Initiative von 99.
 
-Determine the initiative order by comparing the initiative values on your initiative card and all rolled monster actions (located at the top of the column). This indicates the turn order for this round, going from lowest initiative value to highest. If you are long resting, you have an initiative of 99. 
+## Gleichstand auflösen
 
-### Resolving Ties
+Wenn ein Gleichstand zwischen deiner Intitative und der eines Monsters besteht bist du zuerst an der Reihe.
 
-If there is a tie in initiative between you and a monster, you act first.
 
-### Monster Order
+## Reihenfolge der Monster
 
-Each monster takes its turn based on initiative order. All monsters of a single type take their turns at the same initiative in ascending numeric order (see [p.30](#page_30)).
+Jedes Monster ist gemäß der Initiativreihenfolge am Zug. Alle Monster der gleichen Art haben die gleiche Initiative und sind in aufsteigender, numerischer Reihenfolge an der Reihe. (see [p.30](#page_30)).
 
 ---
 
