@@ -382,19 +382,19 @@ Jedes Monster ist gemäß der Initiativreihenfolge am Zug. Alle Monster der glei
 
 ---
 
-## Character and Monster Turns
+## Charakter und Monster Züge 		
 
-Every figure on the map — both you and monsters — will get a turn each round. A figure’s turn starts when the previous figure ends their turn and concludes when the next figure begins theirs. During a figure’s turn, they will perform the actions and abilities on their cards.
+Jede Figur auf der Karte — sowohl deine als auch die Monster — ist in jeder Runde einmal an der Reihe. Der Zug einer Figur beginnt, wenn die vorherige Figur ihren Zug beendet hat, und endet, wenn die nächste Figur ihren Zug beginnt. Während des Zuges einer Figur führt sie die Aktionen und Fähigkeiten auf ihren Karten aus.
 
-Before we tackle the specifics of character and monster turns, we need to go over how actions and abilities work.
+Bevor wir uns mit den Einzelheiten der Spielzüge von Charakteren und Monstern befassen, müssen wir uns noch mit der Funktionsweise von Aktionen und Fähigkeiten befassen.
 
-### Actions and Abilities Overview
+### Aktionen und Fähigkeiten		
 
-#### Actions
+#### Aktionen
 
-An **action** is a set of one or more abilities, which are detailed on one half of an ability card. You will normally perform two actions on your turn: the top action of one of your played ability cards and the bottom action of the other. An entire half of an ability card is considered a single action.
+Eine **Aktion** ist eine Reihe von einer oder mehreren Fähigkeiten, die auf einer Hälfte einer Fertigkeitskarte detailliert beschrieben werden. Normalerweise führst du in einem Zug zwei Aktionen aus: die obere Aktion einer deiner ausgespielten Fertigkeitskarte und die untere Aktion der anderen. Eine ganze Hälfte einer Fertigkeitskarte gilt als Einzelaktion.
 
-Monsters will perform one action on their turn. The entire column of abilities is a single action.
+Monster führen in ihrem Zug eine Aktion aus. Die gesamte Fertigkeitsspalte ist eine einzige Aktion.
 
 An action can be referred to by any of its abilities. For example, if an action contains both a "<img src="assets/icons/ability_move.png" class="inline-icon"/> **2**" ability and an "<img src="assets/icons/ability_attack.png" class="inline-icon"/> **2**" ability, it can be referred to as both a move action and an attack action.
 
