@@ -396,11 +396,11 @@ Eine **Aktion** ist eine Reihe von einer oder mehreren Fähigkeiten, die auf ein
 
 Monster führen in ihrem Zug eine Aktion aus. Die gesamte Fertigkeitsspalte ist eine einzelne Aktion.
 
-Eine Aktion wird durch ihre Fähigkeiten definiert. Zum Beispiel, wenn eine Aktion sowohl eine "<img src="assets/icons/ability_move.png" class="inline-icon"/> **2**" Fertigkeit als auch eine "<img src="assets/icons/ability_attack.png" class="inline-icon"/> **2**" Fertigkeit beinhaltet, kann sie sowohl als Bewegungs- als auch als Angriffsaktion bezeichnet werden.
+Eine Aktion wird durch ihre Fertigkeiten definiert. Zum Beispiel, wenn eine Aktion sowohl eine "<img src="assets/icons/ability_move.png" class="inline-icon"/> **2**" Fertigkeit als auch eine "<img src="assets/icons/ability_attack.png" class="inline-icon"/> **2**" Fertigkeit beinhaltet, kann sie sowohl als Bewegungs- als auch als Angriffsaktion bezeichnet werden.
 
 #### Fertigkeiten
 
-An **ability** is any grouping of text and/or icons (often found on an ability card or monster action) that a figure can perform to interact with the map, themselves, or other figures.
+Eine **Fertigkeit** is any grouping of text and/or icons (often found on an ability card or monster action) that a figure can perform to interact with the map, themselves, or other figures.
 
 If an action consists of multiple abilities, these will be separated from each other by ability lines.
 
