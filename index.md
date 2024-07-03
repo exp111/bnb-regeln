@@ -414,17 +414,17 @@ Charakterfertigkeiten können übersprungen werden, solange sie nicht zwingend e
 
 ---
 
-### Important Ability Concepts
+### Wichtige Fähigkeitenkonzepte
 
-#### Target
+#### Ziele
 
-<img src="assets/icons/ability_target.png" class="inline-icon"/> Most abilities target one or more figures. Target specifies what kind of figure or how many figures an ability affects. The requirements for the target are sometimes written out, but often will simply be a number. "**Target X**" allows the acting figure to target up to X different figures within the ability’s range. Targeting and range restrictions, as well as additional effects of the ability, apply to all targets. It is not possible to target the same figure multiple times with the same ability, unless otherwise stated.
+<img src="assets/icons/ability_target.png" class="inline-icon"/> Die meisten Fertigkeiten zielen auf eine oder mehrere Figuren. "Ziele" gibt an, welche Art von Figur bzw. wie viele Figuren die Fertigkeit trifft. Die Anforderungen für das Zielen werden manchmal ausgeschrieben, oft handelt es sich aber nur um eine Zahl. "**Zielen X**" ermöglicht es der aktiven Figur, bis zu X verschiedene Figuren innerhalb der Reichweite der Fähigkeit zu treffen. Alle Beschränkungen und zusätzliche Effekte der Fähigkeit gelten für alle Ziele. Eine Figur mehrmals mit der gleichen Fähigkeit zu treffen ist nicht möglich, sofern nicht anders angegeben.
 
-If no target is specified on a targeted ability, the target value is 1, which means it only targets a single figure.
+Wenn "Ziele" nicht spezifisch aufgeführt ist, ist der Zielwert 1. Es kann also nur eine Figur anvisiert werden.
 
-#### Targeted Abilities
+#### Gezielte Fertigkeiten
 
-Attack ([p.18](#page_18)), conditions ([p.20](#page_20)), heal ([p.21](#page_20)), forced movement ([p.23](#page_23)), and controlling figures ([p.24](#page_24)) are the only targeted abilities. Targeted abilities cannot be performed if there is no valid target.
+Angriff ([p.18](#page_18)), Zustände ([p.20](#page_20)), Heilung ([p.21](#page_20)), erzwungene Bewegungen ([p.23](#page_23)), und das kontrollieren von Figuren ([p.24](#page_24)) sind die einzigen gezielten Fertigkeiten. Diese können nicht ausgeführt werden, wenn kein gütliges Ziel in Reichweite ist.
 
 #### Allies, Enemies, and Self
 
