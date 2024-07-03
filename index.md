@@ -418,7 +418,7 @@ Charakterfertigkeiten können übersprungen werden, solange sie nicht zwingend e
 
 #### Ziele
 
-<img src="assets/icons/ability_target.png" class="inline-icon"/> Die meisten Fertigkeiten zielen auf eine oder mehrere Figuren. "Ziele" gibt an, welche Art von Figur bzw. wie viele Figuren die Fertigkeit trifft. Die Anforderungen für das Zielen werden manchmal ausgeschrieben, oft handelt es sich aber nur um eine Zahl. "**Zielen X**" ermöglicht es der aktiven Figur, bis zu X verschiedene Figuren innerhalb der Reichweite der Fähigkeit zu treffen. Alle Beschränkungen und zusätzliche Effekte der Fähigkeit gelten für alle Ziele. Eine Figur mehrmals mit der gleichen Fähigkeit zu treffen ist nicht möglich, sofern nicht anders angegeben.
+<img src="assets/icons/ability_target.png" class="inline-icon"/> Die meisten Fertigkeiten zielen auf eine oder mehrere Figuren. "Ziele" gibt an, welche Art von Figur bzw. wie viele Figuren die Fertigkeit trifft. Die Anforderungen für das Zielen werden manchmal ausgeschrieben, oft handelt es sich aber nur um eine Zahl. "**Zielen X**" ermöglicht es der handelnden Figur, bis zu X verschiedene Figuren innerhalb der Reichweite der Fähigkeit zu treffen. Alle Beschränkungen und zusätzliche Effekte der Fähigkeit gelten für alle Ziele. Eine Figur mehrmals mit der gleichen Fähigkeit zu treffen ist nicht möglich, sofern nicht anders angegeben.
 
 Wenn "Ziele" nicht spezifisch aufgeführt ist, ist der Zielwert 1. Es kann also nur eine Figur anvisiert werden.
 
@@ -426,13 +426,13 @@ Wenn "Ziele" nicht spezifisch aufgeführt ist, ist der Zielwert 1. Es kann also 
 
 Angriff ([p.18](#page_18)), Zustände ([p.20](#page_20)), Heilung ([p.21](#page_20)), erzwungene Bewegungen ([p.23](#page_23)), und das kontrollieren von Figuren ([p.24](#page_24)) sind die einzigen gezielten Fertigkeiten. Diese können nicht ausgeführt werden, wenn kein gütliges Ziel in Reichweite ist.
 
-#### Allies, Enemies, and Self
+#### Verbündete, Gegner und man selbst
 
-Monsters are allies to other monsters, and you and monsters are enemies to each other. **Figures are not their own allies.**
+Monster sind Verbündete andere Monster und du und die Monster sind einander Gegner. **Figuren sind nicht ihre eigenen Verbündeten.**
 
-In general, negative abilities can only target enemies, and positive abilities can only target allies or the acting figure. However, some abilities have specific targeting information that contradicts this rule.
+Generell können negative Fertigkeiten nur auf Gegner und positive Fähigkeiten nur auf Verbündete oder die handelnde Figur angewendet werden.
 
-If any ability specifies the target as "self," the effect can only be applied to the acting figure.
+Fertigkeiten die als Ziel nur "selbst" angeben, können nur auf die handelnde Figur angewendet werden.
 
 ---
 
