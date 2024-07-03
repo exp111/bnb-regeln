@@ -400,13 +400,13 @@ Eine Aktion wird durch ihre Fertigkeiten definiert. Zum Beispiel, wenn eine Akti
 
 #### Fertigkeiten
 
-Eine **Fertigkeit** is any grouping of text and/or icons (often found on an ability card or monster action) that a figure can perform to interact with the map, themselves, or other figures.
+Eine **Fertigkeit** ist jede Gruppe von Texten und/oder Symbolen (oft zu finden auf einer Fertigkeitskarte oder Monsteraktion), die eine Figur ausführen kann, um mit der Karte, sich selbst oder anderen Figuren zu interagieren.
 
-If an action consists of multiple abilities, these will be separated from each other by ability lines.
+Besteht eine Aktion aus mehreren Fertigkeiten, werden diese durch Fertigkeitsininen voneinander getrennt
 
-Abilities in an action are always performed in the order they are written. Figures cannot perform new abilities while resolving a different ability, with the exception of abilities from attack modifiers.
+Fertigkeiten in einer Aktion werden immer in der Reihenfolge ausgeführt, in der sie angegeben sind. Figuren können während sie eine Fertigkeit ausführen keine neue Fertigkeit ausführen, mit Ausnahme bon Fähigkeiten aus Angriffsmodifikatoren.
 
-Character abilities can be skipped, unless they are mandatory (see [p.27](#page_27)).
+Charakterfertigkeiten können übersprungen werden, solange sie nicht zwingend erforderlich sind. (siehe [p.27](#page_27)).
 
 ---
 
