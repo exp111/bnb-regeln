@@ -382,7 +382,7 @@ Jedes Monster ist gemäß der Initiativreihenfolge am Zug. Alle Monster der glei
 
 ---
 
-## Charakter und Monster Züge 		
+## Charakter- und Monsterzüge 		
 
 Jede Figur auf der Karte — sowohl deine als auch die Monster — ist in jeder Runde einmal an der Reihe. Der Zug einer Figur beginnt, wenn die vorherige Figur ihren Zug beendet hat, und endet, wenn die nächste Figur ihren Zug beginnt. Während des Zuges einer Figur führt sie die Aktionen und Fähigkeiten auf ihren Karten aus.
 
@@ -444,7 +444,7 @@ Fertigkeiten die als Ziel nur "selbst" angeben, können nur auf die handelnde Fi
 
 <img src="assets/icons/ability_range.png" class="inline-icon"/> Die meisten Fertigkeiten zielen nur auf eine Figur. Die Reichweite gibt an, wie weit diese Figur entfernt sein kann. "Reichweite X" bedeutet, dass die handelnde Figur jede Figur innerhalb der X Felder anvisieren kann, auch sich selber. Reichweite kann durch Hindernisse und Figuren gezählt werden.
 
-Jede Fertigkeit, deren Reichweite auf der Karte angegeben ist, gilt als Fernkampfangriff. 
+Jede Fertigkeit, deren Reichweite in dem hervorgehobenen Abschnitt rechts von der Fertigkeit angegeben ist, gilt als Fernkampfangriff. 
 
 Jede Figur behandelt das Feld, auf dem sie stehen, als benachbart, wenn es um das Anvisieren geht. Das Drehen und Spiegeln des dargestellten Wirkungsbereiches ist erlaubt.
 
@@ -470,13 +470,12 @@ Wenn eine Fertigkeit mit einem Wirkunsbereich "**+1** <img src="assets/icons/abi
 
 ---
 
-#### Hinzugefügte Effekte
+#### besondere Effekte
 
-Added effects are attached to an ability and modify it in some way. Common added effects like "<img src="assets/icons/condition_push.png" class="inline-condition"/> **X**," "<img src="assets/icons/condition_pull.png" class="inline-condition"/> **X**," or conditions are usually listed in a highlighted section to the right of the ability. All conditional effects — those dependent on consuming an element (see [p.16](#page_16)) or paying some other cost — are listed below the ability in a highlighted section with a dotted line border.
+Besondere Effekte sind an eine Fertigkeit angehängt und verändern sie auf irgendeine Weise. Häufige besondere Effekte, wie "<img src="assets/icons/condition_push.png" class="inline-condition"/> **X**," "<img src="assets/icons/condition_pull.png" class="inline-condition"/> **X**," oder Zustände werden normalerweise in dem hervorgehobenen Abschnitt rechts von der Fertigkeit definiert. Alle bedingten Effekte — solche, die vom Verbrauch eines Elementes (siehe [p.16](#page_16)) oder der Zahlung anderer Kosten abhängig sind — werden unter der Fertigkeit in einem hervorgehoben Abschnitt mit gepunkteter Umrandung angegeben.
+Besondere Effekte können übersprungen werden, aber dies muss vor dem Würfeln des Angriffsmodifikatores entschieden werden. Bedingte Effekte können ebenfalls übersprungen werden; du bist nicht verpflichtet, die Kosten zu bezahlen. Und selbst wenn du die Kosten bezahlt hast, kannst du dich noch dafür entscheiden, den Effekt nicht anzuwenden. Im Falle eines überspringbaren Effekts, der an eine Angriffsfähigkeit mit mehreren Zielen angehängt ist, kannst du dich bei jedem einzelnen Ziel entscheiden, ob du den Effekt anwendest oder nicht. Auch hier muss das immer vor dem Würfeln des Angriffsmodifikators geschehen, sofern es nicht anders angeben ist.
 
-Added effects can be skipped, but you must choose to do so before rolling an attack modifier. Conditional effects can also be skipped; you are not required to pay the cost and, even if you do, you may still choose not to apply the effect. In the case of a skippable effect attached to a multi-target attack ability, you may skip the effect on an attack-by-attack basis, in each case choosing before rolling an attack modifier, unless otherwise stated.
-
-More complex added effects might be written below the ability, but not all text below an ability is an added effect. Any text that provides rules for how the ability is performed (e.g., a targeting restriction) is an inherent part of the ability, not an added effect, and cannot be skipped.
+Komplexere besondere Effekte können unter einer Fertigkeit erläutert werden, aber solch ein Text ist nicht immer ein besonderer Effekt. Jeder Text, der Regeln für die Ausführung einer Fertigkeit (z.B. eine Zielbeschränkung) enthält, ist ein fester Bestandteil dieser Fertigkeit und kann nicht übersprungen werden.
 
 ---
 
@@ -484,7 +483,7 @@ More complex added effects might be written below the ability, but not all text 
 
 ---
 
-> #### Elements
+> #### Elemente 
 > 
 > Some actions have an elemental affinity associated with them (fire, ice, air, earth, light, or dark). Element infusions on your played ability cards, ability cards in your hand and active area, as well as element infusions on rolled monster actions, are each available to be consumed once each round. Multiple infusions of the same element can be available to be consumed in the same round.
 > 
