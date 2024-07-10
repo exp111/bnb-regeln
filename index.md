@@ -440,29 +440,29 @@ Fertigkeiten die als Ziel nur "selbst" angeben, können nur auf die handelnde Fi
 
 ---
 
-#### Range
+#### Reichweite
 
-<img src="assets/icons/ability_range.png" class="inline-icon"/> Most abilities target a figure. Range indicates how far away that figure can be. "**Range X**" means the acting figure can target any figure within X hexes, including the acting figure. Range can be counted through obstacles and figures.
+<img src="assets/icons/ability_range.png" class="inline-icon"/> Die meisten Fertigkeiten zielen nur auf eine Figur. Die Reichweite gibt an, wie weit diese Figur entfernt sein kann. "Reichweite X" bedeutet, dass die handelnde Figur jede Figur innerhalb der X Felder anvisieren kann, auch sich selber. Reichweite kann durch Hindernisse und Figuren gezählt werden.
 
-Any ability with a range value specified in the highlighted section to its right is considered a ranged ability.
+Jede Fertigkeit, deren Reichweite auf der Karte angegeben ist, gilt als Fernkampfangriff. 
 
-Figures treat the hex they occupy as adjacent for the purpose of targeting.
+Jede Figur behandelt das Feld, auf dem sie stehen, als benachbart, wenn es um das Anvisieren geht. Das Drehen und Spiegeln des dargestellten Wirkungsbereiches ist erlaubt.
 
-#### Area of Effect
+#### Wirkungsbereich
 
-Abilities with an area of effect allow the acting figure to target multiple hexes at the same time. Rotating and mirroring the depicted area of effect is permitted.
+Fertigkeiten mit einem Wirkungsbereich lassen die handelnde Figur mehrere Felder gleichzeitig anvisieren.
 
 <div class="float-container">
   <span class="floating-image"><img src="assets/icons/hex_player.png" height="48"/></span>
-  <p>Gray indicates the hex which the acting figure occupies. Any attack with an area of effect that includes a gray hex is always considered a melee attack (see <a href="#page_18">p.18</a>).</p>
+  <p>Ein graues Feld markiert das Feld, in dem die handelnde Figur sich befindet. Jeder Angriff mit einem Wirkungsbereich, bei dem ein graues Feld abgebildet ist, gilt als Nahkampfangriff. (see <a href="#page_18">p.18</a>).</p>
 </div>
 
 <div class="float-container">
   <span class="floating-image"><img src="assets/icons/hex_attack.png" height="48"/></span>
-  <p>Red indicates the hexes in which figures can be targeted. Only one red hex needs to be within the ability’s range. This initial hex does not need to contain a figure.</p>
+  <p>Rote Felder markieren die Felder, in denen Figuren anvisiert werden können. Es reicht, wenn sich nur ein rotes Feld in der Reichweite der Fertigkeit befindet. Dieses Feld muss nicht zwingend eine Figur enthalten. .</p>
 </div>
 
-If an ability with an area of effect gains "**+1** <img src="assets/icons/ability_target.png" class="inline-icon"/>," an additional figure within the ability’s range, but outside the area of effect, can be targeted. This does not mean that the entire area of effect can be applied again, however; only one additional hex may be targeted.
+Wenn eine Fertigkeit mit einem Wirkunsbereich "**+1** <img src="assets/icons/ability_target.png" class="inline-icon"/> erhält," kann eine weitere Figur außerhalb des Wirkungsbereiches, aber innerhalb der Reichweite der Fertigkeit anvisiert werden. Dies bedeutet nicht, dass der gesamte Wirkungsbereich erneut angewendet wird. Es darf lediglich ein zusätzliches Feld anvisiert werden.
 
 ---
 
@@ -470,7 +470,7 @@ If an ability with an area of effect gains "**+1** <img src="assets/icons/abilit
 
 ---
 
-#### Added Effects
+#### Hinzugefügte Effekte
 
 Added effects are attached to an ability and modify it in some way. Common added effects like "<img src="assets/icons/condition_push.png" class="inline-condition"/> **X**," "<img src="assets/icons/condition_pull.png" class="inline-condition"/> **X**," or conditions are usually listed in a highlighted section to the right of the ability. All conditional effects — those dependent on consuming an element (see [p.16](#page_16)) or paying some other cost — are listed below the ability in a highlighted section with a dotted line border.
 
