@@ -454,7 +454,7 @@ Fertigkeiten mit einem Wirkungsbereich lassen die handelnde Figur mehrere Felder
 
 <div class="float-container">
   <span class="floating-image"><img src="assets/icons/hex_player.png" height="48"/></span>
-  <p>Ein graues Feld markiert das Feld, in dem die handelnde Figur sich befindet. Jeder Angriff mit einem Wirkungsbereich, bei dem ein graues Feld abgebildet ist, gilt als Nahkampfangriff. (see <a href="#page_18">p.18</a>).</p>
+  <p>Ein graues Feld markiert das Feld, in dem die handelnde Figur sich befindet. Jeder Angriff mit einem Wirkungsbereich, bei dem ein graues Feld abgebildet ist, gilt als Nahkampfangriff. (siehe <a href="#page_18">p.18</a>).</p>
 </div>
 
 <div class="float-container">
