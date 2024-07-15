@@ -508,20 +508,20 @@ Komplexere besondere Effekte können unter einer Fertigkeit erläutert werden, a
 
 ## Fertigkeiten
 
-### bewegen
+### Bewegen
 
-<img src="assets/icons/ability_move.png" class="inline-icon"/> "**bewegen X**" ist eine Fertigkeit, die einer Figur X Bewegungspunkte gibt. Diese Figur kann dann diese Punkte ausgeben, um sich ein Feld pro Bewegungspunkt zu bewegen. Figuren können sich durch Verbundete, aber nicht durch Gegner, Hindernisse oder Ziele bewegen.
+<img src="assets/icons/ability_move.png" class="inline-icon"/> "**Bewegen X**" ist eine Fertigkeit, die einer Figur X Bewegungspunkte gibt. Diese Figur kann dann diese Punkte ausgeben, um sich ein Feld pro Bewegungspunkt zu bewegen. Figuren können sich durch Verbundete, aber nicht durch Gegner, Hindernisse oder Ziele bewegen.
 
 Eine Figur muss ihre Bewegung immer auf einem nicht besetzten Feld beenden. Eine Figur muss sich mindestens ein Feld weit bewegen, um eine Bewegungsfertigkeit ausgeführt zu haben.
 
 Alle nicht ausgegeben Bewegungspunkte verfallen mit dem Ende der Bewegungsfetigkeit.
 
-#### springen
+#### Springen
 
-<img src="assets/icons/ability_jump.png" class="inline-icon"/> "**springen**" ist ein zusätzlicher Effekt einer Bewegungsfertigkeit. Springen erlaubt einer Figur alle Gegner, Hindernisse, Gefahren und Ziele zu ignorieren, außer auf dem letzten Feld.
+<img src="assets/icons/ability_jump.png" class="inline-icon"/> "**Springen**" ist ein zusätzlicher Effekt einer Bewegungsfertigkeit. Springen erlaubt einer Figur alle Gegner, Hindernisse, Gefahren und Ziele zu ignorieren, außer auf dem letzten Feld.
 Schwieriges Gelände wird beim springen vollständig ignoriert.
 
-#### fliegen
+#### Fliegen
 
 <img src="assets/icons/ability_flight.png" class="inline-icon"/> "**Fliegen**" ist ein aktiver Bonus (siehe [p.21](#page_21)). Fliegen erlaubt einer Figur alle Gegner, Hindernisse, Gefahren und Ziele zu ignorieren, auch auf dem letzten Feld. Allerdings kann eine fliegende Figur ihre Bewegung immer noch nicht auf einem Feld beenden, das schon von einer anderen Figur besetzt ist (und umgekehrt).
 
