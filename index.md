@@ -516,13 +516,13 @@ Eine Figur muss ihre Bewegung immer auf einem nicht besetzten Feld beenden. Eine
 
 Alle nicht ausgegeben Bewegungspunkte verfallen mit dem Ende der Bewegungsfertigkeit.
 
-#### Springen
+### Springen
 
 <img src="assets/icons/ability_jump.png" class="inline-icon"/> "**Springen**" ist ein zusätzlicher Effekt einer Bewegungsfertigkeit. Springen erlaubt einer Figur alle Gegner, Hindernisse, Gefahren und Ziele zu ignorieren, außer auf dem letzten Feld.
 
 Schwieriges Gelände wird beim springen vollständig ignoriert.
 
-#### Fliegen
+### Fliegen
 
 <img src="assets/icons/ability_flight.png" class="inline-icon"/> "**Fliegen**" ist ein aktiver Bonus (siehe [p.21](#page_21)). Fliegen erlaubt einer Figur alle Gegner, Hindernisse, Gefahren und Ziele zu ignorieren, auch auf dem letzten Feld. Allerdings kann eine fliegende Figur ihre Bewegung immer noch nicht auf einem Feld beenden, das schon von einer anderen Figur besetzt ist (und umgekehrt).
 
