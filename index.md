@@ -538,7 +538,7 @@ Schwieriges Gelände wird beim springen vollständig ignoriert.
 
 Ein Angriff ohne eine angegebene Reichweite (<img src="assets/icons/ability_range.png" class="inline-icon"/>) ist ein **Nahkampfangriff** mit Reichweite 1, der nur benachbarte Ziele angreifen kann, sofern nicht anders angegeben. Ein Angriff mit einem beliebigen Reichweitewert (<img src="assets/icons/ability_range.png" class="inline-icon"/>) ist ein **Fernkampfangriff**, unabhängig von der Entfernung des Ziels.
 
-Ein **Angriff** ist ein einzelner Angriff, der gegen ein Ziel ausgeführt wird. Eine **Angriffsfertigkeit** ist eine Fertigkeit, die aus einem oder mehreren seperaten Angriffen besteht. Eine **Angriffsaktion** ist jede Aktion, die mindestens eine Angriffsfertigkeit enthält.
+Ein **Angriff** ist ein einzelner Angriff, der gegen ein Ziel ausgeführt wird. Eine **Angriffsfertigkeit** ist eine Fertigkeit, die aus einem oder mehreren separaten Angriffen besteht. Eine **Angriffsaktion** ist jede Aktion, die mindestens eine Angriffsfertigkeit enthält.
 
 Wenn ein Angriff ausgeführt wird, kann der auf der Karte angegebene Grundangriffswert auf drei verschiedene Arten verändert werden, die in der folgenden Reihenfolge erfolgen:
 
@@ -550,22 +550,22 @@ Sobald alle Modifikationen angewendet wurden, erleidet das Ziel den resultierend
 
 Diese Schritte werden für jedes einzelne Ziel der Angriffsfertigkeit wiederholt. Dies bedeutet, dass verschiedene Ziele, die mit der gleichen Angriffsfertigkeit angegriffen werden, unterschiedlich viel Schaden erleiden können.
 
-> #### Attack Modifier Tables
+> #### Angriffsmodifikatorablage
 > 
-> Any time an attack ability is performed, **a separate attack modifier is rolled for each individual target of the attack ability** by rolling the die and consulting the attack modifier table. The rolled modifier is the modifier in the current row and the column matching the die roll (<img src="assets/icons/dice_result_minus.png" class="inline-icon"/>, <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/>, <img src="assets/icons/dice_result_plus.png" class="inline-icon"/>). The rolled modifier is then applied to the attack, possibly reducing or increasing its value. Once the effects of a rolled modifier have been applied, move the modifier tracker cube down one row. (If you have difficulty remembering to move the cube after the attack, you can try moving the cube first and using the modifier from the row the cube moves to. If you do, the cube should start the scenario in the last slot instead of the first.)
+> Immer wenn eine Angriffsfertigkeit ausgeführt wird, **wird für jedes Ziel der Angriffsfertigkeit ein separater Angriffsmodifikator gewürfelt**, indem der Würfel gewürfelt und mit der Angriffsmodifikatorablage abgeglichen wird. Der gewürfelte Modifikator ist der Modifikator in der aktuellen Zeile und Spalte, die dem gewürfelten Wert ensprechen (<img src="assets/icons/dice_result_minus.png" class="inline-icon"/>, <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/>, <img src="assets/icons/dice_result_plus.png" class="inline-icon"/>). Der gewürfelte Modifikator wird dann auf den Angriff angewendet, wodurch dieser möglicherweise dessen Wert verringert oder erhöht. Sobald die Effekte eines gewürfelten Modifikators angewendet wurden, wird der Modifikator-Würfel eine Reihe nach unten geschoben. (Wenn du Schwierigkeiten hast, dich daran zu erinneren, den Würfel nach einem Angriff nach unten zu bewegen, kannst du versuchen, den Würfel zuerst zu bewegen und dann den Modifikator aus der Reihe zu verwenden, in der ssich der Würfel nun befindet. Wenn du das so machst, startet der Würfel am Anfang jedes Szenarios im letzten Feld und nicht im Ersten.)
 > 
-> Attack modifiers are only rolled for attacks. They are not used for any other type of effect that deals damage.
+> Angriffsmodifikatoren werden nur für Angriffe gewürfelt. Sie werden nicht für andere Effekte verwendet, die Schaden verursachen.
 > 
-> You have your own attack modifier table, while all monsters share a single table.
+> Du hast deine eigene Angriffsmodifikatorablage, während alle Monster sich eine einzige Ablage teilen.
 > 
-> Each character class and all monsters start with a standard table of six <img src="assets/icons/modifier_plus_0.png" class="inline-element"/>, four <img src="assets/icons/modifier_plus_1.png" class="inline-element"/>, four <img src="assets/icons/modifier_minus_1.png" class="inline-element"/>, one <img src="assets/icons/modifier_plus_2.png" class="inline-element"/>, one <img src="assets/icons/modifier_minus_2.png" class="inline-element"/>, one <img src="assets/icons/modifier_2x.png" class="inline-element"/>, and one <img src="assets/icons/modifier_miss.png" class="inline-element"/>, but each character class table improves as the campaign progresses (see [p.35](#page_35)), allowing for other effects.
+> Jede Charakterklasse und alle Monster beginnen mit einer Standartablage aus sechs <img src="assets/icons/modifier_plus_0.png" class="inline-element"/>, vier <img src="assets/icons/modifier_plus_1.png" class="inline-element"/>, vier <img src="assets/icons/modifier_minus_1.png" class="inline-element"/>, einem <img src="assets/icons/modifier_plus_2.png" class="inline-element"/>, einem <img src="assets/icons/modifier_minus_2.png" class="inline-element"/>, einem <img src="assets/icons/modifier_2x.png" class="inline-element"/>, und einem <img src="assets/icons/modifier_miss.png" class="inline-element"/> Symbol. Jede Charakterklassenablage verbessert sich im Verlauf der Kampagne (siehe [p.35](#page_35)) und ermöglicht so andere Effekte.
 > 
-> An attack modifier can have the following:
+> Ein Angriffsmodifikator kann Folgendes haben:
 
 <quoteblock>
   <ol type="A">
-    <li><strong>Modifier Value:</strong> This value modifies the attack value. The <img src="assets/icons/modifier_miss.png" class="inline-element"/> modifier reduces the final attack value to zero. The <img src="assets/icons/modifier_2x.png" class="inline-element"/> modifier doubles the current attack value.</li>
-    <li><strong>Added Effects:</strong> Some modifiers have conditions (see <a href="#page_20">p.20</a>) or other added effects. When activated, these added effects function exactly as if written on the attack ability.</li>
+    <li><strong>Modifikatorwert:</strong> Dieser Wert modifiziert den Angriffswert. Der <img src="assets/icons/modifier_miss.png" class="inline-element"/> Modifikator reduziert den endgültigen Angriffswert auf Null. Der <img src="assets/icons/modifier_2x.png" class="inline-element"/> Modifikator verdoppelt den aktuellen Angriffswert.</li>
+    <li><strong>Zusätzliche Effekte:</strong> Einige Modifikatoren haben Zustände (see <a href="#page_20">p.20</a>) oder andere zusätzliche Effekte. Bei Aktivierung funktionieren diese zusätzlichen Effekte genau so, wie sie auf der Angriffsfertigkeit angegeben sind.</li>
   </ol>
 </quoteblock>
 
