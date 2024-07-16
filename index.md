@@ -532,25 +532,23 @@ Schwieriges Gelände wird beim springen vollständig ignoriert.
 
 ---
 
-### Attack
+### Angriff
 
-<img src="assets/icons/ability_attack.png" class="inline-icon"/> "**Attack X**" is a negative targeted ability that allows a figure to deal a base amount of X damage to an enemy within the specified range.
+<img src="assets/icons/ability_attack.png" class="inline-icon"/> "**Angriff X**" ist eine negative Zielfähigkeit, die es einer Figur ermöglicht, einem Gegner innerhalb der angegeben Reichweite einen Grundwert X Schaden zuzufügen.
 
-An attack with no specified range (<img src="assets/icons/ability_range.png" class="inline-icon"/>) value is considered a **melee attack** with range 1, capable of targeting adjacent enemies only, unless otherwise stated. An attack with any specified range (<img src="assets/icons/ability_range.png" class="inline-icon"/>) value is considered a **ranged attack**, regardless of the distance to the target.
+Ein Angriff ohne eine angegebene Reichweite (<img src="assets/icons/ability_range.png" class="inline-icon"/>) ist ein **Nahkampfangriff** mit Reichweite 1, der nur benachbarte Ziele angreifen kann, sofern nicht anders angegeben. Ein Angriff mit einem beliebigen Reichweitewert (<img src="assets/icons/ability_range.png" class="inline-icon"/>) ist ein **Fernkampfangriff**, unabhängig von der Entfernung des Ziels.
 
-An **attack** is a single attack performed against one target, an **attack ability** is an ability that consists of one or more separate attacks, and an **attack action** is any action that contains at least one attack ability.
+Ein **Angriff** ist ein einzelner Angriff, der gegen ein Ziel ausgeführt wird. Eine **Angriffsfertigkeit** ist eine Fertigkeit, die aus einem oder mehreren seperaten Angriffen besteht. Eine **Angriffsaktion** ist jede Aktion, die mindestens eine Angriffsfertigkeit enthält.
 
-#### Attack Modification Order
+Wenn ein Angriff ausgeführt wird, kann der auf der Karte angegebene Grundangriffswert auf drei verschiedene Arten verändert werden, die in der folgenden Reihenfolge erfolgen:
 
-When an attack is performed, the base attack value written on the card can be modified in three different ways, which occur in the following order:
+1. Alle anwendbaren Angriffsboni und -strafen — wie z.B.  "**±X** <img src="assets/icons/ability_attack.png" class="inline-icon"/>" Effekte, einschließlich Gift (siehe [p.20](#page_20))— werden angewendet.
+1. Ein Angriffsmodifikator wird gewürflet und angewendet.
+1. Der Schildbonus des Ziels wird angewendet (siehe [p.22](#page_22)).
 
-1. All applicable attack bonuses and penalties—such as "**±X** <img src="assets/icons/ability_attack.png" class="inline-icon"/>" effects, including poison (see [p.20](#page_20))—are applied.
-1. An attack modifier is rolled and applied.
-1. The target’s shield bonus is applied (see [p.22](#page_22)).
+Sobald alle Modifikationen angewendet wurden, erleidet das Ziel den resultierenden Schaden. Wenn das Ziel über Fertigkeiten oder Effekte verfügt, die eine Schadensquelle negieren können, einschließlich des Abwerfens oder Verlierens von Karten, um Schaden zu negieren (siehe [p.28](#page_28)), kann es diese jetzt benutzen.
 
-Once all modifications have been applied, the target suffers the resulting amount of damage. If the target has any abilities or effects which can negate a source of damage, including discarding or losing cards to negate damage (see [p.28](#page_28)), they may apply them now.
-
-These steps are repeated for each individual target of the attack ability, which means it is possible for different targets to suffer different amounts of damage from the same attack ability.
+Diese Schritte werden für jedes einzelne Ziel der Angriffsfertigkeit wiederholt. Dies bedeutet, dass verschiedene Ziele, die mit der gleichen Angriffsfertigkeit angegriffen werden, unterschiedlich viel Schaden erleiden können.
 
 > #### Attack Modifier Tables
 > 
