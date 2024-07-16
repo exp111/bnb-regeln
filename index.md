@@ -542,7 +542,7 @@ Ein **Angriff** ist ein einzelner Angriff, der gegen ein Ziel ausgeführt wird. 
 
 Wenn ein Angriff ausgeführt wird, kann der auf der Karte angegebene Grundangriffswert auf drei verschiedene Arten verändert werden, die in der folgenden Reihenfolge erfolgen:
 
-1. Alle anwendbaren Angriffsboni und -strafen — wie z.B.  "**±X** <img src="assets/icons/ability_attack.png" class="inline-icon"/>" Effekte, einschließlich Gift (siehe [p.20](#page_20))— werden angewendet.
+1. Alle anwendbaren Angriffsboni und -strafen — wie z.B.  "**±X** <img src="assets/icons/ability_attack.png" class="inline-icon"/>" Effekte, einschließlich Gift    (siehe [p.20](#page_20)) — werden angewendet.
 1. Ein Angriffsmodifikator wird gewürflet und angewendet.
 1. Der Schildbonus des Ziels wird angewendet (siehe [p.22](#page_22)).
 
