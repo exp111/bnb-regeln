@@ -8,7 +8,7 @@
 
 Dieses Regelwerk für *Gloomhaven: Knöpfe & Krabbler* soll einfach zugänglich, durchsuchbar und ausdruckbar sein. Es wird mit Korrekturen aktualisiert.
 
-Zuletzt aktualisiert: 23.05.2024
+Zuletzt aktualisiert: 02.09.2024
 
 Für mehr Informationen besuche einfach: [feuerland-spiele.de](https://www.feuerland-spiele.de/)
 
