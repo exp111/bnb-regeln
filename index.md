@@ -575,29 +575,29 @@ Diese Schritte werden für jedes einzelne Ziel der Angriffsfertigkeit wiederholt
 
 ---
 
-#### Attack Effects
+#### Angriffseffekte
 
-An attack effect is an effect attached to an attack. These effects are applied either during damage resolution or after the attack resolves. If applied after the attack resolves, the attack effect is still applied, even if the attack deals no damage (including due to a <img src="assets/icons/modifier_miss.png" class="inline-element"/> modifier).
+Ein Angriffseffekt ist ein Effekt, der an einen Angriff verbunden ist. Diese Effekte werden entweder während der Schadensabwicklung oder nach dem Angriff angewendet. Wenn der Angriffseffekt angewendet wird, nachdem der Angriff verrechnet wurde, wird er auch angewendet, wenn der Angriff keinen Schaden verursacht (auch bei einem <img src="assets/icons/modifier_miss.png" class="inline-element"/> Modifikator).
 
-The attacker must choose whether to apply any attack effects before they roll an attack modifier. All attack effects except "**add** <img src="assets/icons/ability_target.png" class="inline-icon"/>" are applied before any retaliate bonus (see [p.22](#page_22)). The "**add** <img src="assets/icons/ability_target.png" class="inline-icon"/>" effect allows the attacker to perform additional attacks, and each attack must be resolved completely before another can be performed.
+Der Angreifer muss entscheiden, ob er Angriffseffekte anwenden möchte, bevor er einen Angriffsmodifikator würfelt. Alle Angriffseffekte außer "**füge** <img src="assets/icons/ability_target.png" class="inline-icon"/>" **hinzu** werden vor jedem Vergeltungsbonus angewendet (siehe [S.22](#page_22)). Der "**füge** <img src="assets/icons/ability_target.png" class="inline-icon"/>" **hinzu** Effekt ermöglicht es dem Angreifer, zusätzliche Angriffe auszuführen, und jeder Angriff muss vollständig abgehandelt werden, bevor ein anderer ausgeführt werden kann durchgeführt.
 
-Some attacks have abilities (e.g., heal abilities) that aren’t attack effects but are still attached to the attack. These abilities are performed after the attack is resolved completely (including after any retaliate bonus).
+Einige Angriffe verfügen über Fertigkeiten (z.B., Heilfertigkeiten) die keine Angriffseffekte sind, aber dennoch mit dem Angriff verbunden sind. Diese Fertigkeiten werden ausgeführt, nachdem der Angriff vollständig abgehandelt wurde (einschließlich nach jedem Vergeltungsbonus).
 
-Some modifiers have added effects, besides modifying the attack value, and **an attacking character can always choose** whether to apply those effects after the modifier is rolled.
+Einige Modifikatoren haben neben der Änderung des Angriffswerts auch zusätzliche Effekte, und **der angreifende Charakter kann jederzeit entscheiden**, ob er diese Effekte anwenden möchte, nachdem der Modifikator gewürfelt wurde.
 
-#### Advantage and Disadvantage
+#### Vor- und Nachteile
 
-> Some effects cause an attack to gain advantage or disadvantage. With **advantage**, the attacker rolls two modifiers on the same row and uses one of them. A monster always uses the better one (e.g. <img src="assets/icons/dice_result_plus.png" class="inline-icon"/> over <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/> or <img src="assets/icons/dice_result_minus.png" class="inline-icon"/>; <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/> over <img src="assets/icons/dice_result_minus.png" class="inline-icon"/>), but you may use either one.
+> Einige Effekte führen dazu, dass ein Angriff einen Vorteil oder Nachteil erlangt. Mit einem **Vorteil** würfelt der Angreifer zwei Modifikatoren in derselben Reihe und verwendet einen davon. Ein Monster verwendet immer das bessere (z.B. <img src="assets/icons/dice_result_plus.png" class="inline-icon"/> vor <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/> oder <img src="assets/icons/dice_result_minus.png" class="inline-icon"/>; <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/> vor <img src="assets/icons/dice_result_minus.png" class="inline-icon"/>), aber du kannst einen der beiden verwenden.
 >
-> With **disadvantage**, the attacker rolls two modifiers on the same row and always uses the worse one (e.g. <img src="assets/icons/dice_result_minus.png" class="inline-icon"/> over <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/> or <img src="assets/icons/dice_result_plus.png" class="inline-icon"/>; <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/> over <img src="assets/icons/dice_result_plus.png" class="inline-icon"/>).
+> Bei einem **Nachteil** würfelt der Angreifer zwei Modifikatoren in derselben Reihe und verwendet immer den schlechteren (z.B. <img src="assets/icons/dice_result_minus.png" class="inline-icon"/> vor <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/> oder <img src="assets/icons/dice_result_plus.png" class="inline-icon"/>; <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/> vor <img src="assets/icons/dice_result_plus.png" class="inline-icon"/>).
 
-An attack cannot gain multiple instances of advantage or disadvantage. If an attack has both advantage and disadvantage, it is considered to have neither.
+Ein Angriff kann nicht mehrfach Vorteile oder Nachteile erzielen. Wenn ein Angriff sowohl Vor- als auch Nachteile hat, wird davon ausgegangen, dass er keinen der Beiden hat.
 
-Any ranged attack on an adjacent enemy automatically gains disadvantage.
+Jeder Fernangriff auf einen benachbarten Feind erhält automatisch einen Nachteil.
 
 #### Pierce
 
-<img src="assets/icons/condition_pierce.png" class="inline-condition"/> "**Pierce X**" is an added effect that reduces the target’s shield bonus (see [p.22](#page_22)) by X. Multiple "<img src="assets/icons/condition_pierce.png" class="inline-condition"/> **X**" effects can be combined. For example, if an attack with "<img src="assets/icons/condition_pierce.png" class="inline-condition"/> **2**" gains "<img src="assets/icons/condition_pierce.png" class="inline-condition"/> **3**," the effect would reduce the target’s shield bonus by 5 for that attack.
+<img src="assets/icons/condition_pierce.png" class="inline-condition"/> "**Pierce X**" ist ein zusätzlicher Effekt, der den Schildbonus des Ziels (siehe [S.22](#page_22)) um X reduziert. Mehrere "<img src="assets/icons/condition_pierce.png" class="inline-condition"/> **X**" Effekte können kombiniert werden. Wenn beispielsweise ein Angriff mit "<img src="assets/icons/condition_pierce.png" class="inline-condition"/> **2**" zusätzlich "<img src="assets/icons/condition_pierce.png" class="inline-condition"/> **3** bekommt," würde der Effekt den Schildbonus des Ziels für diesen Angriff um 5 reduzieren.
 
 ---
 
@@ -605,35 +605,36 @@ Any ranged attack on an adjacent enemy automatically gains disadvantage.
 
 ---
 
-### Conditions
+### Zustände
 
-A condition ability is a positive or negative targeted ability, depending on the specified condition, and causes the target of the ability to gain that condition.
+Eine Zustandsfertigkeit ist eine positive oder negative Fertigkeit, abhängig von dem angegeben Zustand, und bewirkt, dass das Ziel der Fertigkeit diesen Zustand erhält.
 
-When you gain a condition, place the matching token on your character card. When a monster gains a condition, place the matching token near its respective hit point dial. 
 
-Once gained, a condition remains until the requirements for its removal are met. Neither positive nor negative conditions can be removed voluntarily. A figure cannot have multiple instances of the same condition; however, if a figure gains a condition they already have, the effect’s duration resets.
+Wenn du einen Zustand erhälst, lege den entsprechenden Marker auf deine Charakterkarte. Wenn ein Monster einen Zustand erhält, lege den entsprechenden Marker in die Nähe der entsprechenden Trefferpunkt-Skala. 
 
-If a figure gains a condition during their turn that is removed "at the end of the figure’s next turn," the condition goes into effect immediately and applies until the end of their next turn. Conditions which are removed at the end of a figure’s turn are only removed after all other end-of-turn effects are resolved.
+Einmal erlangt, bleibt ein Zustand bestehen, bis die Voraussetzungen für seine Aufhebung erfüllt sind. Weder positive noch negative Zustände können freiwillig aufgehoben werden. Eine Figur kann nicht mehrere Instanzen desselben Zustands haben; Wenn eine Figur jedoch einen Zustand erhält, den sie bereits hat, wird die Dauer des Effekts zurückgesetzt.
 
-A condition effect can also be added to other abilities as an added effect, causing all targets of the ability to gain that condition after its main effect is resolved. If the ability is an attack, the target gains the condition even if the attack dealt no damage, but they do not gain the condition if the attack killed or exhausted them, or if they are immune.
+Wenn eine Figur während ihres Zuges einen Zustand erhält, der „am Ende des nächsten Zuges der Figur“ entfernt wird, tritt der Zustand sofort in Kraft und gilt bis zum Ende ihres nächsten Zuges. Zustände, die am Ende des Zuges einer Figur entfernt werden, werden erst entfernt, nachdem alle anderen Effekte am Ende des Zuges abgehandelt wurden.
 
-#### Positive Conditions
+Ein Zustandseffekt kann auch als zusätzlicher Effekt zu anderen Fähigkeiten hinzugefügt werden, sodass alle Ziele der Fähigkeit diesen Zustand erhalten, nachdem der Haupteffekt abgehandelt wurde. Wenn es sich bei der Fähigkeit um einen Angriff handelt, erhält das Ziel den Zustand auch dann, wenn der Angriff keinen Schaden verursacht hat. Das Ziel erhält den Zustand jedoch nicht, wenn der Angriff es getötet oder erschöpft hat oder wenn es immun ist.
 
-<img src="assets/icons/condition_invisible.png" class="inline-condition"/> **Invisible:** The figure cannot be targeted by any enemy, though non-targeted abilities remain unaffected. The invisible figure and their allies can still interact with each other. Invisible is removed at the end of the figure’s next turn.
+#### Positive Zustände
 
-<img src="assets/icons/condition_strengthen.png" class="inline-condition"/> **Strengthen:** The figure gains advantage on all of their attacks. Strengthen is removed at the end of the figure’s next turn.
+<img src="assets/icons/condition_invisible.png" class="inline-condition"/> **Unsichtbarkeit:** Die Figur kann von keinem Feind als Ziel ausgewählt werden, allerdings bleiben nicht anvisierte Fertigkeit davon unberührt. Die unsichtbare Figur und ihre Verbündeten können weiterhin miteinander interagieren. Unsichtbarkeit wird am Ende des nächsten Zuges der Figur entfernt.
 
-#### Negative Conditions
+<img src="assets/icons/condition_strengthen.png" class="inline-condition"/> **Stärken:** Die Figur erhält bei allen Angriffen einen Vorteil. Stärken wird am Ende des nächsten Zuges der Figur entfernt.
 
-<img src="assets/icons/condition_wound.png" class="inline-condition"/> **Wound:** The figure suffers 1 damage at the start of each of their turns. Wound is removed when the figure is healed, and the figure is healed by the ability as normal. (You can place the token covering a monster’s ability text to help you remember.)
+#### Negative Zustände
 
-<img src="assets/icons/condition_poison.png" class="inline-condition"/> **Poison:** All attacks targeting the figure gain "**+1** <img src="assets/icons/ability_attack.png" class="inline-icon"/>." Poison is removed when the figure is healed but, unlike wound, poison prevents the heal from increasing the figure’s current hit point value. (You can place the token by your or the monster’s hit points to help you remember.)
+<img src="assets/icons/condition_wound.png" class="inline-condition"/> **Wunde:** Die Figur erleidet zu Beginn jeder ihrer Züge 1 Schaden. Die Wunde wird entfernt, sobald die Figur geheilt wird. Die Heilung wird wie gewohnt abgehandelt. (Du kannst den Marker auf den Fertigkeitstext eines Monsters legen, um ihn dir leichter zu merken.)
 
-<img src="assets/icons/condition_immobilize.png" class="inline-condition"/> **Immobilize:** The figure cannot perform any move abilities. Immobilize is removed at the end of the figure’s next turn.
+<img src="assets/icons/condition_poison.png" class="inline-condition"/> **Gift:** Alle Angriffe auf diese Figur erhalten "**+1** <img src="assets/icons/ability_attack.png" class="inline-icon"/>." Gift wird entfernt, wenn die Figur geheilt wird, aber im Gegensatz zu Wunde verhindert Gift, dass die Heilung den aktuellen Trefferpunktwert der Figur erhöht. (Du kannst den Marker auf den Fertigkeitstext eines Monsters legen, um ihn dir leichter zu merken.)
 
-<img src="assets/icons/condition_disarm.png" class="inline-condition"/> **Disarm:** The figure cannot perform any attack abilities. Disarm is removed at the end of the figure’s next turn.
+<img src="assets/icons/condition_immobilize.png" class="inline-condition"/> **Immobilisieren:** Die Figur kann keine Bewegungsfertigkeiten ausführen. Die Immobilisierung wird am Ende des nächsten Zuges der Figur entfernt.
 
-<img src="assets/icons/condition_muddle.png" class="inline-condition"/> **Muddle:** The figure gains disadvantage on all of their attacks. Muddle is removed at the end of the figure’s next turn.
+<img src="assets/icons/condition_disarm.png" class="inline-condition"/> **Entwaffnen:** Die Figur kann keine Angriffsfertigkeiten ausführen. Die Entwaffnung wird am Ende des nächsten Zuges der Figur entfernt.
+
+<img src="assets/icons/condition_muddle.png" class="inline-condition"/> **Durcheinander:** Die Figur erhält bei allen Angriffen einen Nachteil. Das Durcheinander wird am Ende des nächsten Zuges der Figur entfernt.
 
 ---
 
@@ -641,27 +642,27 @@ A condition effect can also be added to other abilities as an added effect, caus
 
 ---
 
-### Heal
+### Heilen
 
-<img src="assets/icons/ability_heal.png" class="inline-icon"/> "**Heal X**" is a positive targeted ability that allows the target to heal X amount of damage, increasing their current hit point value. When damage is healed, update the target’s hit point dial to reflect the new hit point total.
+<img src="assets/icons/ability_heal.png" class="inline-icon"/> "**Heilung X**" ist eine positive Zielfähigkeit, die es dem Ziel ermöglicht, X Schaden zu heilen und so seinen aktuellen Trefferpunktwert zu erhöhen. Wenn der Schaden geheilt ist, aktualisiere die Trefferpunktskala des Ziels, um die neue Gesamttrefferpunktzahl anzuzeigen.
 
-A figure’s current hit point value can never exceed their maximum hit point value, though it is permitted to target a figure that is already at their maximum hit point value with a heal ability; this can be done to remove poison or wound.
+Der aktuelle Trefferpunktwert einer Figur kann niemals ihren maximalen Trefferpunktwert überschreiten. Es ist jedoch erlaubt, eine Figur, die bereits ihren maximalen Trefferpunktwert erreicht hat, mit einer Heilfähigkeit anzugreifen. Dies kann z.B. durchgeführt werden, um Gift oder Wunde zu entfernen.
 
-Heal effects from attack modifiers function exactly like heal abilities.
+Heileffekte von Angriffsmodifikatoren funktionieren genau wie Heilfähigkeiten.
 
-A single heal can remove any combination of wound and poison from a figure. However, if poison is present, the hit point increase is prevented.
+Eine einzelne Heilung kann jede beliebige Kombination aus Wunde und Gift von einer Figur entfernen. Wenn jedoch Gift vorhanden ist, wird die Erhöhung der Trefferpunkte verhindert.
 
-### Active Bonuses
+### Aktive Boni
 
-An active bonus ability is any ability that provides an active bonus to a figure or their allies. When a character performs an active bonus ability, the card is placed in their active area to track the bonus.
+Eine aktive Bonusfähigkeit ist jede Fertigkeit, die einer Figur oder ihren Verbündeten einen aktiven Bonus verleiht. Wenn ein Charakter eine aktive Bonusfertigkeit ausführt, wird die Karte in seinen aktiven Bereich gelegt, um den Bonus festzuhalten.
 
-> Active bonus abilities have icons to indicate the duration of the bonuses they provide. When a bonus expires, even if the action has other active bonus abilities, the card is removed from the character’s active area; an A-side card is flipped to its B-side and returned to your hand, a B-side card is placed in your discard pile, or the card is placed in your lost pile if the action has a lost icon (see [p.28](#page_28)).
+> Aktive Bonusfertigkeiten haben Symbole, die die Dauer der von ihnen gewährten Boni anzeigen. Wenn ein Bonus abläuft, wird die Karte aus dem aktiven Bereich des Charakters entfernt, auch wenn die Aktion andere aktive Bonusfähigkeiten hat;  Eine Karte der Seite A wird auf die Seite B umgedreht und auf die Hand zurückgebracht, eine Karte der Seite B wird auf deinen Ablagestapel oder deinen Verluststapel gelegt, falls die Aktion ein Verlustsymbol hat (siehe [S.28](#page_28)).
 
-<img src="assets/icons/use_round_bonus.png" class="inline-icon"/> **Round Bonuses:** These bonuses activate when the ability is performed and expire at the end of the round.
+<img src="assets/icons/use_round_bonus.png" class="inline-icon"/> **Rundenboni:** Diese Boni werden aktiviert, wenn die Fertigkeit ausgeführt wird, und verfallen am Ende der Runde.
 
-<img src="assets/icons/use_persistent_bonus.png" class="inline-icon"/> **Persistent Bonuses:** These bonuses activate when the ability is performed and expire when the specified removal condition has been fulfilled.
+<img src="assets/icons/use_persistent_bonus.png" class="inline-icon"/> **Dauerhafte Boni:** Diese Boni werden aktiviert, wenn die Fertigkeit ausgeführt wird, und verfallen, wenn die angegebene Entfernungsbedingung erfüllt ist.
 
-A character may voluntarily remove a card with a persistent bonus (but not a round bonus) from their active area before the bonus expires, but doing so removes the bonus. This can be done at any time except during another ability. Because cards with persistent bonuses in your active area can be dismissed, you can consider them to be in the zone they will be moved to once dismissed; <span class="new-to-bnb">that is the hand for A-side cards, the discard pile for B-side cards,</span> or the lost pile for any card with a lost icon. As such, cards with persistent bonuses in your active area can count toward the two cards in your <span class="new-to-bnb">hand and/or discard pile required to rest (see <a href="#page_27">p.27</a>). Likewise, they can be dismissed and then discarded or lost to negate damage (see <a href="#page_28">p.28</a>).</span> When you recover discarded cards (by resting, for example) or lost cards (through special actions), you have the choice of recovering cards in your active area or leaving them in the active area.
+Ein Charakter kann freiwillig eine Karte mit einem dauerhaften Bonus (aber keinem Rundenbonus) aus seinem aktiven Bereich entfernen, bevor der Bonus abläuft. Dies kann jederzeit außer während einer anderen Fertigkeit passieren. Da Karten mit dauerhaften Boni in deinem aktiven Bereich jederzeit entfernt werden können, kannst du davon ausgehen, dass sie sich in dem Bereich befinden, in den sie verschoben werden, sobald sie entfernt wurden. <span class="new-to-bnb">that is the hand for A-side cards, the discard pile for B-side cards,</span> or the lost pile for any card with a lost icon. As such, cards with persistent bonuses in your active area can count toward the two cards in your <span class="new-to-bnb">hand and/or discard pile required to rest (see <a href="#page_27">p.27</a>). Likewise, they can be dismissed and then discarded or lost to negate damage (see <a href="#page_28">p.28</a>).</span> When you recover discarded cards (by resting, for example) or lost cards (through special actions), you have the choice of recovering cards in your active area or leaving them in the active area.
 
 Actions with active bonus abilities might also have other abilities, but these other abilities are only performed when the card is played. There is a wide variety of active bonus abilities. While these abilities are usually defined by text, there are two common ones with additional rules.
 
