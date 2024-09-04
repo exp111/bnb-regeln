@@ -662,9 +662,9 @@ Eine aktive Bonusfähigkeit ist jede Fertigkeit, die einer Figur oder ihren Verb
 
 <img src="assets/icons/use_persistent_bonus.png" class="inline-icon"/> **Dauerhafte Boni:** Diese Boni werden aktiviert, wenn die Fertigkeit ausgeführt wird, und verfallen, wenn die angegebene Entfernungsbedingung erfüllt ist.
 
-Ein Charakter kann freiwillig eine Karte mit einem dauerhaften Bonus (aber keinem Rundenbonus) aus seinem aktiven Bereich entfernen, bevor der Bonus abläuft. Dies kann jederzeit außer während einer anderen Fertigkeit passieren. Da Karten mit dauerhaften Boni in deinem aktiven Bereich jederzeit entfernt werden können, kannst du davon ausgehen, dass sie sich in dem Bereich befinden, in den sie verschoben werden, sobald sie entfernt wurden. <span class="new-to-bnb">that is the hand for A-side cards, the discard pile for B-side cards,</span> or the lost pile for any card with a lost icon. As such, cards with persistent bonuses in your active area can count toward the two cards in your <span class="new-to-bnb">hand and/or discard pile required to rest (see <a href="#page_27">p.27</a>). Likewise, they can be dismissed and then discarded or lost to negate damage (see <a href="#page_28">p.28</a>).</span> When you recover discarded cards (by resting, for example) or lost cards (through special actions), you have the choice of recovering cards in your active area or leaving them in the active area.
+Ein Charakter kann freiwillig eine Karte mit einem dauerhaften Bonus (aber keinem Rundenbonus) aus seinem aktiven Bereich entfernen, bevor der Bonus abläuft. Dies kann jederzeit außer während einer anderen Fertigkeit passieren. Da Karten mit dauerhaften Boni in deinem aktiven Bereich jederzeit entfernt werden können, kannst du davon ausgehen, dass sie sich in dem Bereich befinden, in den sie verschoben werden, sobald sie entfernt wurden. <span class="new-to-bnb">Dieser Bereich ist die Hand für Karten der A-Seite, der Ablagestapel für Karten der B-Seite </span> oder der Verluststapel für jede Karte mit einem Verlustsymbol. Daher können Karten mit einem dauerhaften Boni on deinem aktiven Bereich auf die beiden Karten <span class="new-to-bnb">in deiner Hand und/oder Ablagestapel angerechnet werden, die zum Ruhen erforderlich sind (siehe <a href="#page_27">S.27</a>). Ebenso können sie abgelegt und dann abgeworfen werden oder verloren gehen, um Schaden zu verhindern (siehe <a href="#page_28">S.28</a>).</span> Wenn du abgeworfene Karten zurückholst (z.B. durch Ausruhen) oder verlorene Karten (durch Sonderaktionen), hast du die Wahl, Karten in deinem aktiven Bereich zurückzuholen oder sie im aktiven Bereich zu belassen.
 
-Actions with active bonus abilities might also have other abilities, but these other abilities are only performed when the card is played. There is a wide variety of active bonus abilities. While these abilities are usually defined by text, there are two common ones with additional rules.
+Aktionen mit aktiven Bonusfertigkeiten können auch noch andere Fertigkeiten haben. Diese anderen Fertigkeiten werden jedoch nur ausgeführt, wenn die Karte ausgespielt wird. Es gibt eine Vielzahl aktiver Bonusfertigkeiten. Während diese Fertigkeiten normalerweise durch einen Text definiert werden, gibt es zwei häufige mit zusätzlichen Regeln.
 
 ---
 
@@ -672,21 +672,21 @@ Actions with active bonus abilities might also have other abilities, but these o
 
 ---
 
-#### Shield
+#### Schild
 
-<img src="assets/icons/ability_shield.png" class="inline-icon"/> "**Shield X**" is a positive ability that gives the acting figure a shield bonus of X. This reduces the attack value of an incoming attack by X. The shield bonus is only applied after all attack bonuses or penalties and modifiers have been applied. Multiple shield bonuses stack with one another as a single reduction in attack value. A shield bonus does not apply to sources of damage that are not attacks and does not negate added effects.
+<img src="assets/icons/ability_shield.png" class="inline-icon"/> "**Schild X**" ist eine positive Fertigkeit, die der handelnden Figur einen Schildbonus von X verleiht. Dadurch wird der Angriffswert eines eingehenden Angriffs um X reduziert. Der Schildbonus wird erst angewendet, nachdem alle Angriffsboni bzw. Abzüge und Modifikatoren angewendet wurden. Mehrere Schildboni werden zusammengerechnet und gelten als einzelne Reduzierung des Angriffswerts. Ein Schildbonus gilt nicht für Schadensquellen, die keine Angriffe sind, und macht zusätzliche Effekte nicht zunichte.
 
-A shield ability applies to the acting figure unless otherwise specified.
+Eine Schildfähigkeit gilt für die handelnde Figur, sofern nicht anders angegeben.
 
-#### Retaliate
+#### Vergeltung
 
-<img src="assets/icons/ability_retaliate.png" class="inline-icon"/> "**Retaliate X**" is a positive ability that gives the acting figure a retaliate bonus of X. This deals X damage to any figure who attacks them, if they are within the specified range after all attack effects are resolved (including push or pull). If no range is specified, the bonus is only applied to adjacent attackers. This bonus is triggered by each attack and occurs after the attack is resolved.
+<img src="assets/icons/ability_retaliate.png" class="inline-icon"/> "**Vergeltung X**" ist eine positive Fertigkeit, die der handelnden Figur einen Vergeltungsbonus von X verleiht. Dies fügt jeder Figur, die sie angreift, X Schaden zu, wenn sie sich innerhalb der angegebenen Reichweite befindet, nachdem alle Angriffseffekte (einschließlich Stoßen oder Ziehen) abgehandelt wurden. Wenn keine Reichweite angegeben ist, wird der Bonus nur auf benachbarte Angreifer angewendet. Dieser Bonus wird bei jedem Angriff ausgelöst und tritt ein, nachdem ein Angriff ausgeführt wurde.
 
-> Some retaliate abilities include added effects, such as push or conditions. These effects are applied after the retaliate damage is applied.
+>Einige Vergeltungsfertigkeiten umfassen zusätzliche Effekte wie Stoßen oder Zustände. Diese Effekte werden angewendet, nachdem der Vergeltungsschaden angewendet wurde.
 
-A retaliate bonus is not an attack or targeted effect, therefore the damage cannot be reduced by a shield bonus. If a retaliating figure is killed or exhausted by an attack, the retaliate bonus does not occur. Multiple retaliate bonuses stack with one another as a single source of damage, but each retaliate bonus is only applied within its specified range.
+Ein Vergeltungsbonus ist kein Angriff oder Zieleffekt, daher kann der Schaden nicht durch einen Schildbonus reduziert werden. Wenn eine Vergeltungsfigur durch einen Angriff getötet oder erschöpft wird, wird der Vergeltungsbonus nicht angewendet. Mehrere Vergeltungsboni bilden zusammen eine einzige Schadensquelle, aber jeder Vergeltungsbonus wird nur innerhalb seines angegebenen Bereichs angewendet.
 
-A retaliate ability applies to the acting figure unless otherwise specified.
+Eine Vergeltungsfertigkeit gilt für die handelnde Figur, sofern nicht anders angegeben.
 
 ---
 
@@ -694,23 +694,23 @@ A retaliate ability applies to the acting figure unless otherwise specified.
 
 ---
 
-### Forced Movement
+### erzwungene Bewegung
 
-Forced movement is any negative targeted ability that allows a figure to control another figure’s movement. Forced movement must follow all normal movement rules for the target. For example, if a flying figure is forced to move, flying still applies.
+Erzwungene Bewegung ist jede negative gezielte Fähigkeit, die es einer Figur ermöglicht, die Bewegung einer anderen Figur zu kontrollieren. Die erzwungene Bewegung muss allen normalen Bewegungsregeln für das Ziel folgen. Wenn beispielsweise eine fliegende Figur gezwungen wird, sich zu bewegen, gilt weiterhin das Fliegen.
 
-There are two primary forced movement abilities:
+Es gibt zwei primäre erzwungene Bewegungsfähigkeiten:
 
-<img src="assets/icons/condition_push.png" class="inline-condition"/> "**Push X**" forces the target to move up to X hexes away from the acting figure. Each individual hex entered must place the target farther by range from the acting figure.
+<img src="assets/icons/condition_push.png" class="inline-condition"/> "**Stoßen X**" zwingt das Ziel, sich bis zu X Felder von der handelnden Figur wegzubewegen. Jedes betretene Hexfeld muss das Ziel in eine größerer Entfernung von der handelnden Figur bringen.
 
-<img src="assets/icons/condition_pull.png" class="inline-condition"/> "**Pull X**" forces the target to move up to X hexes toward the acting figure. Each individual hex entered must place the target closer by range to the acting figure.
+<img src="assets/icons/condition_pull.png" class="inline-condition"/> "**Ziehen X**" zwingt das Ziel, sich bis zu X Felder auf die handelnde Figur zuzubewegen. Jedes betretene Hexfeld muss das Ziel näher an die handelnde Figur bringen.
 
-When you perform a push or a pull, you decide the direction and distance that the target moves. When you push or pull the target into a hazard hex, it suffers the effects of that hazard hex unless it’s flying.
+Wenn du Stoßen oder Ziehen ausführst, bestimmst du die Richtung und Entfernung, in der sich das Ziel bewegt. Wenn Sie das Ziel in ein Gefahrenfeld stoßen oder ziehen, erleidet es die Auswirkungen dieses Gefahrenfelds, es sei denn, es fliegt.
 
-When a monster performs a push or a pull, you decide the direction, but the target must move as far as possible. Push and pull are unaffected by difficult terrain, but all other normal movement rules are still applied (including the rules for flying figures). Immobilized figures can still be affected by push and pull.
+Wenn ein Monster Stoßen oder Ziehen ausführt, bestimmst du die Richtung, aber das Ziel muss sich so weit wie möglich bewegen. Schwieriges Gelände hat keinen Einfluss auf Schieben und Ziehen. Alle anderen normalen Bewegungsregeln gelten jedoch weiterhin (einschließlich der Regeln für fliegende Figuren). Auch immobilisierte Figuren können durch Stoßen und Ziehen beeinträchtigt werden.
 
-Push and pull can also be added to other abilities as an added effect, allowing the forced movement of one or more targets of that ability after its main effect is resolved. If the ability is an attack, the target can be forced to move even if the attack dealt no damage, but they cannot be forced to move if the attack killed or exhausted them.
+Stoßen und Ziehen kann auch als zusätzlicher Effekt zu anderen Fertigkeiten hinzugefügt werden, wodurch die erzwungene Bewegung eines oder mehrerer Ziele dieser Fertigkeit ermöglicht wird, nachdem der Haupteffekt abgehandelt wurde. Wenn es sich bei der Fertigkeit um einen Angriff handelt, kann das Ziel gezwungen werden, sich zu bewegen, selbst wenn der Angriff keinen Schaden verursacht hat. Es kann jedoch nicht dazu gezwungen werden, sich zu bewegen, wenn der Angriff es getötet oder erschöpft hat.
 
-Multiple push or pull effects are combined. For example, if an ability with "<img src="assets/icons/condition_push.png" class="inline-condition"/> **1**" gains "<img src="assets/icons/condition_push.png" class="inline-condition"/> **2**," the result is a "<img src="assets/icons/condition_push.png" class="inline-condition"/> **3**" ability.
+Mehrere Stoßen- und Zieheneffekte können kombiniert werden. Wenn beispielsweise eine Fertigkeit mit "<img src="assets/icons/condition_push.png" class="inline-condition"/> **1**" zusätzlich "<img src="assets/icons/condition_push.png" class="inline-condition"/> **2** erhählt," ist das Ergebnis eine "<img src="assets/icons/condition_push.png" class="inline-condition"/> **3**" Fertigkeit.
 
 ---
 
