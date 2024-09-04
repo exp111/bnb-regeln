@@ -710,7 +710,7 @@ Wenn ein Monster Stoßen oder Ziehen ausführt, bestimmst du die Richtung, aber 
 
 Stoßen und Ziehen kann auch als zusätzlicher Effekt zu anderen Fertigkeiten hinzugefügt werden, wodurch die erzwungene Bewegung eines oder mehrerer Ziele dieser Fertigkeit ermöglicht wird, nachdem der Haupteffekt abgehandelt wurde. Wenn es sich bei der Fertigkeit um einen Angriff handelt, kann das Ziel gezwungen werden, sich zu bewegen, selbst wenn der Angriff keinen Schaden verursacht hat. Es kann jedoch nicht dazu gezwungen werden, sich zu bewegen, wenn der Angriff es getötet oder erschöpft hat.
 
-Mehrere Stoßen- und Zieheneffekte können kombiniert werden. Wenn beispielsweise eine Fertigkeit mit "<img src="assets/icons/condition_push.png" class="inline-condition"/> **1**" zusätzlich "<img src="assets/icons/condition_push.png" class="inline-condition"/> **2** erhählt," ist das Ergebnis eine "<img src="assets/icons/condition_push.png" class="inline-condition"/> **3**" Fertigkeit.
+Mehrere Stoßen- und Zieheneffekte können kombiniert werden. Wenn beispielsweise eine Fertigkeit mit "<img src="assets/icons/condition_push.png" class="inline-condition"/> **1**" zusätzlich "<img src="assets/icons/condition_push.png" class="inline-condition"/> **2**" erhält, ist das Ergebnis eine "<img src="assets/icons/condition_push.png" class="inline-condition"/> **3**" Fertigkeit.
 
 ---
 
@@ -718,23 +718,23 @@ Mehrere Stoßen- und Zieheneffekte können kombiniert werden. Wenn beispielsweis
 
 ---
 
-### Control
+### Kontrolle
 
-**Control** allows you to force a monster to perform one or more abilities. You decide how the ability is performed. During this ability, the controlled figure treats your enemies as their enemies.
+**Kontrolle** ermöglicht es dir, ein Monster zu zwingen, eine oder mehrere Fertigkeiten auszuführen. Du entscheidest, wie die Fertigkeiten ausgeführt wird. Während dieser Fertigkeit behandelt die kontrollierte Figur deine Feinde als ihre Feinde.
 
-When a controlled move ability is performed, it is considered forced movement. A move ability cannot be controlled if the controlled figure has no valid path or is immobilized.
+Wenn eine kontrollierte Bewegungsfertigkeit ausgeführt wird, gilt sie als erzwungene Bewegung. Eine Bewegungsfertigkeit kann nicht kontrolliert werden, wenn die kontrollierte Figur keinen möglichen Weg hat oder bewegungsunfähig ist.
 
-When a controlled attack ability is performed, the controlled figure uses their own attack modifier table. An attack ability cannot be controlled if the controlled figure has no valid targets or is disarmed.
+Wenn eine kontrollierte Angriffsfertigkeit ausgeführt wird, verwendet die kontrollierte Figur ihre eigene Angriffsmodifikatortabelle. Eine Angriffsfertigkeit kann nicht kontrolliert werden, wenn die kontrollierte Figur keine gültigen Ziele hat oder entwaffnet ist.
 
-A figure can be controlled to perform an "<img src="assets/icons/ability_attack.png" class="inline-icon"/> **X**" or "<img src="assets/icons/ability_move.png" class="inline-icon"/> **X**" ability, even if they have no attack or move ability in their rolled action for the round. A controlled figure retains all of their persistent bonuses and special traits. A controlled ability is not considered a separate turn.
+Eine Figur kann kontrolliert werden, um eine "<img src="assets/icons/ability_attack.png" class="inline-icon"/> **X**" oder "<img src="assets/icons/ability_move.png" class="inline-icon"/> **X**" Fertigkeit auszuführen, auch wenn sie in ihrer gewürfelten Aktion für die Runde keine Angriffs- oder Bewegungsfertigkeit haben. Eine kontrollierte Figur behält alle ihre dauerhaften Boni und Sondereigenschaften. Eine kontrollierte Fertigkeit gilt nicht als separater Zug.
 
-### Suffer Damage
+### Schaden erleiden
 
-Some abilities cause figures to suffer damage without an attack being performed. This damage is not modified by anything. Suffering damage is not a targeted ability.
+Einige Fertigkeiten führen dazu, dass Figuren Schaden erleiden, ohne dass ein Angriff ausgeführt wird. Dieser Schaden wird durch nichts verändert. Schaden erleiden ist keine gezielte Fertigkeit.
 
-### Recover
+### Erholen
 
-<img src="assets/icons/ability_recover_card.png" class="inline-icon"/> **Recover** is a positive, non-targeted ability that allows you to recover discarded, flipped, or lost ability cards (see p.28). You look through your hand, discard pile, or lost pile, select cards up to the number specified by the ability, and return those cards to your hand on their A-side.
+<img src="assets/icons/ability_recover_card.png" class="inline-icon"/> **Erholen** ist eine positive, nicht gezielte Fertigkeit, mit der du abgeworfene, umgedrehte oder verlorene Fertigkeitskarten wiederherstellen kannst (siehe S.28). Du durchsuchst deine Hand, deinen Ablagestapel oder den Verluststapel und wählst soviel Karten bis zu dem durch die Fertigkeit angegebenen Limit aus und nimmst sie auf der A-Seite zurück auf deine Hand.
 
 ---
 
@@ -744,29 +744,31 @@ Some abilities cause figures to suffer damage without an attack being performed.
 
 ## Character Turns
 
-On your turn, unless performing a long rest (see [p.27](#page_27)), you will perform the top action of one of your played ability cards and the bottom action of the other. You cannot perform two top actions or two bottom actions. You can perform either action first; which card was selected for your initiative no longer matters.
+Wenn du an der Reihe bist, führst du, sofern du keine lange Pause einlegst (siehe [S.27](#page_27)), die oberste Aktion einer deiner gespielten Fertigkeitskarten und die unterste Aktion der anderen aus. Du kannst nicht zwei obere oder zwei untere Aktionen ausführen. Du kannst egal welche der beide Aktionen zuerst ausführen. Welche Karte für die Initiative ausgewählt wurde, spielt keine Rolle mehr.
 
-<span class="new-to-bnb">Once played, A-side ability cards are flipped to their B-side and returned to your hand instead of being discarded, but B-side cards are discarded.</span> Ability cards are placed around the sides of the character card: discarded ability cards to the left, lost ability cards to the right, and active ability cards above the character card. Cards in your hand must be kept separate.
+<span class="new-to-bnb">Nach dem Ausspielen werden Fertigkeitskarten der A-Seite auf die B-Seite umgedreht und auf die Hand zurückgenommen, anstatt abgelegt zu werden. Karten der B-Seite werden abgeworfen.</span> Fertigkeitskarten werden um die Seiten der Charakterkarte gelegt: abgelegt Fertigkeitskarten links, verlorene Fertigkeitskarten rechts und aktive Fertigkeitskarten oberhalb der Charakterkarte. Die Karten auf deiner Hand müssen getrennt aufbewahrt werden.
 
-### Ability Cards
+### Fertigkeitskarten
 
-Ability cards, which are all unique, determine which actions you can perform.
+Fertigkeitskarten, die alle einzigartig sind, bestimmen, welche Aktionen Sie ausführen können.
 
 ![component breakdown of ability card](/assets/diagrams/component_diagram_ability.png)
 
-An ability card has the following:
+//// FEHLER? BEI GRAFIK = F SOLLTE G SEIN ? 
+
+Eine Fertigkeitskarte besteht aus folgenden Teilen:
 
 <ol type="A">
-  <li><strong>Side Indicator:</strong> Indicates whether you’re looking at the A-side or B-side of the card.</li>
-  <li><strong>Card Name:</strong> The name of the card.</li>
-  <li><strong>Level:</strong> The level of the card, either a base level 1 or upgraded level 2 (see <a href="#page_35">p.35</a>).</li>
-  <li><strong>Initiative Value:</strong> This value determines when you act during the round (see <a href="#page_11">p.11</a>).</li>
-  <li><strong>Actions:</strong> Each card has a top action and a bottom action. The abilities of an action are performed from top to bottom, with each ability separated by an ability line.</li>
+  <li><strong>Seitenanzeige:</strong> Zeigt an, ob du die A-Seite oder die B-Seite der Karte ansiehst.</li>
+  <li><strong>Kartenname:</strong> Der Name der Karte.</li>
+  <li><strong>Stufe:</strong>Die Stufe der Karte. Entweder die Basisstufe 1 oder die verbesserte Stufe 2(siehe <a href="#page_35">S.35</a>).</li>
+  <li><strong>Initiativewert:</strong> Dieser Wert bestimmt, wann du während der Runde am Zug bist (siehe <a href="#page_11">S.11</a>).</li>
+  <li><strong>Aktionen:</strong> Jede Karte hat eine obere und eine untere Aktion. Die Fertigkeiten einer Aktion werden von oben nach unten ausgeführt, wobei mehrere Fertigkeiten durch eine Linie getrennt ist.</li>
   <li><ol type="a">
-    <li>An action might include an active ability icon (see <a href="#page_21">p.21</a>), in which case the card is placed in your active area.</li>
-    <li>An action might include a lost icon (see <a href="#page_28">p.28</a>), in which case the card is placed in the lost pile after its action is performed.</li>
+    <li>Eine Aktion kann ein aktives Fertigkeitssymbol enthalten (siehe <a href="#page_21">S.21</a>). In diesem Fall wird die Karte in deinen aktiven Bereich gelegt.</li>
+    <li>Eine Aktion kann ein Verlustsymbol enthalten (siehe <a href="#page_28">S.28</a>). In diesem Fall wird die Karte nach Ausführung der Aktion auf den Verluststapel gelegt. </li>
   </ol></li>
-  <li><strong>Basic Action Icons:</strong> An ability card can always be used for a basic "<img src="assets/icons/ability_attack.png" class="inline-icon"/> <strong>2</strong>" top action or "<img src="assets/icons/ability_move.png" class="inline-icon"/> <strong>2</strong>" bottom action. <span class="new-to-bnb">If a card is used this way, the card is flipped and returned to your hand (if it was on the A-side) or discarded (if it was on the B-side) as if it has no other icons.</span></li>
+  <li><strong>Grundlegende Aktionssymbole:</strong> Eine Fertigkeitskarte kann immer als eine einfache "<img src="assets/icons/ability_attack.png" class="inline-icon"/> <strong>2</strong>" obere Fertigkeit oder "<img src="assets/icons/ability_move.png" class="inline-icon"/> <strong>2</strong>" untere Fertigkeit verwendet werden. <span class="new-to-bnb"> Wenn eine Karte auf diese Weise verwendet wird, wird die Karte umgedreht und auf die Hand zurückgegeben (wenn sie auf der A-Seite war) oder abgeworfen (wenn sie auf der B-Seite war), als ob sie keine anderen Symbole hätte.</span></li>
 </ol>
 
 ---
@@ -775,34 +777,35 @@ An ability card has the following:
 
 ---
 
-### Items
+### Gegenstände
 
-<span class="new-to-bnb">Each scenario card includes two item entries, shown above and below the scenario entry.</span> Items offer a wide variety of bonuses and extra abilities that can be used in addition to your normal two actions per round.
+<span class="new-to-bnb">Jede Szenariokarte enthält zwei Gegenständeinträge, die über und unter dem Szenarioeintrag angezeigt werden.</span> Gegenstände bieten eine Vielzahl von Boni und zusätzlichen Fertigkeiten an, die zusätzlich zu den normalen zwei Aktionen pro Runde verwendet werden können.
 
 ![component breakdown of item entry on scenario card](/assets/diagrams/component_diagram_items.png)
 
-An item entry has the following:
+Eine Gegenstandskarte besteht aus folgenden Teilen:
 
 <ol type="A">
-  <li><strong>Item Name:</strong> The name of the item.</li>
-  <li><strong>Item Effect:</strong> When the item can be used and what bonus or ability you gain.</li>
-  <li><strong>Item Usage:</strong> What happens to the item after it has been used (see <a href="#page_26">p.26</a>). Some items are only spent, while others are lost. Some items can even be used multiple times.</li>
-  <li><strong>Item Type:</strong> Each item counts as one of three types: <img src="assets/icons/equip_single_hand.png" class="inline-icon"/>, <img src="assets/icons/equip_dual_hand.png" class="inline-icon"/>, or <img src="assets/icons/equip_item.png" class="inline-icon"/>. These types determine which items you can bring into a scenario.</li>
+  <li><strong>Gegenstandsname:</strong> Der Name des Gegenstands.</li>
+  <li><strong>Gegenstandseffekt:</strong> Wann der Gegenstand verwendet werden kann und welchen Bonus oder welche Fertigkeit du erhälst.</li>
+  <li><strong>Gegenstandsverwendung:</strong> Was mit dem Gegenstand passiert, nachdem er verwendet wurde (siehe <a href="#page_26">S.26</a>). Manche Gegenstände werden nur verbraucht, andere gehen verloren. Einige Gegenstände können sogar mehrfach verwendet werden.</li>
+  <li><strong>Gegenstandstyp:</strong> Jeder Gegenstand zählt als einer von drei Typen: <img src="assets/icons/equip_single_hand.png" class="inline-icon"/>, <img src="assets/icons/equip_dual_hand.png" class="inline-icon"/>, or <img src="assets/icons/equip_item.png" class="inline-icon"/>. Diese Typen bestimmen, welche Gegenstände du in ein Szenario mitnehmen kannst.</li>
 </ol>
 
-#### Item Limits
+#### Gegenstandsbeschränkungen
 
-All items you bring into a scenario are placed below your character card and can be used as specified in the item entry.
+Alle Gegenstände, die du in ein Szenario mitbringst, werden unter deiner Charakterkarte platziert und können wie im Gegenstandseintrag angegeben verwendet werden.
 
-You can use any item as long as it is available (see <a href="#page_35">p.35</a>), but you can only bring a limited number of items into a scenario. You can bring up to two <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> items or one <img src="assets/icons/equip_dual_hand.png" class="inline-icon"/> item, and a number of <img src="assets/icons/equip_item.png" class="inline-icon"/> items up to half the scenario level (rounded up).
+Du kannst jeden Gegenstand verwenden, solange er verfügbar ist (siehe <a href="#page_35">S.35</a>), aber du kannst nur eine begrenzte Anzahl von Gegenständen in ein Szenario mitnehmen. Du kannst bis zu zwei  <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> Gegenstände oder einen <img src="assets/icons/equip_dual_hand.png" class="inline-icon"/> Gegenstand, und eine Anzahl von <img src="assets/icons/equip_item.png" class="inline-icon"/> Gegenständen bis zur Hälfte der Szenariostufe (aufgerundet) mitnehmen.
 
-#### Item Usage
+#### Verwendung eines Gegenstands
 
-<img src="assets/icons/use_tap_card.png" class="inline-icon"/> **Spent Icon:** The spent icon means the item is spent after use. This is indicated by rotating the card sideways. Spent items can be recovered the next time you perform a long rest (see [p.27](#page_27)).
+<img src="assets/icons/use_tap_card.png" class="inline-icon"/> **Verbrauchtsymbol:** Das Verbraucht-Symbol bedeutet, dass der Gegenstand nach der Verwendung verbraucht ist. Dies wird durch seitliches Drehen der Karte angezeigt. Verbrauchte Gegenstände können bei der nächsten langen Pause wiederhergestellt werden (siehe [S.27](#page_27)).
 
-<img src="assets/icons/use_lost.png" class="inline-icon"/> **Lost Icon:** The lost icon means the item is lost after use. This is indicated by returning the card to the pile of unused items. Lost items cannot be used again for the rest of the scenario.
+<img src="assets/icons/use_lost.png" class="inline-icon"/> **Verlustsymbol:** Das Verlustsymbol bedeutet, dass der Gegenstand nach der Verwendung verloren geht. Dies wird dadurch angezeigt, dass die Karte wieder auf den Stapel der unbenutzten Gegenstände gelegt wird. Verlorene Gegenstände können für den Rest des Szenarios nicht wieder verwendet werden.
 
-Some items do not have either of these icons. This means the item applies a passive effect. There are no limits on how many times an item with a passive effect can be used.
+Einige Gegenstände verfügen nicht über eines dieser Symbole. Das bedeutet, dass der Gegenstand einen passiven Effekt ausübt. Es gibt keine Begrenzung, wie oft ein Gegenstand mit passivem Effekt verwendet werden kann.
+
 
 ---
 
@@ -810,25 +813,26 @@ Some items do not have either of these icons. This means the item applies a pass
 
 ---
 
-### Mandatory Triggers
+### verpflichtende Auslöser
 
-Mandatory triggers are effects or abilities which cannot be skipped if any part of the action is performed. In such cases, the ability or effect is highlighted in a box with an "!" in front of it. These include:
-- **Negative Abilities:** The indicated ability creates a negative effect for you.
-- **Lost Icons:** The card must be lost.
-- **Active Icons:** The card must be placed in your active area.
+Verpflichtende Auslöser sind Effekte oder Fertigkeiten, die nicht übersprungen werden können, wenn ein Teil der Aktion ausgeführt wird. In solchen Fällen wird die Fertigkeit oder der Effekt in einem Kästchen mit einem „!“ davor hervorgehoben. Dazu gehören:
+- **Negative Fertigkeiten:** Die angegebene Fertigkeit erzeugt einen negativen Effekt für dich.
+- **Verlustsymbol:** Die Karte muss auf den Verluststapel gelegt werden.
+- **aktive Fertigkeitssymbole:** Die Karte muss in deinem aktiven Bereich platziert werden.
 
-### Resting
+### Ausruhen
 
-Resting is the main way to retrieve cards from your discard pile. You have two options: a short rest or a long rest. <span class="new-to-bnb">In both cases, the rest can only be performed if you have at least two cards in your hand and/or discard pile. (This includes cards with persistent bonuses in your active area (see <a href="#page_21">p.21</a>) as long as they weren't used for an action with the lost icon.)</span> Resting always results in losing one card.
+Ausruhen ist die wichtigste Möglichkeit, Karten von deinem Ablagestapel zurückzunehmen. Es gibt zwei Möglichkeiten: eine kurze Pause oder eine lange Pause. <span class="new-to-bnb">In beiden Fällen kann das Ausruhen nur durchgeführt werden, wenn du mindestens zwei Karten auf der Hand und/oder im Ablagestapel hast. (Dazu gehören auch Karten mit dauerhaften Boni in deinem aktiven Bereich (siehe <a href="#page_21">S.21</a>) solange sie nicht für eine Aktion mit dem Verlustsymbol verwendet wurden.)</span> Das Ausruhen führt immer zum Verlust einer Karte.
 
-During the End of Round step (see [p.33](#page_33)), you may perform a short rest. <span class="new-to-bnb">When you short rest, return all cards from your discard pile to your hand and flip all B-side cards in your hand to their A-side, then lose one card at random from your hand.</span> If you would like to keep the card that was lost, you can suffer 1 damage to lose a different random card instead, but this can only be done once per short rest.
+Während einem Rundenende (siehe [S.33](#page_33)), kannst du eine kurze Pause einlegen. <span class="new-to-bnb">Wenn du eine kurze Pause machst, nimmst du alle Karten von deinem Ablagestapel zurück auf deine Hand, drehst alle Karten der B-Seite in deiner Hand auf die A-Seite und verlierst dann eine zufällige Karte deiner Hand.</span> Wenn du die verlorene Karte jeddoch behalten möchten, kannst du 1 Schaden erleiden, um stattdessen eine andere, zufällige Karte zu verlieren. Dies ist nur einmal pro kurzer Pause möglich.
 
-During the Card Selection step (see [p.10](#page_10)), you may declare a long rest. This constitutes your entire turn for the round (instead of playing two cards) and it is performed on initiative 99. When you long rest, you follow these steps:
-1. <span class="new-to-bnb">Return all cards from your discard pile to your hand and flip all B-side cards in your hand to their A-side, then lose one card of your choice from your hand (mandatory).</span>
-1. Perform "**Heal 2, self**" (optional).
-1. Recover all of your spent items (optional). Items can be used during the same turn in which they are recovered.
+Während der Kartenauswahl (siehe [S.10](#page_10)), kannst du eine lange Pause ankündigen. Dies stellt dann deinen gesamten Zug für die Runde dar (anstatt zwei Karten auszuspielen) und wird auf Initiative 99 ausgeführt. Wenn du eine lange Pause machst, befolgst du diese Schritte:
+1. <span class="new-to-bnb"> Nimm alle Karten von deinem Ablagestapel zurück auf deine Hand und drehe alle Karten der B-Seite in deiner Hand auf die A-Seite. Anschließend verlierst du eine Karte deiner Wahl aus deiner Hand (verpflichtend).</span>
+1. Führe „**Heilung 2, selbst**“ durch (optional).
+1. Hole alle verbrauchten Gegenstände zurück (optional). Gegenstände können in derselben Runde verwendet werden, in der sie wiederhergestellt werden.
 
-You must lose a card as part of resting. If there are no other cards in your hand to lose, you must instead lose one of the cards in the active area that does not have the lost icon. If there are no cards in the active area that can be lost either, resolve the other steps of the rest and check for exhaustion as the start of the next round as normal.
+Beim Ausruhen muss eine Karte verloren gehen. Wenn du keine weiteren Karten auf der Hand hast, die du verlieren kannst, musst du stattdessen eine der Karten in deinem aktiven Bereich verlieren, die nicht über ein Verlustsymbol verfügen. Befinden sich im aktiven Bereich auch keine Karten, die verloren gehen können, werden die weiteren Schritte der Pause abgehandelt und zu Beginn der nächsten Runde wird wie immer auf eine mögliche Erschöpfung geprüft.
+
 
 ---
 
@@ -836,35 +840,35 @@ You must lose a card as part of resting. If there are no other cards in your han
 
 ---
 
-### Lost Actions
+### Aktionen mit Verlustsymbol
 
-<img src="assets/icons/use_lost.png" class="inline-icon"/> Lost actions can be performed only once. If an action has the lost icon, the card must be placed in your lost pile after the action is performed (in whole, or in part), where it will remain until the end of the scenario (unless recovered).
+<img src="assets/icons/use_lost.png" class="inline-icon"/> Aktionen mit Verlustsymbol können nur einmal ausgeführt werden. Wenn eine Aktion das Verlustsymbol hat, muss die Karte nach Durchführung der Aktion (ganz oder teilweise) auf deinen Verluststapel gelegt werden, wo sie bis zum Ende des Szenarios liegen bleibt (sofern sie nicht wiederhergestellt wird).
 
-If the lost action was used to perform an active bonus ability, the card is still considered lost and must be moved from the active area to the lost pile once the active bonus is no longer in effect.
+Wenn die Aktion mit Verlustsymbol dazu verwendet wurde, eine aktive Bonusfertigkeit auszuführen, gilt die Karte dennoch als verloren und muss vom aktiven Bereich auf den Verluststapel verschoben werden, sobald der aktive Bonus nicht mehr wirksam ist.
 
-Some lost actions have the <img src="assets/icons/use_nonreturn_card.png" class="inline-icon"/> icon. If you perform a lost action with this icon, the card cannot be recovered by any means until the end of the scenario. Place the card in the lost pile, but rotate it 180 degrees so that it is upside down as a reminder.
+Einige Aktionen mit Verlustsymbol haben das <img src="assets/icons/use_nonreturn_card.png" class="inline-icon"/> Symbol. Wenn du eine Aktion mit Verlustsymbol mit diesem Symbol ausführst, kann die Karte bis zum Ende des Szenarios auf keinen Fall wiederhergestellt werden. Lege diese Karte auf den Verluststapel und drehe sie zur Erinnerung um 180 Grad, sodass sie auf dem Kopf steht.
 
 ### Character Damage
 
-When you would suffer any amount of damage, you must either reduce your hit point dial by that amount or negate the damage. Damage can be negated in two ways:
-- **Ability or Effect:** You may use an active ability or effect which negates damage.
+Wenn du Schaden in beliebiger Höhe erleidest, musst du entweder deine Trefferpunktskala um diesen Betrag reduzieren oder den Schaden negieren. Schaden kann auf zwei Arten negiert werden:
+- **Fertigkeit oder Effekt:** Du kannst eine aktive Fertigkeit oder einen aktiven Effekt verwenden, der Schaden negiert.
 
-> - **Card Loss:** You may negate damage by discarding or losing cards in one of three ways:
->   - **Discard** one A-side card of your choice from your **hand**.
->   - **Discard** two B-side cards of your choice from your **hand**.
->   - **Lose** one card of your choice from your **hand or discard pile**.
+> - **Kartenverlust:** Du kannst den Schaden auf drei Arten negieren, indem du Karten abwirfst oder verlierst:
+>   - **Wirf** eine A-Karte deiner Wahl aus deiner **Hand** auf den Ablagestapel.
+>   - **Wirf** zwei B-Karten deiner Wahl aus deiner **Hand** auf den Ablagestapel.
+>   - **Verliere** eine Karte deiner Wahl aus deinem **Hand- oder Ablagestapel**.
 
-If you have not yet taken your turn, the cards you selected during the Card Selection step are not in your hand or discard pile and therefore cannot be discarded or lost to negate the damage.
+Wenn du während einer Runde noch nicht an der Reihe bist, befinden sich die Karten, die du im Schritt „Kartenauswahl“ ausgewählt hast, weder auf deiner Hand, noch im Ablagestapel und können daher nicht abgeworfen oder verloren werden, um Schaden zu negieren.
 
-Even if the damage is negated, effects or conditions from the source of damage are still applied.
+Selbst wenn der Schaden negiert wird, werden Effekte oder Zustände der Schadensquelle weiterhin angewendet.
 
-### Exhaustion
+### Erschöpfung
 
-You can become exhausted in two ways:
-- **No Hit Points:** If you reach zero on your hit point dial.
-- **No Cards:** If you do not have at least two cards in your hand (to play) or at least two cards in your hand and/or discard pile (to rest) at the start of a round.
+Du kannst auf zwei Arten erschöpft werden:
+- **Keine Trefferpunkte:** Wenn du auf deiner Trefferpunktskala Null erreichst.
+- **Keine Karten:** Wenn du zu Beginn einer Runde nicht mindestens zwei Karten auf der Hand (zum Ausspielen) oder mindestens zwei Karten auf der Hand und/oder im Ablagestapel (zum Ausruhen) hast.
 
-If you become exhausted, you lose the scenario.
+Wenn du erschöpft bist, verlierst du das Szenario.
 
 ---
 
@@ -872,17 +876,17 @@ If you become exhausted, you lose the scenario.
 
 ---
 
-## Monster Turns
+##  Monsterzüge
 
-On a monster’s turn, it performs abilities based on the rolled action for its monster type. Monster abilities are automated, following specific guidelines, so that very few decisions about monster behavior need to be made by you.
+Wenn ein Monster an der Reihe ist, führt es Fertigkeiten basierend auf der gewürfelten Aktion für seinen Monstertyp aus. Die Fertigkeiten der Monster werden nach bestimmten Richtlinien automatisiert, sodass Sie nur sehr wenige Entscheidungen über das Verhalten der Monster treffen müssen.
 
-### Monster Cards
+### Monsterkarten
 
-> Each monster type appears on one side of a double-sided monster card, which determines its stats and abilities.
+> Jeder Monstertyp erscheint auf einer Seite einer doppelseitigen Monsterkarte, die seine Werte und Fertigkeiten bestimmt.
 
 ![component breakdown of monster card](/assets/diagrams/component_diagram_monster.png)
 
-A monster card can have the following:
+Eine Monsterkarte kann aus folgenden Teilen bestehen:
 
 <ol type="A">
   <li><strong>Monster Name:</strong> The name of the monster type.</li>
