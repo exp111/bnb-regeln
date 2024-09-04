@@ -889,19 +889,24 @@ Wenn ein Monster an der Reihe ist, führt es Fertigkeiten basierend auf der gew�
 Eine Monsterkarte kann aus folgenden Teilen bestehen:
 
 <ol type="A">
-  <li><strong>Monster Name:</strong> The name of the monster type.</li>
-  <li><strong>Hit Point Value:</strong> This is the total amount of damage that a monster of this type can suffer before it dies.</li>
-  <li><strong>Attack Effects:</strong> These effects apply to all attack abilities performed by monsters of this type.</li>
-  <li><strong>Persistent Bonuses:</strong> These are active bonuses that all monsters of this type have for the entire scenario.</li>
-  <li><strong>Condition Immunities:</strong> These are conditions that a monster of this type is prevented from gaining due to immunity.</li>
-  <li><span class="new-to-bnb"><strong>Action Columns:</strong> Each monster type has a set of three action columns. After you have selected your ability cards for the round, an action is rolled for each monster type with at least one figure currently on the map. This action determines when and how the monsters of that type will act during the round. The abilities of an action are performed from top to bottom, with each ability separated by an ability line. Each action column has the following:</span></li>
+  <li><strong>Monstername:</strong> Der Name des Monstertyps.</li>
+  <li><strong>Trefferpunktwert:</strong> Dies ist der Gesamtschaden, den ein Monster dieser Art erleiden kann, bevor es stirbt.</li>
+  <li><strong>Angriffseffekte:</strong> Diese Effekte gelten für alle Angriffsfertigkeiten, die von Monstern dieses Typs ausgeführt werden.
+</li>
+  <li><strong>Dauerhafte Boni:</strong> Die aktiven Boni, die alle Monster dieser Art für das gesamte Szenario haben.</li>
+  <li><strong>Zustandsimmunitäten:</strong> Dies sind Zustände, die ein Monster dieser Art aufgrund der Immunität nicht erhalten kann.</li>
+  <li><span class="new-to-bnb"><strong>Aktionsspalten:</strong> Jeder Monstertyp verfügt über drei Aktionsspalten. Nachdem du deine Fertigkeitskarten für die Runde ausgewählt hast, wird für jeden Monstertyp, von dem sich derzeit mindestens eine Figur im Spiel befindet, eine Aktion gewürfelt. Diese Aktion bestimmt, wann und wie sich die Monster dieser Art während der Runde verhalten. Die Fertigkeiten einer Aktion werden von oben nach unten ausgeführt, wobei jede Fertigkeit durch eine Linie getrennt ist. Jede Aktionsspalte enthält Folgendes:
+</span></li>
   <li><ol type="a">
-    <li><strong>Initiative Value:</strong> This value determines when the monsters of this type act during the round.</li>
-    <li><strong>List of Abilities:</strong> This list indicates which abilities the monsters of this type perform on their turns, if possible, and in what order.</li>
+    <li><strong>Initiativewert:</strong> Dieser Wert bestimmt, wann die Monster dieser Art während der Runde am Zug sind.
+</li>
+    <li><strong>Liste der Fertigkeiten:</strong> Diese Liste gibt an, welche Fertigkeiten die Monster dieses Typs in ihren Zügen und in welcher Reihenfolge ausführen.
+</li>
   </ol></li>
 </ol>
 
-**Each monster performs only the abilities listed on the action rolled for its monster type for the current round.** For example, if their rolled action does not list a move ability, they will not move. If their rolled action does not list an attack ability, they will not attack.
+**Jedes Monster führt in der aktuellen Runde nur die Fertigkeit aus, die in der gewürfelten Aktion für seinen Monstertyp angegeben ist.** Wenn in der gewürfelten Aktion beispielsweise keine Bewegungsfertigkeit angegeben ist, wird es sich nicht bewegen. Wenn die gewürfelte Aktion keine Angriffsfertigkeit ist, greift das Monster nicht an.
+
 
 ---
 
@@ -909,25 +914,28 @@ Eine Monsterkarte kann aus folgenden Teilen bestehen:
 
 ---
 
-### Monster Acting Order
+### Zugreihenfolge der Monster
 
-All monsters of each type act based on the initiative value rolled for their type for the current round. <span class="new-to-bnb">During their position in the initiative order, all monsters of a type act in ascending numeric order.</span> Each monster completes its turn before the next monster acts.
+Alle Monster jedes Typs handeln basierend auf dem Initiativewert, der für ihren Typ in der aktuellen Runde gewürfelt wurde. <span class="new-to-bnb">Alle Monster eines Typs handeln während sie an der Reihe sind in aufsteigender numerischer Reihenfolge.</span> Jedes Monster beendet seinen Zug, bevor das nächste Monster handelt.
 
-### Focus
+### Fokus
 
-> Because Buttons & Bugs is a solo game, you are the sole focus of the monsters. They will target you with all attacks and negative targeted abilities.
+> Da es sich bei Knöfpe & Krabbler um ein Solospiel handelt, bist du der einzige Fokus der Monster. Sie greifen dich mit allen Angriffen und negativen Zielfähigkeiten an.
 
-The monster identifies the closest hex from which it can perform its attack abilities; this is called its "attack hex." If the monster cannot attack on its turn, either because it does not have an attack ability or because it is disarmed, it moves as if for a single-target melee attack. The monster follows the shortest path to its attack hex. If it can't reach the attack hex this turn, it will take the shortest path which brings it as close as possible to the attack hex. If it can't get closer to the attack hex this turn, it will not move.
+Das Monster identifiziert das nächstgelegene Hexfeld, von dem aus es seine Angriffsfertigkeit ausführen kann, als "Angriffsfeld". Wenn das Monster in seinem Zug nicht angreifen kann, weil es keine Angriffsfertigkeit besitzt oder entwaffnet ist, bewegt es sich wie bei einem Einzelziel-Nahkampfangriff. Das Monster folgt dem kürzesten Weg zu seinem Angriffsfeld. Wenn es das Angriffsfeld in dieser Runde nicht erreichen kann, wählt es den kürzesten Weg, der es so nah wie möglich an das Angriffsfeld bringt. Wenn es in diesem Zug nicht näher an das Angriffsfeld herankommen kann, bewegt es sich nicht.
 
-"Closest" and "shortest" mean using the fewest movement points to navigate around obstacles and hazards (if possible) and/or through difficult terrain using the normal, jumping, and flying movement rules.
+„Am nächsten“ und „Am kürzesten“ bedeuten, dass die wenigsten Bewegungspunkte verwendet werden, um Hindernisse und Gefahren (wenn möglich) zu umgehen und/oder durch schwieriges Gelände zu navigieren, wobei die normalen, Sprung- und Flugbewegungsregeln verwendet werden.
 
-#### Path Priority
 
-Monsters always prioritize a path that triggers the fewest hazards, even when that means not maximizing targets. Monsters only trigger hazards when there is no other viable path to attack an enemy. For example, if a monster could attack by moving two hexes through a hazard hex or by moving 10 hexes and avoiding the hazard, it would take the 10-hex path. It does not matter whether the monster can actually reach the end of the path on its current turn.
+#### Pfadpriorität
 
-#### No Focus
+Monster bevorzugen immer einen Weg, der die wenigsten Gefahren auslöst, auch wenn das bedeutet, dass sie das Ziel in diesem Zug nicht erreichen. Monster lösen nur dann Gefahren aus, wenn es keinen anderen Weg gibt, einen Feind anzugreifen. Wenn ein Monster beispielsweise angreifen könnte, indem es sich zwei Felder durch ein Gefahrenfeld bewegt oder indem es sich 10 Felder bewegt und der Gefahr ausweicht, würde es den längeren Weg wählen. Es spielt keine Rolle, ob das Monster in seinem aktuellen Zug tatsächlich das Ende des Weges erreichen kann.
 
-If you are invisible or if the monster cannot reach a valid hex, given infinite movement, from which it can perform its attack, the monster does not move or attack but still performs any other abilities listed on its ability card.
+
+#### Kein Fokus
+
+Wenn du unsichtbar bist oder das Monster auch bei unbegrenzter Bewegung kein Hexfeld erreichen kann, von dem aus es seinen Angriff ausführen kann, bewegt sich das Monster nicht und greift nicht an. Es führt aber dennoch alle anderen auf seiner Fertigkeitskarte aufgeführten Fertigkeiten aus.
+
 
 ---
 
@@ -935,24 +943,25 @@ If you are invisible or if the monster cannot reach a valid hex, given infinite 
 
 ---
 
-### Monster Movement
+### Monsterbewegung
 
-Once a monster has identified its path to an attack hex, it then performs the abilities listed on its ability card in order — the first of which is usually its movement. A monster only moves on its turn if "<img src="assets/icons/ability_move.png" class="inline-icon"/> **X**" is listed in its rolled action.
+Sobald ein Monster seinen Weg zu einem Angriffsfeld identifiziert hat, führt es die auf seiner Fertigkeitskarte aufgeführten Fertigkeiten der Reihe nach aus. Die erste davon ist normalerweise seine Bewegung. Ein Monster bewegt sich in seinem Zug nur, wenn "<img src="assets/icons/ability_move.png" class="inline-icon"/> **X**" in seiner gewürfelten Aktion aufgeführt ist.
 
-A monster always uses the fewest movement points required to maximize its attacks for its current turn. If a monster cannot attack on its current turn, it only moves if it can shorten the path to its attack hex. If an adjacent monster is performing a ranged attack, it will first move away so it doesn’t have disadvantage, if able. 
+Ein Monster verbraucht in seinem aktuellen Zug immer die wenigsten Bewegungspunkte, die erforderlich sind, um seine Angriffe zu maximieren. Wenn ein Monster in seinem aktuellen Zug nicht angreifen kann, bewegt es sich nur, wenn es den Weg zu seinem Angriffsfeld verkürzen kann. Wenn ein benachbartes Monster einen Fernangriff ausführt, bewegt es sich zunächst weg, damit es keinen Nachteil hat, sofern dies möglich ist.
+ 
+Wenn andere Fertigkeiten als <img src="assets/icons/ability_attack.png" class="inline-icon"/> auf der Fähigkeitskarte eines Monsters aufgeführt sind, hat dies keinen Einfluss auf seine Bewegung. Es bewegt sich einfach nach den oben genannten Regeln und führt dann seine anderen Fertigkeiten so gut wie möglich aus.
 
-Having abilities other than <img src="assets/icons/ability_attack.png" class="inline-icon"/> listed on its ability card does not affect a monster’s movement in any way. It will simply move according to the above rules and then perform its other abilities as fully as possible.
+### Monsterangriffe
 
-### Monster Attacks
+Ein Monster greift in seinem Zug nur an, wenn "<img src="assets/icons/ability_attack.png" class="inline-icon"/> **X**" in seinen gewürfelten Aktionen aufgeführt ist. Die Reichweite des Angriffs wird auf der Fertigkeit angegeben. Wenn keine Reichweite angegeben ist, handelt es sich um einen Nahkampfangriff.
 
-A monster only attacks on its turn if "<img src="assets/icons/ability_attack.png" class="inline-icon"/> **X**" is listed in its rolled actions. The range of the attack is specified on the ability. If no range is specified, it is a melee attack.
+### Andere Monsterfertigkeiten
 
-### Other Monster Abilities
+- **Aktive Boni:** Dauerhafte Boni auf der Monsterkarte sind immer aktiv. Rundenboni aus gewürfelten Aktionen sind erst aktiv, wenn das Monster an der Reihe ist, bleiben dann aber bis zum Ende der Runde aktiv. Mehrere aktive Boni können zusammen als einzelner Effekt behandelt werden.
+- **Heilfertigkeiten:** Das Monster heilt sich selbst oder einen Verbündeten innerhalb der angegebenen Reichweite. Es zielt immer auf das Monster in Reichweite, dessen aktueller und maximaler Trefferpunktwert den größten Unterschied aufweist.
+- **Negative, gezielte Fertigkeiten:** Diese werden auf die gleiche Weise gezielt wie Angriffsfertigkeiten, haben jedoch keinen Einfluss darauf, wie sich das Monster bewegt.
+- **Positive Zustände:** Das Monster wendet den Zustand auf sich selbst oder einen Verbündeten innerhalb der angegebenen Reichweite an. Es zielt immer auf das Monster in der nächsten Entfernung, das diesen Zustand noch nicht aufweist. Bei Gleichstand hinsichtlich der größten Reichweite wird das Monster als Ziel ausgewählt, das die kleinste Initative in der aktuellen Runde hat.
 
-- **Active Bonuses:** Persistent bonuses on the monster card are active at all times. Round bonuses from rolled actions are only active once the monster has taken its turn, but they remain active until the end of the round. Multiple active bonuses stack with one another as a single effect.
-- **Heal Abilities:** The monster heals itself or an ally within the specified range. It always targets the monster within range that has the greatest difference between its current and maximum hit point values.
-- **Negative Targeted Abilities:** These are targeted in the same way as attack abilities, but will not affect how the monster moves.
-- **Positive Conditions:** The monster applies the condition to itself or an ally within the specified range. It always targets the monster at the closest range that does not already have the condition. If there is a tie for closest range, it targets the monster that acts earliest in the initiative order.
 
 ---
 
@@ -960,31 +969,32 @@ A monster only attacks on its turn if "<img src="assets/icons/ability_attack.png
 
 ---
 
-### Monsters and Elements
+### Monster und Elemente
 
-Monsters can infuse and consume elements.
+Monster können Elemente infundieren und konsumieren.
 
-An infusion occurs immediately when the action is rolled. <span class="new-to-bnb">A monster consumes an element only when performing an ability that benefits from consuming the element.</span> When the first monster of a type consumes an element, that consumption benefits every monster of that type.
+Eine Infusion erfolgt sofort, wenn die Aktion gewürfelt wird. <span class="new-to-bnb">Ein Monster verbraucht ein Element nur, wenn es eine Fertigkeit ausführt, die vom Verbrauch des Elements profitiert.</span> Wenn das erste Monster eines Typs ein Element verbraucht, kommt dieser Verbrauch jedem Monster dieses Typs zu gute.
 
-If a monster consumes a wild or mixed element, you decide which infusion is consumed.
+Wenn ein Monster ein wildes oder gemischtes Element verbraucht, entscheidest du, welche Infusion verbraucht wird.
 
-### Spawning Monsters
+### das Erscheinen von Monstern
 
-If the scenario rules indicate that monsters spawn in specific locations at specific times, add them to the map when specified. If a specified location is not empty, place the monster in the closest empty hex instead.
+Wenn die Szenarioregeln vorsehen, dass Monster zu bestimmten Zeiten an bestimmten Orten erscheinen, stellst du sie auf das Hexfeld, sobald die Vorraussetzungen dafür erfüllt sind. Wenn ein bestimmter Ort nicht leer ist, platziere das Monster stattdessen auf dem nächstgelegenen leeren Hexfeld.
 
-Spawned monsters act during the same round in which they were added to the map. If a newly added monster type does not have rolled action for the current round, roll one now.
+Neu erschienene Monster wirken in derselben Runde, in der sie dem Spiel hinzugefügt wurden. Wenn ein neu hinzugefügter Monstertyp in der aktuellen Runde keine gewürfelte Aktion hatte, würfelst du jetzt eine.
 
-Check the initiative value for each added monster. If their initiative value comes after the acting figure’s initiative value, they will act in normal initiative order. If their initiative value comes before the acting figure’s initiative value, they will act next. When multiple new monster types would act next, they act based on initiative values.
+Überprüfe den Initiativewert für jedes neu erschienene Monster. Liegt der Initiativewert des Monsters über dem Initiativewert der handelnden Figur, handeln sie in der normalen Initiativereihenfolge. Wenn ihr Initiativewert vor dem Initiativewert der handelnden Figur liegt, wird das Monster als nächstes handeln. Wenn als nächstes mehrere neu erschienene Monstertypen agieren würden, agieren sie basierend auf ihren Initiativewerten.
 
-### Monster Damage and Death
 
-Each monster’s hit points are tracked using the monster hit point dial that corresponds to the color of the cube that represents it on the map.
+### Monsterschaden und Tod
 
-When a monster suffers damage, reduce its hit point dial by that amount. As soon as the monster has zero hit points, it dies.
+Die Trefferpunkte jedes Monsters werden mithilfe des Monster-Trefferpunktsrads verfolgt, das der Farbe des Würfels entspricht, der es auf der Karte darstellt.
 
-When a monster dies, remove its cube from the map and clear all conditions from its monster tray.
+Wenn ein Monster Schaden erleidet, reduziere seine Trefferpunkt-Skala um diesen Betrag. Sobald das Monster keine Trefferpunkte mehr hat, stirbt es.
 
-No attack effects can be applied to a monster after it dies. If a monster dies while performing one of its own abilities, it cannot perform any other abilities.
+Wenn ein Monster stirbt, entferne seinen Würfel von der Karte und alle Zustände aus seiner Monsterablage.
+
+Nach dem Tod eines Monsters können keine Angriffseffekte mehr angewendet werden. Wenn ein Monster stirbt, während es eine seiner eigenen Fertigkeiten ausführt, kann es keine weiteren Fertigkeiten ausführen.
 
 ---
 
