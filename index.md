@@ -405,7 +405,7 @@ Besteht eine Aktion aus mehreren Fertigkeiten, werden diese durch Fertigkeitsini
 
 Fertigkeiten in einer Aktion werden immer in der Reihenfolge ausgeführt, in der sie angegeben sind. Figuren können während sie eine Fertigkeit ausführen keine neue Fertigkeit ausführen, mit Ausnahme bon Fähigkeiten aus Angriffsmodifikatoren.
 
-Charakterfertigkeiten können übersprungen werden, solange sie nicht zwingend erforderlich sind. (siehe [p.27](#page_27)).
+Charakterfertigkeiten können übersprungen werden, solange sie nicht zwingend erforderlich sind. (siehe [S.27](#page_27)).
 
 ---
 
@@ -423,7 +423,7 @@ Wenn "Ziele" nicht spezifisch aufgeführt ist, ist der Zielwert 1. Es kann also 
 
 #### Gezielte Fertigkeiten
 
-Angriff ([p.18](#page_18)), Zustände ([p.20](#page_20)), Heilung ([p.21](#page_20)), erzwungene Bewegungen ([p.23](#page_23)), und das kontrollieren von Figuren ([p.24](#page_24)) sind die einzigen gezielten Fertigkeiten. Diese können nicht ausgeführt werden, wenn kein gütliges Ziel in Reichweite ist.
+Angriff ([S.18](#page_18)), Zustände ([S.20](#page_20)), Heilung ([S.21](#page_20)), erzwungene Bewegungen ([S.23](#page_23)), und das kontrollieren von Figuren ([S.24](#page_24)) sind die einzigen gezielten Fertigkeiten. Diese können nicht ausgeführt werden, wenn kein gütliges Ziel in Reichweite ist.
 
 #### Verbündete, Gegner und man selbst
 
@@ -453,7 +453,7 @@ Fertigkeiten mit einem Wirkungsbereich lassen die handelnde Figur mehrere Felder
 
 <div class="float-container">
   <span class="floating-image"><img src="assets/icons/hex_player.png" height="48"/></span>
-  <p>Ein graues Feld markiert das Feld, in dem die handelnde Figur sich befindet. Jeder Angriff mit einem Wirkungsbereich, bei dem ein graues Feld abgebildet ist, gilt als Nahkampfangriff. (siehe <a href="#page_18">p.18</a>).</p>
+  <p>Ein graues Feld markiert das Feld, in dem die handelnde Figur sich befindet. Jeder Angriff mit einem Wirkungsbereich, bei dem ein graues Feld abgebildet ist, gilt als Nahkampfangriff. (siehe <a href="#page_18">S.18</a>).</p>
 </div>
 
 <div class="float-container">
@@ -471,7 +471,7 @@ Wenn eine Fertigkeit mit einem Wirkunsbereich "**+1** <img src="assets/icons/abi
 
 #### besondere Effekte
 
-Besondere Effekte sind an eine Fertigkeit angehängt und verändern sie auf irgendeine Weise. Häufige besondere Effekte, wie "<img src="assets/icons/condition_push.png" class="inline-condition"/> **X**," "<img src="assets/icons/condition_pull.png" class="inline-condition"/> **X**," oder Zustände werden normalerweise in dem hervorgehobenen Abschnitt rechts von der Fertigkeit definiert. Alle bedingten Effekte — solche, die vom Verbrauch eines Elementes (siehe [p.16](#page_16)) oder der Zahlung anderer Kosten abhängig sind — werden unter der Fertigkeit in einem hervorgehoben Abschnitt mit gepunkteter Umrandung angegeben.
+Besondere Effekte sind an eine Fertigkeit angehängt und verändern sie auf irgendeine Weise. Häufige besondere Effekte, wie "<img src="assets/icons/condition_push.png" class="inline-condition"/> **X**," "<img src="assets/icons/condition_pull.png" class="inline-condition"/> **X**," oder Zustände werden normalerweise in dem hervorgehobenen Abschnitt rechts von der Fertigkeit definiert. Alle bedingten Effekte — solche, die vom Verbrauch eines Elementes (siehe [S.16](#page_16)) oder der Zahlung anderer Kosten abhängig sind — werden unter der Fertigkeit in einem hervorgehoben Abschnitt mit gepunkteter Umrandung angegeben.
 Besondere Effekte können übersprungen werden, aber dies muss vor dem Würfeln des Angriffsmodifikatores entschieden werden. Bedingte Effekte können ebenfalls übersprungen werden; du bist nicht verpflichtet, die Kosten zu bezahlen. Und selbst wenn du die Kosten bezahlt hast, kannst du dich noch dafür entscheiden, den Effekt nicht anzuwenden. Im Falle eines überspringbaren Effekts, der an eine Angriffsfähigkeit mit mehreren Zielen angehängt ist, kannst du dich bei jedem einzelnen Ziel entscheiden, ob du den Effekt anwendest oder nicht. Auch hier muss das immer vor dem Würfeln des Angriffsmodifikators geschehen, sofern es nicht anders angeben ist.
 
 Komplexere besondere Effekte können unter einer Fertigkeit erläutert werden, aber solch ein Text ist nicht immer ein besonderer Effekt. Jeder Text, der Regeln für die Ausführung einer Fertigkeit (z.B. eine Zielbeschränkung) enthält, ist ein fester Bestandteil dieser Fertigkeit und kann nicht übersprungen werden.
@@ -523,7 +523,7 @@ Schwieriges Gelände wird beim springen vollständig ignoriert.
 
 ### Fliegen
 
-<img src="assets/icons/ability_flight.png" class="inline-icon"/> "**Fliegen**" ist ein aktiver Bonus (siehe [p.21](#page_21)). Fliegen erlaubt einer Figur alle Gegner, Hindernisse, Gefahren und Ziele zu ignorieren, auch auf dem letzten Feld. Allerdings kann eine fliegende Figur ihre Bewegung immer noch nicht auf einem Feld beenden, das schon von einer anderen Figur besetzt ist (und umgekehrt).
+<img src="assets/icons/ability_flight.png" class="inline-icon"/> "**Fliegen**" ist ein aktiver Bonus (siehe [S.21](#page_21)). Fliegen erlaubt einer Figur alle Gegner, Hindernisse, Gefahren und Ziele zu ignorieren, auch auf dem letzten Feld. Allerdings kann eine fliegende Figur ihre Bewegung immer noch nicht auf einem Feld beenden, das schon von einer anderen Figur besetzt ist (und umgekehrt).
 
 ---
 
@@ -557,7 +557,7 @@ Diese Schritte werden für jedes einzelne Ziel der Angriffsfertigkeit wiederholt
 > 
 > Du hast deine eigene Angriffsmodifikatorablage, während alle Monster sich eine einzige Ablage teilen.
 > 
-> Jede Charakterklasse und alle Monster beginnen mit einer Standartablage aus sechs <img src="assets/icons/modifier_plus_0.png" class="inline-element"/>, vier <img src="assets/icons/modifier_plus_1.png" class="inline-element"/>, vier <img src="assets/icons/modifier_minus_1.png" class="inline-element"/>, einem <img src="assets/icons/modifier_plus_2.png" class="inline-element"/>, einem <img src="assets/icons/modifier_minus_2.png" class="inline-element"/>, einem <img src="assets/icons/modifier_2x.png" class="inline-element"/>, und einem <img src="assets/icons/modifier_miss.png" class="inline-element"/> Symbol. Jede Charakterklassenablage verbessert sich im Verlauf der Kampagne (siehe [p.35](#page_35)) und ermöglicht so andere Effekte.
+> Jede Charakterklasse und alle Monster beginnen mit einer Standartablage aus sechs <img src="assets/icons/modifier_plus_0.png" class="inline-element"/>, vier <img src="assets/icons/modifier_plus_1.png" class="inline-element"/>, vier <img src="assets/icons/modifier_minus_1.png" class="inline-element"/>, einem <img src="assets/icons/modifier_plus_2.png" class="inline-element"/>, einem <img src="assets/icons/modifier_minus_2.png" class="inline-element"/>, einem <img src="assets/icons/modifier_2x.png" class="inline-element"/>, und einem <img src="assets/icons/modifier_miss.png" class="inline-element"/> Symbol. Jede Charakterklassenablage verbessert sich im Verlauf der Kampagne (siehe [S.35](#page_35)) und ermöglicht so andere Effekte.
 > 
 > Ein Angriffsmodifikator kann Folgendes haben:
 
