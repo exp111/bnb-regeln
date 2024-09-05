@@ -40,120 +40,119 @@ Viel Glück, Abenteurer!
 <table>
 <tr><td>
   
-<h4 id="getting-started-p3">Getting Started <a href="#page_3">p.3</a></h4>
+<h4 id="getting-started-p3">Vor dem Spiel <a href="#page_3">S.3</a></h4>
 
-<p>Choose a Character <a href="#page_4">p.4</a></p>
-<p>Learning the Rules <a href="#page_5">p.5</a></p>
+<p>Charakterauswahl <a href="#page_4">S.4</a></p>
+<p>Die Regeln lernen <a href="#page_5">S.5</a></p>
 
-<h4 id="scenario-phase-p6">Scenario Phase <a href="#page_6">p.6</a></h4>
+<h4 id="scenario-phase-p6">Szenariophase <a href="#page_6">S.6</a></h4>
 
-<h4 id="beginning-a-scenario-p7">Beginning a Scenario <a href="#page_7">p.7</a></h4>
+<h4 id="beginning-a-scenario-p7">Beginnen eines Szenarios <a href="#page_7">S.7</a></h4>
 
-<h4 id="scenario-cards-p8">Scenario Cards <a href="#page_8">p.8</a></h4>
+<h4 id="scenario-cards-p8">Szenariokarten <a href="#page_8">S.8</a></h4>
 
-<p>Terrain <a href="#page_9">p.9</a></p>
-<p>Obstacles <a href="#page_9">p.9</a></p>
-<p>Difficult Terrain <a href="#page_9">p.9</a></p>
-<p>Hazards <a href="#page_9">p.9</a></p>
-<p>Pressure Plates <a href="#page_9">p.9</a></p>
-<p>Objectives <a href="#page_9">p.9</a></p>
+<p>Gelände <a href="#page_9">S.9</a></p>
+<p>Hindernisse <a href="#page_9">S.9</a></p>
+<p>Schwieriges Gelände <a href="#page_9">S.9</a></p>
+<p>Gefahren <a href="#page_9">S.9</a></p>
+<p>Druckplatten<a href="#page_9">S.9</a></p>
+<p>Ziele <a href="#page_9">S.9</a></p>
 
-<h4 id="playing-a-scenario-p10">Playing a Scenario <a href="#page_10">p.10</a></h4>
+<h4 id="playing-a-scenario-p10">Spielen eines Szenarios <a href="#page_10">S.10</a></h4>
 
-<p>Start of Round Effects <a href="#page_10">p.10</a></p>
-<p>Card Selection <a href="#page_10">p.10</a></p>
-<p>Ordering of Initiative <a href="#page_11">p.11</a></p>
-<p>Resolving Ties <a href="#page_11">p.11</a></p>
-<p>Monster Order <a href="#page_11">p.11</a></p>
+<p>Rundenbeginn mit Szenarioeffekten <a href="#page_10">S.10</a></p>
+<p>Kartenauswahl <a href="#page_10">S.10</a></p>
+<p>Reihenfolge bestimmen <a href="#page_11">S.11</a></p>
+<p>Gleichstand auflösen <a href="#page_11">S.11</a></p>
+<p>Reihenfolge der Monster <a href="#page_11">S.11</a></p>
 
-<p>Character and Monster Turns <a href="#page_12">p.12</a></p>
-<p>Actions and Abilities Overview <a href="#page_12">p.12</a></p>
-<p>Actions <a href="#page_12">p.12</a></p>
-<p>Abilities <a href="#page_12">p.12</a></p>
-<p>Important Ability Concepts <a href="#page_13">p.13</a></p>
-<p>Target <a href="#page_13">p.13</a></p>
-<p>Allies, Enemies, and Self <a href="#page_13">p.13</a></p>
-<p>Range <a href="#page_14">p.14</a></p>
-<p>Area of Effect <a href="#page_14">p.14</a></p>
-<p>Added Effects <a href="#page_15">p.15</a></p>
-<p>Elements <a href="#page_16">p.16</a></p>
-
-</td><td>
-
-<p>Abilities <a href="#page_17">p.17</a></p>
-<p>Move <a href="#page_17">p.17</a></p>
-<p>Jump <a href="#page_17">p.17</a></p>
-<p>Flying <a href="#page_17">p.17</a></p>
-<p>Attack <a href="#page_18">p.18</a></p>
-<p>Attack Modification Order <a href="#page_18">p.18</a></p>
-<p>Attack Modifier Tables <a href="#page_18">p.18</a></p>
-<p>Attack Effects <a href="#page_19">p.19</a></p>
-<p>Advantage and Disadvantage <a href="#page_19">p.19</a></p>
-<p>Pierce <a href="#page_19">p.19</a></p>
-
-<p>Conditions <a href="#page_20">p.20</a></p>
-<p>Positive Conditions <a href="#page_20">p.20</a></p>
-<p>Negative Conditions <a href="#page_20">p.20</a></p>
-<p>Heal <a href="#page_21">p.21</a></p>
-<p>Active Bonuses <a href="#page_21">p.21</a></p>
-<p>Shield <a href="#page_22">p.22</a></p>
-<p>Retaliate <a href="#page_22">p.22</a></p>
-<p>Forced Movement <a href="#page_23">p.23</a></p>
-<p>Control <a href="#page_24">p.24</a></p>
-<p>Suffer Damage <a href="#page_24">p.24</a></p>
-<p>Recover <a href="#page_24">p.24</a></p>
-
-<p>Character Turns <a href="#page_25">p.25</a></p>
-<p>Ability Cards <a href="#page_25">p.25</a></p>
-<p>Items <a href="#page_26">p.26</a></p>
-<p>Item Limits <a href="#page_26">p.26</a></p>
-<p>Item Usage <a href="#page_26">p.26</a></p>
-<p>Mandatory Triggers <a href="#page_27">p.27</a></p>
-<p>Resting <a href="#page_27">p.27</a></p>
-<p>Lost Actions <a href="#page_28">p.28</a></p>
-<p>Character Damage <a href="#page_28">p.28</a></p>
-<p>Exhaustion <a href="#page_28">p.28</a></p>
+<p>Charakter- und Monsterzüge <a href="#page_12">S.12</a></p>
+<p>Aktionen und Fähigkeiten <a href="#page_12">S.12</a></p>
+<p>Aktionen <a href="#page_12">S.12</a></p>
+<p>Fertigkeiten <a href="#page_12">S.12</a></p>
+<p>Wichtige Fähigkeitenkonzepte <a href="#page_13">S.13</a></p>
+<p>Ziele <a href="#page_13">S.13</a></p>
+<p>Verbündete, Gegner und man selbst <a href="#page_13">S.13</a></p>
+<p>Reichweite <a href="#page_14">S.14</a></p>
+<p>Wirkungsbereich <a href="#page_14">S.14</a></p>
+<p>besondere Effekte <a href="#page_15">S.15</a></p>
+<p>Elemente <a href="#page_16">S.16</a></p>
 
 </td><td>
 
-<p>Monster Turns <a href="#page_29">p.29</a></p>
-<p>Monster Cards <a href="#page_29">p.29</a></p>
-<p>Monster Acting Order <a href="#page_30">p.30</a></p>
-<p>Focus <a href="#page_30">p.30</a></p>
-<p>Path Priority <a href="#page_30">p.30</a></p>
-<p>No Focus <a href="#page_30">p.30</a></p>
-<p>Monster Movement <a href="#page_31">p.31</a></p>
-<p>Monster Attacks <a href="#page_31">p.31</a></p>
-<p>Other Monster Abilities <a href="#page_31">p.31</a></p>
-<p>Monsters and Elements <a href="#page_32">p.32</a></p>
-<p>Spawning Monsters <a href="#page_32">p.32</a></p>
-<p>Monster Damage and Death <a href="#page_32">p.32</a></p>
+<p>Fertigkeiten <a href="#page_17">S.17</a></p>
+<p>Bewegen <a href="#page_17">S.17</a></p>
+<p>Springen <a href="#page_17">S.17</a></p>
+<p>Fliegen <a href="#page_17">S.17</a></p>
+<p>Angriff <a href="#page_18">S.18</a></p>
+<p>Angriffsmodifikatorablage <a href="#page_18">S.18</a></p>
+<p>Angriffseffekte <a href="#page_19">S.19</a></p>
+<p>Vor- und Nachteile <a href="#page_19">S.19</a></p>
+<p>Durchdringen <a href="#page_19">S.19</a></p>
 
-<p>End of Round <a href="#page_33">p.33</a></p>
-<p>Tracking Rounds <a href="#page_33">p.33</a></p>
+<p>Zustände <a href="#page_20">S.20</a></p>
+<p>Positive Zustände <a href="#page_20">S.20</a></p>
+<p>Negative Zustände <a href="#page_20">S.20</a></p>
+<p>Heilen <a href="#page_21">S.21</a></p>
+<p>Aktive Boni <a href="#page_21">S.21</a></p>
+<p>Schild <a href="#page_22">S.22</a></p>
+<p>Vergeltung <a href="#page_22">S.22</a></p>
+<p>erzwungene Bewegung <a href="#page_23">S.23</a></p>
+<p>Kontrolle <a href="#page_24">S.24</a></p>
+<p>Schaden erleiden <a href="#page_24">S.24</a></p>
+<p>Erholen <a href="#page_24">S.24</a></p>
 
-<h4 id="ending-a-scenario-p34">Ending a Scenario <a href="#page_34">p.34</a></h4>
+<p>Character Turns <a href="#page_25">S.25</a></p>
+<p>Fertigkeitskarten <a href="#page_25">S.25</a></p>
+<p>Gegenstände <a href="#page_26">S.26</a></p>
+<p>Gegenstandsbeschränkungen <a href="#page_26">S.26</a></p>
+<p>Verwendung eines Gegenstands <a href="#page_26">S.26</a></p>
+<p>verpflichtende Auslöser <a href="#page_27">S.27</a></p>
+<p>Ausruhen <a href="#page_27">S.27</a></p>
+<p>Aktionen mit Verlustsymbol <a href="#page_28">S.28</a></p>
+<p>Character Damage <a href="#page_28">S.28</a></p>
+<p>Erschöpfung <a href="#page_28">S.28</a></p>
 
-<p>Lost Scenario <a href="#page_34">p.34</a></p>
-<p>Completed Scenario <a href="#page_34">p.34</a></p>
+</td><td>
 
-<h4 id="the-adventure-begins-p35">The Adventure Begins <a href="#page_35">p.35</a></h4>
+<p>Monsterzüge <a href="#page_29">S.29</a></p>
+<p>Monsterkarten <a href="#page_29">S.29</a></p>
+<p>Zugreihenfolge der Monster <a href="#page_30">S.30</a></p>
+<p>Fokus <a href="#page_30">S.30</a></p>
+<p>Pfadpriorität <a href="#page_30">S.30</a></p>
+<p>Kein Fokus <a href="#page_30">S.30</a></p>
+<p>Monsterbewegung <a href="#page_31">S.31</a></p>
+<p>Monsterangriffe <a href="#page_31">S.31</a></p>
+<p>Andere Monsterfertigkeiten <a href="#page_31">S.31</a></p>
+<p>Monster und Elemente <a href="#page_32">S.32</a></p>
+<p>das Erscheinen von Monstern <a href="#page_32">S.32</a></p>
+<p>Monsterschaden und Tod <a href="#page_32">S.32</a></p>
 
-<p>Item Supplies <a href="#page_35">p.35</a></p>
-<p>Character Progression <a href="#page_35">p.35</a></p>
-<p>Upgraded Ability Cards <a href="#page_35">p.35</a></p>
+<p>Rundenende<a href="#page_33">S.33</a></p>
+<p>Runden zählen <a href="#page_33">S.33</a></p>
 
-<h4 id="appendices">Appendices</h4>
+<h4 id="ending-a-scenario-p34">Ein Szenario beenden <a href="#page_34">S.34</a></h4>
 
-<p>Appendix A: Component Inventory <a href="#page_36">p.36</a></p>
-<p>Appendix B: Monster Turn Guide <a href="#page_37">p.37</a></p>
-<p>Appendix C: Important Reminders <a href="#page_38">p.38</a></p>
-<p>Appendix D: Item Index <a href="#page_39">p.39</a></p>
-<p>Appendix E: Component Errata <a href="#page_40">p.40</a></p>
+<p>Verlorenes Szenario <a href="#page_34">S.34</a></p>
+<p>Abgeschlossenes Szenario <a href="#page_34">S.34</a></p>
 
-<h4 id="credits-p41">Credits <a href="#page_41">p.41</a></h4>
+<h4 id="the-adventure-begins-p35">Das Abenteuer beginnt <a href="#page_35">S.35</a></h4>
 
-<h4 id="quick-reference-p42">Quick Reference <a href="#page_42">p.42</a></h4>
+<p>Gegenstandsvorrat <a href="#page_35">S.35</a></p>
+<p>Charakterentwicklung <a href="#page_35">S.35</a></p>
+<p>Verbesserte Fertigkeitskarten <a href="#page_35">S.35</a></p>
+
+<h4 id="appendices">Anhänge</h4>
+
+<p>Anhang A: Spielmaterial <a href="#page_36">S.36</a></p>
+<p>Anhang B: Leitfaden zu den Zügen der Monster <a href="#page_37">S.37</a></p>
+<p>Anhang C: Wichtige Hinweise <a href="#page_38">S.38</a></p>
+<p>Appendix D: Item Index <a href="#page_39">S.39</a></p>
+<p>Anhang E: Komponenten-Errata <a href="#page_40">S.40</a></p>
+
+<h4 id="credits-p41">Credits <a href="#page_41">S.41</a></h4>
+
+<h4 id="quick-reference-p42">schnelle Referenzen <a href="#page_42">S.42</a></h4>
 
 </td></tr>
 </table>
@@ -240,7 +239,7 @@ Jede Szenariophase besteht aus drei verschiedenen Schritten:
 > 1. Die bunten Würfel stellen die Monster dar. Platziere sie in der Farbe, in der sie auf der Szenariokarte angezeigt werden. Platziere außerdem deine Charakterfigur auf dem vorgesehenen Startfeld. 
 > 1. Lege beide Angriffsmodifikator-Ablagen bereit. Falls das Szenario Stufe 2 oder höher ist, nimm dir die entsprechende Level-Modifikatorkarte für deinen Charakter und lege sie in die Charaktermodifikator-Ablage. Du kannst einen anderen Monster-Schwierigkeitsgrad als “Standart” auswählen, indem du die gewählte Monster-Modifikatorkarte für den entsprechenden Schwierigkeitsgrad in die Monstermodifikator-Ablage legst.
 > 1. Halte alle Zustandsmarker, den Würfel und die Symbol-Referenzkarte griffbereit.
-> 1. Entscheide, welche Gegenstände du von den verfügbaren Gegenständen ausrüsten willst. (see [p.26](#page_26)).
+> 1. Entscheide, welche Gegenstände du von den verfügbaren Gegenständen ausrüsten willst. (siehe [S.26](#page_26)).
 > 1. Nehme dir die Fertigkeitskarten der Stufe 1 für deinen Charakter und wähle eine Anzahl an Karten aus, die du verbessern möchtest. Die Anzahl entspricht der Szenariostufe minus eins. Ersetze dann die ausgewählten Fertigkeitskarten der Stufe 1 durch die entsprechenden Fertigkeitskarten der Stufe 2 (abgebildet auf der Rückseite deiner Charakterkarte). Die ausgewählten Karten nimmst du direkt auf deine Hand. 
 > 1. Stelle das Trefferpunkte-Rad deines Charakters auf deinen maximalen Trefferwert. Diesen findest du auf deiner Charakterkarte in der Tabelle unter der Szenariostufe. Stelle nun die entsprechenden Monster-Trefferpunkte-Räder für die jeweiligen Monster auf ihren maximalen Trefferwert.
 > 1. Wende alle verbleibenden Szenarioeffekte an. 
@@ -277,7 +276,7 @@ Jede Szenariophase besteht aus drei verschiedenen Schritten:
 <blockquote>
   <ol type="A">
     <li><strong>Startfeld:</strong> Am Anfang des Szenarios stellst du deine Figur auf dieses Feld.</li>
-    <li><strong>Gelände:</strong> Auf diesen Feldern gelten besondere Raumeigenschaften (see <a href="#page_9">p.9</a>).</li>
+    <li><strong>Gelände:</strong> Auf diesen Feldern gelten besondere Raumeigenschaften (siehe <a href="#page_9">S.9</a>).</li>
     <li><strong>Monsterfelder:</strong> Auf diesen Feldern ist ein Monster abgebildet. Platziere den jeweilgen Monsterwürfel auf das Feld mit der entsprechenden Farbe.</li>
     <li><strong>Besondere Felder:</strong> Diese Felder sind mit einem Buchstaben markiert und werden in den Sonderregeln des Szenarios erläutert.</li>
   </ol>
@@ -312,7 +311,7 @@ Jedes Szenario besteht aus verschiedenen Geländetypen. Dieser Typ wird durch di
 <blockquote>
   <div class="float-container">
     <span class="floating-image"><img src="assets/icons/terrain_hazard.png" height="48"/></span>
-    <p>Wenn eine Figur ohne zu fliegen oder springen ein Gefahrenfeld betritt, wird ein Effekt auf diese Figur angewendet. Es gibt viele verschiedene Effekte und sie werden auf der jeweiligen Szenariokarte spezifiziert. Figuren erleiden keinen Effekt, wenn sie auf einem Gefahrenfeld eine Runde beginnen oder dieses verlassen. Falls aber eine Sprungbewegung auf einem Gefahrenfeld beendet wird, wird ein Effekt angewendet. Wenn eine Figur sich auf einem  <strong>Immobiliseren</strong><img src="assets/icons/condition_immobilize.png" class="inline-condition"/>Gefahrenfeld befindet (see p.20), gilt sie als Hindernis für die Bewegung anderer Figuren.</p>
+    <p>Wenn eine Figur ohne zu fliegen oder springen ein Gefahrenfeld betritt, wird ein Effekt auf diese Figur angewendet. Es gibt viele verschiedene Effekte und sie werden auf der jeweiligen Szenariokarte spezifiziert. Figuren erleiden keinen Effekt, wenn sie auf einem Gefahrenfeld eine Runde beginnen oder dieses verlassen. Falls aber eine Sprungbewegung auf einem Gefahrenfeld beendet wird, wird ein Effekt angewendet. Wenn eine Figur sich auf einem  <strong>Immobiliseren</strong><img src="assets/icons/condition_immobilize.png" class="inline-condition"/>Gefahrenfeld befindet (siehe <a href="#page_20">S.20</a>), gilt sie als Hindernis für die Bewegung anderer Figuren.</p>
   </div>
 </blockquote>
 
@@ -348,13 +347,13 @@ Diese Schritte werden wiederholt, bis das Szenarioziel erreicht ist.
 
 ## Rundenbeginn mit Szenarioeffekten
 
-Wende zu Beginn der Runde alle Effekte aus den Szenarioregeln an, wie zum Beispiel das Erscheinen von Monstern. Diese Effekte können in beliebiger Reihenfolge angewendet werden, das Erscheinen sollte jedoch gleichzeitig passieren.  (see [p.32](#page_32)).
+Wende zu Beginn der Runde alle Effekte aus den Szenarioregeln an, wie zum Beispiel das Erscheinen von Monstern. Diese Effekte können in beliebiger Reihenfolge angewendet werden, das Erscheinen sollte jedoch gleichzeitig passieren.  (siehe [S.32](#page_32)).
 
 ## Kartenauswahl
 
-Nachdem alle Effekte angewendet wurden, wählst du zwei Fertigkeitskarten aus deiner Hand aus, die du während der Runde ausspielst. Eine dieser beiden Karten gilt als Initiativkarte. Der Initiativwert in der Mitte der Karte bestimmt deine Position in der Initiativreihenfolge.  (see [p.11](#page_11)).
+Nachdem alle Effekte angewendet wurden, wählst du zwei Fertigkeitskarten aus deiner Hand aus, die du während der Runde ausspielst. Eine dieser beiden Karten gilt als Initiativkarte. Der Initiativwert in der Mitte der Karte bestimmt deine Position in der Initiativreihenfolge.  (siehe [S.11](#page_11)).
 
-Alternativ kannst du eine lange Pause ansagen, wenn du mindestens zwei Karten auf der Hand und/oder im Ablagestapel hast. (see [p.27](#page_27)). Die lange Pause hält die gesamte Runde an und wärendessen hast du eine Initiative von 99 und darfst keine Karten spielen.
+Alternativ kannst du eine lange Pause ansagen, wenn du mindestens zwei Karten auf der Hand und/oder im Ablagestapel hast. (siehe [S.27](#page_27)). Die lange Pause hält die gesamte Runde an und wärendessen hast du eine Initiative von 99 und darfst keine Karten spielen.
 
 ---
 
@@ -374,7 +373,7 @@ Wenn ein Gleichstand zwischen deiner Intitative und der eines Monsters besteht b
 
 ## Reihenfolge der Monster
 
-Jedes Monster ist gemäß der Initiativreihenfolge am Zug. Alle Monster der gleichen Art haben die gleiche Initiative und sind in aufsteigender, numerischer Reihenfolge an der Reihe. (see [p.30](#page_30)).
+Jedes Monster ist gemäß der Initiativreihenfolge am Zug. Alle Monster der gleichen Art haben die gleiche Initiative und sind in aufsteigender, numerischer Reihenfolge an der Reihe. (siehe [S.30](#page_30)).
 
 ---
 
@@ -542,11 +541,11 @@ Ein **Angriff** ist ein einzelner Angriff, der gegen ein Ziel ausgeführt wird. 
 
 Wenn ein Angriff ausgeführt wird, kann der auf der Karte angegebene Grundangriffswert auf drei verschiedene Arten verändert werden, die in der folgenden Reihenfolge erfolgen:
 
-1. Alle anwendbaren Angriffsboni und -strafen — wie z.B.  "**±X** <img src="assets/icons/ability_attack.png" class="inline-icon"/>" Effekte, einschließlich Gift    (siehe [p.20](#page_20)) — werden angewendet.
+1. Alle anwendbaren Angriffsboni und -strafen — wie z.B.  "**±X** <img src="assets/icons/ability_attack.png" class="inline-icon"/>" Effekte, einschließlich Gift    (siehe [S.20](#page_20)) — werden angewendet.
 1. Ein Angriffsmodifikator wird gewürflet und angewendet.
-1. Der Schildbonus des Ziels wird angewendet (siehe [p.22](#page_22)).
+1. Der Schildbonus des Ziels wird angewendet (siehe [S.22](#page_22)).
 
-Sobald alle Modifikationen angewendet wurden, erleidet das Ziel den resultierenden Schaden. Wenn das Ziel über Fertigkeiten oder Effekte verfügt, die eine Schadensquelle negieren können, einschließlich des Abwerfens oder Verlierens von Karten, um Schaden zu negieren (siehe [p.28](#page_28)), kann es diese jetzt benutzen.
+Sobald alle Modifikationen angewendet wurden, erleidet das Ziel den resultierenden Schaden. Wenn das Ziel über Fertigkeiten oder Effekte verfügt, die eine Schadensquelle negieren können, einschließlich des Abwerfens oder Verlierens von Karten, um Schaden zu negieren (siehe [S.28](#page_28)), kann es diese jetzt benutzen.
 
 Diese Schritte werden für jedes einzelne Ziel der Angriffsfertigkeit wiederholt. Dies bedeutet, dass verschiedene Ziele, die mit der gleichen Angriffsfertigkeit angegriffen werden, unterschiedlich viel Schaden erleiden können.
 
@@ -565,7 +564,7 @@ Diese Schritte werden für jedes einzelne Ziel der Angriffsfertigkeit wiederholt
 <quoteblock>
   <ol type="A">
     <li><strong>Modifikatorwert:</strong> Dieser Wert modifiziert den Angriffswert. Der <img src="assets/icons/modifier_miss.png" class="inline-element"/> Modifikator reduziert den endgültigen Angriffswert auf Null. Der <img src="assets/icons/modifier_2x.png" class="inline-element"/> Modifikator verdoppelt den aktuellen Angriffswert.</li>
-    <li><strong>Zusätzliche Effekte:</strong> Einige Modifikatoren haben Zustände (see <a href="#page_20">p.20</a>) oder andere zusätzliche Effekte. Bei Aktivierung funktionieren diese zusätzlichen Effekte genau so, wie sie auf der Angriffsfertigkeit angegeben sind.</li>
+    <li><strong>Zusätzliche Effekte:</strong> Einige Modifikatoren haben Zustände (siehe <a href="#page_20">S.20</a>) oder andere zusätzliche Effekte. Bei Aktivierung funktionieren diese zusätzlichen Effekte genau so, wie sie auf der Angriffsfertigkeit angegeben sind.</li>
   </ol>
 </quoteblock>
 
