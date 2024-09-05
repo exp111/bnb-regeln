@@ -1002,19 +1002,19 @@ Nach dem Tod eines Monsters können keine Angriffseffekte mehr angewendet werden
 
 ---
 
-## End of Round
+## Rundenende
 
-After all figures on the map have taken a turn, the End of Round step begins. Perform the following operations in order:
-1. Trigger any end-of-round effects in the scenario rules or on items or ability cards.
-1. For ability cards in the active area with round bonuses:
-  - A-side card: flip it to its B-side and return it to your hand
-  - B-side card: place it in your discard pile 
-  - If the card has a lost icon, place it in your lost pile
-1. If you have at least two cards in your hand and/or discard pile, you may perform a short rest (see [p.27](#page_27)).
+Nachdem alle Figuren auf der Karte an der Reihe waren, beginnt der Schritt „Rundenende“. Führe die folgenden Schritte der Reihe nach aus:
+1. Löse alle Effekte aus den Szenarioregeln, Gegenständen oder Fertigkeitskarten aus, die am Ende der Runde in Kraft treten.
+1. Für Fertigkeitskarten im aktiven Bereich mit Rundenboni:
+  - Karten der A-Seite: Drehe sie auf die B-Seite und nimm sie wieder auf die Hand
+  - Karten der B-Seite: Lege sie auf deinen Ablagestapel 
+  - Wenn die Karte ein Verlustsymbol hat, lege sie auf deinen Verluststapel
+1. Wenn du mindestens zwei Karten auf der Hand und/oder im Ablagestapel hast, darfst du eine kurze Pause einlegen(siehe [S.27](#page_27)).
 
-### Tracking Rounds
+### Runden zählen
 
-If a scenario has effects that occur at specific times, the rounds can be tracked using a spare monster hit point dial. Advance the round dial by one at the end of each round.
+Wenn ein Szenario Effekte hat, die zu einer bestimmten Zeit eintreten, können die Runden mithilfe eines nicht benutzten Monster-Trefferpunktsrads verfolgt werden. Am Ende jeder Runde rückst du die Skala einfach um eins vor.
 
 ---
 
@@ -1022,21 +1022,21 @@ If a scenario has effects that occur at specific times, the rounds can be tracke
 
 ---
 
-# Ending a Scenario
+# Ein Szenario beenden
 
-When a scenario ends, it is either lost or completed, depending on whether the scenario goal is met. The scenario is lost if you become exhausted or some other loss condition listed in the scenario rules occurs. The scenario is completed if the specific goal listed in the scenario rules is achieved.
+Wenn ein Szenario endet, ist es entweder verloren oder abgeschlossen, je nachdem, ob das Szenarioziel erreicht wird. Das Szenario ist verloren, wenn du erschöpft bist oder eine andere in den Szenarioregeln aufgeführte Verlustbedingung eintritt. Das Szenario ist abgeschlossen, wenn das in den Szenarioregeln aufgeführte spezifische Ziel erreicht wird.
 
-Once the end of the scenario is triggered, play continues until the current round is over, and then the scenario ends. If the scenario would be both lost and completed in the same round, the scenario is lost.
+Sobald das Ende des Szenarios ausgelöst wird, wird das Spiel fortgesetzt, bis die aktuelle Runde beendet ist, und dann endet das Szenario. Wenn das Szenario in derselben Runde sowohl verloren als auch abgeschlossen würde, ist das Szenario verloren.
 
-You recover all of your discarded and lost ability cards, recover all of your spent and lost items, and reset your hit point dial to your maximum hit point value. All conditions are removed.
+Du erhälst alle abgelegten und verlorenen Fertigkeitskarten zurück, sowie alle benutzten und verlorenen Gegenstände und setzt deine Trefferpunktskala auf den maximalen Trefferpunktwert zurück. Alle Zustände werden entfernt.
 
-## Lost Scenario
+## Verlorenes Szenario
 
-If the scenario was lost, you must attempt the scenario again.
+Wenn du das Szenario verloren hast, musst du es erneut versuchen.
 
-## Completed Scenario
+## Abgeschlossenes Szenario
 
-If the scenario was completed, read the conclusion of the scenario, which is found in the scenario entry on the scenario card. The conclusion will indicate which scenario to play next in the campaign.
+Wenn das Szenario abgeschlossen wurde, lies den Abschluss des Szenarios, der im Szenarioeintrag auf der Szenariokarte zu finden ist. Dieser Text gibt an, welches Szenario als nächstes in der Kampagne gespielt werden soll.
 
 ---
 
@@ -1044,27 +1044,31 @@ If the scenario was completed, read the conclusion of the scenario, which is fou
 
 ---
 
-> # The Adventure Begins
+> # Das Abenteuer beginnt
 > 
-> At this point, you should be ready to start your adventure. Flip over the cover card of the scenario deck, read the story text on the back, then begin the journey with Scenario 1. The following rules will be helpful at the end of Scenario 1 and Scenario 2, when, respectively, items and leveling up are introduced.
+> An diesem Punkt solltest du bereit sein, dein erstes Abenteuer zu beginnen. Drehe die Deckkarte des Szenariostapels um, lies den Text auf der Rückseite und beginne deine Reise mit dem ersten Szenario. Die folgenden Regeln sind erst am Ende von Szenario 1 und Szenario 2 hilfreich, wenn Gegenstände und Stufenaufstiege dazukommen.
+
 > 
-> ## Item Supply
+> ## Gegenstandsvorrat
 > 
-> There are two items printed at the top and bottom of each card in the scenario deck. Once Scenario 1 is complete, at the start of each scenario, the items on any card that has been resolved or skipped (all previous scenarios and the cover and collector cards) are available to equip. Only one item on each card can be equipped at one time, but different items can be equipped at the beginning of each scenario.
+> Auf jeder Karte im Szenariostapel sind oben und unten zwei Gegenstände aufgedruckt. Sobald Szenario 1 abgeschlossen ist, stehen zu Beginn jedes Szenarios die Gegenstände auf jeder Karte, die abgehandelt oder übersprungen wurde (alle vorherigen Szenarios sowie die Deck- und Sammelkarten), zum Ausrüsten zur Verfügung. Es kann jeweils nur ein Gegenstand auf jeder Karte ausgerüstet werden. Zu Beginn jedes Szenarios können jedoch verschiedene Gegenstände ausgerüstet werden.
+
 > 
-> ## Character Progression
+> ## Charakterentwicklung
 > 
-> There is a level indicator to the right of the scenario's title, which determines the level of your character in the scenario. Your level determines four things:
-> - How many level 1 ability cards you can upgrade (see below)
-> - Which modifier table you should use (use the side of a card that matches the scenario level)
-> - Your maximum hit point value (this is printed on your character mat as a red number below your indicated level)
-> - How many <img src="assets/icons/equip_item.png" class="inline-icon"/> items you can equip (half your level, rounded up)
+> Rechts neben dem Titel des Szenarios befindet sich eine Levelanzeige, die die Stufe deines Charakters im Szenario bestimmt. Deine Stufe bestimmt vier Dinge:
+> - Wie viele Fertigkeitskarten der Stufe 1 du verbessern kannst (siehe unten)
+> - Welche Modifikatortabelle du verwenden sollst (verwende die Seite einer Karte, die der Szenariostufe entspricht)
+> - Dein maximaler Trefferpunktwert (Dies ist auf deiner Charaktertafel als rote Zahl unterhalb deiner angegebenen Stufe aufgedruckt.)
+> - Wie viele <img src="assets/icons/equip_item.png" class="inline-icon"/> Gegenstände du ausrüsten kannst (die Hälfte deines Levels, aufgerundet)
 > 
-> ### Upgraded Ability Cards
+> ### Verbesserte Fertigkeitskarten
+
 > 
-> Each level 1 card you have can be upgraded for a specific level 2 card at the start of a scenario. For each additional scenario level after level 1, one card is upgraded to level 2. You decide which cards to upgrade for each scenario separately. 
+> Jede Karte der Stufe 1, die du besitzt, kann zu Beginn eines Szenarios zu einer bestimmte Karte der Stufe 2 aufgewertet werden. Für jede weitere Szenariostufe nach Stufe 1 wird eine weitere Karte auf Stufe 2 aufgewertet. Du entscheidest, welche Karte du für jedes Szenario aufwerten möchtest. 
 > 
-> A list of the ability cards and their respective upgrades is listed on the back of each character card.
+> Eine Liste der Fertigkeitskarten und ihrer jeweiligen Verbesserungen findest du auf der Rückseite jeder Charakterkarte.
+
 
 ---
 
@@ -1072,23 +1076,24 @@ If the scenario was completed, read the conclusion of the scenario, which is fou
 
 ---
 
-# Appendix A: Component Inventory
-- 1 Learn to Play book
-- 6 Character cards
-- 48 Ability cards
-- 14 Modifier cards
-- 10 Monster cards
-- 22 Scenario cards
-- 1 Icon Reference card
-- 2 Modifier trays
-- 4 Monster trays
-- 5 Hit Point dials
-- 24 Condition tokens
-- 6 Plastic Character miniatures
-- 10 Plastic cubes
-- 1 Custom die
+# Anhang A: Spielmaterial
+- 1 Spielleitfaden
+- 6 Charakterkarten
+- 48 Fertigkeitskarten
+- 14 Modifikatorkarten
+- 10 Monsterkarten
+- 22 Szenariokarten
+- 1 Symbol-Referenzkarte
+- 2 Modifikatortabellen
+- 4 Monstertabellen
+- 5 Trefferpunkteräder
+- 24 Zustandsmarker
+- 6 Charakterfiguren aus Plastik
+- 10 Plastiksteine
+- 1 Würfel
 
-**Missing parts?** If you discover that you are missing any parts from your game, you can request replacements at [cephalofair.com/contact](https://cephalofair.com/contact).
+**Fehlende Teile?** 
+Wenn du feststellst, dass Teile fehlen, kannst du unter folgender Adresse Ersatz anfordern [feuerland-spiele.de](https://www.feuerland-spiele.de/).
 
 ---
 
@@ -1096,30 +1101,30 @@ If the scenario was completed, read the conclusion of the scenario, which is fou
 
 ---
 
-# Appendix B: Monster Turn Guide
+# Anhang B: Leitfaden zu den Zügen der Monster
 
-## 1. Initial Check
+## 1. erste Prüfung
 
-1. Check for Conditions and Attack Ability
-  - Any monster with <img src="assets/icons/condition_disarm.png" class="inline-condition"/> or without an attack ability moves as if for a single-target melee attack but does not perform an attack.
-  - Any monster with <img src="assets/icons/condition_immobilize.png" class="inline-condition"/> ignores all move abilities but performs any other viable actions.
-1. Check for Movement Paths 
-  - Check for movement paths to attack hexes (i.e., hexes from which an attack can be performed). If no path exists (due to obstacles or other figures), the monster will not move or attack.
+1. Überprüfe die Zustände und die Angriffsfertigkeiten
+  - Jedes Monster mit  <img src="assets/icons/condition_disarm.png" class="inline-condition"/> oder ohne Angriffsfertigkeit bewegt sich wie für einen Einzelziel-Nahkampfangriff, führt jedoch keinen Angriff aus.
+  - Jedes Monster mit <img src="assets/icons/condition_immobilize.png" class="inline-condition"/> ignoriert alle Bewegungsfertigkeiten, führt aber alle anderen möglichen Aktionen aus.
+1. Suche nach möglichen Bewewgungspfaden
+  - Suche nach Bewegungspfaden für Angriffsfelder (d. h. Felder, von denen aus ein Angriff ausgeführt werden kann). Wenn kein Weg vorhanden ist (aufgrund von Hindernissen oder anderen Figuren), wird sich das Monster nicht bewegen oder angreifen.
 
-## 2. Find Path
+## 2. einen Pfad finden
 
-The monster finds a path to an attack hex with the following priority list:
-1. The path with the fewest hazards.
-1. The path that requires the fewest movement points.
+Das Monster findet einen Weg zu einem Angriffsfeld mit folgenden Prioritäten:
+1. Der Weg mit den wenigsten Gefahren.
+1. Der Weg, der die wenigsten Bewegungspunkte erfordert.
 
-## 3. Perform Monster Abilities
+## 3. Monsterfertigkeiten ausführen
 
-Each monster performs all of its abilities from top to bottom (move, attack, and other abilities), fully resolving each ability before starting the next. For move abilities, observe the following rules:
-- The monster must end its movement with a shorter path to its attack hex than it had before or it will not move.
-- The monster chooses a movement path that triggers the fewest negative hexes.
-- The monster moves toward a hex from which it can attack.
-- If the monster could move to multiple hexes that maximize the previous priorities, it moves to the hex that requires the fewest movement points.
-- In cases where monster movement is still ambiguous, you decide.
+Jedes Monster führt alle seine Fertigkeiten von oben nach unten aus (Bewegung, Angriff und andere Fertigkeiten). Jede Fertigkeit wird vollständig ausgeführt, bevor es mit der nächsten beginnt. Beachte bei Bewegungsfertigkeiten die folgenden Regeln:
+- Das Monster muss seine Bewegung mit einem kürzeren Weg zu seinem Angriffsfeld beenden als zur Runde zuvor, sonst bewegt es sich nicht.
+- Das Monster wählt einen Pfad, der die wenigsten negativen Felder auslöst.
+- Das Monster bewegt sich auf ein Feld zu, von dem aus es angreifen kann.
+- Wenn sich das Monster auf mehrere Hexfelder bewegen könnte, die die vorherigen Bedingungen erfüllen, bewegt es sich auf das Feld, das die wenigsten Bewegungspunkte erfordert.
+- Wenn immer noch mehrere Felder infrage kommen, entscheidest du, auf welches Feld sich das Monster bewegt.
 
 ---
 
@@ -1127,52 +1132,49 @@ Each monster performs all of its abilities from top to bottom (move, attack, and
 
 ---
 
-# Appendix C: Important Reminders
+# Anhang C: Wichtige Hinweise
 
-### Attacks and Damage
+### Angriffe und Schaden
 
-- A separate attack modifier is rolled for each target of an attack ability.
+- Für jedes Ziel einer Angriffsfertigkeit wird ein separater Angriffsmodifikator gewürfelt.
 
-> - The attack modifier tracking cube should be moved after each attack, including after each individual roll when attacking multiple targets.
+> - Der Angriffsmodifikatorwürfel sollte nach jedem Angriff verschoben werden. Auch nach jedem einzelnen Wurf, wenn mehrere Ziele angegriffen werden.
 
-- A shield bonus only reduces damage from attacks, not from other sources, but the bonus applies to all incoming attacks while active.
-- Even if an attack deals no damage (e.g., when a <img src="assets/icons/modifier_miss.png" class="inline-element"/> modifier is rolled), all added effects of the attack are still applied.
+- Ein Schildbonus reduziert nur den Schaden durch Angriffe und nicht durch andere Quellen. Der Bonus hingegen gilt für alle eingehenden Angriffe, solange er aktiv ist.
+- Selbst wenn ein Angriff keinen Schaden verursacht  (z. B. wenn ein <img src="assets/icons/modifier_miss.png" class="inline-element"/> Modifikator gewürfelt wird), werden alle zusätzlichen Effekte des Angriffs angewendet.
 
-> - You may negate all damage from one source by discarding or losing cards in one of three ways:
->   - **Discard** one A-side card of your choice from your **hand**.
->   - **Discard** two B-side cards of your choice from your **hand**.
->   - **Lose** one card of your choice from your **hand or discard pile**.
+> - Du kannst den gesamten Schaden aus einer Quelle verhindern, indem du Karten auf eine von drei Arten abwirfst oder verlirst:
+>   - **Wirf** eine A-Karte deiner Wahl aus deiner **Hand** auf den Ablagestapel.
+>   - **Wirf** zwei B-Karten deiner Wahl aus deiner **Hand** auf den Ablagestapel.
+>   - **Verliere** eine Karte deiner Wahl aus deinem **Hand- oder Ablagestapel**.
 
-### Monsters
+### Monster
 
-- Each round, an action is rolled for each type of monster on the map. All monsters of a single type will use the same rolled action.
-- A monster only performs the abilities listed on its rolled action for the round.
-- A monster does not apply any active bonuses from its rolled action until its turn.
-- If a monster cannot find an attack hex, it will not move.
-- If a monster will not be performing an attack on its turn or is disarmed, it moves as if for a single-target melee attack.
+- In jeder Runde wird für jeden Monstertyp auf dem Spielfeld eine Aktion ausgeführt. Alle Monster eines Typs verwenden dieselbe gewürfelte Aktion.
+- Ein Monster führt in dieser Runde nur die Fertigkeiten aus, die in seiner gewürfelten Aktion angegeben sind.
+- Ein Monster wendet bis zu seinem Zug keine aktiven Boni aus seiner gewürfelten Aktion an.
+- Wenn ein Monster kein Angriffsfeld finden kann, bewegt es sich nicht.
+- Wenn ein Monster in seinem Zug keinen Angriff ausführt oder entwaffnet ist, bewegt es sich wie bei einem Einzelziel-Nahkampfangriff.
 
-### Character
+### Dein Charakter
 
-> - You initially use the base modifier table on the modifier tray. Advanced attack modifier tables are used during higher level scenarios.
+> - Du verwendest zunächst die Basismodifikatortabelle auf der Modifikatorablage. Erweiterte Angriffsmodifikatortabellen werden in Szenarios höherer Stufe verwendet.
+- Du kannst nicht zwei obere oder zwei untere Aktionen auf einer Fertigkeitskarte ausführen.
+- Für die Basisaktionen ist "<img src="assets/icons/ability_attack.png" class="inline-icon"/> **2**"  immer eine obere Aktion und "<img src="assets/icons/ability_move.png" class="inline-icon"/> **2**" immer eine untere Aktion
 
-- You cannot perform two top actions or two bottom actions.
-- For the basic actions, "<img src="assets/icons/ability_attack.png" class="inline-icon"/> **2**" is always a top action, and "<img src="assets/icons/ability_move.png" class="inline-icon"/> **2**" is always a bottom action.
+### Elemente
 
-### Elements
+> - Elementanreicherungen sind verfügbar, sobald ihr Symbol auf einer gewählten Fertigkeitskarte, einer Fertigkeitskarte in deiner Hand oder im aktiven Bereich oder bei einer gewürfelten Monsteraktion sichtbar ist.
+> - Eine Elementanreicherung ist nicht mehr verfügbar, wenn die Fertigkeitskarte, auf der sie sichtbar ist, umgedreht, abgeworfen oder verloren wird. Eine Elementanreicherung, die bei einer gewürfelten Monsteraktion sichtbar ist, ist nicht mehr verfügbar, sobald alle Monster dieses Typs getötet wurden.
+> - Es können mehrere Instanzen jedes Elements gleichzeitig geben, aber jede Instanz einer Elementanreicherung kann höchstens einmal pro Runde verbraucht werden.
+- Wenn ein Monstertyp ein Element verbraucht, profitieren alle Monster dieses Typs von den Vorteilen dieses Elements.
 
-> - Infused elements are available as soon as their icon is visible on a chosen ability card, an ability card in your hand or active area, or on a rolled monster action.
-> - An infused element is immediately unavailable if the ability card it is visible on is flipped, discarded, or lost. An infused element visible on a rolled monster action is no longer available as soon as all monsters of that type are killed.
-> - Multiple instances of each element can be infused at once, but each instance of an infused element can be consumed no more than once per round.
+### Szenariodetails
 
-- When a monster type consumes an element, all monsters of the type gain the benefits of the consumption.
-
-### Scenario Details
-
-> - The scenario level is listed in the scenario entry and determines the number of level 2 ability cards and items you can select.
-> - You can upgrade one ability card for each level beyond the first.
-
-- You can each equip a number of <img src="assets/icons/equip_item.png" class="inline-icon"/> items equal to half the scenario level (rounded up).
-- The end of a scenario can only occur at the end of a round, even if the objective is met mid-round.
+> - Die Szenariostufe wird im Szenarioeintrag aufgeführt und bestimmt die Anzahl der Fertigkeitskarten und Gegenstände der Stufe 2, die du auswählen kannst.
+> - Du kannst für jede Stufe, ausgenommen der Ersten, eine Fertigkeitskarte verbessern
+- Du kannst eine Anzahl von <img src="assets/icons/equip_item.png" class="inline-icon"/> Gegenständen ausrüsten, die der Hälfte der Szenariostufe (aufgerundet) entspricht.
+- Das Ziel eines Szenarios kann nur am Ende einer Runde erreicht werden, auch wenn die Bedingungen in der Mitte der Runde erfüllt sind.
 
 ---
 
@@ -1236,15 +1238,15 @@ Each monster performs all of its abilities from top to bottom (move, attack, and
 
 ---
 
-# Appendix E: Component Errata
+# Anhang E: Komponenten-Errata
 
-The following is a complete list of all component errata. If a discrepency exists between a physical copy of the game and these errata, the game should be played as if the physical components match the description here.
+Im Folgenden findest du eine vollständige Liste aller Komponentenfehler. Wenn ein Unterschied zwischen einer physischen Kopie des Spiels und dieser Errata besteht, sollte das Spiel so gespielt werden, als ob die physischen Komponenten mit der Beschreibung hier übereinstimmen würden.
 
-### Ability Cards
+### Fertigkeitskarten
 
-- **Freeezing Vortex** — The first ability of the bottom action should read as follows: "<img src="assets/icons/condition_pull.png" class="inline-condition"/> 3 <img src="assets/icons/ability_target.png" class="inline-icon"/> all enemies within <img src="assets/icons/ability_range.png" class="inline-icon"/> 4". The range was misprinted as 2 in the first printing.
+- **Frostvortex** — Die erste Fertigkeit der unteren Aktion sollte wie folgt lauten: "<img src="assets/icons/condition_pull.png" class="inline-condition"/> 3 <img src="assets/icons/ability_target.png" class="inline-icon"/> alle Feinde innerhalb von <img src="assets/icons/ability_range.png" class="inline-icon"/> 4". Die Reichweite wurde im ersten Druck fälschlicherweise als 2 gedruckt.
 
-### Monster Cards
+### Monsterkarten
 
 - **Earth Demon** — The second action contains an erroneous unicode box following the element consumtion in the first printing. This box should simply be ignored.
 
@@ -1260,29 +1262,30 @@ The following is a complete list of all component errata. If a discrepency exist
 <table>
 <tr><td>
   
-<p>Inspired by <em>Gloomholdin</em></p>
+<p>
+Inspiriert durch <em>Gloomholdin</em></p>
 
-<h3 id="design-and-development">Design and Development</h3>
+<h3 id="design-and-development">Design und Entwicklung</h3>
 
-<h4 id="designers">Designers</h4>
+<h4 id="designers">Designer</h4>
 
 <p>Joe Klipfel and Nikki Valens</p>
 
-<h4 id="developer-and-project-manager">Developer and Project Manager</h4>
+<h4 id="developer-and-project-manager">Entwickler und Projektmanager</h4>
 
 <p>Nikki Valens</p>
 
-<h4 id="scenario-20-design">Scenario 20 Design</h4>
+<h4 id="scenario-20-design">Szenario 20 Design</h4>
 
 <p>Misty Burgess</p>
 
 <h3 id="illustration">Illustration</h3>
 
-<h4 id="cover-character-and-monster-artist">Cover, Character, and Monster Artist</h4>
+<h4 id="cover-character-and-monster-artist">Cover-, Charakter- und Monsterillustrator</h4>
 
 <p>Mofei Wang</p>
 
-<h4 id="map-artist">Map Artist</h4>
+<h4 id="map-artist">Spielfeldillustrator</h4>
 
 <p>Yannis Cardin</p>
 
@@ -1290,19 +1293,19 @@ The following is a complete list of all component errata. If a discrepency exist
 
 <p>BJ Hensley and Arch Anderson</p>
 
-<h3 id="3d-modeling">3D Modeling</h3>
+<h3 id="3d-modeling">3D Modellierung</h3>
 
 <h4 id="miniature-sculptors">Miniature Sculptors</h4>
 
 <p>Chris Lewis</p>
 
-<h3 id="graphic-design">Graphic Design</h3>
+<h3 id="graphic-design">Grafikdesign</h3>
 
-<h4 id="lead-graphic-designer">Lead Graphic Designer</h4>
+<h4 id="lead-graphic-designer">Leitender Grafikdesigner</h4>
 
 <p>Arch Anderson</p>
 
-<h4 id="graphic-designer">Graphic Designer</h4>
+<h4 id="graphic-designer">Grafikdesigner</h4>
 
 <p>Jason D. Kingsley</p>
 
@@ -1326,25 +1329,25 @@ The following is a complete list of all component errata. If a discrepency exist
 
 <p>Jaym Gates</p>
 
-<h3 id="production">Production</h3>
+<h3 id="production">Produktion</h3>
 
 <h4 id="executive-producer-and-production-lead">Executive Producer and Production Lead</h4>
 
 <p>Price Johnson</p>
 
-<h3 id="playtesting">Playtesting</h3>
+<h3 id="playtesting">Spieltest</h3>
 
-<h4 id="playtest-coordinator">Playtest Coordinator</h4>
+<h4 id="playtest-coordinator">Spieltestkoordinator</h4>
 
 <p>Nikki Valens</p>
 
-<h4 id="campaign-playtesters">Campaign Playtesters</h4>
+<h4 id="campaign-playtesters">Kampagnenspieltester</h4>
 
 <p>Amr Ammourazz, Calvin Wong Tze Loon 黃子倫, David Gregg, Duncan Henry, Fiona van den Heiligenberg, Hong Di-Anne, Joseph Bozarth, Kyle Kemp, Larry, Braden, and Maks Marburger, Misty Burgess, Rachel Woodfint, Z Svela</p>
 
 </td><td>
 
-<h4 id="additional-playtesters">Additional Playtesters</h4>
+<h4 id="additional-playtesters">Zusätzliche Spieletester</h4>
 
 <p>Alexander Norback, Alisandra Livingston, Andrew Brown, Ben Donovan, Brook Laing, Carl Skelton, Clay Kramer, Conrad Gregory Oakes, Corbin Neuhauser, Dan Sawade, Daniel J Burras, David Hodd, David Ross Pascoe, John Morgan, Joshua Ryan Jones, Joshua Trotta, Julian Naydichev, Julie Lauzon, Kelly Nulty, Mike Clemson, Mike Clinton, Nathan Moteberg, Nicole Koprince, Peter Koprince, Ragnar Sigurður Ragnarsson, Ryan Huntley, Samuel Muriello, Sean Lim</p>
 
@@ -1360,7 +1363,7 @@ The following is a complete list of all component errata. If a discrepency exist
 
 <h4 id="backerkit">BackerKit</h4>
 
-<h3 id="special-thanks">Special Thanks</h3>
+<h3 id="special-thanks">Besonderer Dank</h3>
 
 <p>“Thank you to my wife, Krista, who tirelessly supports my game design shenanigans.” —Joe Klipfel</p>
 
@@ -1375,99 +1378,99 @@ The following is a complete list of all component errata. If a discrepency exist
 
 ---
 
-# Quick Reference
+# schnelle Referenzen
 
 <div class="two-columns">
 <table>
 <tr><td>
 
-<h3>Beginning a Scenario (<a href="#page_7">p.7</a>)</h3>
+<h3>Ein Szenario beginnen (<a href="#page_7">S.7</a>)</h3>
 
 <ol>
-<li>Select a scenario.</li>
-<li>Read the scenario entry.</li>
-<li>Retrieve all monsters for the scenario.</li>
-<li>Resolve scenario effects and flip to the map side.</li>
-<li>Place monster cards in their respective trays.</li>
-<li>Place monster cubes and character mini.</li>
-<li>Set character level and monster difficulty.</li>
-<li>Place conditions nearby.</li>
-<li>Select which items to bring.</li>
-<li>Select upgraded ability cards.</li>
-<li>Set all hit point values to maximum.</li>
-<li>Apply any remaining scenario effects.</li>
+<li>Wähle ein Szenario aus.</li>
+<li>Lies den Szenarioeintrag.</li>
+<li>Lege alle Monster für das Szenario bereit</li>
+<li>Löse alle Szenarioeffekte aus und wechsel zur Spielplanseite.</li>
+<li>Lege die Monsterkarten in ihre jeweiligen Fächer.</li>
+<li>Platziere die Monsterwürfel und Charakterfigur.</li>
+<li>Lege die Charakterstufe und die Monsterschwierigkeit fest.</li>
+<li>Lege die Zustände bereit.</li>
+<li>Wähle deine Gegenstände aus.</li>
+<li>Wähle deine verbesserten Fertigkeitskarten aus.</li>
+<li>Setze alle Trefferpunkte auf ihr Maximum.</li>
+<li>Löse alle verbleibenden Szenarioeffekte aus.</li>
 </ol>
 
-<h3>Scenario Phase (<a href="#page_6">p.6</a>)</h3>
+<h3>Szenariophasen (<a href="#page_6">S.6</a>)</h3>
 
 <ol>
-<li>Start of Round Effects</li>
-<li>Card Selection</li>
-<li>Ordering of Initiative</li>
-<li>Character and Monster Turns</li>
-<li>End of Round</li>
+<li>Effekte zu Beginn der Runde</li>
+<li>Kartenauswahl</li>
+<li>Reihenfolge der Initiative</li>
+<li>Charakter- und Monsterzüge</li>
+<li>Ende der Runde</li>
 </ol>
 
-<h3>Targeted Abilities (<a href="#page_13">p.13</a>)</h3>
+<h3>Gezielte Fertigkeiten(<a href="#page_13">S.13</a>)</h3>
 
 <ul>
-<li>Attack (<a href="#page_18">p.18</a>)</li>
-<li>Conditions (<a href="#page_20">p.20</a>)</li>
-<li>Heal (<a href="#page_21">p.21</a>)</li>
-<li>Forced Movement (<a href="#page_23">p.23</a>)</li>
-<li>Controlling Monsters (<a href="#page_24">p.24</a>)</li>
+<li>Angriff (<a href="#page_18">S.18</a>)</li>
+<li>Zustände (<a href="#page_20">S.20</a>)</li>
+<li>Heilung (<a href="#page_21">S.21</a>)</li>
+<li>erzwungene Bewegungen (<a href="#page_23">S.23</a>)</li>
+<li>Kontrollierte Monster (<a href="#page_24">S.24</a>)</li>
 </ul>
 
 </td><td>
 
-<h3>Attack Modification Order (<a href="#page_18">p.18</a>)</h3>
+<h3>Reihenfolge der Angriffsmodifikatoren (<a href="#page_18">S.18</a>)</h3>
 
 <ol>
-<li>Apply all attack bonuses and penalties.</li>
-<li>Roll and apply an attack modifier card.</li>
-<li>Apply the target's shield bonus.</li>
+<li>Wende alle Angriffsboni und -nachteile an.</li>
+<li>Würfel eine Angriffsmodifikatorkarte und wende sie an.</li>
+<li>Wende den Schildbonus des Ziels an.</li>
 </ol>
 
-<h3>End of Round (<a href="#page_33">p.33</a>)</h3>
+<h3>Ende der Runde (<a href="#page_33">S.33</a>)</h3>
 
 <ol>
-<li>Trigger any end-of-round effects.</li>
-<li>Remove all round bonuses from your active area.</li>
-<li>Perform a short rest if desired.</li>
+<li>Löse alle Effekte am Ende der Runde aus.</li>
+<li>Entferne alle Rundenboni aus deinem aktiven Bereich.</li>
+<li>Führe bei Bedarf eine kurze Pause durch.</li>
 </ol>
 
-<h3>Ending a Scenario (<a href="#page_34">p.34</a>)</h3>
+<h3>Ein Szenario beenden (<a href="#page_34">S.34</a>)</h3>
 
-<h4>Whether the Scenario was Lost or Completed:</h4>
+<h4>Egal ob das Szenario verloren oder bestanden war:</h4>
 
 <ul>
-<li>Recover all discarded and lost items and ability cards.</li>
-<li>Reset character health dial to maximum.</li>
-<li>Remove all conditions.</li>
+<li>Hole alle verbrauchte oder verlorene Gegenstände und Fertigkeitskarten wieder zurück.</li>
+<li>Setzte deine Trefferpunkte auf den Maximalwert zurück.</li>
+<li>Entferne alle Zustände.</li>
 </ul>
 
-<h4>If the Scenario was Lost:</h4>
+<h4>Wenn das Szenario verloren war:</h4>
 
 <ul>
-<li>Replay the scenario.</li>
+<li>Wiederhole das Szenario.</li>
 </ul>
 
-<h4>If the Scenario was Completed:</h4>
+<h4>Wenn das Szenario bestanden war:</h4>
 
 <ul>
-<li>Read the scenario conclusion.</li>
-<li>Scenario indicates which scenario to play next.</li>
+<li>Lies die Schlussfolgerung des Szenarios.</li>
+<li>Dies gibt an, welches Szenario als nächstes gespielt werden soll.</li>
 </ul>
 
-<h3>Timing of Attack Effects</h3>
+<h3>Zeitpunkt der Angriffseffekte</h3>
 
 <ul>
-<li>+X Attack (<a href="#page_18">p.18</a>) – during damage resolution</li>
-<li>Pierce (<a href="#page_19">p.19</a>) – during damage resolution</li>
-<li>+X Target (<a href="#page_13">p.13</a>) – after the attack resolves</li>
-<li>Conditions (<a href="#page_20">p.20</a>) – after the attack resolves</li>
-<li>Forced Movement (<a href="#page_23">p.23</a>) – after the attack resolves</li>
-<li>Other Added Effects (<a href="#page_19">p.19</a>) – after the attack resolves</li>
+<li>+X Angriff (<a href="#page_18">S.18</a>) – während der Schadensauflösung</li>
+<li>durchdringen (<a href="#page_19">S.19</a>) – während der Schadensauflösung</li>
+<li>+X Ziele (<a href="#page_13">S.13</a>) – nachdem der Angriff ausgeführt wurde</li>
+<li>Zustände (<a href="#page_20">S.20</a>) – nachdem der Angriff ausgeführt wurde</li>
+<li>erzwungene Bewegungen (<a href="#page_23">S.23</a>) – nachdem der Angriff ausgeführt wurde</li>
+<li>andere zusätzliche Effekte (<a href="#page_19">S.19</a>) – nachdem der Angriff ausgeführt wurde</li>
 </ul>
 
 </td></tr>
@@ -1475,13 +1478,14 @@ The following is a complete list of all component errata. If a discrepency exist
 </div>
 
 
-### Scenario Level ([p.8](#page_8))
+### Szenariostufe ([S.8](#page_8))
 
-|	Scenario Level	          |	1	|	2	|	3	|	4	|	5	|
+|	Szenariostufe	          |	1	|	2	|	3	|	4	|	5	|
 | :---                      |:---:|:---:|:---:|:---:|:---:|
-|	Upgraded Ability Cards	  |	0	|	1	|	2	|	3	|	4	|
-|	Character Modifier Level	|	1	|	2	|	3	|	4	|	5	|
-|	<img src="assets/icons/equip_item.png" class="inline-icon"/> Items	                    |	1	|	1	|	2	|	2	|	3	|
+|	verbesserte Fertigkeitskarten	  |	0	|	1	|	2	|	3	|	4	|
+|	Charaktermodifikatorstufe	|	1	|	2	|	3	|	4	|	5	|
+|	<img src="assets/icons/equip_item.png" class="inline-icon"/> Gegenstände	                    |	1	|	1	|	2	|	2	|	3	|
 
-- The monster modifier difficulty remains at “standard” throughout the entire campaign, but this difficulty can be increased or decreased to affect monster difficulty as desired.
+- Der Schwierigkeitsgrad des Monstermodifikators bleibt während der gesamten Kampagne auf „Standard“. Sieser Schwierigkeitsgrad kann jedoch beliebig erhöht oder verringert werden, um den Schwierigkeitsgrad der Monster nach Wunsch zu ändern.
+
 
