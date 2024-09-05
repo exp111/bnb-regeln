@@ -20,11 +20,11 @@ Mit dem ersten Überblick aus dem Spielleitfaden solltest du in der Lage sein, d
 
 Insbesondere gibt es ein paar Einzelheiten, die nicht in dem Spielleitfaden erklärt werden:
 
-- Gegenstände [p.26](#page_26), [35](#page_35)
-- Regenerieren [p.24](#page_24)
-- Szenario Effekte [p.7](#page_7), [8](#page_8)
-- Gelände [p.9](#page_9)
-- Verbesserte Fähigkeiten [p.35](#page_35)
+- Gegenstände [S.26](#page_26), [35](#page_35)
+- Regenerieren [S.24](#page_24)
+- Szenario Effekte [S.7](#page_7), [8](#page_8)
+- Gelände [S.9](#page_9)
+- Verbesserte Fähigkeiten [S.35](#page_35)
 
 Viel Glück, Abenteurer!
 
