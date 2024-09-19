@@ -1365,6 +1365,18 @@ Inspiriert durch <em>Gloomholdin</em></p>
 
 <p>“Thank you to my wife, Krista, who tirelessly supports my game design shenanigans.” —Joe Klipfel</p>
 
+<h3 id="crowdfunding">Deutsche Übersetzung des Spiels</h3>
+
+<p>Effective Media</p>
+
+<h3 id="crowdfunding">Deutsche Übersetzung der Spielregeln</h3>
+
+<p>Wanja Heeren</p>
+
+
+
+
+
 </td></tr>
 </table>
 </div>
