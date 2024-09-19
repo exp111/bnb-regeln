@@ -88,7 +88,7 @@ Viel Glück, Abenteurer!
 <p>Angriffsmodifikatorablage <a href="#page_18">S.18</a></p>
 <p>Angriffseffekte <a href="#page_19">S.19</a></p>
 <p>Vor- und Nachteile <a href="#page_19">S.19</a></p>
-<p>Durchdringen <a href="#page_19">S.19</a></p>
+<p>Durchstechen <a href="#page_19">S.19</a></p>
 
 <p>Zustände <a href="#page_20">S.20</a></p>
 <p>Positive Zustände <a href="#page_20">S.20</a></p>
@@ -311,7 +311,7 @@ Jedes Szenario besteht aus verschiedenen Geländetypen. Dieser Typ wird durch di
 <blockquote>
   <div class="float-container">
     <span class="floating-image"><img src="assets/icons/terrain_hazard.png" height="48"/></span>
-    <p>Wenn eine Figur ohne zu fliegen oder springen ein Gefahrenfeld betritt, wird ein Effekt auf diese Figur angewendet. Es gibt viele verschiedene Effekte und sie werden auf der jeweiligen Szenariokarte spezifiziert. Figuren erleiden keinen Effekt, wenn sie auf einem Gefahrenfeld eine Runde beginnen oder dieses verlassen. Falls aber eine Sprungbewegung auf einem Gefahrenfeld beendet wird, wird ein Effekt angewendet. Wenn eine Figur sich auf einem  <strong>Immobiliseren</strong><img src="assets/icons/condition_immobilize.png" class="inline-condition"/>Gefahrenfeld befindet (siehe <a href="#page_20">S.20</a>), gilt sie als Hindernis für die Bewegung anderer Figuren.</p>
+    <p>Wenn eine Figur ohne zu fliegen oder springen ein Gefahrenfeld betritt, wird ein Effekt auf diese Figur angewendet. Es gibt viele verschiedene Effekte und sie werden auf der jeweiligen Szenariokarte spezifiziert. Figuren erleiden keinen Effekt, wenn sie auf einem Gefahrenfeld eine Runde beginnen oder dieses verlassen. Falls aber eine Sprungbewegung auf einem Gefahrenfeld beendet wird, wird ein Effekt angewendet. Wenn eine Figur sich auf einem  <strong>Lähmung</strong> <img src="assets/icons/condition_immobilize.png" class="inline-condition"/>Gefahrenfeld befindet (siehe <a href="#page_20">S.20</a>), gilt sie als Hindernis für die Bewegung anderer Figuren.</p>
   </div>
 </blockquote>
 
@@ -594,9 +594,9 @@ Ein Angriff kann nicht mehrfach Vorteile oder Nachteile erzielen. Wenn ein Angri
 
 Jeder Fernangriff auf einen benachbarten Feind erhält automatisch einen Nachteil.
 
-#### Durchdringen
+#### Durchstechen
 
-<img src="assets/icons/condition_pierce.png" class="inline-condition"/> "**Pierce X**" ist ein zusätzlicher Effekt, der den Schildbonus des Ziels (siehe [S.22](#page_22)) um X reduziert. Mehrere "<img src="assets/icons/condition_pierce.png" class="inline-condition"/> **X**" Effekte können kombiniert werden. Wenn beispielsweise ein Angriff mit "<img src="assets/icons/condition_pierce.png" class="inline-condition"/> **2**" zusätzlich "<img src="assets/icons/condition_pierce.png" class="inline-condition"/> **3** bekommt," würde der Effekt den Schildbonus des Ziels für diesen Angriff um 5 reduzieren.
+<img src="assets/icons/condition_pierce.png" class="inline-condition"/> "**Durchstechen X**" ist ein zusätzlicher Effekt, der den Schildbonus des Ziels (siehe [S.22](#page_22)) um X reduziert. Mehrere "<img src="assets/icons/condition_pierce.png" class="inline-condition"/> **X**" Effekte können kombiniert werden. Wenn beispielsweise ein Angriff mit "<img src="assets/icons/condition_pierce.png" class="inline-condition"/> **2**" zusätzlich "<img src="assets/icons/condition_pierce.png" class="inline-condition"/> **3** bekommt," würde der Effekt den Schildbonus des Ziels für diesen Angriff um 5 reduzieren.
 
 ---
 
@@ -619,9 +619,9 @@ Ein Zustandseffekt kann auch als zusätzlicher Effekt zu anderen Fähigkeiten hi
 
 #### Positive Zustände
 
-<img src="assets/icons/condition_invisible.png" class="inline-condition"/> **Unsichtbarkeit:** Die Figur kann von keinem Feind als Ziel ausgewählt werden, allerdings bleiben nicht anvisierte Fertigkeit davon unberührt. Die unsichtbare Figur und ihre Verbündeten können weiterhin miteinander interagieren. Unsichtbarkeit wird am Ende des nächsten Zuges der Figur entfernt.
+<img src="assets/icons/condition_invisible.png" class="inline-condition"/> **Unsichtbar:** Die Figur kann von keinem Feind als Ziel ausgewählt werden, allerdings bleiben nicht anvisierte Fertigkeit davon unberührt. Die unsichtbare Figur und ihre Verbündeten können weiterhin miteinander interagieren. Unsichtbar wird am Ende des nächsten Zuges der Figur entfernt.
 
-<img src="assets/icons/condition_strengthen.png" class="inline-condition"/> **Stärken:** Die Figur erhält bei allen Angriffen einen Vorteil. Stärken wird am Ende des nächsten Zuges der Figur entfernt.
+<img src="assets/icons/condition_strengthen.png" class="inline-condition"/> **Stärkung:** Die Figur erhält bei allen Angriffen einen Vorteil. Stärkung wird am Ende des nächsten Zuges der Figur entfernt.
 
 #### Negative Zustände
 
@@ -629,11 +629,11 @@ Ein Zustandseffekt kann auch als zusätzlicher Effekt zu anderen Fähigkeiten hi
 
 <img src="assets/icons/condition_poison.png" class="inline-condition"/> **Gift:** Alle Angriffe auf diese Figur erhalten "**+1** <img src="assets/icons/ability_attack.png" class="inline-icon"/>." Gift wird entfernt, wenn die Figur geheilt wird, aber im Gegensatz zu Wunde verhindert Gift, dass die Heilung den aktuellen Trefferpunktwert der Figur erhöht. (Du kannst den Marker auf den Fertigkeitstext eines Monsters legen, um ihn dir leichter zu merken.)
 
-<img src="assets/icons/condition_immobilize.png" class="inline-condition"/> **Immobilisieren:** Die Figur kann keine Bewegungsfertigkeiten ausführen. Die Immobilisierung wird am Ende des nächsten Zuges der Figur entfernt.
+<img src="assets/icons/condition_immobilize.png" class="inline-condition"/> **Lähmung:** Die Figur kann keine Bewegungsfertigkeiten ausführen. Lähmung wird am Ende des nächsten Zuges der Figur entfernt.
 
-<img src="assets/icons/condition_disarm.png" class="inline-condition"/> **Entwaffnen:** Die Figur kann keine Angriffsfertigkeiten ausführen. Die Entwaffnung wird am Ende des nächsten Zuges der Figur entfernt.
+<img src="assets/icons/condition_disarm.png" class="inline-condition"/> **Entwaffnen:** Die Figur kann keine Angriffsfertigkeiten ausführen. Entwaffnen wird am Ende des nächsten Zuges der Figur entfernt.
 
-<img src="assets/icons/condition_muddle.png" class="inline-condition"/> **Durcheinander:** Die Figur erhält bei allen Angriffen einen Nachteil. Das Durcheinander wird am Ende des nächsten Zuges der Figur entfernt.
+<img src="assets/icons/condition_muddle.png" class="inline-condition"/> **Verwirrung:** Die Figur erhält bei allen Angriffen einen Nachteil. Verwirrung wird am Ende des nächsten Zuges der Figur entfernt.
 
 ---
 
@@ -699,17 +699,17 @@ Erzwungene Bewegung ist jede negative gezielte Fähigkeit, die es einer Figur er
 
 Es gibt zwei primäre erzwungene Bewegungsfähigkeiten:
 
-<img src="assets/icons/condition_push.png" class="inline-condition"/> "**Stoßen X**" zwingt das Ziel, sich bis zu X Felder von der handelnden Figur wegzubewegen. Jedes betretene Hexfeld muss das Ziel in eine größerer Entfernung von der handelnden Figur bringen.
+<img src="assets/icons/condition_push.png" class="inline-condition"/> "**Schieben X**" zwingt das Ziel, sich bis zu X Felder von der handelnden Figur wegzubewegen. Jedes betretene Hexfeld muss das Ziel in eine größerer Entfernung von der handelnden Figur bringen.
 
 <img src="assets/icons/condition_pull.png" class="inline-condition"/> "**Ziehen X**" zwingt das Ziel, sich bis zu X Felder auf die handelnde Figur zuzubewegen. Jedes betretene Hexfeld muss das Ziel näher an die handelnde Figur bringen.
 
-Wenn du Stoßen oder Ziehen ausführst, bestimmst du die Richtung und Entfernung, in der sich das Ziel bewegt. Wenn Sie das Ziel in ein Gefahrenfeld stoßen oder ziehen, erleidet es die Auswirkungen dieses Gefahrenfelds, es sei denn, es fliegt.
+Wenn du Schieben oder Ziehen ausführst, bestimmst du die Richtung und Entfernung, in der sich das Ziel bewegt. Wenn Sie das Ziel in ein Gefahrenfeld schieben oder ziehen, erleidet es die Auswirkungen dieses Gefahrenfelds, es sei denn, es fliegt.
 
-Wenn ein Monster Stoßen oder Ziehen ausführt, bestimmst du die Richtung, aber das Ziel muss sich so weit wie möglich bewegen. Schwieriges Gelände hat keinen Einfluss auf Schieben und Ziehen. Alle anderen normalen Bewegungsregeln gelten jedoch weiterhin (einschließlich der Regeln für fliegende Figuren). Auch immobilisierte Figuren können durch Stoßen und Ziehen beeinträchtigt werden.
+Wenn ein Monster Schieben oder Ziehen ausführt, bestimmst du die Richtung, aber das Ziel muss sich so weit wie möglich bewegen. Schwieriges Gelände hat keinen Einfluss auf Schieben und Ziehen. Alle anderen normalen Bewegungsregeln gelten jedoch weiterhin (einschließlich der Regeln für fliegende Figuren). Auch gelähmte Figuren können durch Schieben und Ziehen beeinträchtigt werden.
 
-Stoßen und Ziehen kann auch als zusätzlicher Effekt zu anderen Fertigkeiten hinzugefügt werden, wodurch die erzwungene Bewegung eines oder mehrerer Ziele dieser Fertigkeit ermöglicht wird, nachdem der Haupteffekt abgehandelt wurde. Wenn es sich bei der Fertigkeit um einen Angriff handelt, kann das Ziel gezwungen werden, sich zu bewegen, selbst wenn der Angriff keinen Schaden verursacht hat. Es kann jedoch nicht dazu gezwungen werden, sich zu bewegen, wenn der Angriff es getötet oder erschöpft hat.
+Schieben und Ziehen kann auch als zusätzlicher Effekt zu anderen Fertigkeiten hinzugefügt werden, wodurch die erzwungene Bewegung eines oder mehrerer Ziele dieser Fertigkeit ermöglicht wird, nachdem der Haupteffekt abgehandelt wurde. Wenn es sich bei der Fertigkeit um einen Angriff handelt, kann das Ziel gezwungen werden, sich zu bewegen, selbst wenn der Angriff keinen Schaden verursacht hat. Es kann jedoch nicht dazu gezwungen werden, sich zu bewegen, wenn der Angriff es getötet oder erschöpft hat.
 
-Mehrere Stoßen- und Zieheneffekte können kombiniert werden. Wenn beispielsweise eine Fertigkeit mit "<img src="assets/icons/condition_push.png" class="inline-condition"/> **1**" zusätzlich "<img src="assets/icons/condition_push.png" class="inline-condition"/> **2**" erhält, ist das Ergebnis eine "<img src="assets/icons/condition_push.png" class="inline-condition"/> **3**" Fertigkeit.
+Mehrere Schieben- und Zieheneffekte können kombiniert werden. Wenn beispielsweise eine Fertigkeit mit "<img src="assets/icons/condition_push.png" class="inline-condition"/> **1**" zusätzlich "<img src="assets/icons/condition_push.png" class="inline-condition"/> **2**" erhält, ist das Ergebnis eine "<img src="assets/icons/condition_push.png" class="inline-condition"/> **3**" Fertigkeit.
 
 ---
 
@@ -1415,7 +1415,7 @@ Inspiriert durch <em>Gloomholdin</em></p>
 <li>Angriff (<a href="#page_18">S.18</a>)</li>
 <li>Zustände (<a href="#page_20">S.20</a>)</li>
 <li>Heilung (<a href="#page_21">S.21</a>)</li>
-<li>erzwungene Bewegungen (<a href="#page_23">S.23</a>)</li>
+<li>Erzwungene Bewegungen (<a href="#page_23">S.23</a>)</li>
 <li>Kontrollierte Monster (<a href="#page_24">S.24</a>)</li>
 </ul>
 
@@ -1464,7 +1464,7 @@ Inspiriert durch <em>Gloomholdin</em></p>
 
 <ul>
 <li>+X Angriff (<a href="#page_18">S.18</a>) – während der Schadensauflösung</li>
-<li>durchdringen (<a href="#page_19">S.19</a>) – während der Schadensauflösung</li>
+<li>Durchstechen (<a href="#page_19">S.19</a>) – während der Schadensauflösung</li>
 <li>+X Ziele (<a href="#page_13">S.13</a>) – nachdem der Angriff ausgeführt wurde</li>
 <li>Zustände (<a href="#page_20">S.20</a>) – nachdem der Angriff ausgeführt wurde</li>
 <li>erzwungene Bewegungen (<a href="#page_23">S.23</a>) – nachdem der Angriff ausgeführt wurde</li>
