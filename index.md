@@ -1242,11 +1242,7 @@ Im Folgenden findest du eine vollständige Liste aller Komponentenfehler. Wenn e
 
 ### Fertigkeitskarten
 
-- **Frostvortex** — Die erste Fertigkeit der unteren Aktion sollte wie folgt lauten: "<img src="assets/icons/condition_pull.png" class="inline-condition"/> 3 <img src="assets/icons/ability_target.png" class="inline-icon"/> alle Feinde innerhalb von <img src="assets/icons/ability_range.png" class="inline-icon"/> 4". Die Reichweite wurde im ersten Druck fälschlicherweise als 2 gedruckt.
-
-### Monsterkarten
-
-- **Earth Demon** — The second action contains an erroneous unicode box following the element consumtion in the first printing. This box should simply be ignored.
+- **Frostwirbel** — Die erste Fertigkeit der unteren Aktion sollte wie folgt lauten: "<img src="assets/icons/condition_pull.png" class="inline-condition"/> 3 <img src="assets/icons/ability_target.png" class="inline-icon"/> alle Gegner innerhalb von <img src="assets/icons/ability_range.png" class="inline-icon"/> 4". Die Reichweite wurde im ersten Druck fälschlicherweise als 2 gedruckt.
 
 ---
 
