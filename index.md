@@ -8,7 +8,7 @@
 
 Dieses Regelwerk für *Gloomhaven: Knöpfe & Krabbler* soll einfach zugänglich, durchsuchbar und ausdruckbar sein. Es wird mit Korrekturen aktualisiert.
 
-Zuletzt aktualisiert: 05.09.2024
+Zuletzt aktualisiert: 19.09.2024
 
 Für mehr Informationen besuche einfach: [feuerland-spiele.de](https://www.feuerland-spiele.de/)
 
@@ -254,7 +254,7 @@ Jede Szenariophase besteht aus drei verschiedenen Schritten:
 > 
 > Jede Karte enthält einen Szenarioeintrag mit allem, was du zum Spielen diesen Szenarios wissen musst. Meistens sind folgende Informationen vorhanden:
 
-![component breakdown for scenario card entry side](/assets/diagrams/component_diagram_scenarioentry.png)
+![component breakdown for scenario card entry side](/assets/diagrams/component_diagram_scenarioentry_de.png)
 
 <blockquote>
   <ol type="A">
@@ -271,7 +271,7 @@ Jede Szenariophase besteht aus drei verschiedenen Schritten:
 
 > Auf der Raumseite jeder Szenariokarte werden alle Raumdetails gezeigt. Dazu gehören folgende Informationen:
 
-![component breakdown for scenario card map side](/assets/diagrams/component_diagram_scenariomap.png)
+![component breakdown for scenario card map side](/assets/diagrams/component_diagram_scenariomap_de.png)
 
 <blockquote>
   <ol type="A">
@@ -751,7 +751,7 @@ Wenn du an der Reihe bist, führst du, sofern du keine lange Pause einlegst (sie
 
 Fertigkeitskarten, die alle einzigartig sind, bestimmen, welche Aktionen Sie ausführen können.
 
-![component breakdown of ability card](/assets/diagrams/component_diagram_ability.png)
+![component breakdown of ability card](/assets/diagrams/component_diagram_ability_de.png)
 
 
 Eine Fertigkeitskarte besteht aus folgenden Teilen:
@@ -779,7 +779,7 @@ Eine Fertigkeitskarte besteht aus folgenden Teilen:
 
 <span class="new-to-bnb">Jede Szenariokarte enthält zwei Gegenständeinträge, die über und unter dem Szenarioeintrag angezeigt werden.</span> Gegenstände bieten eine Vielzahl von Boni und zusätzlichen Fertigkeiten an, die zusätzlich zu den normalen zwei Aktionen pro Runde verwendet werden können.
 
-![component breakdown of item entry on scenario card](/assets/diagrams/component_diagram_items.png)
+![component breakdown of item entry on scenario card](/assets/diagrams/component_diagram_items_de.png)
 
 Eine Gegenstandskarte besteht aus folgenden Teilen:
 
@@ -882,7 +882,7 @@ Wenn ein Monster an der Reihe ist, führt es Fertigkeiten basierend auf der gew�
 
 > Jeder Monstertyp erscheint auf einer Seite einer doppelseitigen Monsterkarte, die seine Werte und Fertigkeiten bestimmt.
 
-![component breakdown of monster card](/assets/diagrams/component_diagram_monster.png)
+![component breakdown of monster card](/assets/diagrams/component_diagram_monster_de.png)
 
 Eine Monsterkarte kann aus folgenden Teilen bestehen:
 
