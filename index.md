@@ -75,7 +75,7 @@ Viel Glück, Abenteurer!
 <p>Verbündete, Gegner und man selbst <a href="#page_13">S.13</a></p>
 <p>Reichweite <a href="#page_14">S.14</a></p>
 <p>Wirkungsbereich <a href="#page_14">S.14</a></p>
-<p>besondere Effekte <a href="#page_15">S.15</a></p>
+<p>Besondere Effekte <a href="#page_15">S.15</a></p>
 <p>Elemente <a href="#page_16">S.16</a></p>
 
 </td><td>
@@ -97,20 +97,20 @@ Viel Glück, Abenteurer!
 <p>Aktive Boni <a href="#page_21">S.21</a></p>
 <p>Schild <a href="#page_22">S.22</a></p>
 <p>Vergeltung <a href="#page_22">S.22</a></p>
-<p>erzwungene Bewegung <a href="#page_23">S.23</a></p>
+<p>Erzwungene Bewegung <a href="#page_23">S.23</a></p>
 <p>Kontrolle <a href="#page_24">S.24</a></p>
 <p>Schaden erleiden <a href="#page_24">S.24</a></p>
 <p>Erholen <a href="#page_24">S.24</a></p>
 
-<p>Character Turns <a href="#page_25">S.25</a></p>
+<p>Das Ziehen des Charakters <a href="#page_25">S.25</a></p>
 <p>Fertigkeitskarten <a href="#page_25">S.25</a></p>
 <p>Gegenstände <a href="#page_26">S.26</a></p>
 <p>Gegenstandsbeschränkungen <a href="#page_26">S.26</a></p>
 <p>Verwendung eines Gegenstands <a href="#page_26">S.26</a></p>
 <p>verpflichtende Auslöser <a href="#page_27">S.27</a></p>
 <p>Ausruhen <a href="#page_27">S.27</a></p>
-<p>Aktionen mit Verlustsymbol <a href="#page_28">S.28</a></p>
-<p>Character Damage <a href="#page_28">S.28</a></p>
+<p>Aktionen mit Verloren-Symbol <a href="#page_28">S.28</a></p>
+<p>Schaden negieren <a href="#page_28">S.28</a></p>
 <p>Erschöpfung <a href="#page_28">S.28</a></p>
 
 </td><td>
@@ -125,7 +125,7 @@ Viel Glück, Abenteurer!
 <p>Monsterangriffe <a href="#page_31">S.31</a></p>
 <p>Andere Monsterfertigkeiten <a href="#page_31">S.31</a></p>
 <p>Monster und Elemente <a href="#page_32">S.32</a></p>
-<p>das Erscheinen von Monstern <a href="#page_32">S.32</a></p>
+<p>Das Erscheinen von Monstern <a href="#page_32">S.32</a></p>
 <p>Monsterschaden und Tod <a href="#page_32">S.32</a></p>
 
 <p>Rundenende<a href="#page_33">S.33</a></p>
@@ -469,7 +469,7 @@ Wenn eine Fertigkeit mit einem Wirkunsbereich "**+1** <img src="assets/icons/abi
 
 ---
 
-#### besondere Effekte
+#### Besondere Effekte
 
 Besondere Effekte sind an eine Fertigkeit angehängt und verändern sie auf irgendeine Weise. Häufige besondere Effekte, wie "<img src="assets/icons/condition_push.png" class="inline-condition"/> **X**," "<img src="assets/icons/condition_pull.png" class="inline-condition"/> **X**," oder Zustände werden normalerweise in dem hervorgehobenen Abschnitt rechts von der Fertigkeit definiert. Alle bedingten Effekte — solche, die vom Verbrauch eines Elementes (siehe [S.16](#page_16)) oder der Zahlung anderer Kosten abhängig sind — werden unter der Fertigkeit in einem hervorgehoben Abschnitt mit gepunkteter Umrandung angegeben.
 Besondere Effekte können übersprungen werden, aber dies muss vor dem Würfeln des Angriffsmodifikatores entschieden werden. Bedingte Effekte können ebenfalls übersprungen werden; du bist nicht verpflichtet, die Kosten zu bezahlen. Und selbst wenn du die Kosten bezahlt hast, kannst du dich noch dafür entscheiden, den Effekt nicht anzuwenden. Im Falle eines überspringbaren Effekts, der an eine Angriffsfähigkeit mit mehreren Zielen angehängt ist, kannst du dich bei jedem einzelnen Ziel entscheiden, ob du den Effekt anwendest oder nicht. Auch hier muss das immer vor dem Würfeln des Angriffsmodifikators geschehen, sofern es nicht anders angeben ist.
@@ -594,7 +594,7 @@ Ein Angriff kann nicht mehrfach Vorteile oder Nachteile erzielen. Wenn ein Angri
 
 Jeder Fernangriff auf einen benachbarten Feind erhält automatisch einen Nachteil.
 
-#### Pierce
+#### Durchdringen
 
 <img src="assets/icons/condition_pierce.png" class="inline-condition"/> "**Pierce X**" ist ein zusätzlicher Effekt, der den Schildbonus des Ziels (siehe [S.22](#page_22)) um X reduziert. Mehrere "<img src="assets/icons/condition_pierce.png" class="inline-condition"/> **X**" Effekte können kombiniert werden. Wenn beispielsweise ein Angriff mit "<img src="assets/icons/condition_pierce.png" class="inline-condition"/> **2**" zusätzlich "<img src="assets/icons/condition_pierce.png" class="inline-condition"/> **3** bekommt," würde der Effekt den Schildbonus des Ziels für diesen Angriff um 5 reduzieren.
 
@@ -655,13 +655,13 @@ Eine einzelne Heilung kann jede beliebige Kombination aus Wunde und Gift von ein
 
 Eine aktive Bonusfähigkeit ist jede Fertigkeit, die einer Figur oder ihren Verbündeten einen aktiven Bonus verleiht. Wenn ein Charakter eine aktive Bonusfertigkeit ausführt, wird die Karte in seinen aktiven Bereich gelegt, um den Bonus festzuhalten.
 
-> Aktive Bonusfertigkeiten haben Symbole, die die Dauer der von ihnen gewährten Boni anzeigen. Wenn ein Bonus abläuft, wird die Karte aus dem aktiven Bereich des Charakters entfernt, auch wenn die Aktion andere aktive Bonusfähigkeiten hat;  Eine Karte der Seite A wird auf die Seite B umgedreht und auf die Hand zurückgebracht, eine Karte der Seite B wird auf deinen Ablagestapel oder deinen Verluststapel gelegt, falls die Aktion ein Verlustsymbol hat (siehe [S.28](#page_28)).
+> Aktive Bonusfertigkeiten haben Symbole, die die Dauer der von ihnen gewährten Boni anzeigen. Wenn ein Bonus abläuft, wird die Karte aus dem aktiven Bereich des Charakters entfernt, auch wenn die Aktion andere aktive Bonusfähigkeiten hat;  Eine Karte der Seite A wird auf die Seite B umgedreht und auf die Hand zurückgebracht, eine Karte der Seite B wird auf deinen Ablagestapel oder deinen Verloren-Stapel gelegt, falls die Aktion ein Verloren-Symbol hat (siehe [S.28](#page_28)).
 
 <img src="assets/icons/use_round_bonus.png" class="inline-icon"/> **Rundenboni:** Diese Boni werden aktiviert, wenn die Fertigkeit ausgeführt wird, und verfallen am Ende der Runde.
 
 <img src="assets/icons/use_persistent_bonus.png" class="inline-icon"/> **Dauerhafte Boni:** Diese Boni werden aktiviert, wenn die Fertigkeit ausgeführt wird, und verfallen, wenn die angegebene Entfernungsbedingung erfüllt ist.
 
-Ein Charakter kann freiwillig eine Karte mit einem dauerhaften Bonus (aber keinem Rundenbonus) aus seinem aktiven Bereich entfernen, bevor der Bonus abläuft. Dies kann jederzeit außer während einer anderen Fertigkeit passieren. Da Karten mit dauerhaften Boni in deinem aktiven Bereich jederzeit entfernt werden können, kannst du davon ausgehen, dass sie sich in dem Bereich befinden, in den sie verschoben werden, sobald sie entfernt wurden. <span class="new-to-bnb">Dieser Bereich ist die Hand für Karten der A-Seite, der Ablagestapel für Karten der B-Seite </span> oder der Verluststapel für jede Karte mit einem Verlustsymbol. Daher können Karten mit einem dauerhaften Boni on deinem aktiven Bereich auf die beiden Karten <span class="new-to-bnb">in deiner Hand und/oder Ablagestapel angerechnet werden, die zum Ruhen erforderlich sind (siehe <a href="#page_27">S.27</a>). Ebenso können sie abgelegt und dann abgeworfen werden oder verloren gehen, um Schaden zu verhindern (siehe <a href="#page_28">S.28</a>).</span> Wenn du abgeworfene Karten zurückholst (z.B. durch Ausruhen) oder verlorene Karten (durch Sonderaktionen), hast du die Wahl, Karten in deinem aktiven Bereich zurückzuholen oder sie im aktiven Bereich zu belassen.
+Ein Charakter kann freiwillig eine Karte mit einem dauerhaften Bonus (aber keinem Rundenbonus) aus seinem aktiven Bereich entfernen, bevor der Bonus abläuft. Dies kann jederzeit außer während einer anderen Fertigkeit passieren. Da Karten mit dauerhaften Boni in deinem aktiven Bereich jederzeit entfernt werden können, kannst du davon ausgehen, dass sie sich in dem Bereich befinden, in den sie verschoben werden, sobald sie entfernt wurden. <span class="new-to-bnb">Dieser Bereich ist die Hand für Karten der A-Seite, der Ablagestapel für Karten der B-Seite </span> oder der Verloren-Stapel für jede Karte mit einem Verloren-Symbol. Daher können Karten mit einem dauerhaften Boni on deinem aktiven Bereich auf die beiden Karten <span class="new-to-bnb">in deiner Hand und/oder Ablagestapel angerechnet werden, die zum Ruhen erforderlich sind (siehe <a href="#page_27">S.27</a>). Ebenso können sie abgelegt und dann abgeworfen werden oder verloren gehen, um Schaden zu verhindern (siehe <a href="#page_28">S.28</a>).</span> Wenn du abgeworfene Karten zurückholst (z.B. durch Ausruhen) oder verlorene Karten (durch Sonderaktionen), hast du die Wahl, Karten in deinem aktiven Bereich zurückzuholen oder sie im aktiven Bereich zu belassen.
 
 Aktionen mit aktiven Bonusfertigkeiten können auch noch andere Fertigkeiten haben. Diese anderen Fertigkeiten werden jedoch nur ausgeführt, wenn die Karte ausgespielt wird. Es gibt eine Vielzahl aktiver Bonusfertigkeiten. Während diese Fertigkeiten normalerweise durch einen Text definiert werden, gibt es zwei häufige mit zusätzlichen Regeln.
 
@@ -693,7 +693,7 @@ Eine Vergeltungsfertigkeit gilt für die handelnde Figur, sofern nicht anders an
 
 ---
 
-### erzwungene Bewegung
+### Erzwungene Bewegung
 
 Erzwungene Bewegung ist jede negative gezielte Fähigkeit, die es einer Figur ermöglicht, die Bewegung einer anderen Figur zu kontrollieren. Die erzwungene Bewegung muss allen normalen Bewegungsregeln für das Ziel folgen. Wenn beispielsweise eine fliegende Figur gezwungen wird, sich zu bewegen, gilt weiterhin das Fliegen.
 
@@ -733,7 +733,7 @@ Einige Fertigkeiten führen dazu, dass Figuren Schaden erleiden, ohne dass ein A
 
 ### Erholen
 
-<img src="assets/icons/ability_recover_card.png" class="inline-icon"/> **Erholen** ist eine positive, nicht gezielte Fertigkeit, mit der du abgeworfene, umgedrehte oder verlorene Fertigkeitskarten wiederherstellen kannst (siehe S.28). Du durchsuchst deine Hand, deinen Ablagestapel oder den Verluststapel und wählst soviel Karten bis zu dem durch die Fertigkeit angegebenen Limit aus und nimmst sie auf der A-Seite zurück auf deine Hand.
+<img src="assets/icons/ability_recover_card.png" class="inline-icon"/> **Erholen** ist eine positive, nicht gezielte Fertigkeit, mit der du abgeworfene, umgedrehte oder verlorene Fertigkeitskarten wiederherstellen kannst (siehe S.28). Du durchsuchst deine Hand, deinen Ablagestapel oder den Verloren-Stapel und wählst soviel Karten bis zu dem durch die Fertigkeit angegebenen Limit aus und nimmst sie auf der A-Seite zurück auf deine Hand.
 
 ---
 
@@ -741,7 +741,7 @@ Einige Fertigkeiten führen dazu, dass Figuren Schaden erleiden, ohne dass ein A
 
 ---
 
-## Character Turns
+## Das Ziehen des Charakters
 
 Wenn du an der Reihe bist, führst du, sofern du keine lange Pause einlegst (siehe [S.27](#page_27)), die oberste Aktion einer deiner gespielten Fertigkeitskarten und die unterste Aktion der anderen aus. Du kannst nicht zwei obere oder zwei untere Aktionen ausführen. Du kannst egal welche der beide Aktionen zuerst ausführen. Welche Karte für die Initiative ausgewählt wurde, spielt keine Rolle mehr.
 
@@ -753,7 +753,6 @@ Fertigkeitskarten, die alle einzigartig sind, bestimmen, welche Aktionen Sie aus
 
 ![component breakdown of ability card](/assets/diagrams/component_diagram_ability.png)
 
-//// FEHLER? BEI GRAFIK = F SOLLTE G SEIN ? 
 
 Eine Fertigkeitskarte besteht aus folgenden Teilen:
 
@@ -765,7 +764,7 @@ Eine Fertigkeitskarte besteht aus folgenden Teilen:
   <li><strong>Aktionen:</strong> Jede Karte hat eine obere und eine untere Aktion. Die Fertigkeiten einer Aktion werden von oben nach unten ausgeführt, wobei mehrere Fertigkeiten durch eine Linie getrennt ist.</li>
   <li><ol type="a">
     <li>Eine Aktion kann ein aktives Fertigkeitssymbol enthalten (siehe <a href="#page_21">S.21</a>). In diesem Fall wird die Karte in deinen aktiven Bereich gelegt.</li>
-    <li>Eine Aktion kann ein Verlustsymbol enthalten (siehe <a href="#page_28">S.28</a>). In diesem Fall wird die Karte nach Ausführung der Aktion auf den Verluststapel gelegt. </li>
+    <li>Eine Aktion kann ein Verloren-Symbol enthalten (siehe <a href="#page_28">S.28</a>). In diesem Fall wird die Karte nach Ausführung der Aktion auf den Verloren-Stapel gelegt. </li>
   </ol></li>
   <li><strong>Grundlegende Aktionssymbole:</strong> Eine Fertigkeitskarte kann immer als eine einfache "<img src="assets/icons/ability_attack.png" class="inline-icon"/> <strong>2</strong>" obere Fertigkeit oder "<img src="assets/icons/ability_move.png" class="inline-icon"/> <strong>2</strong>" untere Fertigkeit verwendet werden. <span class="new-to-bnb"> Wenn eine Karte auf diese Weise verwendet wird, wird die Karte umgedreht und auf die Hand zurückgegeben (wenn sie auf der A-Seite war) oder abgeworfen (wenn sie auf der B-Seite war), als ob sie keine anderen Symbole hätte.</span></li>
 </ol>
@@ -801,7 +800,7 @@ Du kannst jeden Gegenstand verwenden, solange er verfügbar ist (siehe <a href="
 
 <img src="assets/icons/use_tap_card.png" class="inline-icon"/> **Verbrauchtsymbol:** Das Verbraucht-Symbol bedeutet, dass der Gegenstand nach der Verwendung verbraucht ist. Dies wird durch seitliches Drehen der Karte angezeigt. Verbrauchte Gegenstände können bei der nächsten langen Pause wiederhergestellt werden (siehe [S.27](#page_27)).
 
-<img src="assets/icons/use_lost.png" class="inline-icon"/> **Verlustsymbol:** Das Verlustsymbol bedeutet, dass der Gegenstand nach der Verwendung verloren geht. Dies wird dadurch angezeigt, dass die Karte wieder auf den Stapel der unbenutzten Gegenstände gelegt wird. Verlorene Gegenstände können für den Rest des Szenarios nicht wieder verwendet werden.
+<img src="assets/icons/use_lost.png" class="inline-icon"/> **Verloren-Symbol:** Das Verloren-Symbol bedeutet, dass der Gegenstand nach der Verwendung verloren geht. Dies wird dadurch angezeigt, dass die Karte wieder auf den Stapel der unbenutzten Gegenstände gelegt wird. Verlorene Gegenstände können für den Rest des Szenarios nicht wieder verwendet werden.
 
 Einige Gegenstände verfügen nicht über eines dieser Symbole. Das bedeutet, dass der Gegenstand einen passiven Effekt ausübt. Es gibt keine Begrenzung, wie oft ein Gegenstand mit passivem Effekt verwendet werden kann.
 
@@ -816,12 +815,12 @@ Einige Gegenstände verfügen nicht über eines dieser Symbole. Das bedeutet, da
 
 Verpflichtende Auslöser sind Effekte oder Fertigkeiten, die nicht übersprungen werden können, wenn ein Teil der Aktion ausgeführt wird. In solchen Fällen wird die Fertigkeit oder der Effekt in einem Kästchen mit einem „!“ davor hervorgehoben. Dazu gehören:
 - **Negative Fertigkeiten:** Die angegebene Fertigkeit erzeugt einen negativen Effekt für dich.
-- **Verlustsymbol:** Die Karte muss auf den Verluststapel gelegt werden.
+- **Verloren-Symbol:** Die Karte muss auf den Verloren-Stapel gelegt werden.
 - **aktive Fertigkeitssymbole:** Die Karte muss in deinem aktiven Bereich platziert werden.
 
 ### Ausruhen
 
-Ausruhen ist die wichtigste Möglichkeit, Karten von deinem Ablagestapel zurückzunehmen. Es gibt zwei Möglichkeiten: eine kurze Pause oder eine lange Pause. <span class="new-to-bnb">In beiden Fällen kann das Ausruhen nur durchgeführt werden, wenn du mindestens zwei Karten auf der Hand und/oder im Ablagestapel hast. (Dazu gehören auch Karten mit dauerhaften Boni in deinem aktiven Bereich (siehe <a href="#page_21">S.21</a>) solange sie nicht für eine Aktion mit dem Verlustsymbol verwendet wurden.)</span> Das Ausruhen führt immer zum Verlust einer Karte.
+Ausruhen ist die wichtigste Möglichkeit, Karten von deinem Ablagestapel zurückzunehmen. Es gibt zwei Möglichkeiten: eine kurze Pause oder eine lange Pause. <span class="new-to-bnb">In beiden Fällen kann das Ausruhen nur durchgeführt werden, wenn du mindestens zwei Karten auf der Hand und/oder im Ablagestapel hast. (Dazu gehören auch Karten mit dauerhaften Boni in deinem aktiven Bereich (siehe <a href="#page_21">S.21</a>) solange sie nicht für eine Aktion mit dem Verloren-Symbol verwendet wurden.)</span> Das Ausruhen führt immer zum Verlieren einer Karte.
 
 Während einem Rundenende (siehe [S.33](#page_33)), kannst du eine kurze Pause einlegen. <span class="new-to-bnb">Wenn du eine kurze Pause machst, nimmst du alle Karten von deinem Ablagestapel zurück auf deine Hand, drehst alle Karten der B-Seite in deiner Hand auf die A-Seite und verlierst dann eine zufällige Karte deiner Hand.</span> Wenn du die verlorene Karte jeddoch behalten möchten, kannst du 1 Schaden erleiden, um stattdessen eine andere, zufällige Karte zu verlieren. Dies ist nur einmal pro kurzer Pause möglich.
 
@@ -830,7 +829,7 @@ Während der Kartenauswahl (siehe [S.10](#page_10)), kannst du eine lange Pause 
 1. Führe „**Heilung 2, selbst**“ durch (optional).
 1. Hole alle verbrauchten Gegenstände zurück (optional). Gegenstände können in derselben Runde verwendet werden, in der sie wiederhergestellt werden.
 
-Beim Ausruhen muss eine Karte verloren gehen. Wenn du keine weiteren Karten auf der Hand hast, die du verlieren kannst, musst du stattdessen eine der Karten in deinem aktiven Bereich verlieren, die nicht über ein Verlustsymbol verfügen. Befinden sich im aktiven Bereich auch keine Karten, die verloren gehen können, werden die weiteren Schritte der Pause abgehandelt und zu Beginn der nächsten Runde wird wie immer auf eine mögliche Erschöpfung geprüft.
+Beim Ausruhen muss eine Karte verloren gehen. Wenn du keine weiteren Karten auf der Hand hast, die du verlieren kannst, musst du stattdessen eine der Karten in deinem aktiven Bereich verlieren, die nicht über ein Verloren-Symbol verfügen. Befinden sich im aktiven Bereich auch keine Karten, die verloren gehen können, werden die weiteren Schritte der Pause abgehandelt und zu Beginn der nächsten Runde wird wie immer auf eine mögliche Erschöpfung geprüft.
 
 
 ---
@@ -839,15 +838,15 @@ Beim Ausruhen muss eine Karte verloren gehen. Wenn du keine weiteren Karten auf 
 
 ---
 
-### Aktionen mit Verlustsymbol
+### Aktionen mit Verloren-Symbol
 
-<img src="assets/icons/use_lost.png" class="inline-icon"/> Aktionen mit Verlustsymbol können nur einmal ausgeführt werden. Wenn eine Aktion das Verlustsymbol hat, muss die Karte nach Durchführung der Aktion (ganz oder teilweise) auf deinen Verluststapel gelegt werden, wo sie bis zum Ende des Szenarios liegen bleibt (sofern sie nicht wiederhergestellt wird).
+<img src="assets/icons/use_lost.png" class="inline-icon"/> Aktionen mit Verloren-Symbol können nur einmal ausgeführt werden. Wenn eine Aktion das Verloren-Symbol hat, muss die Karte nach Durchführung der Aktion (ganz oder teilweise) auf deinen Verloren-Stapel gelegt werden, wo sie bis zum Ende des Szenarios liegen bleibt (sofern sie nicht wiederhergestellt wird).
 
-Wenn die Aktion mit Verlustsymbol dazu verwendet wurde, eine aktive Bonusfertigkeit auszuführen, gilt die Karte dennoch als verloren und muss vom aktiven Bereich auf den Verluststapel verschoben werden, sobald der aktive Bonus nicht mehr wirksam ist.
+Wenn die Aktion mit Verloren-Symbol dazu verwendet wurde, eine aktive Bonusfertigkeit auszuführen, gilt die Karte dennoch als verloren und muss vom aktiven Bereich auf den Verloren-Stapel verschoben werden, sobald der aktive Bonus nicht mehr wirksam ist.
 
-Einige Aktionen mit Verlustsymbol haben das <img src="assets/icons/use_nonreturn_card.png" class="inline-icon"/> Symbol. Wenn du eine Aktion mit Verlustsymbol mit diesem Symbol ausführst, kann die Karte bis zum Ende des Szenarios auf keinen Fall wiederhergestellt werden. Lege diese Karte auf den Verluststapel und drehe sie zur Erinnerung um 180 Grad, sodass sie auf dem Kopf steht.
+Einige Aktionen mit Verloren-Symbol haben das <img src="assets/icons/use_nonreturn_card.png" class="inline-icon"/> Symbol. Wenn du eine Aktion mit Verloren-Symbol mit diesem Symbol ausführst, kann die Karte bis zum Ende des Szenarios auf keinen Fall wiederhergestellt werden. Lege diese Karte auf den Verloren-Stapel und drehe sie zur Erinnerung um 180 Grad, sodass sie auf dem Kopf steht.
 
-### Character Damage
+### Schaden negieren
 
 Wenn du Schaden in beliebiger Höhe erleidest, musst du entweder deine Trefferpunktskala um diesen Betrag reduzieren oder den Schaden negieren. Schaden kann auf zwei Arten negiert werden:
 - **Fertigkeit oder Effekt:** Du kannst eine aktive Fertigkeit oder einen aktiven Effekt verwenden, der Schaden negiert.
@@ -976,7 +975,7 @@ Eine Infusion erfolgt sofort, wenn die Aktion gewürfelt wird. <span class="new-
 
 Wenn ein Monster ein wildes oder gemischtes Element verbraucht, entscheidest du, welche Infusion verbraucht wird.
 
-### das Erscheinen von Monstern
+### Das Erscheinen von Monstern
 
 Wenn die Szenarioregeln vorsehen, dass Monster zu bestimmten Zeiten an bestimmten Orten erscheinen, stellst du sie auf das Hexfeld, sobald die Vorraussetzungen dafür erfüllt sind. Wenn ein bestimmter Ort nicht leer ist, platziere das Monster stattdessen auf dem nächstgelegenen leeren Hexfeld.
 
@@ -1008,7 +1007,7 @@ Nachdem alle Figuren auf der Karte an der Reihe waren, beginnt der Schritt „Ru
 1. Für Fertigkeitskarten im aktiven Bereich mit Rundenboni:
   - Karten der A-Seite: Drehe sie auf die B-Seite und nimm sie wieder auf die Hand
   - Karten der B-Seite: Lege sie auf deinen Ablagestapel 
-  - Wenn die Karte ein Verlustsymbol hat, lege sie auf deinen Verluststapel
+  - Wenn die Karte ein Verloren-Symbol hat, lege sie auf deinen Verloren-Symbol
 1. Wenn du mindestens zwei Karten auf der Hand und/oder im Ablagestapel hast, darfst du eine kurze Pause einlegen(siehe [S.27](#page_27)).
 
 ### Runden zählen
@@ -1181,55 +1180,55 @@ Jedes Monster führt alle seine Fertigkeiten von oben nach unten aus (Bewegung, 
 
 ---
 
-# Appendix D: Item Index
+# Appendix D: Gegenstandsverzeichnis
 
-| Item                      | Type | Scen. | Use | Effect |
+| Gegenstand                      | Typ | Szen. | Verwendung | Effekt |
 | :---                      |:---: | :---: |:---:| :---   |
-| Venomous Fang	            | <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> |	 1	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During your melee attack, add <img src="assets/icons/condition_poison.png" class="inline-condition"/>.	 |
-| Rosethorn Knife	          | <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> |	 1	|                                                                 |	During your attack, <img src="assets/icons/element_spend_ice_earth.png" class="inline-element"/> to add <img src="assets/icons/condition_pierce.png" class="inline-condition"/> 1.	 |
-| Button Shield	            | <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> |	 3	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During an enemy's attack, gain <img src="assets/icons/ability_shield.png" class="inline-icon"/> 1.	 |
-| Spring Hammer	            | <img src="assets/icons/equip_dual_hand.png" class="inline-icon"/>   |	 3	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During your melee attack, add <img src="assets/icons/condition_push.png" class="inline-condition"/> 2.	 |
-| Tanglevine Whip	          | <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> |	 4	|                                                                 |	During your attack, <img src="assets/icons/element_spend_earth_light.png" class="inline-element"/> to add <img src="assets/icons/condition_immobilize.png" class="inline-condition"/>.	 |
-| Iron Nail	                | <img src="assets/icons/equip_dual_hand.png" class="inline-icon"/>   |	 4	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During your turn, add <img src="assets/icons/condition_pierce.png" class="inline-condition"/> 2 to all your melee attacks.	 |
-| Chestnut Shell Shield	    | <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> |	 8	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During an enemy's attack, gain <img src="assets/icons/ability_shield.png" class="inline-icon"/> 1, <img src="assets/icons/ability_retaliate.png" class="inline-icon"/> 1.	 |
-| Fishing Hook and Line	    | <img src="assets/icons/equip_dual_hand.png" class="inline-icon"/>   |	 8	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During your ranged attack, add <img src="assets/icons/condition_pierce.png" class="inline-condition"/> 2, <img src="assets/icons/condition_pull.png" class="inline-condition"/> 2.	 |
-| Sewing Needles	          | <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> |	11	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During your attack, add <img src="assets/icons/condition_pierce.png" class="inline-condition"/> 1.	 |
-| Coin Shield	              | <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> |	12	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During an enemy's attack, gain <img src="assets/icons/ability_shield.png" class="inline-icon"/> 2.	 |
-| Sharpened Pencil	        | <img src="assets/icons/equip_dual_hand.png" class="inline-icon"/>   |	12	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During your single-target melee attack, add: <img src="assets/icons/area_melee_line_3.png" class="inline-element"/>	 |
-| Shrunken Longsword	      | <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> |	13	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During your melee attack, add +1 <img src="assets/icons/ability_attack.png" class="inline-icon"/>.	 |
-| Shrunken Longbow	        | <img src="assets/icons/equip_dual_hand.png" class="inline-icon"/>   |	13	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During your ranged attack, add +1 <img src="assets/icons/ability_attack.png" class="inline-icon"/>, <img src="assets/icons/condition_pierce.png" class="inline-condition"/> 1.	 |
-| Playing Card Shield	      | <img src="assets/icons/equip_dual_hand.png" class="inline-icon"/>   |	15	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During an enemy's attack, gain <img src="assets/icons/ability_shield.png" class="inline-icon"/> 4.	 |
-| Glass Shard	              | <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> |	15	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During your melee attack, add <img src="assets/icons/condition_wound.png" class="inline-condition"/>.	 |
-| Pocket Knife	            | <img src="assets/icons/equip_dual_hand.png" class="inline-icon"/>   |	19	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During your melee attack, add +1 <img src="assets/icons/ability_attack.png" class="inline-icon"/>, <img src="assets/icons/condition_pierce.png" class="inline-condition"/> 2, <img src="assets/icons/condition_wound.png" class="inline-condition"/>.	 |
-| Iridescent Shell Shield	  | <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> |	19	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During your turn, gain <img src="assets/icons/ability_shield.png" class="inline-icon"/> 1 for the round. Create <img src="assets/icons/element_wild.png" class="inline-element"/>.	 |
+| Giftzahn            | <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> |	 1	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	Füge bei deinem Nahkampfangriff <img src="assets/icons/condition_poison.png" class="inline-condition"/> hinzu.	 |
+| Rosendorn-Dolch          | <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> |	 1	|                                                                 |	 <img src="assets/icons/element_spend_ice_earth.png" class="inline-element"/> bei deinem Angriff, um <img src="assets/icons/condition_pierce.png" class="inline-condition"/> 1 hinzuzufügen.	 |
+| Knopfschild            | <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> |	 3	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	Erhalte bei einem gegnerischen Angriff <img src="assets/icons/ability_shield.png" class="inline-icon"/> 1.	 |
+| Federhammer	            | <img src="assets/icons/equip_dual_hand.png" class="inline-icon"/>   |	 3	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	Füge bei deinem Nahkampfangriff <img src="assets/icons/condition_push.png" class="inline-condition"/> 2 hinzu.	 |
+| Rankenpeitsche          | <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> |	 4	|                                                                 |	 <img src="assets/icons/element_spend_earth_light.png" class="inline-element"/> bei deinem Angriff, um <img src="assets/icons/condition_immobilize.png" class="inline-condition"/> hinzuzufügen.	 |
+| Eisennagel	                | <img src="assets/icons/equip_dual_hand.png" class="inline-icon"/>   |	 4	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	Füge während deines Zuges allen Nahkampfangriffen <img src="assets/icons/condition_pierce.png" class="inline-condition"/> 2 hinzu.	 |
+| Kastanienschalen-Schild    | <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> |	 8	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	Erhalte bei einem gegnerischen Angriff <img src="assets/icons/ability_shield.png" class="inline-icon"/> 1, <img src="assets/icons/ability_retaliate.png" class="inline-icon"/> 1.	 |
+| Angelhaken und -schnur	    | <img src="assets/icons/equip_dual_hand.png" class="inline-icon"/>   |	 8	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	Füge bei deinem Fernkampfangriff <img src="assets/icons/condition_pierce.png" class="inline-condition"/> 2, <img src="assets/icons/condition_pull.png" class="inline-condition"/> 2 hinzu.	 |
+| Nähnadeln	          | <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> |	11	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	Füge bei deinem Angriff <img src="assets/icons/condition_pierce.png" class="inline-condition"/> 1 hinzu.	 |
+| Münzschild              | <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> |	12	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	Erhalte bei einem gegnerischen Angriff <img src="assets/icons/ability_shield.png" class="inline-icon"/> 2.	 |
+| Angespitzter Bleistift        | <img src="assets/icons/equip_dual_hand.png" class="inline-icon"/>   |	12	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	Füge bei deinem Einzelziel-Nahkampfangriff  <img src="assets/icons/area_melee_line_3.png" class="inline-element"/>	hinzu. |
+| Geschrumpftes Langschwert      | <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> |	13	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	Füge bei deinem Nahkampfangriff +1 <img src="assets/icons/ability_attack.png" class="inline-icon"/> hinzu.	 |
+| Geschrumpfter Langbogen	        | <img src="assets/icons/equip_dual_hand.png" class="inline-icon"/>   |	13	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	Füge bei deinem Fernkampfangriff +1 <img src="assets/icons/ability_attack.png" class="inline-icon"/>, <img src="assets/icons/condition_pierce.png" class="inline-condition"/> 1 hinzu.	 |
+| Spielkarten-Schild      | <img src="assets/icons/equip_dual_hand.png" class="inline-icon"/>   |	15	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	Erhalte bei einem gegnerischen Angriff <img src="assets/icons/ability_shield.png" class="inline-icon"/> 4.	 |
+| Glasscherbe              | <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> |	15	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	Füge bei deinem Nahkampfangriff <img src="assets/icons/condition_wound.png" class="inline-condition"/> hinzu.	 |
+| Taschenmesser            | <img src="assets/icons/equip_dual_hand.png" class="inline-icon"/>   |	19	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	Füge bei deinem Nahkampfangriff +1 <img src="assets/icons/ability_attack.png" class="inline-icon"/>, <img src="assets/icons/condition_pierce.png" class="inline-condition"/> 2, <img src="assets/icons/condition_wound.png" class="inline-condition"/> hinzu.	 |
+| Schillernder Muschelschild  | <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> |	19	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	Erhalte während deines Zuges <img src="assets/icons/ability_shield.png" class="inline-icon"/> 1 für die Runde. Reichere <img src="assets/icons/element_wild.png" class="inline-element"/> an.	 |
 
-| Item                      | Type | Scen. | Use | Effect |
+| Gegenstand                      | Typ | Szen. | Verwendung | Effekt |
 | :---                      |:---: | :---: |:---:| :---   |
-| Sparrow Skull Helm	      | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 1	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During your attack, gain advantage.	 |
-| Bottle Cap Helm	          | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 1	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During an enemy's attack, treat its <img src="assets/icons/dice_result_plus.png" class="inline-icon"/> attack modifier as a <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/> attack modifier.	 |
-| Old Spring                | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 1	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During your turn, add <img src="assets/icons/ability_jump.png" class="inline-icon"/> to all your movement.	 |
-| Shrunken Weathered Boots  | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 1	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During your movement, add +1 <img src="assets/icons/ability_move.png" class="inline-icon"/>.	 |
-| Drop of Clean Water       | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 2	|                                                                 |	During your turn, <img src="assets/icons/element_spend_ice_wind.png" class="inline-element"/> to remove one negative condition.	 |
-| Drop of Power Potion	    | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 2	| <img src="assets/icons/use_lost.png" class="inline-icon"/>     |	During your turn, add +1 <img src="assets/icons/ability_attack.png" class="inline-icon"/> to all your attacks.	 |
-| Leftover Table Scraps	    | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 5	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During your turn, <img src="assets/icons/ability_heal.png" class="inline-icon"/> 1 self.	 |
-| Magnetic Needle	          | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 5	| <img src="assets/icons/use_lost.png" class="inline-icon"/>     |	During your turn, control one enemy within <img src="assets/icons/ability_range.png" class="inline-icon"/> 5: <img src="assets/icons/ability_move.png" class="inline-icon"/> 2.	 |
-| Nightshade Pollen	        | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 6	|                                                                 |	After an enemy's attack, <img src="assets/icons/element_spend_earth_dark.png" class="inline-element"/> to <img src="assets/icons/condition_poison.png" class="inline-condition"/> that enemy.	 |
-| Robin's Feather Arrows	  | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 6	|                                                                 |	During your single-target ranged attack, <img src="assets/icons/element_spend_fire_wind.png" class="inline-element"/> to add +1 <img src="assets/icons/ability_range.png" class="inline-icon"/>, <img src="assets/icons/condition_pierce.png" class="inline-condition"/> 1.	 |
-| Volatile Powder	          | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 7	| <img src="assets/icons/use_lost.png" class="inline-icon"/>     |	During your single-target ranged attack, add: <img src="assets/icons/area_ranged_triangle.png" class="inline-condition"/>	 |
-| Drop of Healing Potion	  | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 7	| <img src="assets/icons/use_lost.png" class="inline-icon"/>     |	During your turn, <img src="assets/icons/ability_heal.png" class="inline-icon"/> 3 self.	 |
-| Lubricating Oil	          | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 9	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During your movement, add +2 <img src="assets/icons/ability_move.png" class="inline-icon"/>.	 |
-| Brass Cog	                | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 9	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	After determining initiative, increase or decrease your initiative by 10.	 |
-| Drop of Stamina Potion	  | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	10	| <img src="assets/icons/use_lost.png" class="inline-icon"/>     |	During your turn, <img src="assets/icons/ability_recover_card.png" class="inline-icon"/> one level 1 card from your hand or discard pile to its A-side.	 |
-| Drop of Element Potion	  | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	10	| <img src="assets/icons/use_lost.png" class="inline-icon"/>     |	During your turn, create <img src="assets/icons/element_wild.png" class="inline-element"/><img src="assets/icons/element_wild.png" class="inline-element"/>.	 |
-| Pinch of Doom Powder	    | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	11	| <img src="assets/icons/use_lost.png" class="inline-icon"/>     |	During your attack, add <img src="assets/icons/condition_disarm.png" class="inline-condition"/>, <img src="assets/icons/condition_poison.png" class="inline-condition"/>.	 |
-| Lucky Cat's-Eye Marble	  | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	14	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During your attack, treat your <img src="assets/icons/dice_result_minus.png" class="inline-icon"/> attack modifier as a <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/> attack modifier.	 |
-| Embernettle	              | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	14	|                                                                 |	During an enemy's attack, <img src="assets/icons/element_spend_fire_earth.png" class="inline-element"/> to <img src="assets/icons/condition_wound.png" class="inline-condition"/> that enemy.	 |
-| Drop of Stamina Elixir	  | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	16	| <img src="assets/icons/use_lost.png" class="inline-icon"/>     |	During your turn, <img src="assets/icons/ability_recover_card.png" class="inline-icon"/> one card from your hand or discard pile to its A-side.	 |
-| Drop of Haste Elixir	    | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	16	| <img src="assets/icons/use_lost.png" class="inline-icon"/>     |	After performing the top action of an ability card, also perform its bottom action.	 |
-| Drop of Strength Potion	  | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	17	| <img src="assets/icons/use_lost.png" class="inline-icon"/>     |	During your turn, <img src="assets/icons/condition_strengthen.png" class="inline-condition"/> self.	 |
-| Prismatic Gem	            | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	17	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During your attack, <img src="assets/icons/element_spend_wild.png" class="inline-element"/> to add +1 <img src="assets/icons/ability_attack.png" class="inline-icon"/>.	 |
-| Brightlure Gem	          | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	18	|                                                                 |	After your attack, <img src="assets/icons/element_spend_wind_light.png" class="inline-element"/> to control the target of the attack: <img src="assets/icons/ability_move.png" class="inline-icon"/> 1.	 |
-| Duskhaze Gem	            | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	18	|                                                                 |	During an enemy's attack, <img src="assets/icons/element_spend_wind_dark.png" class="inline-element"/> to gain <img src="assets/icons/ability_shield.png" class="inline-icon"/> 1 and <img src="assets/icons/condition_muddle.png" class="inline-condition"/> that enemy.	 |
+| Spatzenschädel-Helm      | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 1	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	Erhalte bei deinem Angriff Vorteil.	 |
+| Verschlusskappen-Helm          | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 1	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	Bei einem gegnerischen Angriff gilt dessen <img src="assets/icons/dice_result_plus.png" class="inline-icon"/> Angriffsmodifikator als <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/>.	 |
+| Alte Spiralfeder                | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 1	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	Füge während deines Zuges allen deinen Bewegungen <img src="assets/icons/ability_jump.png" class="inline-icon"/> hinzu.	 |
+| Geschrumpfte abgewetzte Stiefel  | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 1	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	Füge bei deiner Bewegung +1 <img src="assets/icons/ability_move.png" class="inline-icon"/> hinzu.	 |
+| Trinkwasser-Tropfen       | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 2	|                                                                 |	 <img src="assets/icons/element_spend_ice_wind.png" class="inline-element"/> während deines Zugs, um einen negativen Zustand zu entfernen. |
+| Krafttrank-Tropfen    | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 2	| <img src="assets/icons/use_lost.png" class="inline-icon"/>     |	Füge während deines Zugs allen deinen Angriffen +1 <img src="assets/icons/ability_attack.png" class="inline-icon"/> hinzu.	 |
+| Essensreste vom Tisch	    | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 5	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	Wärend deines Zugs: <img src="assets/icons/ability_heal.png" class="inline-icon"/> 1 Selbst.	 |
+| Magnetnadel          | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 5	| <img src="assets/icons/use_lost.png" class="inline-icon"/>     |	Kontrolliere während deines Zugs einen Gegner in <img src="assets/icons/ability_range.png" class="inline-icon"/> 5: <img src="assets/icons/ability_move.png" class="inline-icon"/> 2.	 |
+| Nachtschatten-Pollen        | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 6	|                                                                 |	<img src="assets/icons/element_spend_earth_dark.png" class="inline-element"/> nach dem Angriff eines Gegners, um ihn <img src="assets/icons/condition_poison.png" class="inline-condition"/> zu geben.	 |
+| Federkielpfeile  | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 6	|                                                                 | <img src="assets/icons/element_spend_fire_wind.png" class="inline-element"/> bei deinem Einzelziel-Fernkampfangriff, um +1 <img src="assets/icons/ability_range.png" class="inline-icon"/>, <img src="assets/icons/condition_pierce.png" class="inline-condition"/> 1 hinzuzufügen.	 |
+| Instabiles Pulver          | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 7	| <img src="assets/icons/use_lost.png" class="inline-icon"/>     |	Füge beio deinem Einzelziel-Fernkampfangriff Folgendes hinzu: <img src="assets/icons/area_ranged_triangle.png" class="inline-condition"/>	 |
+| Heiltrank-Tropfen  | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 7	| <img src="assets/icons/use_lost.png" class="inline-icon"/>     |	Während deines Zuges: <img src="assets/icons/ability_heal.png" class="inline-icon"/> 3 Selbst.	 |
+| Schmieröl          | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 9	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	Füge bei deiner Bewegung +2 <img src="assets/icons/ability_move.png" class="inline-icon"/> hinzu.	 |
+| Messing-Zahnrad                | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 9	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	Erhöhe/reduziere nach dem Bestimmen der Initiative deinen Wert um 10.	 |
+| Ausdauertrank-Tropfen	  | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	10	| <img src="assets/icons/use_lost.png" class="inline-icon"/>     |	<img src="assets/icons/ability_recover_card.png" class="inline-icon"/> während deines Zugs 1 Stufe-1-Karte von deiner Hand oder deinem Abwurfstapel auf Seite A. |
+| Elementtrank-Tropfen	  | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	10	| <img src="assets/icons/use_lost.png" class="inline-icon"/>     |	Reichere während deines Zugs <img src="assets/icons/element_wild.png" class="inline-element"/><img src="assets/icons/element_wild.png" class="inline-element"/> an.	 |
+| Schicksalspulver-Prise	    | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	11	| <img src="assets/icons/use_lost.png" class="inline-icon"/>     |	Füge deinem Angriff <img src="assets/icons/condition_disarm.png" class="inline-condition"/>, <img src="assets/icons/condition_poison.png" class="inline-condition"/> hinzu.	 |
+| Katzenaugen-Glücksmurmel  | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	14	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	Bei deinem Angriff gilt dein <img src="assets/icons/dice_result_minus.png" class="inline-icon"/> Angriffsmodifikator als <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/>.	 |
+| Glutnessel	              | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	14	|                                                                 |	 <img src="assets/icons/element_spend_fire_earth.png" class="inline-element"/> nach dem Angriff eines Gegners, um ihm <img src="assets/icons/condition_wound.png" class="inline-condition"/> zu geben.	 |
+| Ausdauerelixier-Tropfen  | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	16	| <img src="assets/icons/use_lost.png" class="inline-icon"/>     |	 <img src="assets/icons/ability_recover_card.png" class="inline-icon"/> während deines Zugs 1 Karte von deiner Hand oder deinem Abwurfstapel auf Seite A. |
+| Eilelixier-Tropfen    | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	16	| <img src="assets/icons/use_lost.png" class="inline-icon"/>     |	Führe nach der oberen Aktion einer Fertigkeitskarte zusätzlich auch die untere aus.	 |
+| Stärketrank-Tropfen  | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	17	| <img src="assets/icons/use_lost.png" class="inline-icon"/>     |	Erhalte während deines Zugs <img src="assets/icons/condition_strengthen.png" class="inline-condition"/> Selbst.	 |
+| Prismatischer Edelstein            | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	17	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	<img src="assets/icons/element_spend_wild.png" class="inline-element"/> bei deinem Angriff, um +1 <img src="assets/icons/ability_attack.png" class="inline-icon"/> hinzuzufügen.	 |
+| Lichtköder-Stein          | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	18	|                                                                 |	 <img src="assets/icons/element_spend_wind_light.png" class="inline-element"/> nach deinem Angriff, um das Ziel des Angriffs zu kontrollieren: <img src="assets/icons/ability_move.png" class="inline-icon"/> 1.	 |
+| Dämmerdunst-Stein            | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	18	|                                                                 |	 <img src="assets/icons/element_spend_wind_dark.png" class="inline-element"/> beim Angriff eines Gegners, um ihm   <img src="assets/icons/condition_muddle.png" class="inline-condition"/> zu geben und selbst <img src="assets/icons/ability_shield.png" class="inline-icon"/> 1 zu erhalten.	 |
 
 ---
 
