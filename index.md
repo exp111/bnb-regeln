@@ -147,7 +147,7 @@ Viel Glück, Abenteurer!
 <p>Anhang A: Spielmaterial <a href="#page_36">S.36</a></p>
 <p>Anhang B: Leitfaden zu den Zügen der Monster <a href="#page_37">S.37</a></p>
 <p>Anhang C: Wichtige Hinweise <a href="#page_38">S.38</a></p>
-<p>Appendix D: Item Index <a href="#page_39">S.39</a></p>
+<p>Anhang D: Gegenstandsverzeichnis <a href="#page_39">S.39</a></p>
 <p>Anhang E: Komponenten-Errata <a href="#page_40">S.40</a></p>
 
 <h4 id="credits-p41">Credits <a href="#page_41">S.41</a></h4>
@@ -1180,7 +1180,7 @@ Jedes Monster führt alle seine Fertigkeiten von oben nach unten aus (Bewegung, 
 
 ---
 
-# Appendix D: Gegenstandsverzeichnis
+# Anhang D: Gegenstandsverzeichnis
 
 | Gegenstand                      | Typ | Szen. | Verwendung | Effekt |
 | :---                      |:---: | :---: |:---:| :---   |
