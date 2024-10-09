@@ -14,17 +14,17 @@ Für mehr Informationen besuche einfach: [feuerland-spiele.de](https://www.feuer
 
 © 2024 Feuerland Verlagsgesellschaft mbH. Alle Rechte vorbehalten.
 
-### Weiter auf dem Pfad des Lernen und Spielens
+### Weiter auf dem Pfad des Lernens und Spielens
  
-Mit dem ersten Überblick aus dem Spielleitfaden solltest du in der Lage sein, das erste Szenario zu spielen. Danach kannst du hier in dem vollständigen Regelwerk noch einmal alles nachlesen. 
+Mit dem ersten Überblick aus dem Spielleitfaden solltest du in der Lage sein, das erste Szenario zu spielen. Danach kannst du hier im vollständigen Regelwerk noch einmal alles nachlesen. 
 
-Insbesondere gibt es ein paar Einzelheiten, die nicht in dem Spielleitfaden erklärt werden:
+Es gibt ein paar Einzelheiten, die nicht im Spielleitfaden erklärt werden und die du beachten solltest:
 
-- Gegenstände [S.26](#page_26), [35](#page_35)
-- Regenerieren [S.24](#page_24)
-- Szenario Effekte [S.7](#page_7), [8](#page_8)
-- Gelände [S.9](#page_9)
-- Verbesserte Fähigkeiten [S.35](#page_35)
+- Gegenstände [S. 26](#page_26), [35](#page_35)
+- Zurückbekommen [S. 24](#page_24)
+- Szenarioeffekte [S. 7](#page_7), [8](#page_8)
+- Gelände [S. 9](#page_9)
+- Verbesserte Fertigkeiten [S. 35](#page_35)
 
 Viel Glück, Abenteurer!
 
@@ -42,117 +42,117 @@ Viel Glück, Abenteurer!
   
 <h4 id="getting-started-p3">Vor dem Spiel <a href="#page_3">S.3</a></h4>
 
-<p>Charakterauswahl <a href="#page_4">S.4</a></p>
-<p>Die Regeln lernen <a href="#page_5">S.5</a></p>
+<p>Charakterauswahl <a href="#page_4">S. 4</a></p>
+<p>Die Regeln lernen <a href="#page_5">S. 5</a></p>
 
-<h4 id="scenario-phase-p6">Szenariophase <a href="#page_6">S.6</a></h4>
+<h4 id="scenario-phase-p6">Szenariophase <a href="#page_6">S. 6</a></h4>
 
-<h4 id="beginning-a-scenario-p7">Beginnen eines Szenarios <a href="#page_7">S.7</a></h4>
+<h4 id="beginning-a-scenario-p7">Ein Szenario beginnen <a href="#page_7">S. 7</a></h4>
 
-<h4 id="scenario-cards-p8">Szenariokarten <a href="#page_8">S.8</a></h4>
+<h4 id="scenario-cards-p8">Szenariokarten <a href="#page_8">S. 8</a></h4>
 
-<p>Gelände <a href="#page_9">S.9</a></p>
-<p>Hindernisse <a href="#page_9">S.9</a></p>
-<p>Schwieriges Gelände <a href="#page_9">S.9</a></p>
-<p>Gefahren <a href="#page_9">S.9</a></p>
-<p>Druckplatten<a href="#page_9">S.9</a></p>
-<p>Ziele <a href="#page_9">S.9</a></p>
+<p>Gelände <a href="#page_9">S. 9</a></p>
+<p>Hindernisse <a href="#page_9">S. 9</a></p>
+<p>Schwieriges Gelände <a href="#page_9">S. 9</a></p>
+<p>Gefahren <a href="#page_9">S. 9</a></p>
+<p>Druckplatten<a href="#page_9">S. 9</a></p>
+<p>Ziele <a href="#page_9">S. 9</a></p>
 
-<h4 id="playing-a-scenario-p10">Spielen eines Szenarios <a href="#page_10">S.10</a></h4>
+<h4 id="playing-a-scenario-p10">Ein Szenario spielen <a href="#page_10">S. 10</a></h4>
 
-<p>Rundenbeginn mit Szenarioeffekten <a href="#page_10">S.10</a></p>
-<p>Kartenauswahl <a href="#page_10">S.10</a></p>
-<p>Reihenfolge bestimmen <a href="#page_11">S.11</a></p>
-<p>Gleichstand auflösen <a href="#page_11">S.11</a></p>
-<p>Reihenfolge der Monster <a href="#page_11">S.11</a></p>
+<p>Rundenbeginn mit Szenarioeffekten <a href="#page_10">S. 10</a></p>
+<p>Kartenauswahl <a href="#page_10">S. 10</a></p>
+<p>Reihenfolge bestimmen <a href="#page_11">S. 11</a></p>
+<p>Gleichstand auflösen <a href="#page_11">S. 11</a></p>
+<p>Reihenfolge der Monster <a href="#page_11">S. 11</a></p>
 
-<p>Charakter- und Monsterzüge <a href="#page_12">S.12</a></p>
-<p>Aktionen und Fähigkeiten <a href="#page_12">S.12</a></p>
-<p>Aktionen <a href="#page_12">S.12</a></p>
-<p>Fertigkeiten <a href="#page_12">S.12</a></p>
-<p>Wichtige Fähigkeitenkonzepte <a href="#page_13">S.13</a></p>
-<p>Ziele <a href="#page_13">S.13</a></p>
-<p>Verbündete, Gegner und man selbst <a href="#page_13">S.13</a></p>
-<p>Reichweite <a href="#page_14">S.14</a></p>
-<p>Wirkungsbereich <a href="#page_14">S.14</a></p>
-<p>Besondere Effekte <a href="#page_15">S.15</a></p>
-<p>Elemente <a href="#page_16">S.16</a></p>
-
-</td><td>
-
-<p>Fertigkeiten <a href="#page_17">S.17</a></p>
-<p>Bewegen <a href="#page_17">S.17</a></p>
-<p>Springen <a href="#page_17">S.17</a></p>
-<p>Fliegen <a href="#page_17">S.17</a></p>
-<p>Angriff <a href="#page_18">S.18</a></p>
-<p>Angriffsmodifikatorablage <a href="#page_18">S.18</a></p>
-<p>Angriffseffekte <a href="#page_19">S.19</a></p>
-<p>Vor- und Nachteile <a href="#page_19">S.19</a></p>
-<p>Durchstechen <a href="#page_19">S.19</a></p>
-
-<p>Zustände <a href="#page_20">S.20</a></p>
-<p>Positive Zustände <a href="#page_20">S.20</a></p>
-<p>Negative Zustände <a href="#page_20">S.20</a></p>
-<p>Heilen <a href="#page_21">S.21</a></p>
-<p>Aktive Boni <a href="#page_21">S.21</a></p>
-<p>Schild <a href="#page_22">S.22</a></p>
-<p>Vergeltung <a href="#page_22">S.22</a></p>
-<p>Erzwungene Bewegung <a href="#page_23">S.23</a></p>
-<p>Kontrolle <a href="#page_24">S.24</a></p>
-<p>Schaden erleiden <a href="#page_24">S.24</a></p>
-<p>Erholen <a href="#page_24">S.24</a></p>
-
-<p>Das Ziehen des Charakters <a href="#page_25">S.25</a></p>
-<p>Fertigkeitskarten <a href="#page_25">S.25</a></p>
-<p>Gegenstände <a href="#page_26">S.26</a></p>
-<p>Gegenstandsbeschränkungen <a href="#page_26">S.26</a></p>
-<p>Verwendung eines Gegenstands <a href="#page_26">S.26</a></p>
-<p>verpflichtende Auslöser <a href="#page_27">S.27</a></p>
-<p>Ausruhen <a href="#page_27">S.27</a></p>
-<p>Aktionen mit Verloren-Symbol <a href="#page_28">S.28</a></p>
-<p>Schaden negieren <a href="#page_28">S.28</a></p>
-<p>Erschöpfung <a href="#page_28">S.28</a></p>
+<p>Charakter- und Monsterzüge <a href="#page_12">S. 12</a></p>
+<p>Aktionen und Fertigkeiten <a href="#page_12">S. 12</a></p>
+<p>Aktionen <a href="#page_12">S. 12</a></p>
+<p>Fertigkeiten <a href="#page_12">S. 12</a></p>
+<p>Wichtige Fertigkeitskonzepte <a href="#page_13">S. 13</a></p>
+<p>Ziele <a href="#page_13">S. 13</a></p>
+<p>Verbündete, Gegner und man selbst <a href="#page_13">S. 13</a></p>
+<p>Reichweite <a href="#page_14">S. 14</a></p>
+<p>Wirkungsbereich <a href="#page_14">S. 14</a></p>
+<p>Besondere Effekte <a href="#page_15">S. 15</a></p>
+<p>Elemente <a href="#page_16">S. 16</a></p>
 
 </td><td>
 
-<p>Monsterzüge <a href="#page_29">S.29</a></p>
-<p>Monsterkarten <a href="#page_29">S.29</a></p>
-<p>Zugreihenfolge der Monster <a href="#page_30">S.30</a></p>
-<p>Fokus <a href="#page_30">S.30</a></p>
-<p>Pfadpriorität <a href="#page_30">S.30</a></p>
-<p>Kein Fokus <a href="#page_30">S.30</a></p>
-<p>Monsterbewegung <a href="#page_31">S.31</a></p>
-<p>Monsterangriffe <a href="#page_31">S.31</a></p>
-<p>Andere Monsterfertigkeiten <a href="#page_31">S.31</a></p>
-<p>Monster und Elemente <a href="#page_32">S.32</a></p>
-<p>Das Erscheinen von Monstern <a href="#page_32">S.32</a></p>
-<p>Monsterschaden und Tod <a href="#page_32">S.32</a></p>
+<p>Fertigkeiten <a href="#page_17">S. 17</a></p>
+<p>Bewegen <a href="#page_17">S. 17</a></p>
+<p>Springen <a href="#page_17">S. 17</a></p>
+<p>Fliegen <a href="#page_17">S. 17</a></p>
+<p>Angriff <a href="#page_18">S. 18</a></p>
+<p>Angriffsmodifikator-Ablage <a href="#page_18">S. 18</a></p>
+<p>Angriffseffekte <a href="#page_19">S. 19</a></p>
+<p>Vor- und Nachteile <a href="#page_19">S. 19</a></p>
+<p>Durchstechen <a href="#page_19">S. 19</a></p>
 
-<p>Rundenende<a href="#page_33">S.33</a></p>
-<p>Runden zählen <a href="#page_33">S.33</a></p>
+<p>Zustände <a href="#page_20">S. 20</a></p>
+<p>Positive Zustände <a href="#page_20">S. 20</a></p>
+<p>Negative Zustände <a href="#page_20">S. 20</a></p>
+<p>Heilen <a href="#page_21">S. 21</a></p>
+<p>Aktive Boni <a href="#page_21">S. 21</a></p>
+<p>Schild <a href="#page_22">S. 22</a></p>
+<p>Vergeltung <a href="#page_22">S. 22</a></p>
+<p>Erzwungene Bewegung <a href="#page_23">S. 23</a></p>
+<p>Kontrolle <a href="#page_24">S. 24</a></p>
+<p>Schaden erleiden <a href="#page_24">S. 24</a></p>
+<p>Zurückbekommen <a href="#page_24">S. 24</a></p>
+
+<p>Das Ziehen des Charakters <a href="#page_25">S. 25</a></p>
+<p>Fertigkeitskarten <a href="#page_25">S. 25</a></p>
+<p>Gegenstände <a href="#page_26">S. 26</a></p>
+<p>Gegenstandsbeschränkungen <a href="#page_26">S. 26</a></p>
+<p>Verwendung eines Gegenstands <a href="#page_26">S. 26</a></p>
+<p>Zwangsauslöser <a href="#page_27">S. 27</a></p>
+<p>Rasten <a href="#page_27">S. 27</a></p>
+<p>Aktionen mit Verloren-Symbol <a href="#page_28">S. 28</a></p>
+<p>Charakterschaden <a href="#page_28">S. 28</a></p>
+<p>Erschöpfung <a href="#page_28">S. 28</a></p>
+
+</td><td>
+
+<p>Monsterzüge <a href="#page_29">S. 29</a></p>
+<p>Monsterkarten <a href="#page_29">S. 29</a></p>
+<p>Zugreihenfolge der Monster <a href="#page_30">S. 30</a></p>
+<p>Fokus <a href="#page_30">S. 30</a></p>
+<p>Pfadpriorität <a href="#page_30">S. 30</a></p>
+<p>Kein Fokus <a href="#page_30">S. 30</a></p>
+<p>Monsterbewegung <a href="#page_31">S. 31</a></p>
+<p>Monsterangriffe <a href="#page_31">S. 31</a></p>
+<p>Andere Monsterfertigkeiten <a href="#page_31">S. 31</a></p>
+<p>Monster und Elemente <a href="#page_32">S. 32</a></p>
+<p>Das Einsteigen von Monstern <a href="#page_32">S. 32</a></p>
+<p>Monsterschaden und Tod <a href="#page_32">S. 32</a></p>
+
+<p>Rundenende <a href="#page_33">S. 33</a></p>
+<p>Runden zählen <a href="#page_33">S. 33</a></p>
 
 <h4 id="ending-a-scenario-p34">Ein Szenario beenden <a href="#page_34">S.34</a></h4>
 
 <p>Verlorenes Szenario <a href="#page_34">S.34</a></p>
 <p>Abgeschlossenes Szenario <a href="#page_34">S.34</a></p>
 
-<h4 id="the-adventure-begins-p35">Das Abenteuer beginnt <a href="#page_35">S.35</a></h4>
+<h4 id="the-adventure-begins-p35">Das Abenteuer beginnt <a href="#page_35">S. 35</a></h4>
 
-<p>Gegenstandsvorrat <a href="#page_35">S.35</a></p>
-<p>Charakterentwicklung <a href="#page_35">S.35</a></p>
-<p>Verbesserte Fertigkeitskarten <a href="#page_35">S.35</a></p>
+<p>Gegenstandsvorrat <a href="#page_35">S. 35</a></p>
+<p>Charakterentwicklung <a href="#page_35">S. 35</a></p>
+<p>Verbesserte Fertigkeitskarten <a href="#page_35">S. 35</a></p>
 
 <h4 id="appendices">Anhänge</h4>
 
-<p>Anhang A: Spielmaterial <a href="#page_36">S.36</a></p>
-<p>Anhang B: Leitfaden zu den Zügen der Monster <a href="#page_37">S.37</a></p>
-<p>Anhang C: Wichtige Hinweise <a href="#page_38">S.38</a></p>
-<p>Anhang D: Gegenstandsverzeichnis <a href="#page_39">S.39</a></p>
-<p>Anhang E: Komponenten-Errata <a href="#page_40">S.40</a></p>
+<p>Anhang A: Spielmaterial <a href="#page_36">S. 36</a></p>
+<p>Anhang B: Leitfaden zu den Zügen der Monster <a href="#page_37">S. 37</a></p>
+<p>Anhang C: Wichtige Hinweise <a href="#page_38">S. 38</a></p>
+<p>Anhang D: Gegenstandsverzeichnis <a href="#page_39">S. 39</a></p>
+<p>Anhang E: Komponenten-Errata <a href="#page_40">S. 40</a></p>
 
-<h4 id="credits-p41">Credits <a href="#page_41">S.41</a></h4>
+<h4 id="credits-p41">Credits <a href="#page_41">S. 41</a></h4>
 
-<h4 id="quick-reference-p42">schnelle Referenzen <a href="#page_42">S.42</a></h4>
+<h4 id="quick-reference-p42">Schnelle Referenzen <a href="#page_42">S. 42</a></h4>
 
 </td></tr>
 </table>
@@ -168,9 +168,9 @@ Viel Glück, Abenteurer!
 
 Oh nein! Du wurdest durch Magie geschrumpft! Um zu deiner vorherigen Größe zurückzukehren, musst du dich in dieser neuen Welt zurechtfinden und eine Reihe von Szenarien bestreiten, die dich durch diese Miniaturwelt führen. Unterwegs findest du vielleicht ein paar Freunde, aber vor allem musst du verschiedene Gegner im Kampf besiegen. Zum Glück bist du ja ein geschickter Söldner mit verschiedenen Fähigkeiten, welche durch deine Karten repräsentiert werden. Um die vielen verschiedenen Gefahren zu bewältigen, die dich auf deiner Reise erwarten, musst du die richtigen Karten zur richtigen Zeit spielen.
 
-Es gibt sechs Charakterklassen mit verschiedenen Fähigkeiten und Spielstilen zur Auswahl. Im weiteren Spielverlauf kannst du deinen Charakter dann mit Gegenständen und fortgeschrittenen Fähigkeitskarten anpassen. 
+Es gibt sechs Charakterklassen mit verschiedenen Fähigkeiten und Spielstilen zur Auswahl. Im weiteren Spielverlauf kannst du deinen Charakter außerdem mit Gegenständen und fortgeschrittenen Fertigkeitskarten anpassen. 
 
-Dieses Regelwerk versorgt dich mit allen Details, die du brauchst, um das Spiel zu spielen. Falls du schon einmal einen anderen Gloomhaven Titel gespielt hast, werden dir viele Regeln bekannt vorkommen. Wir schlagen dir vor, einmal alles durchzulesen, um ein vollständiges Verständnis für das Spiel zu bekommen.<span class="new-to-bnb"> Alle in lila hervorgehobenen Regeln sind neu für Knöpfe & Krabbler und unterscheiden sich von Gloomhaven und Frosthaven.</span>
+Dieses Regelwerk versorgt dich mit allen Details, die du brauchst, um das Spiel zu spielen. Falls du schon einmal einen anderen Gloomhaven-Titel gespielt hast, werden dir viele Regeln bekannt vorkommen. Wir schlagen dir vor, einmal alles durchzulesen, um ein vollständiges Verständnis für das Spiel zu bekommen.<span class="new-to-bnb"> Alle in lila hervorgehobenen Regeln sind neu für Knöpfe & Krabbler und unterscheiden sich von Gloomhaven und Frosthaven.</span>
 
 ---
 
@@ -182,14 +182,14 @@ Dieses Regelwerk versorgt dich mit allen Details, die du brauchst, um das Spiel 
 
 Die Auswahl eines Charakters und der Anfang deiner Reise in Knöpfe & Krabbler sind einfach: Du wählst einen Charakter aus und fängst an zu spielen.
 
-Für deinen ausgewählten Charakter sammelst du folgende Materialien:
+Für deinen ausgewählten Charakter nimmst du folgende Materialien:
 
-- **Charakterkarte:** Diese Karte bietet eine visuelle Darstellung deines Charakters, zusammen mit deinen maximalen Trefferpunkten auf den verschiedenen Stufen und einem Platz zum Ablegen der Zustandsmarker. Auf der Rückseite befindet sich eine kurze Beschreibung deines Charakters und eine Liste der Fertigkeitskarten und deren Verbesserungen.
+- **Charakterkarte:** Diese Karte bietet eine visuelle Darstellung deines Charakters, zusammen mit deinen maximalen Trefferpunkten auf den verschiedenen Stufen und einem Platz zum Aufbewahren der Zustandsmarker. Auf der Rückseite befindet sich eine kurze Beschreibung deines Charakters und eine Liste der Fertigkeitskarten und deren Verbesserungen.
 - **Spielfigur:** Die Spielfigur aus Plastik repräsentiert deinen Charakter.
 - **Fertigkeitskarten:** Es gibt vier doppelseitige Stufe 1 Karten und vier doppelseitige Stufe 2 Karten. Die entsprechenden Fertigkeitskarten sind auf der Rückseite deiner Charakterkarte aufgelistet.
 - **Angriffsmodifikator-Ablage:** Diese Ablage zeigt deinen entsprechenden Angriffsmodifikator. Auf Stufe 1 verwendest du die aufgedruckte Tabelle.
-- **Fortgeschrittene Angriffsmodifikator-Karten:** Zwei doppelseitige Karten, die im späteren Spielverlauf deine Angriffsmodifikator-Ablage verbessern.
-- **braune Zählscheibe:** Sie hält deine Trefferpunkte während eines Szenarios fest.
+- **Fortgeschrittene Angriffsmodifikator-Karten:** Zwei doppelseitige Karten, die im späteren Spielverlauf deine Tabelle mit Angriffsmodifikatoren verbessern.
+- **Braune Zählscheibe:** Sie hält deine Trefferpunkte während eines Szenarios fest.
 
 ---
 
@@ -213,13 +213,13 @@ Ein großer Teil des Regelwerks behandelt das Spielen eines einzelnen Szenarios.
 
 ## Szenariophase
 
-Szenarien sind eigenständige Missionen und so gestaltet, dass sie in einer Sitzung durchgespielt werden können. Das Szenariendeck enthält zwar 20 Szenarien, aber in einer einzelnen Kampagne werden nicht alle gespielt. Im Gegensatz zu anderen Gloomhaven-Spielen ist die Geschichte von Knöpfe & Krabbler größtenteils linear.
+Szenarien sind eigenständige Missionen und so gestaltet, dass du sie in einer Sitzung durchspielen kannst. Das Szenariendeck enthält zwar 20 Szenarien, aber in einer einzelnen Kampagne spielst du sie nicht alle. Im Gegensatz zu anderen Gloomhaven-Spielen ist die Geschichte von Knöpfe & Krabbler größtenteils linear.
 
 Jede Szenariophase besteht aus drei verschiedenen Schritten:
 
-- **Beginnen eines Szenarios:** In diesem Schritt bereitest du alles vor, was du für das Spielen eines Szenarios benötigst. Dazu gehört der ausgewählte Charakter, die zu bekämpfenden Monster und die Kartenanordnung, auf der der Kampf stattfindet.
-- **Spielen eines Szenarios:** Ein Szenario wird über mehrere Runden gespielt. In jeder Runde sind alle Figuren auf der Karte, sowohl dein Charakter als auch die Monster, an der Reihe. So spielst du Runde für Runde, bis ein Szenario verloren oder gewonnen ist.
-- **Beenden eines Szenarios:** In diesem Schritt wickelst du die Auswirkungen des Scheiterns oder Bestehens eines Szenarios ab.
+- **Ein Szenario beginnen:** In diesem Schritt bereitest du alles vor, was du für das Spielen eines Szenarios benötigst. Dazu gehört der ausgewählte Charakter, die zu bekämpfenden Monster und die Kartenanordnung, auf der der Kampf stattfindet.
+- **Ein Szenario spielen:** Du spielst ein Szenario über mehrere Runden. In jeder Runde sind alle Figuren auf der Karte am Zug, sowohl dein Charakter als auch die Monster. So spielst du Runde für Runde, bis du das Szenario verlierst oder abschließt.
+- **Ein Szenario beenden:** In diesem Schritt wickelst du die Auswirkungen ab, die das Verlieren oder Abschließen eines Szenarios mit sich bringt.
 
 ---
 
@@ -227,21 +227,21 @@ Jede Szenariophase besteht aus drei verschiedenen Schritten:
 
 ---
 
-> ## Beginnen eines Szenarios
+> ## Ein Szenario beginnen
 > 
-> Jedes Mal, wenn du ein Szenario startest, bereitest du es vor, indem du die folgenden Schritte in ihrer Reihenfolge ausführst:
+> Jedes Mal, wenn du ein Szenario startest, bereitest du es vor, indem du die folgenden Schritte der Reihe nach ausführst:
 >
 > 1. Wähle ein Szenario aus und finde die entsprechende Szenariokarte. **Hinweis:** Du kannst jedes beliebige Szenario spielen, aber für das beste Spielerlebnis empfehlen wir, dem Abschlusstext der vorherigen Szenariokarte zu folgen.
-> 1. Lies die Szenarioeinleitung, die Sonderregeln und das Ziel im Szenarioeintrag und überprüfe die Szenariostufe.
-> 1. Lege die Monsterkarte für jeden Monstertypen in diesem Szenario bereit.
-> 1. Handle alle Szenarioeffekte ab oder schreibe dir eine Notiz, falls diese erst im späteren Spielverlauf abgehandelt werden. Drehe die Szenariokarte auf den Szenarioraum um.
-> 1. Lege die Monsterkarten in ihre Ablage und platziere auf jede einen weißen Würfel. Lege außerdem die Monster-Trefferpunkte-Räder in der Farbe bereit, in der die Trefferpunkte auf dem Szenarioraum markiert sind.
-> 1. Die bunten Würfel stellen die Monster dar. Platziere sie in der Farbe, in der sie auf der Szenariokarte angezeigt werden. Platziere außerdem deine Charakterfigur auf dem vorgesehenen Startfeld. 
-> 1. Lege beide Angriffsmodifikator-Ablagen bereit. Falls das Szenario Stufe 2 oder höher ist, nimm dir die entsprechende Level-Modifikatorkarte für deinen Charakter und lege sie in die Charaktermodifikator-Ablage. Du kannst einen anderen Monster-Schwierigkeitsgrad als “Standart” auswählen, indem du die gewählte Monster-Modifikatorkarte für den entsprechenden Schwierigkeitsgrad in die Monstermodifikator-Ablage legst.
+> 1. Lies den Szenarioeintrag, die Sonderregeln und das Ziel im Szenarioeintrag und überprüfe die Szenariostufe.
+> 1. Lege die Monsterkarte für jeden Monstertyp in diesem Szenario bereit.
+> 1. Handle alle Szenarioeffekte ab oder schreibe dir eine Notiz, falls du diese erst später während des Aufbaus abhandeln sollst. Drehe die Szenariokarte auf die Raumseite um.
+> 1. Lege die Monsterkarten in je 1 Monsterablage und platziere auf jeder davon 1 weißen Stein auf der Position mit dem <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/>-Symbol. Lege außerdem die Monster-Zählscheiben in den Farben bereit, die unterhalb der Monster auf der Raumseite angegeben sind (ihr findet auch die abgebildeten Zahlen auf den Trefferpunkt-Rädern).
+> 1. Die bunten Steine stellen die Monster dar. Platziere sie in der Farbe, in der Raumseite angegeben sind. Platziere außerdem deine Charakterfigur auf dem vorgesehenen Startfeld. 
+> 1. Lege beide Angriffsmodifikator-Ablagen bereit. Falls das Szenario Stufe 2 oder höher ist, nimm dir die entsprechende Level-Modifikatorkarte für deinen Charakter und lege sie in die Charaktermodifikator-Ablage. Du kannst einen anderen Monster-Schwierigkeitsgrad als „Standard“ auswählen, indem du die gewählte Monster-Modifikatorkarte für den entsprechenden Schwierigkeitsgrad in die Monstermodifikator-Ablage legst.
 > 1. Halte alle Zustandsmarker, den Würfel und die Symbol-Referenzkarte griffbereit.
 > 1. Entscheide, welche Gegenstände du von den verfügbaren Gegenständen ausrüsten willst. (siehe [S.26](#page_26)).
-> 1. Nehme dir die Fertigkeitskarten der Stufe 1 für deinen Charakter und wähle eine Anzahl an Karten aus, die du verbessern möchtest. Die Anzahl entspricht der Szenariostufe minus eins. Ersetze dann die ausgewählten Fertigkeitskarten der Stufe 1 durch die entsprechenden Fertigkeitskarten der Stufe 2 (abgebildet auf der Rückseite deiner Charakterkarte). Die ausgewählten Karten nimmst du direkt auf deine Hand. 
-> 1. Stelle das Trefferpunkte-Rad deines Charakters auf deinen maximalen Trefferwert. Diesen findest du auf deiner Charakterkarte in der Tabelle unter der Szenariostufe. Stelle nun die entsprechenden Monster-Trefferpunkte-Räder für die jeweiligen Monster auf ihren maximalen Trefferwert.
+> 1. Nimm dir die Fertigkeitskarten der Stufe 1 für deinen Charakter und wähle eine Anzahl an Karten aus, die du verbessern möchtest. Die Anzahl entspricht der Szenariostufe minus 1. Ersetze dann die ausgewählten Fertigkeitskarten der Stufe 1 durch die entsprechenden Fertigkeitskarten der Stufe 2 (abgebildet auf der Rückseite deiner Charakterkarte). Die ausgewählten Karten nimmst du direkt auf deine Hand. 
+> 1. Stelle die Zählscheibe deines Charakters auf deinen maximalen Trefferwert. Diesen findest du auf deiner Charakterkarte in der Tabelle unter der Szenariostufe. Stelle nun die Trefferpunkte-Räder der Monster auf den jeweiligen maximalen Trefferwert des entsprechenden Monsters.
 > 1. Wende alle verbleibenden Szenarioeffekte an. 
 
 ---
@@ -252,20 +252,20 @@ Jede Szenariophase besteht aus drei verschiedenen Schritten:
 
 > ### Szenariokarten
 > 
-> Jede Karte enthält einen Szenarioeintrag mit allem, was du zum Spielen diesen Szenarios wissen musst. Meistens sind folgende Informationen vorhanden:
+> Jede Karte enthält einen Szenarioeintrag mit allem, was du zum Spielen dieses Szenarios wissen musst. Meistens sind folgende Informationen vorhanden:
 
 ![component breakdown for scenario card entry side](/assets/diagrams/component_diagram_scenarioentry_de.png)
 
 <blockquote>
   <ol type="A">
     <li>Nummer, Name und Stufe des Szenarios.</li>
-    <li>Eventuell ein vorgegebener Charakter.</li>
+    <li>Ein zum Spielen dieses Szenarios vorgegebener Charakter, falls es einen gibt.</li>
     <li>Eine Einführung in das Szenario.</li>
     <li>Eine Liste der anzutreffenden Monster.</li>
-    <li>Das Ziel des Szenarios. Sobald du dieses erreicht hast, ist das Szenario bestanden, und du liest dir den Abschluss des Szenarios nach deiner aktuellen Runde durch.</li>
-    <li>Eventuelle Sonderregeln für dieses Szenario.</li>
-    <li>Dieser Abschluss des Szenarios.</li>
-    <li>Das nächste oder die nächsten Szenarios, die in der Kampagne gespielt werden.</li>
+    <li>Das Ziel des Szenarios. Sobald du dieses erreicht hast, ist das Szenario abgeschlossen. Lies dir den Abschluss des Szenarios nach deiner aktuellen Runde durch.</li>
+    <li>Sonderregeln für dieses Szenario, falls es welche gibt.</li>
+    <li>Der Abschluss dieses Szenarios.</li>
+    <li>Das nächste Szenario oder die nächsten Szenarien, die du in der Kampagne spielen solltest.</li>
   </ol>
 </blockquote>
 
@@ -277,7 +277,7 @@ Jede Szenariophase besteht aus drei verschiedenen Schritten:
   <ol type="A">
     <li><strong>Startfeld:</strong> Am Anfang des Szenarios stellst du deine Figur auf dieses Feld.</li>
     <li><strong>Gelände:</strong> Auf diesen Feldern gelten besondere Raumeigenschaften (siehe <a href="#page_9">S.9</a>).</li>
-    <li><strong>Monsterfelder:</strong> Auf diesen Feldern ist ein Monster abgebildet. Platziere den jeweilgen Monsterwürfel auf das Feld mit der entsprechenden Farbe.</li>
+    <li><strong>Monsterfelder:</strong> Auf diesen Feldern ist ein Monster abgebildet. Platziere den jeweilgen Monsterwürfel auf dem Feld mit der entsprechenden Farbe.</li>
     <li><strong>Besondere Felder:</strong> Diese Felder sind mit einem Buchstaben markiert und werden in den Sonderregeln des Szenarios erläutert.</li>
   </ol>
 </blockquote>
@@ -296,7 +296,7 @@ Jedes Szenario besteht aus verschiedenen Geländetypen. Dieser Typ wird durch di
 
 <div class="float-container">
   <span class="floating-image"><img src="assets/icons/terrain_obstacle.png" height="48"/></span>
-  <p>Figuren können nicht ein Feld mit einem Hinderniss betreten, außer sie fliegen. Es kann aber über ein Hindernis gesprungen werden. Reichweite darf durch Hindernisse gezählt werden. Hindernisse fangen keine Fernagriffe ab.</p>
+  <p>Figuren können Felder mit Hindernissen nicht betreten, außer sie fliegen oder springen (der Sprung kann jedoch nicht auf dem Feld mit Hindernis enden). Reichweite darf durch Hindernisse gezählt werden. Hindernisse verhindernff keine Fernagriffe ab.</p>
 </div>
 
 #### Schwieriges Gelände	
@@ -311,7 +311,7 @@ Jedes Szenario besteht aus verschiedenen Geländetypen. Dieser Typ wird durch di
 <blockquote>
   <div class="float-container">
     <span class="floating-image"><img src="assets/icons/terrain_hazard.png" height="48"/></span>
-    <p>Wenn eine Figur ohne zu fliegen oder springen ein Gefahrenfeld betritt, wird ein Effekt auf diese Figur angewendet. Es gibt viele verschiedene Effekte und sie werden auf der jeweiligen Szenariokarte spezifiziert. Figuren erleiden keinen Effekt, wenn sie auf einem Gefahrenfeld eine Runde beginnen oder dieses verlassen. Falls aber eine Sprungbewegung auf einem Gefahrenfeld beendet wird, wird ein Effekt angewendet. Wenn eine Figur sich auf einem  <strong>Lähmung</strong> <img src="assets/icons/condition_immobilize.png" class="inline-condition"/>Gefahrenfeld befindet (siehe <a href="#page_20">S.20</a>), gilt sie als Hindernis für die Bewegung anderer Figuren.</p>
+    <p>Wenn eine Figur ohne zu fliegen oder springen ein Gefahrenfeld betritt, wird ein Effekt auf diese Figur angewendet. Es gibt viele verschiedene Effekte und sie werden auf der jeweiligen Szenariokarte spezifiziert. Figuren erleiden keinen Effekt, wenn sie auf einem Gefahrenfeld eine Runde beginnen oder dieses verlassen. Falls eine Figur aber eine Sprungbewegung auf einem Gefahrenfeld beendet, wird der Effekt angewendet. Wenn sich eine Figur auf einem Gefahrenfeld „Lähmung<strong>Lähmung</strong> <img src="assets/icons/condition_immobilize.png" class="inline-condition"/>“ befindet (siehe <a href="#page_20">S.20</a>), gilt sie als Hindernis für die Bewegung anderer Figuren.</p>
   </div>
 </blockquote>
 
@@ -319,14 +319,14 @@ Jedes Szenario besteht aus verschiedenen Geländetypen. Dieser Typ wird durch di
 
 <div class="float-container">
   <span class="floating-image"><img src="assets/icons/terrain_pressure_plate.png" height="48"/></span>
-  <p>Das Auslösen einer Druckplatte und ihr Effekt wird in den Sonderregeln des jeweiligen Szenarios beschrieben. Druckplatten gelten als leere Felder.</p>
+  <p>Der Auslöser einer Druckplatte und ihr Effekt werden in den Sonderregeln des jeweiligen Szenarios beschrieben. Druckplatten gelten als leere Felder.</p>
 </div>
 
-#### Ziele 
+#### Zielobjekte 
 
 <div class="float-container">
 	<span class="floating-image"><img src="assets/icons/terrain_objective.png" height="48"/></span>
-	<p>Objectives sind mit den Zielen einiger Szenarien verbunden und müssen in der Regel angegriffen oder beschützt werden. Objectives können angegriffen werden, sind aber immun gegen alle Zustände und erzwungene Bewegungen. Objectives haben eine Initiative von 99 wenn sie fokussiert werden, außer die Sonderregel des Szenarios schreibt etwas anderes vor. Außerdem sind sie nie am Zug. Objectives gelten als Figur. Die Felder, die sie belegen, sind gelten als besetzt. Objectives sind keine Hindernisse. Die Sonderregel des jeweiligen Szenarios beschreibt, wie das Objective mit dem Ziel des Szenarios zusammenhängt.</p>
+	<p>Zielobjekte sind mit den Zielen einiger Szenarien verbunden und müssen in der Regel angegriffen oder beschützt werden. Zielobjekte können angegriffen werden, sind aber immun gegen alle Zustände und erzwungene Bewegungen. Wenn die Sonderregeln für das Szenario nichts anderes vorgeben, behandle Zielobjekte für die Zwecke der Fokussierung so, als hätten sie eine Initiative von 99. Sie sind jedoch nie am Zug. Zielobjekte gelten als Figur. Die Felder, die sie belegen, sind gelten als besetzt. Zielobjekte sind keine Hindernisse. Die Sonderregel des jeweiligen Szenarios beschreibt, wie das Zielobjekt mit dem Ziel des Szenarios zusammenhängt.</p>
 </div>
 
 ---
@@ -335,14 +335,15 @@ Jedes Szenario besteht aus verschiedenen Geländetypen. Dieser Typ wird durch di
 
 ---
 
-# Spielen eines Szenarios 
+# Ein Szenario spielen 
 
-Sobald ein Szenario aufgebaut ist, kannst du loslegen! Jedes Szenario wird in einer Reihe von Runden gespielt. Jede Runde besteht aus den folgenden Schritten:
+Sobald ein Szenario aufgebaut ist, kannst du loslegen! Du spielst jedes Szenario über mehrere Runden. Jede Runde besteht aus den folgenden Schritten:
 1. Rundenbeginn mit Szenarioeffekten
 1. Kartenauswahl
 1. Reihenfolge bestimmen
 1. Charakter- und Monsterzüge
 1. Rundenende
+   
 Diese Schritte werden wiederholt, bis das Szenarioziel erreicht ist.
 
 ## Rundenbeginn mit Szenarioeffekten
@@ -549,13 +550,13 @@ Sobald alle Modifikationen angewendet wurden, erleidet das Ziel den resultierend
 
 Diese Schritte werden für jedes einzelne Ziel der Angriffsfertigkeit wiederholt. Dies bedeutet, dass verschiedene Ziele, die mit der gleichen Angriffsfertigkeit angegriffen werden, unterschiedlich viel Schaden erleiden können.
 
-> #### Angriffsmodifikatorablage
+> #### Angriffsmodifikator-Ablage
 > 
-> Immer wenn eine Angriffsfertigkeit ausgeführt wird, **wird für jedes Ziel der Angriffsfertigkeit ein separater Angriffsmodifikator gewürfelt**, indem der Würfel gewürfelt und mit der Angriffsmodifikatorablage abgeglichen wird. Der gewürfelte Modifikator ist der Modifikator in der aktuellen Zeile und Spalte, die dem gewürfelten Wert ensprechen (<img src="assets/icons/dice_result_minus.png" class="inline-icon"/>, <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/>, <img src="assets/icons/dice_result_plus.png" class="inline-icon"/>). Der gewürfelte Modifikator wird dann auf den Angriff angewendet, wodurch dieser möglicherweise dessen Wert verringert oder erhöht. Sobald die Effekte eines gewürfelten Modifikators angewendet wurden, wird der Modifikator-Würfel eine Reihe nach unten geschoben. (Wenn du Schwierigkeiten hast, dich daran zu erinneren, den Würfel nach einem Angriff nach unten zu bewegen, kannst du versuchen, den Würfel zuerst zu bewegen und dann den Modifikator aus der Reihe zu verwenden, in der ssich der Würfel nun befindet. Wenn du das so machst, startet der Würfel am Anfang jedes Szenarios im letzten Feld und nicht im Ersten.)
+> Immer wenn eine Angriffsfertigkeit ausgeführt wird, **wird für jedes Ziel der Angriffsfertigkeit ein separater Angriffsmodifikator gewürfelt**, indem der Würfel gewürfelt und mit der Angriffsmodifikator-Ablage abgeglichen wird. Der gewürfelte Modifikator ist der Modifikator in der aktuellen Zeile und Spalte, die dem gewürfelten Wert ensprechen (<img src="assets/icons/dice_result_minus.png" class="inline-icon"/>, <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/>, <img src="assets/icons/dice_result_plus.png" class="inline-icon"/>). Der gewürfelte Modifikator wird dann auf den Angriff angewendet, wodurch dieser möglicherweise dessen Wert verringert oder erhöht. Sobald die Effekte eines gewürfelten Modifikators angewendet wurden, wird der Modifikator-Würfel eine Reihe nach unten geschoben. (Wenn du Schwierigkeiten hast, dich daran zu erinneren, den Würfel nach einem Angriff nach unten zu bewegen, kannst du versuchen, den Würfel zuerst zu bewegen und dann den Modifikator aus der Reihe zu verwenden, in der ssich der Würfel nun befindet. Wenn du das so machst, startet der Würfel am Anfang jedes Szenarios im letzten Feld und nicht im Ersten.)
 > 
 > Angriffsmodifikatoren werden nur für Angriffe gewürfelt. Sie werden nicht für andere Effekte verwendet, die Schaden verursachen.
 > 
-> Du hast deine eigene Angriffsmodifikatorablage, während alle Monster sich eine einzige Ablage teilen.
+> Du hast deine eigene Angriffsmodifikator-Ablage, während alle Monster sich eine einzige Ablage teilen.
 > 
 > Jede Charakterklasse und alle Monster beginnen mit einer Standartablage aus sechs <img src="assets/icons/modifier_plus_0.png" class="inline-element"/>, vier <img src="assets/icons/modifier_plus_1.png" class="inline-element"/>, vier <img src="assets/icons/modifier_minus_1.png" class="inline-element"/>, einem <img src="assets/icons/modifier_plus_2.png" class="inline-element"/>, einem <img src="assets/icons/modifier_minus_2.png" class="inline-element"/>, einem <img src="assets/icons/modifier_2x.png" class="inline-element"/>, und einem <img src="assets/icons/modifier_miss.png" class="inline-element"/> Symbol. Jede Charakterklassenablage verbessert sich im Verlauf der Kampagne (siehe [S.35](#page_35)) und ermöglicht so andere Effekte.
 > 
@@ -661,7 +662,7 @@ Eine aktive Bonusfähigkeit ist jede Fertigkeit, die einer Figur oder ihren Verb
 
 <img src="assets/icons/use_persistent_bonus.png" class="inline-icon"/> **Dauerhafte Boni:** Diese Boni werden aktiviert, wenn die Fertigkeit ausgeführt wird, und verfallen, wenn die angegebene Entfernungsbedingung erfüllt ist.
 
-Ein Charakter kann freiwillig eine Karte mit einem dauerhaften Bonus (aber keinem Rundenbonus) aus seinem aktiven Bereich entfernen, bevor der Bonus abläuft. Dies kann jederzeit außer während einer anderen Fertigkeit passieren. Da Karten mit dauerhaften Boni in deinem aktiven Bereich jederzeit entfernt werden können, kannst du davon ausgehen, dass sie sich in dem Bereich befinden, in den sie verschoben werden, sobald sie entfernt wurden. <span class="new-to-bnb">Dieser Bereich ist die Hand für Karten der A-Seite, der Ablagestapel für Karten der B-Seite </span> oder der Verloren-Stapel für jede Karte mit einem Verloren-Symbol. Daher können Karten mit einem dauerhaften Boni on deinem aktiven Bereich auf die beiden Karten <span class="new-to-bnb">in deiner Hand und/oder Ablagestapel angerechnet werden, die zum Ruhen erforderlich sind (siehe <a href="#page_27">S.27</a>). Ebenso können sie abgelegt und dann abgeworfen werden oder verloren gehen, um Schaden zu verhindern (siehe <a href="#page_28">S.28</a>).</span> Wenn du abgeworfene Karten zurückholst (z.B. durch Ausruhen) oder verlorene Karten (durch Sonderaktionen), hast du die Wahl, Karten in deinem aktiven Bereich zurückzuholen oder sie im aktiven Bereich zu belassen.
+Ein Charakter kann freiwillig eine Karte mit einem dauerhaften Bonus (aber keinem Rundenbonus) aus seinem aktiven Bereich entfernen, bevor der Bonus abläuft. Dies kann jederzeit außer während einer anderen Fertigkeit passieren. Da Karten mit dauerhaften Boni in deinem aktiven Bereich jederzeit entfernt werden können, kannst du davon ausgehen, dass sie sich in dem Bereich befinden, in den sie verschoben werden, sobald sie entfernt wurden. <span class="new-to-bnb">Dieser Bereich ist die Hand für Karten der A-Seite, der Ablagestapel für Karten der B-Seite </span> oder der Verloren-Stapel für jede Karte mit einem Verloren-Symbol. Daher können Karten mit einem dauerhaften Boni on deinem aktiven Bereich auf die beiden Karten <span class="new-to-bnb">in deiner Hand und/oder Ablagestapel angerechnet werden, die zum Ruhen erforderlich sind (siehe <a href="#page_27">S.27</a>). Ebenso können sie abgelegt und dann abgeworfen werden oder verloren gehen, um Schaden zu verhindern (siehe <a href="#page_28">S.28</a>).</span> Wenn du abgeworfene Karten zurückholst (z.B. durch Rasten) oder verlorene Karten (durch Sonderaktionen), hast du die Wahl, Karten in deinem aktiven Bereich zurückzuholen oder sie im aktiven Bereich zu belassen.
 
 Aktionen mit aktiven Bonusfertigkeiten können auch noch andere Fertigkeiten haben. Diese anderen Fertigkeiten werden jedoch nur ausgeführt, wenn die Karte ausgespielt wird. Es gibt eine Vielzahl aktiver Bonusfertigkeiten. Während diese Fertigkeiten normalerweise durch einen Text definiert werden, gibt es zwei häufige mit zusätzlichen Regeln.
 
@@ -731,9 +732,9 @@ Eine Figur kann kontrolliert werden, um eine "<img src="assets/icons/ability_att
 
 Einige Fertigkeiten führen dazu, dass Figuren Schaden erleiden, ohne dass ein Angriff ausgeführt wird. Dieser Schaden wird durch nichts verändert. Schaden erleiden ist keine gezielte Fertigkeit.
 
-### Erholen
+### Zurückbekommen
 
-<img src="assets/icons/ability_recover_card.png" class="inline-icon"/> **Erholen** ist eine positive, nicht gezielte Fertigkeit, mit der du abgeworfene, umgedrehte oder verlorene Fertigkeitskarten wiederherstellen kannst (siehe S.28). Du durchsuchst deine Hand, deinen Ablagestapel oder den Verloren-Stapel und wählst soviel Karten bis zu dem durch die Fertigkeit angegebenen Limit aus und nimmst sie auf der A-Seite zurück auf deine Hand.
+<img src="assets/icons/ability_recover_card.png" class="inline-icon"/> **Zurückbekommen** ist eine positive, nicht gezielte Fertigkeit, mit der du abgeworfene, umgedrehte oder verlorene Fertigkeitskarten wiederherstellen kannst (siehe S.28). Du durchsuchst deine Hand, deinen Ablagestapel oder den Verloren-Stapel und wählst soviel Karten bis zu dem durch die Fertigkeit angegebenen Limit aus und nimmst sie auf der A-Seite zurück auf deine Hand.
 
 ---
 
@@ -811,16 +812,16 @@ Einige Gegenstände verfügen nicht über eines dieser Symbole. Das bedeutet, da
 
 ---
 
-### verpflichtende Auslöser
+### Zwangsauslöser
 
-Verpflichtende Auslöser sind Effekte oder Fertigkeiten, die nicht übersprungen werden können, wenn ein Teil der Aktion ausgeführt wird. In solchen Fällen wird die Fertigkeit oder der Effekt in einem Kästchen mit einem „!“ davor hervorgehoben. Dazu gehören:
+Zwangsauslöser sind Effekte oder Fertigkeiten, die nicht übersprungen werden können, wenn ein Teil der Aktion ausgeführt wird. In solchen Fällen wird die Fertigkeit oder der Effekt in einem Kästchen mit einem „!“ davor hervorgehoben. Dazu gehören:
 - **Negative Fertigkeiten:** Die angegebene Fertigkeit erzeugt einen negativen Effekt für dich.
 - **Verloren-Symbol:** Die Karte muss auf den Verloren-Stapel gelegt werden.
 - **aktive Fertigkeitssymbole:** Die Karte muss in deinem aktiven Bereich platziert werden.
 
-### Ausruhen
+### Rasten
 
-Ausruhen ist die wichtigste Möglichkeit, Karten von deinem Ablagestapel zurückzunehmen. Es gibt zwei Möglichkeiten: eine kurze Pause oder eine lange Pause. <span class="new-to-bnb">In beiden Fällen kann das Ausruhen nur durchgeführt werden, wenn du mindestens zwei Karten auf der Hand und/oder im Ablagestapel hast. (Dazu gehören auch Karten mit dauerhaften Boni in deinem aktiven Bereich (siehe <a href="#page_21">S.21</a>) solange sie nicht für eine Aktion mit dem Verloren-Symbol verwendet wurden.)</span> Das Ausruhen führt immer zum Verlieren einer Karte.
+Rasten ist die wichtigste Möglichkeit, Karten von deinem Ablagestapel zurückzunehmen. Es gibt zwei Möglichkeiten: eine kurze Pause oder eine lange Pause. <span class="new-to-bnb">In beiden Fällen kann das Rasten nur durchgeführt werden, wenn du mindestens zwei Karten auf der Hand und/oder im Ablagestapel hast. (Dazu gehören auch Karten mit dauerhaften Boni in deinem aktiven Bereich (siehe <a href="#page_21">S.21</a>) solange sie nicht für eine Aktion mit dem Verloren-Symbol verwendet wurden.)</span> Das Rasten führt immer zum Verlieren einer Karte.
 
 Während einem Rundenende (siehe [S.33](#page_33)), kannst du eine kurze Pause einlegen. <span class="new-to-bnb">Wenn du eine kurze Pause machst, nimmst du alle Karten von deinem Ablagestapel zurück auf deine Hand, drehst alle Karten der B-Seite in deiner Hand auf die A-Seite und verlierst dann eine zufällige Karte deiner Hand.</span> Wenn du die verlorene Karte jeddoch behalten möchten, kannst du 1 Schaden erleiden, um stattdessen eine andere, zufällige Karte zu verlieren. Dies ist nur einmal pro kurzer Pause möglich.
 
@@ -829,7 +830,7 @@ Während der Kartenauswahl (siehe [S.10](#page_10)), kannst du eine lange Pause 
 1. Führe „**Heilung 2, selbst**“ durch (optional).
 1. Hole alle verbrauchten Gegenstände zurück (optional). Gegenstände können in derselben Runde verwendet werden, in der sie wiederhergestellt werden.
 
-Beim Ausruhen muss eine Karte verloren gehen. Wenn du keine weiteren Karten auf der Hand hast, die du verlieren kannst, musst du stattdessen eine der Karten in deinem aktiven Bereich verlieren, die nicht über ein Verloren-Symbol verfügen. Befinden sich im aktiven Bereich auch keine Karten, die verloren gehen können, werden die weiteren Schritte der Pause abgehandelt und zu Beginn der nächsten Runde wird wie immer auf eine mögliche Erschöpfung geprüft.
+Beim Rasten muss eine Karte verloren gehen. Wenn du keine weiteren Karten auf der Hand hast, die du verlieren kannst, musst du stattdessen eine der Karten in deinem aktiven Bereich verlieren, die nicht über ein Verloren-Symbol verfügen. Befinden sich im aktiven Bereich auch keine Karten, die verloren gehen können, werden die weiteren Schritte der Pause abgehandelt und zu Beginn der nächsten Runde wird wie immer auf eine mögliche Erschöpfung geprüft.
 
 
 ---
@@ -846,7 +847,7 @@ Wenn die Aktion mit Verloren-Symbol dazu verwendet wurde, eine aktive Bonusferti
 
 Einige Aktionen mit Verloren-Symbol haben das <img src="assets/icons/use_nonreturn_card.png" class="inline-icon"/> Symbol. Wenn du eine Aktion mit Verloren-Symbol mit diesem Symbol ausführst, kann die Karte bis zum Ende des Szenarios auf keinen Fall wiederhergestellt werden. Lege diese Karte auf den Verloren-Stapel und drehe sie zur Erinnerung um 180 Grad, sodass sie auf dem Kopf steht.
 
-### Schaden negieren
+### Charakterschaden
 
 Wenn du Schaden in beliebiger Höhe erleidest, musst du entweder deine Trefferpunktskala um diesen Betrag reduzieren oder den Schaden negieren. Schaden kann auf zwei Arten negiert werden:
 - **Fertigkeit oder Effekt:** Du kannst eine aktive Fertigkeit oder einen aktiven Effekt verwenden, der Schaden negiert.
@@ -864,7 +865,7 @@ Selbst wenn der Schaden negiert wird, werden Effekte oder Zustände der Schadens
 
 Du kannst auf zwei Arten erschöpft werden:
 - **Keine Trefferpunkte:** Wenn du auf deiner Trefferpunktskala Null erreichst.
-- **Keine Karten:** Wenn du zu Beginn einer Runde nicht mindestens zwei Karten auf der Hand (zum Ausspielen) oder mindestens zwei Karten auf der Hand und/oder im Ablagestapel (zum Ausruhen) hast.
+- **Keine Karten:** Wenn du zu Beginn einer Runde nicht mindestens zwei Karten auf der Hand (zum Ausspielen) oder mindestens zwei Karten auf der Hand und/oder im Ablagestapel (zum Rasten) hast.
 
 Wenn du erschöpft bist, verlierst du das Szenario.
 
@@ -975,7 +976,7 @@ Eine Infusion erfolgt sofort, wenn die Aktion gewürfelt wird. <span class="new-
 
 Wenn ein Monster ein wildes oder gemischtes Element verbraucht, entscheidest du, welche Infusion verbraucht wird.
 
-### Das Erscheinen von Monstern
+### Das Einsteigen von Monstern
 
 Wenn die Szenarioregeln vorsehen, dass Monster zu bestimmten Zeiten an bestimmten Orten erscheinen, stellst du sie auf das Hexfeld, sobald die Vorraussetzungen dafür erfüllt sind. Wenn ein bestimmter Ort nicht leer ist, platziere das Monster stattdessen auf dem nächstgelegenen leeren Hexfeld.
 
@@ -1384,7 +1385,7 @@ Inspiriert durch <em>Gloomholdin</em></p>
 
 ---
 
-# schnelle Referenzen
+# Schnelle Referenzen
 
 <div class="two-columns">
 <table>
