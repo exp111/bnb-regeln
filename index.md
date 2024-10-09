@@ -311,7 +311,7 @@ Jedes Szenario besteht aus verschiedenen Geländetypen. Dieser Typ wird durch di
 <blockquote>
   <div class="float-container">
     <span class="floating-image"><img src="assets/icons/terrain_hazard.png" height="48"/></span>
-    <p>Wenn eine Figur ohne zu fliegen oder springen ein Gefahrenfeld betritt, wird ein Effekt auf diese Figur angewendet. Es gibt viele verschiedene Effekte und sie werden auf der jeweiligen Szenariokarte spezifiziert. Figuren erleiden keinen Effekt, wenn sie auf einem Gefahrenfeld eine Runde beginnen oder dieses verlassen. Falls eine Figur aber eine Sprungbewegung auf einem Gefahrenfeld beendet, wird der Effekt angewendet. Wenn sich eine Figur auf einem Gefahrenfeld „Lähmung<strong>Lähmung</strong> <img src="assets/icons/condition_immobilize.png" class="inline-condition"/>“ befindet (siehe <a href="#page_20">S.20</a>), gilt sie als Hindernis für die Bewegung anderer Figuren.</p>
+    <p>Wenn eine Figur ohne zu fliegen oder springen ein Gefahrenfeld betritt, wird ein Effekt auf diese Figur angewendet. Es gibt viele verschiedene Effekte und sie werden auf der jeweiligen Szenariokarte spezifiziert. Figuren erleiden keinen Effekt, wenn sie auf einem Gefahrenfeld eine Runde beginnen oder dieses verlassen. Falls eine Figur aber eine Sprungbewegung auf einem Gefahrenfeld beendet, wird der Effekt angewendet. Wenn sich eine Figur auf einem Gefahrenfeld „<strong>Lähmung</strong> <img src="assets/icons/condition_immobilize.png" class="inline-condition"/>“ befindet (siehe <a href="#page_20">S.20</a>), gilt sie als Hindernis für die Bewegung anderer Figuren.</p>
   </div>
 </blockquote>
 
@@ -348,13 +348,13 @@ Diese Schritte werden wiederholt, bis das Szenarioziel erreicht ist.
 
 ## Rundenbeginn mit Szenarioeffekten
 
-Wende zu Beginn der Runde alle Effekte aus den Szenarioregeln an, wie zum Beispiel das Erscheinen von Monstern. Diese Effekte können in beliebiger Reihenfolge angewendet werden, das Erscheinen sollte jedoch gleichzeitig passieren.  (siehe [S.32](#page_32)).
+Wende zu Beginn der Runde alle Effekte aus den Szenarioregeln an, wie zum Beispiel das Einsteigen von Monstern. Du kannst diese Effekte in beliebiger Reihenfolge anwenden, das Einsteigen sollte jedoch gleichzeitig passieren.  (siehe [S.32](#page_32)).
 
 ## Kartenauswahl
 
-Nachdem alle Effekte angewendet wurden, wählst du zwei Fertigkeitskarten aus deiner Hand aus, die du während der Runde ausspielst. Eine dieser beiden Karten gilt als Initiativkarte. Der Initiativwert in der Mitte der Karte bestimmt deine Position in der Initiativreihenfolge.  (siehe [S.11](#page_11)).
+Nachdem du alle Effekte angewendet hast, wählst du 2 Fertigkeitskarten aus deiner Hand aus, die du während der Runde ausspielst. Eine dieser beiden Karten gilt als Initiativkarte. Der Initiativewert in der Mitte der Karte bestimmt deine Position in der Initiativreihenfolge.  (siehe [S.11](#page_11)).
 
-Alternativ kannst du eine lange Pause ansagen, wenn du mindestens zwei Karten auf der Hand und/oder im Ablagestapel hast. (siehe [S.27](#page_27)). Die lange Pause hält die gesamte Runde an und wärendessen hast du eine Initiative von 99 und darfst keine Karten spielen.
+Alternativ kannst du eine lange Rast ansagen, wenn du mindestens 2 Karten auf der Hand und/oder im Ablagestapel hast. (siehe [S.27](#page_27)). Machst du eine lange Rast, brauchst du dafür deine ganze Runde, hast dabei Initiative 99 und wählst und spielst keine Karten.
 
 ---
 
@@ -363,18 +363,19 @@ Alternativ kannst du eine lange Pause ansagen, wenn du mindestens zwei Karten au
 ---
 
 ## Reihenfolge bestimmen
-Nachdem du entweder zwei Fertigkeitskarten ausgewählt oder eine lange Pause angesagt hast, legst du alle Monsterinitiativen und -aktionen fest. <span class="new-to-bnb">Für jeden Monstertyp, der mindestens einmal auf dem Spielplan vertreten ist, würfelst du und bewegst den weißen Würfel auf die entsprechende Aktion. </span>
 
-Dann bestimmst du die Initiativreihenfolge, indem du die Initiativwerte auf deiner ausgewählten Karte und allen gewürfelten Monsteraktionen vergleichst. Vom niedrigsten zum höchsten Initiativwert gibt dies dann die Zugreihenfolge für diese Runde an. Bei einer langen Pause hast du eine Initiative von 99.
+Nachdem du entweder 2 Fertigkeitskarten ausgewählt oder eine lange Rast angesagt hast, legst du alle Monsterinitiativen und -aktionen fest. <span class="new-to-bnb">Für jeden Monstertyp, der mindestens einmal auf dem Spielplan vertreten ist, würfelst du und bewegst den weißen Stein auf die entsprechende Aktion. </span>
+
+Dann bestimmst du die Initiativreihenfolge, indem du die Initiativewerte auf deiner ausgewählten Karte und allen gewürfelten Monsteraktionen vergleichst. Vom niedrigsten zum höchsten Initiativewert gibt dies die Zugreihenfolge für diese Runde an. Bei einer langen Rast hast du eine Initiative von 99.
 
 ## Gleichstand auflösen
 
-Wenn ein Gleichstand zwischen deiner Intitative und der eines Monsters besteht bist du zuerst an der Reihe.
+Wenn ein Gleichstand zwischen deiner Intitative und der eines Monsters besteht, bist du zuerst am Zug.
 
 
 ## Reihenfolge der Monster
 
-Jedes Monster ist gemäß der Initiativreihenfolge am Zug. Alle Monster der gleichen Art haben die gleiche Initiative und sind in aufsteigender, numerischer Reihenfolge an der Reihe. (siehe [S.30](#page_30)).
+Jedes Monster ist gemäß der Initiativreihenfolge am Zug. Alle Monster des gleichen Typs haben die gleiche Initiative und sind in aufsteigender numerischer Reihenfolge am Zug. (siehe [S.30](#page_30)).
 
 ---
 
@@ -384,29 +385,29 @@ Jedes Monster ist gemäß der Initiativreihenfolge am Zug. Alle Monster der glei
 
 ## Charakter- und Monsterzüge 		
 
-Jede Figur auf der Karte — sowohl deine als auch die Monster — ist in jeder Runde einmal an der Reihe. Der Zug einer Figur beginnt, wenn die vorherige Figur ihren Zug beendet hat, und endet, wenn die nächste Figur ihren Zug beginnt. Während des Zuges einer Figur führt sie die Aktionen und Fähigkeiten auf ihren Karten aus.
+Jede Figur auf der Karte – sowohl deine als auch die Monster – ist in jeder Runde einmal am Zug. Der Zug einer Figur beginnt, wenn die vorherige Figur ihren Zug beendet hat, und endet, wenn die nächste Figur ihren Zug beginnt. Während des Zuges einer Figur führt sie die Aktionen und Fähigkeiten auf ihren Karten aus.
 
-Bevor wir uns mit den Einzelheiten der Spielzüge von Charakteren und Monstern befassen, müssen wir uns noch mit der Funktionsweise von Aktionen und Fähigkeiten befassen.
+Bevor wir uns mit den Einzelheiten der Spielzüge von Charakteren und Monstern befassen, müssen wir uns erst die Funktionsweise von Aktionen und Fertigkeiten anschauen.
 
-### Aktionen und Fähigkeiten		
+### Aktionen und Fertigkeiten		
 
 #### Aktionen
 
-Eine **Aktion** ist eine Reihe von einer oder mehreren Fähigkeiten, die auf einer Hälfte einer Fertigkeitskarte detailliert beschrieben werden. Normalerweise führst du in einem Zug zwei Aktionen aus: die obere Aktion einer deiner ausgespielten Fertigkeitskarte und die untere Aktion der anderen. Eine ganze Hälfte einer Fertigkeitskarte gilt als Einzelaktion.
+Bei einer **Aktion** handelt es sich um eine Reihe von einer oder mehreren Fertigkeiten, die auf einer Hälfte einer Fertigkeitskarte detailliert beschrieben sind. Normalerweise führst du in einem Zug 2 Aktionen aus: die obere Aktion einer deiner ausgespielten Fertigkeitskarten und die untere Aktion der anderen. Eine ganze Hälfte einer Fertigkeitskarte gilt als eine einzige Aktion.
 
-Monster führen in ihrem Zug eine Aktion aus. Die gesamte Fertigkeitsspalte ist eine einzelne Aktion.
+Monster führen in ihrem Zug 1 Aktion aus. Die gesamte Fertigkeitsspalte gilt als eine einzige Aktion.
 
-Eine Aktion wird durch ihre Fertigkeiten definiert. Zum Beispiel, wenn eine Aktion sowohl eine "<img src="assets/icons/ability_move.png" class="inline-icon"/> **2**" Fertigkeit als auch eine "<img src="assets/icons/ability_attack.png" class="inline-icon"/> **2**" Fertigkeit beinhaltet, kann sie sowohl als Bewegungs- als auch als Angriffsaktion bezeichnet werden.
+Eine Aktion wird durch ihre Fertigkeiten definiert. Wenn eine Aktion z. B. sowohl eine “<img src="assets/icons/ability_move.png" class="inline-icon"/> **2**“-Fertigkeit als auch eine “<img src="assets/icons/ability_attack.png" class="inline-icon"/> **2**“-Fertigkeit beinhaltet, kann sie sowohl als Bewegungs- als auch als Angriffsaktion bezeichnet werden.
 
 #### Fertigkeiten
 
-Eine **Fertigkeit** ist jede Gruppe von Texten und/oder Symbolen (oft zu finden auf einer Fertigkeitskarte oder Monsteraktion), die eine Figur ausführen kann, um mit der Karte, sich selbst oder anderen Figuren zu interagieren.
+Eine **Fertigkeit** ist jede Gruppe von Texten und/oder Symbolen (oft zu finden auf einer Fertigkeitskarte oder Monsteraktion), die eine Figur ausführen kann, um mit dem Raum, sich selbst oder anderen Figuren zu interagieren.
 
-Besteht eine Aktion aus mehreren Fertigkeiten, werden diese durch Fertigkeitsininen voneinander getrennt
+Besteht eine Aktion aus mehreren Fertigkeiten, werden diese durch Fertigkeitslinien voneinander getrennt.
 
-Fertigkeiten in einer Aktion werden immer in der Reihenfolge ausgeführt, in der sie angegeben sind. Figuren können während sie eine Fertigkeit ausführen keine neue Fertigkeit ausführen, mit Ausnahme bon Fähigkeiten aus Angriffsmodifikatoren.
+Führe Fertigkeiten innerhalb einer Aktion immer in der Reihenfolge aus, in der sie angegeben sind. Figuren können keine neue Fertigkeit ausführen, während sie bereits eine Fertigkeit ausführen, mit Ausnahme der Fertigkeiten von Angriffsmodifikatoren.
 
-Charakterfertigkeiten können übersprungen werden, solange sie nicht zwingend erforderlich sind. (siehe [S.27](#page_27)).
+Du darfst Charakterfertigkeiten überspringen, solange sie nicht verpflichtend sind (siehe [S.27](#page_27)).
 
 ---
 
@@ -414,25 +415,25 @@ Charakterfertigkeiten können übersprungen werden, solange sie nicht zwingend e
 
 ---
 
-### Wichtige Fähigkeitenkonzepte
+### Wichtige Fertigkeitskonzepte
 
 #### Ziele
 
-<img src="assets/icons/ability_target.png" class="inline-icon"/> Die meisten Fertigkeiten zielen auf eine oder mehrere Figuren. "Ziele" gibt an, welche Art von Figur bzw. wie viele Figuren die Fertigkeit trifft. Die Anforderungen für das Zielen werden manchmal ausgeschrieben, oft handelt es sich aber nur um eine Zahl. "**Zielen X**" ermöglicht es der handelnden Figur, bis zu X verschiedene Figuren innerhalb der Reichweite der Fähigkeit zu treffen. Alle Beschränkungen und zusätzliche Effekte der Fähigkeit gelten für alle Ziele. Eine Figur mehrmals mit der gleichen Fähigkeit zu treffen ist nicht möglich, sofern nicht anders angegeben.
+<img src="assets/icons/ability_target.png" class="inline-icon"/> Die meisten Fertigkeiten zielen auf eine oder mehrere Figuren. „Ziele“ gibt an, welche Art von Figur bzw. wie viele Figuren die Fertigkeit trifft. Die Anforderungen für das Zielen werden manchmal ausgeschrieben, oft handelt es sich aber nur um eine Zahl. **„Zielen X“** ermöglicht es der handelnden Figur, bis zu X verschiedene Figuren innerhalb der Reichweite der Fertigkeit zu treffen. Alle Beschränkungen und zusätzlichen Effekte der Fertigkeit gelten für alle Ziele. Es ist nicht möglich, dieselbe Figur mehrmals mit derselben Fertigkeit zu treffen, sofern nicht anders angegeben.
 
-Wenn "Ziele" nicht spezifisch aufgeführt ist, ist der Zielwert 1. Es kann also nur eine Figur anvisiert werden.
+Wenn „Ziele“ nicht spezifisch aufgeführt ist, ist der Zielwert 1. Es kann also nur eine Figur anvisiert werden.
 
 #### Gezielte Fertigkeiten
 
-Angriff ([S.18](#page_18)), Zustände ([S.20](#page_20)), Heilung ([S.21](#page_20)), erzwungene Bewegungen ([S.23](#page_23)), und das kontrollieren von Figuren ([S.24](#page_24)) sind die einzigen gezielten Fertigkeiten. Diese können nicht ausgeführt werden, wenn kein gütliges Ziel in Reichweite ist.
+Angriffe ([S.18](#page_18)), Zustände ([S.20](#page_20)), Heilungen ([S.21](#page_21)), erzwungene Bewegungen ([S.23](#page_23)) und das Kontrollieren von Figuren ([S.24](#page_24)) sind die einzigen gezielten Fertigkeiten. Diese können nicht ausgeführt werden, wenn kein gütliges Ziel in Reichweite ist.
 
 #### Verbündete, Gegner und man selbst
 
-Monster sind Verbündete andere Monster und du und die Monster sind einander Gegner. **Figuren sind nicht ihre eigenen Verbündeten.**
+Monster sind Verbündete anderer Monster und du und die Monster sind Gegner füreinander. **Figuren sind nicht ihre eigenen Verbündeten.**
 
-Generell können negative Fertigkeiten nur auf Gegner und positive Fähigkeiten nur auf Verbündete oder die handelnde Figur angewendet werden.
+Generell können negative Fertigkeiten nur auf Gegner und positive Fertigkeiten nur auf Verbündete oder die handelnde Figur angewendet werden.
 
-Fertigkeiten die als Ziel nur "selbst" angeben, können nur auf die handelnde Figur angewendet werden.
+Fertigkeiten, die als Ziel nur „selbst“ angeben, können nur auf die handelnde Figur angewendet werden.
 
 ---
 
@@ -442,27 +443,27 @@ Fertigkeiten die als Ziel nur "selbst" angeben, können nur auf die handelnde Fi
 
 #### Reichweite
 
-<img src="assets/icons/ability_range.png" class="inline-icon"/> Die meisten Fertigkeiten zielen nur auf eine Figur. Die Reichweite gibt an, wie weit diese Figur entfernt sein kann. "Reichweite X" bedeutet, dass die handelnde Figur jede Figur innerhalb der X Felder anvisieren kann, auch sich selber. Reichweite kann durch Hindernisse und Figuren gezählt werden.
+<img src="assets/icons/ability_range.png" class="inline-icon"/> Die meisten Fertigkeiten zielen nur auf eine Figur. Die Reichweite gibt an, wie weit diese Figur entfernt sein kann. „Reichweite X“ bedeutet, dass die handelnde Figur jede Figur innerhalb von X Feldern anvisieren kann, auch sich selbst. Reichweite kann durch Hindernisse und Figuren gezählt werden.
 
-Jede Fertigkeit, deren Reichweite in dem hervorgehobenen Abschnitt rechts von der Fertigkeit angegeben ist, gilt als Fernkampfangriff. 
+Jede Fertigkeit, neben der rechts ein hervorgehobener Abschnitt mit einer Reichweite steht, gilt als Fernkampfangriff. 
 
-Jede Figur behandelt das Feld, auf dem sie stehen, als benachbart, wenn es um das Anvisieren geht. Das Drehen und Spiegeln des dargestellten Wirkungsbereiches ist erlaubt.
+Jede Figur behandelt das Feld, auf dem sie steht, als benachbart, wenn es um das Anvisieren geht.
 
 #### Wirkungsbereich
 
-Fertigkeiten mit einem Wirkungsbereich lassen die handelnde Figur mehrere Felder gleichzeitig anvisieren.
+Fertigkeiten mit einem Wirkungsbereich lassen die handelnde Figur mehrere Felder gleichzeitig anvisieren. Das Drehen und Spiegeln des dargestellten Wirkungsbereiches ist erlaubt.
 
 <div class="float-container">
   <span class="floating-image"><img src="assets/icons/hex_player.png" height="48"/></span>
-  <p>Ein graues Feld markiert das Feld, in dem die handelnde Figur sich befindet. Jeder Angriff mit einem Wirkungsbereich, bei dem ein graues Feld abgebildet ist, gilt als Nahkampfangriff. (siehe <a href="#page_18">S.18</a>).</p>
+  <p>Ein graues Feld markiert das Feld, auf dem die handelnde Figur sich befindet. Jeder Angriff mit einem Wirkungsbereich, bei dem ein graues Feld abgebildet ist, gilt als Nahkampfangriff (siehe <a href="#page_18">S.18</a>).</p>
 </div>
 
 <div class="float-container">
   <span class="floating-image"><img src="assets/icons/hex_attack.png" height="48"/></span>
-  <p>Rote Felder markieren die Felder, in denen Figuren anvisiert werden können. Es reicht, wenn sich nur ein rotes Feld in der Reichweite der Fertigkeit befindet. Dieses Feld muss nicht zwingend eine Figur enthalten. .</p>
+  <p>Rote Felder markieren die Felder, auf denen Figuren anvisiert werden können. Es reicht, wenn sich nur ein rotes Feld in der Reichweite der Fertigkeit befindet. Dieses Feld muss nicht zwingend eine Figur enthalten. </p>
 </div>
 
-Wenn eine Fertigkeit mit einem Wirkunsbereich "**+1** <img src="assets/icons/ability_target.png" class="inline-icon"/> erhält," kann eine weitere Figur außerhalb des Wirkungsbereiches, aber innerhalb der Reichweite der Fertigkeit anvisiert werden. Dies bedeutet nicht, dass der gesamte Wirkungsbereich erneut angewendet wird. Es darf lediglich ein zusätzliches Feld anvisiert werden.
+Wenn eine Fertigkeit mit einem Wirkunsbereich „**+1** <img src="assets/icons/ability_target.png" class="inline-icon"/>“ erhält, kann eine weitere Figur außerhalb des Wirkungsbereiches, aber innerhalb der Reichweite der Fertigkeit anvisiert werden. Dies bedeutet nicht, dass der gesamte Wirkungsbereich erneut angewendet wird. Es darf lediglich ein zusätzliches Feld anvisiert werden.
 
 ---
 
@@ -472,10 +473,10 @@ Wenn eine Fertigkeit mit einem Wirkunsbereich "**+1** <img src="assets/icons/abi
 
 #### Besondere Effekte
 
-Besondere Effekte sind an eine Fertigkeit angehängt und verändern sie auf irgendeine Weise. Häufige besondere Effekte, wie "<img src="assets/icons/condition_push.png" class="inline-condition"/> **X**," "<img src="assets/icons/condition_pull.png" class="inline-condition"/> **X**," oder Zustände werden normalerweise in dem hervorgehobenen Abschnitt rechts von der Fertigkeit definiert. Alle bedingten Effekte — solche, die vom Verbrauch eines Elementes (siehe [S.16](#page_16)) oder der Zahlung anderer Kosten abhängig sind — werden unter der Fertigkeit in einem hervorgehoben Abschnitt mit gepunkteter Umrandung angegeben.
-Besondere Effekte können übersprungen werden, aber dies muss vor dem Würfeln des Angriffsmodifikatores entschieden werden. Bedingte Effekte können ebenfalls übersprungen werden; du bist nicht verpflichtet, die Kosten zu bezahlen. Und selbst wenn du die Kosten bezahlt hast, kannst du dich noch dafür entscheiden, den Effekt nicht anzuwenden. Im Falle eines überspringbaren Effekts, der an eine Angriffsfähigkeit mit mehreren Zielen angehängt ist, kannst du dich bei jedem einzelnen Ziel entscheiden, ob du den Effekt anwendest oder nicht. Auch hier muss das immer vor dem Würfeln des Angriffsmodifikators geschehen, sofern es nicht anders angeben ist.
+Besondere Effekte sind an eine Fertigkeit angehängt und verändern sie auf irgendeine Weise. Häufige besondere Effekte, wie „<img src="assets/icons/condition_push.png" class="inline-condition"/> **X**“, „<img src="assets/icons/condition_pull.png" class="inline-condition"/> **X**“ oder Zustände stehen normalerweise in dem hervorgehobenen Abschnitt rechts von der Fertigkeit. Alle bedingten Effekte – also solche, die vom Verbrauch eines Elementes (siehe [S.16](#page_16)) oder der Zahlung anderer Kosten abhängen – sind unter der Fertigkeit in einem hervorgehoben Abschnitt mit gepunkteter Umrandung angegeben.
+Du darfst besondere Effekte überspringen, musst aber vor dem Würfeln des Angriffsmodifikators entscheiden, ob du dies tun willst. Bedingte Effekte darfst du ebenfalls überspringen. Du bist nicht verpflichtet, die Kosten zu bezahlen. Und selbst wenn du die Kosten bezahlt hast, kannst du dich noch dafür entscheiden, den Effekt nicht anzuwenden. Im Falle eines überspringbaren Effekts, der an eine Angriffsfertigkeit mit mehreren Zielen angehängt ist, kannst du dich bei jedem einzelnen Ziel entscheiden, ob du den Effekt anwendest oder nicht. Auch hier muss das immer vor dem Würfeln des Angriffsmodifikators geschehen, sofern es nicht anders angeben ist.
 
-Komplexere besondere Effekte können unter einer Fertigkeit erläutert werden, aber solch ein Text ist nicht immer ein besonderer Effekt. Jeder Text, der Regeln für die Ausführung einer Fertigkeit (z.B. eine Zielbeschränkung) enthält, ist ein fester Bestandteil dieser Fertigkeit und kann nicht übersprungen werden.
+Komplexere besondere Effekte können unter einer Fertigkeit erläutert werden, aber nicht jeder Text unter einer Fertigkeit ist ein besonderer Effekt. Jeder Text, der Regeln für die Ausführung einer Fertigkeit (z.B. eine Zielbeschränkung) enthält, ist ein fester Bestandteil dieser Fertigkeit und du kannst ihn nicht überspringen.
 
 ---
 
@@ -485,20 +486,21 @@ Komplexere besondere Effekte können unter einer Fertigkeit erläutert werden, a
 
 > #### Elemente 
 > 
-> Einige Aktionen sind mit einem Element verbunden (Feuer, Eis, Luft, Erde, Licht oder Dunkelheit). Elementanreicherungen auf deinen gespielten Fertigkeitskarten, deinen Handkarten und im aktiven Bereich, sowie Elementanreicherungen auf den gewürfelten Monsteraktionen können jeweils einmal pro Runde verbraucht werden. Es können mehrere Anreicherungen des selben Elementes verfügbar sein und in der selben Runde verbaucht werden.
+> Einige Aktionen sind mit einem Element verbunden (Feuer, Eis, Luft, Erde, Licht oder Dunkel). Elementanreicherungen auf deinen gespielten Fertigkeitskarten, deinen Handkarten und im aktiven Bereich sowie Elementanreicherungen auf den gewürfelten Monsteraktionen können jeweils einmal pro Runde verbraucht werden. Es können mehrere Anreicherungen desselben Elementes verfügbar sein und in derselben Runde verbaucht werden.
 > 
 > | <img src="assets/icons/element_fire.png"/> | <img src="assets/icons/element_ice.png"/> | <img src="assets/icons/element_wind.png"/> | <img src="assets/icons/element_earth.png"/> | <img src="assets/icons/element_light.png"/> | <img src="assets/icons/element_dark.png"/> |
-> | Feuer | Eis | Luft | Erde | Licht | Dunkelheit |
+> | Feuer | Eis | Luft | Erde | Licht | Dunkel |
 > 
-> Eine Elementanreicherung ist verfügbar, solange sie sichtbar ist und in der aktuellen Runde noch nicht verbraucht wurde (verpflichtend). Eine Elementanreicherung auf einer Fertigkeitskarte ist nicht mehr verfügbar, sobald diese Karte abgeworfen, verloren oder auf die andere Seite gedreht wird. Wenn eine Fertigkeitskarte auf die B-Seite umgedreht oder auf die Hand zurückgenommen wird, ist eine sichtbare Elementanreicherung wieder verfügbar. Eine Elementanreicherung bei einer gewürfelten Monsteraktion ist nur einmal verfügbar, auch wenn sich mehrere Monster desselben Typs auf dem Spielplan befinden. Eine Elementanreicherung bei einer gewürfelten Monsteraktion ist nicht mehr verfügbar, sobald alle Monster dieses Typs besiegt wurden.
+> Eine Elementanreicherung ist verfügbar, solange sie sichtbar ist und in der aktuellen Runde noch nicht verbraucht wurde (verpflichtend). Eine Elementanreicherung auf einer Fertigkeitskarte ist nicht mehr verfügbar, sobald diese Karte abgeworfen, verloren oder auf die andere Seite gedreht wird. Wenn eine Fertigkeitskarte auf die B-Seite umgedreht oder auf die Hand zurückgenommen wird, wird die Elementanreicherung auf der sichtbaren Seite verfügbar. Eine Elementanreicherung bei einer gewürfelten Monsteraktion ist nur einmal verfügbar, auch wenn sich mehrere Monster desselben Typs auf dem Spielplan befinden. Eine Elementanreicherung bei einer gewürfelten Monsteraktion ist nicht mehr verfügbar, sobald alle Monster dieses Typs besiegt wurden.
 > 
 > Elementanreicherungen können verbraucht werden, um bestimmten Fertigkeiten Effekte hinzuzufügen, oder in manchen Fällen ganz neue Fertigkeiten auszuführen. Dies wird durch ein mit <img src="assets/icons/element_spent.png" class="inline-icon"/> markiertes Elementsymbol dargestellt, gefolgt von einem hinzugefügten Effekt. Wenn dieses Element verfügbar ist, kann es verbraucht werden. Immer wenn eine Elementanreicherung verbraucht wird, kann sie erst in der nächsten Runde erneut verbraucht werden. (Du kannst dir dies mit einem Ersatzwürfel oder einem anderen kleinen Gegenstand markieren, um es nicht zu vergessen.)
 > 
-> Wenn eine Fertigkeit mehrere seperate Elementanreicherungen darstellt, wählt die handelnde Figur aus, welche aktiviert werden soll. Wenn eine einzelne Elementanreicherung mehrere Elemente darstellt, müssen all diese Elemente verbraucht werden, um sie zu aktivieren. Es können mehrere Elemente auch mehrmals gleichzeitg benutzt werden, aber jede Elementanreicherung kann maximal einmal pro Runde verbraucht werden.
+> Wenn eine Fertigkeit mehrere seperate Elementanreicherungen zeigt, wählt die handelnde Figur aus, welche aktiviert werden soll. Wenn eine einzelne Elementanreicherung mehrere Elemente zeigt, müssen all diese Elemente verbraucht werden, um sie zu aktivieren. Jedes Element kann gleichzeitig mehrfach angereichert werden, aber jede Elementanreicherung kann maximal einmal pro Runde verbraucht werden.
 > 
-> <img src="assets/icons/element_wild.png" class="inline-element"/> Das Wild-Symbol stellt eines der sechs Elemente dar (nicht alle). Ein zusätlicher Effekt, der den Verbrauch eines wilden Elements erfordert, kann mit einem beliebigen Element bezahlt werden. Eine Anreicherung des wilden Elementes kann als eines der sechs Elemente verbraucht werden.
+> <img src="assets/icons/element_wild.png" class="inline-element"/> Dieses bunte Farbrad stellt 1 beliebiges der sechs Elemente dar (nicht alle gleichzeitig). Ein zusätzlicher Effekt, dieses Symbol zeigt, kann durch den Verbrauch eines beliebigen einzelnen Elements bezahlt werden. Ist das Symbol als Anreicherung zu sehen, kann es als 1 beliebiges der sechs Elemente verbraucht werden.
 > 
-> <img src="assets/icons/element_fire_ice.png" class="inline-element"/> Ein Symbol mit gemischten Elementen, das zwei Elemente innerhalb desselben Rahmens darstellt, stellt eines dieser beiden Elmente dar (jedoch nicht beide). Ein zusätzlicher Effekt, der den Verbrauch eines gemischten Elementes erfordert, kann durch den Verbrauch eines der beiden Elemente bezahlt werden. Eine gemischte Elementanreicherung kann als eines der beiden Elemente vebraucht werden.
+> <img src="assets/icons/element_fire_ice.png" class="inline-element"/> Ein gemischtes Elementsymbol, das zwei
+Elemente in einer Umrandung zeigt, stellt 1 dieser beiden Elemente dar (nicht beide gleichzeitig). Ein zusätzlicher Effekt, dieses Symbol zeigt, kann durch den Verbrauch eines einzelnen der beiden abgebildeten Elemente bezahlt werden. Ist das Symbol als Anreicherung zu sehen, kann es als 1 der beiden Elemente vebraucht werden.
 
 ---
 
@@ -510,21 +512,20 @@ Komplexere besondere Effekte können unter einer Fertigkeit erläutert werden, a
 
 ### Bewegen
 
-<img src="assets/icons/ability_move.png" class="inline-icon"/> "**Bewegen X**" ist eine Fertigkeit, die einer Figur X Bewegungspunkte gibt. Diese Figur kann dann diese Punkte ausgeben, um sich ein Feld pro Bewegungspunkt zu bewegen. Figuren können sich durch Verbündete, aber nicht durch Gegner, Hindernisse oder Ziele bewegen.
+<img src="assets/icons/ability_move.png" class="inline-icon"/> **„Bewegen X“** ist eine Fertigkeit, die einer Figur X Bewegungspunkte gibt. Diese Figur kann dann diese Punkte ausgeben, um sich ein Feld pro Bewegungspunkt zu bewegen. Figuren können sich durch Verbündete, aber nicht durch Gegner, Hindernisse oder Zielobjekte bewegen.
 
-Eine Figur muss ihre Bewegung immer auf einem nicht besetzten Feld beenden. Eine Figur muss sich mindestens ein Feld weit bewegen, um eine Bewegungsfertigkeit ausgeführt zu haben.
+Eine Figur muss ihre Bewegung immer auf einem nicht besetzten Feld beenden. Eine Figur muss sich mindestens 1 Feld weit bewegen, um eine Bewegungsfertigkeit ausgeführt zu haben.
 
 Alle nicht ausgegeben Bewegungspunkte verfallen mit dem Ende der Bewegungsfertigkeit.
 
 ### Springen
 
-<img src="assets/icons/ability_jump.png" class="inline-icon"/> "**Springen**" ist ein zusätzlicher Effekt einer Bewegungsfertigkeit. Springen erlaubt einer Figur alle Gegner, Hindernisse, Gefahren und Ziele zu ignorieren, außer auf dem letzten Feld.
-
+<img src="assets/icons/ability_jump.png" class="inline-icon"/> **„Springen“** ist ein zusätzlicher Effekt einer Bewegungsfertigkeit. Springen erlaubt es einer Figur, alle Gegner, Hindernisse, Gefahren und Zielobjekte zu ignorieren, außer auf dem letzten Feld. 
 Schwieriges Gelände wird beim springen vollständig ignoriert.
 
 ### Fliegen
 
-<img src="assets/icons/ability_flight.png" class="inline-icon"/> "**Fliegen**" ist ein aktiver Bonus (siehe [S.21](#page_21)). Fliegen erlaubt einer Figur alle Gegner, Hindernisse, Gefahren und Ziele zu ignorieren, auch auf dem letzten Feld. Allerdings kann eine fliegende Figur ihre Bewegung immer noch nicht auf einem Feld beenden, das schon von einer anderen Figur besetzt ist (und umgekehrt).
+<img src="assets/icons/ability_flight.png" class="inline-icon"/> **„Fliegen“** ist ein aktiver Bonus (siehe [S.21](#page_21)). Fliegen erlaubt es einer Figur, alle Gegner, Hindernisse, Gefahren und Zielobjekte zu ignorieren, auch auf dem letzten Feld. Allerdings kann eine fliegende Figur ihre Bewegung immer noch nicht auf einem Feld beenden, das schon von einer anderen Figur besetzt ist (und umgekehrt).
 
 ---
 
