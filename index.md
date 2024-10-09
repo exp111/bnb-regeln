@@ -87,7 +87,7 @@ Viel Glück, Abenteurer!
 <p>Angriff <a href="#page_18">S. 18</a></p>
 <p>Angriffsmodifikator-Ablage <a href="#page_18">S. 18</a></p>
 <p>Angriffseffekte <a href="#page_19">S. 19</a></p>
-<p>Vor- und Nachteile <a href="#page_19">S. 19</a></p>
+<p>Vor- und Nachteil <a href="#page_19">S. 19</a></p>
 <p>Durchstechen <a href="#page_19">S. 19</a></p>
 
 <p>Zustände <a href="#page_20">S. 20</a></p>
@@ -535,38 +535,40 @@ Schwieriges Gelände wird beim springen vollständig ignoriert.
 
 ### Angriff
 
-<img src="assets/icons/ability_attack.png" class="inline-icon"/> "**Angriff X**" ist eine negative Zielfähigkeit, die es einer Figur ermöglicht, einem Gegner innerhalb der angegeben Reichweite einen Grundwert X Schaden zuzufügen.
+<img src="assets/icons/ability_attack.png" class="inline-icon"/> **„Angriff X“** ist eine Zielfertigkeit, die es einer Figur ermöglicht, einem Gegner innerhalb der angegeben Reichweite einen Grundwert von X Schaden zuzufügen.
 
-Ein Angriff ohne eine angegebene Reichweite (<img src="assets/icons/ability_range.png" class="inline-icon"/>) ist ein **Nahkampfangriff** mit Reichweite 1, der nur benachbarte Ziele angreifen kann, sofern nicht anders angegeben. Ein Angriff mit einem beliebigen Reichweitewert (<img src="assets/icons/ability_range.png" class="inline-icon"/>) ist ein **Fernkampfangriff**, unabhängig von der Entfernung des Ziels.
+Ein Angriff ohne eine angegebene Reichweite (<img src="assets/icons/ability_range.png" class="inline-icon"/>) gilt als **Nahkampfangriff** mit Reichweite 1, der nur benachbarte Ziele treffen kann, sofern nicht anders angegeben. Ein Angriff mit einem beliebigen Wert für die Reichweite (<img src="assets/icons/ability_range.png" class="inline-icon"/>) gilt als **Fernkampfangriff**, unabhängig von der Entfernung zum Ziel.
 
-Ein **Angriff** ist ein einzelner Angriff, der gegen ein Ziel ausgeführt wird. Eine **Angriffsfertigkeit** ist eine Fertigkeit, die aus einem oder mehreren separaten Angriffen besteht. Eine **Angriffsaktion** ist jede Aktion, die mindestens eine Angriffsfertigkeit enthält.
+Ein **Angriff** ist ein einzelner Angriff, der gegen 1 Ziel ausgeführt wird. Eine **Angriffsfertigkeit** ist eine Fertigkeit, die aus einem oder mehreren separaten Angriffen besteht. Eine **Angriffsaktion** ist jede Aktion, die mindestens 1 Angriffsfertigkeit enthält.
+
+#### Reihenfolge der Angriffsmodifikatoren
 
 Wenn ein Angriff ausgeführt wird, kann der auf der Karte angegebene Grundangriffswert auf drei verschiedene Arten verändert werden, die in der folgenden Reihenfolge erfolgen:
 
-1. Alle anwendbaren Angriffsboni und -strafen — wie z.B.  "**±X** <img src="assets/icons/ability_attack.png" class="inline-icon"/>" Effekte, einschließlich Gift    (siehe [S.20](#page_20)) — werden angewendet.
+1. Alle anwendbaren Angriffsboni und -strafen – wie z. B.  „**±X** <img src="assets/icons/ability_attack.png" class="inline-icon"/>“-Effekte, einschließlich Gift    (siehe [S.20](#page_20)) – werden angewendet.
 1. Ein Angriffsmodifikator wird gewürflet und angewendet.
 1. Der Schildbonus des Ziels wird angewendet (siehe [S.22](#page_22)).
 
 Sobald alle Modifikationen angewendet wurden, erleidet das Ziel den resultierenden Schaden. Wenn das Ziel über Fertigkeiten oder Effekte verfügt, die eine Schadensquelle negieren können, einschließlich des Abwerfens oder Verlierens von Karten, um Schaden zu negieren (siehe [S.28](#page_28)), kann es diese jetzt benutzen.
 
-Diese Schritte werden für jedes einzelne Ziel der Angriffsfertigkeit wiederholt. Dies bedeutet, dass verschiedene Ziele, die mit der gleichen Angriffsfertigkeit angegriffen werden, unterschiedlich viel Schaden erleiden können.
+Diese Schritte werden für jedes einzelne Ziel der Angriffsfertigkeit wiederholt. Das bedeutet, dass verschiedene Ziele, die mit der gleichen Angriffsfertigkeit angegriffen werden, unterschiedlich viel Schaden erleiden können.
 
 > #### Angriffsmodifikator-Ablage
 > 
-> Immer wenn eine Angriffsfertigkeit ausgeführt wird, **wird für jedes Ziel der Angriffsfertigkeit ein separater Angriffsmodifikator gewürfelt**, indem der Würfel gewürfelt und mit der Angriffsmodifikator-Ablage abgeglichen wird. Der gewürfelte Modifikator ist der Modifikator in der aktuellen Zeile und Spalte, die dem gewürfelten Wert ensprechen (<img src="assets/icons/dice_result_minus.png" class="inline-icon"/>, <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/>, <img src="assets/icons/dice_result_plus.png" class="inline-icon"/>). Der gewürfelte Modifikator wird dann auf den Angriff angewendet, wodurch dieser möglicherweise dessen Wert verringert oder erhöht. Sobald die Effekte eines gewürfelten Modifikators angewendet wurden, wird der Modifikator-Würfel eine Reihe nach unten geschoben. (Wenn du Schwierigkeiten hast, dich daran zu erinneren, den Würfel nach einem Angriff nach unten zu bewegen, kannst du versuchen, den Würfel zuerst zu bewegen und dann den Modifikator aus der Reihe zu verwenden, in der ssich der Würfel nun befindet. Wenn du das so machst, startet der Würfel am Anfang jedes Szenarios im letzten Feld und nicht im Ersten.)
+> Immer wenn eine Angriffsfertigkeit ausgeführt wird, **würfelst du für jedes Ziel der Angriffsfertigkeit ein separater Angriffsmodifikator**, indem du den Würfel wirfst und mit der Angriffsmodifikator-Ablage abgleichst. Der gewürfelte Modifikator ergibt sich aus dem Modifikator in der aktuell markierten Zeile und der Spalte, die dem gewürfelten Symbol entspricht (<img src="assets/icons/dice_result_minus.png" class="inline-icon"/>, <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/>, <img src="assets/icons/dice_result_plus.png" class="inline-icon"/>). Der gewürfelte Modifikator wird dann auf den Angriff angewendet, was möglicherweise den Angriffswert verringert oder erhöht. Sobald du die Effekte eines gewürfelten Modifikators angewendet hast, schiebe den Modifikator-Stein 1 Reihe nach unten. (Wenn du Schwierigkeiten hast, dich daran zu erinneren, den Stein nach einem Angriff nach unten zu bewegen, kannst du versuchen, den Stein zuerst zu bewegen und dann den Modifikator aus der Reihe zu verwenden, in der ssich der Stein nun befindet. Wenn du das so machst, startet der Stein am Anfang jedes Szenarios im letzten Feld und nicht im Ersten.)
 > 
-> Angriffsmodifikatoren werden nur für Angriffe gewürfelt. Sie werden nicht für andere Effekte verwendet, die Schaden verursachen.
+> Angriffsmodifikatoren würfelst du nur für Angriffe. Verwende sie nicht für andere Effekte, die Schaden verursachen.
 > 
 > Du hast deine eigene Angriffsmodifikator-Ablage, während alle Monster sich eine einzige Ablage teilen.
 > 
-> Jede Charakterklasse und alle Monster beginnen mit einer Standartablage aus sechs <img src="assets/icons/modifier_plus_0.png" class="inline-element"/>, vier <img src="assets/icons/modifier_plus_1.png" class="inline-element"/>, vier <img src="assets/icons/modifier_minus_1.png" class="inline-element"/>, einem <img src="assets/icons/modifier_plus_2.png" class="inline-element"/>, einem <img src="assets/icons/modifier_minus_2.png" class="inline-element"/>, einem <img src="assets/icons/modifier_2x.png" class="inline-element"/>, und einem <img src="assets/icons/modifier_miss.png" class="inline-element"/> Symbol. Jede Charakterklassenablage verbessert sich im Verlauf der Kampagne (siehe [S.35](#page_35)) und ermöglicht so andere Effekte.
+> Jede Charakterklasse und alle Monster beginnen mit einer Standartablage mit 6× <img src="assets/icons/modifier_plus_0.png" class="inline-element"/>, 4× <img src="assets/icons/modifier_plus_1.png" class="inline-element"/>, 4× <img src="assets/icons/modifier_minus_1.png" class="inline-element"/>, 1× <img src="assets/icons/modifier_plus_2.png" class="inline-element"/>, 1× <img src="assets/icons/modifier_minus_2.png" class="inline-element"/>, 1× <img src="assets/icons/modifier_2x.png" class="inline-element"/>, und 1× <img src="assets/icons/modifier_miss.png" class="inline-element"/>. Jede Charakterklassenablage verbessert sich im Verlauf der Kampagne (siehe [S.35](#page_35)) und ermöglicht so andere Effekte.
 > 
 > Ein Angriffsmodifikator kann Folgendes haben:
 
 <quoteblock>
   <ol type="A">
-    <li><strong>Modifikatorwert:</strong> Dieser Wert modifiziert den Angriffswert. Der <img src="assets/icons/modifier_miss.png" class="inline-element"/> Modifikator reduziert den endgültigen Angriffswert auf Null. Der <img src="assets/icons/modifier_2x.png" class="inline-element"/> Modifikator verdoppelt den aktuellen Angriffswert.</li>
-    <li><strong>Zusätzliche Effekte:</strong> Einige Modifikatoren haben Zustände (siehe <a href="#page_20">S.20</a>) oder andere zusätzliche Effekte. Bei Aktivierung funktionieren diese zusätzlichen Effekte genau so, wie sie auf der Angriffsfertigkeit angegeben sind.</li>
+    <li><strong>Modifikatorwert:</strong> Dieser Wert modifiziert den Angriffswert. Der <img src="assets/icons/modifier_miss.png" class="inline-element"/>-Modifikator reduziert den endgültigen Angriffswert auf Null. Der <img src="assets/icons/modifier_2x.png" class="inline-element"/>-Modifikator verdoppelt den aktuellen Angriffswert.</li>
+    <li><strong>Zusätzliche Effekte:</strong> Einige Modifikatoren haben Zustände (siehe <a href="#page_20">S.20</a>) oder andere zusätzliche Effekte. Bei Aktivierung funktionieren diese zusätzlichen Effekte genau so, wie es auf der Angriffsfertigkeit steht.</li>
   </ol>
 </quoteblock>
 
@@ -578,27 +580,27 @@ Diese Schritte werden für jedes einzelne Ziel der Angriffsfertigkeit wiederholt
 
 #### Angriffseffekte
 
-Ein Angriffseffekt ist ein Effekt, der an einen Angriff verbunden ist. Diese Effekte werden entweder während der Schadensabwicklung oder nach dem Angriff angewendet. Wenn der Angriffseffekt angewendet wird, nachdem der Angriff verrechnet wurde, wird er auch angewendet, wenn der Angriff keinen Schaden verursacht (auch bei einem <img src="assets/icons/modifier_miss.png" class="inline-element"/> Modifikator).
+Ein Angriffseffekt ist ein Effekt, der mit einem Angriff verbunden ist. Diese Effekte werden entweder während der Schadensabwicklung oder nach dem Angriff angewendet. Wenn der Angriffseffekt nach dem Angriff angewendet wird, wird er auch dann angewendet, fals der Angriff keinen Schaden verursacht (auch bei einem <img src="assets/icons/modifier_miss.png" class="inline-element"/>-Modifikator).
 
-Der Angreifer muss entscheiden, ob er Angriffseffekte anwenden möchte, bevor er einen Angriffsmodifikator würfelt. Alle Angriffseffekte außer "**füge** <img src="assets/icons/ability_target.png" class="inline-icon"/>" **hinzu** werden vor jedem Vergeltungsbonus angewendet (siehe [S.22](#page_22)). Der "**füge** <img src="assets/icons/ability_target.png" class="inline-icon"/>" **hinzu** Effekt ermöglicht es dem Angreifer, zusätzliche Angriffe auszuführen, und jeder Angriff muss vollständig abgehandelt werden, bevor ein anderer ausgeführt werden kann durchgeführt.
+Der Angreifer muss entscheiden, ob er Angriffseffekte anwenden möchte, bevor er einen Angriffsmodifikator würfelt. Alle Angriffseffekte außer <img src="assets/icons/ability_target.png" class="inline-icon"/> werden vor jedem Vergeltungsbonus angewendet (siehe [S.22](#page_22)). Der <img src="assets/icons/ability_target.png" class="inline-icon"/>-Effekt ermöglicht es dem Angreifer, zusätzliche Angriffe auszuführen, und jeder Angriff muss vollständig abgehandelt werden, bevor ein anderer ausgeführt werden kann.
 
-Einige Angriffe verfügen über Fertigkeiten (z.B., Heilfertigkeiten) die keine Angriffseffekte sind, aber dennoch mit dem Angriff verbunden sind. Diese Fertigkeiten werden ausgeführt, nachdem der Angriff vollständig abgehandelt wurde (einschließlich nach jedem Vergeltungsbonus).
+Einige Angriffe verfügen über Fertigkeiten (z. B. Heilfertigkeiten) die keine Angriffseffekte, aber dennoch mit dem Angriff verbunden sind. Diese Fertigkeiten werden ausgeführt, nachdem der Angriff vollständig abgehandelt wurde (einschließlich etwaiger Vergeltungsboni).
 
-Einige Modifikatoren haben neben der Änderung des Angriffswerts auch zusätzliche Effekte, und **der angreifende Charakter kann jederzeit entscheiden**, ob er diese Effekte anwenden möchte, nachdem der Modifikator gewürfelt wurde.
+Einige Modifikatoren haben neben der Änderung des Angriffswerts auch zusätzliche Effekte. **Der angreifende Charakter kann immer entscheiden**, ob er diese Effekte anwenden möchte, nachdem der Modifikator gewürfelt wurde.
 
-#### Vor- und Nachteile
+#### Vor- und Nachteil
 
-> Einige Effekte führen dazu, dass ein Angriff einen Vorteil oder Nachteil erlangt. Mit einem **Vorteil** würfelt der Angreifer zwei Modifikatoren in derselben Reihe und verwendet einen davon. Ein Monster verwendet immer das bessere (z.B. <img src="assets/icons/dice_result_plus.png" class="inline-icon"/> vor <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/> oder <img src="assets/icons/dice_result_minus.png" class="inline-icon"/>; <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/> vor <img src="assets/icons/dice_result_minus.png" class="inline-icon"/>), aber du kannst einen der beiden verwenden.
+> Einige Effekte führen dazu, dass ein Angriff Vorteil oder Nachteil erhält. Mit **Vorteil** würfelt der Angreifer 2 Modifikatoren in derselben Zeile und verwendet 1 davon. Ein Monster verwendet immer den besseren (also <img src="assets/icons/dice_result_plus.png" class="inline-icon"/> vor <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/> oder <img src="assets/icons/dice_result_minus.png" class="inline-icon"/> und <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/> vor <img src="assets/icons/dice_result_minus.png" class="inline-icon"/>), aber du darfst aussuchen, welchen der beiden du verwendest.
 >
-> Bei einem **Nachteil** würfelt der Angreifer zwei Modifikatoren in derselben Reihe und verwendet immer den schlechteren (z.B. <img src="assets/icons/dice_result_minus.png" class="inline-icon"/> vor <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/> oder <img src="assets/icons/dice_result_plus.png" class="inline-icon"/>; <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/> vor <img src="assets/icons/dice_result_plus.png" class="inline-icon"/>).
+> Bei **Nachteil** würfelt der Angreifer zwei Modifikatoren in derselben Zeile und verwendet immer den schlechteren (also <img src="assets/icons/dice_result_minus.png" class="inline-icon"/> vor <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/> oder <img src="assets/icons/dice_result_plus.png" class="inline-icon"/> und <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/> vor <img src="assets/icons/dice_result_plus.png" class="inline-icon"/>).
 
-Ein Angriff kann nicht mehrfach Vorteile oder Nachteile erzielen. Wenn ein Angriff sowohl Vor- als auch Nachteile hat, wird davon ausgegangen, dass er keinen der Beiden hat.
+Ein Angriff kann nicht mehrfach Vorteil oder Nachteil erhalten. Wenn ein Angriff sowohl Vor- als auch Nachteil hat, heben sich die Effekte auf und der Angriff hat weder Vor- noch Nachteil.
 
-Jeder Fernangriff auf einen benachbarten Feind erhält automatisch einen Nachteil.
+Jeder Fernangriff auf einen benachbarten Gegner erhält automatisch Nachteil.
 
 #### Durchstechen
 
-<img src="assets/icons/condition_pierce.png" class="inline-condition"/> "**Durchstechen X**" ist ein zusätzlicher Effekt, der den Schildbonus des Ziels (siehe [S.22](#page_22)) um X reduziert. Mehrere "<img src="assets/icons/condition_pierce.png" class="inline-condition"/> **X**" Effekte können kombiniert werden. Wenn beispielsweise ein Angriff mit "<img src="assets/icons/condition_pierce.png" class="inline-condition"/> **2**" zusätzlich "<img src="assets/icons/condition_pierce.png" class="inline-condition"/> **3** bekommt," würde der Effekt den Schildbonus des Ziels für diesen Angriff um 5 reduzieren.
+<img src="assets/icons/condition_pierce.png" class="inline-condition"/> **„Durchstechen X“** ist ein zusätzlicher Effekt, der den Schildbonus des Ziels (siehe [S.22](#page_22)) um X reduziert. Mehrere „<img src="assets/icons/condition_pierce.png" class="inline-condition"/> **X**“ Effekte können kombiniert werden. Wenn beispielsweise ein Angriff mit „<img src="assets/icons/condition_pierce.png" class="inline-condition"/> **2**“ zusätzlich „<img src="assets/icons/condition_pierce.png" class="inline-condition"/> **3**“ bekommt, würde der Effekt den Schildbonus des Ziels für diesen Angriff um 5 reduzieren.
 
 ---
 
@@ -608,12 +610,12 @@ Jeder Fernangriff auf einen benachbarten Feind erhält automatisch einen Nachtei
 
 ### Zustände
 
-Eine Zustandsfertigkeit ist eine positive oder negative Fertigkeit, abhängig von dem angegeben Zustand, und bewirkt, dass das Ziel der Fertigkeit diesen Zustand erhält.
+Eine Zustandsfertigkeit ist eine positive oder negative Zielfertigkeit, abhängig von dem angegeben Zustand, und bewirkt, dass das Ziel der Fertigkeit diesen Zustand erhält.
 
 
-Wenn du einen Zustand erhälst, lege den entsprechenden Marker auf deine Charakterkarte. Wenn ein Monster einen Zustand erhält, lege den entsprechenden Marker in die Nähe der entsprechenden Trefferpunkt-Skala. 
+Wenn du einen Zustand erhälst, lege den entsprechenden Marker auf deine Charakterkarte. Wenn ein Monster einen Zustand erhält, lege den entsprechenden Marker in die Nähe der entsprechenden Trefferpunkte-Zählscheibe. 
 
-Einmal erlangt, bleibt ein Zustand bestehen, bis die Voraussetzungen für seine Aufhebung erfüllt sind. Weder positive noch negative Zustände können freiwillig aufgehoben werden. Eine Figur kann nicht mehrere Instanzen desselben Zustands haben; Wenn eine Figur jedoch einen Zustand erhält, den sie bereits hat, wird die Dauer des Effekts zurückgesetzt.
+Einmal erlangt, bleibt ein Zustand bestehen, bis die Voraussetzungen für das Entfernen des Zustands erfüllt sind. Weder positive noch negative Zustände können freiwillig entfernt werden. Eine Figur kann nicht mehrfach denselben Zustand haben. Wenn eine Figur jedoch einen Zustand erhält, den sie bereits hat, wird die Dauer des Effekts zurückgesetzt.
 
 Wenn eine Figur während ihres Zuges einen Zustand erhält, der „am Ende des nächsten Zuges der Figur“ entfernt wird, tritt der Zustand sofort in Kraft und gilt bis zum Ende ihres nächsten Zuges. Zustände, die am Ende des Zuges einer Figur entfernt werden, werden erst entfernt, nachdem alle anderen Effekte am Ende des Zuges abgehandelt wurden.
 
@@ -621,21 +623,21 @@ Ein Zustandseffekt kann auch als zusätzlicher Effekt zu anderen Fähigkeiten hi
 
 #### Positive Zustände
 
-<img src="assets/icons/condition_invisible.png" class="inline-condition"/> **Unsichtbar:** Die Figur kann von keinem Feind als Ziel ausgewählt werden, allerdings bleiben nicht anvisierte Fertigkeit davon unberührt. Die unsichtbare Figur und ihre Verbündeten können weiterhin miteinander interagieren. Unsichtbar wird am Ende des nächsten Zuges der Figur entfernt.
+<img src="assets/icons/condition_invisible.png" class="inline-condition"/> **Unsichtbar:** Die Figur kann von keinem Gegner als Ziel ausgewählt werden, allerdings bleiben Fertigkeiten, die kein Ziel anvisieren, davon unberührt. Die unsichtbare Figur und ihre Verbündeten können weiterhin miteinander interagieren. Unsichtbar wird am Ende des nächsten Zuges der Figur entfernt.
 
-<img src="assets/icons/condition_strengthen.png" class="inline-condition"/> **Stärkung:** Die Figur erhält bei allen Angriffen einen Vorteil. Stärkung wird am Ende des nächsten Zuges der Figur entfernt.
+<img src="assets/icons/condition_strengthen.png" class="inline-condition"/> **Stärkung:** Die Figur erhält bei allen Angriffen Vorteil. Stärkung wird am Ende des nächsten Zuges der Figur entfernt.
 
 #### Negative Zustände
 
-<img src="assets/icons/condition_wound.png" class="inline-condition"/> **Wunde:** Die Figur erleidet zu Beginn jeder ihrer Züge 1 Schaden. Die Wunde wird entfernt, sobald die Figur geheilt wird. Die Heilung wird wie gewohnt abgehandelt. (Du kannst den Marker auf den Fertigkeitstext eines Monsters legen, um ihn dir leichter zu merken.)
+<img src="assets/icons/condition_wound.png" class="inline-condition"/> **Wunde:** Die Figur erleidet zu Beginn jedes ihrer Züge 1 Schaden. Die Wunde wird entfernt, sobald die Figur geheilt wird. Die Heilung wird wie gewohnt abgehandelt. (Du kannst den Marker auf den Fertigkeitstext eines Monsters legen, um dich daran zu erinnern.)
 
-<img src="assets/icons/condition_poison.png" class="inline-condition"/> **Gift:** Alle Angriffe auf diese Figur erhalten "**+1** <img src="assets/icons/ability_attack.png" class="inline-icon"/>." Gift wird entfernt, wenn die Figur geheilt wird, aber im Gegensatz zu Wunde verhindert Gift, dass die Heilung den aktuellen Trefferpunktwert der Figur erhöht. (Du kannst den Marker auf den Fertigkeitstext eines Monsters legen, um ihn dir leichter zu merken.)
+<img src="assets/icons/condition_poison.png" class="inline-condition"/> **Gift:** Alle Angriffe auf diese Figur erhalten „**+1** <img src="assets/icons/ability_attack.png" class="inline-icon"/>“. Gift wird entfernt, wenn die Figur geheilt wird, aber im Gegensatz zu Wunde verhindert Gift, dass die Heilung den aktuellen Trefferpunktewert der Figur erhöht. (Du kannst den Marker neben deine Trefferpunkte oder die des Monsters legen, um dich daran zu erinnern.)
 
 <img src="assets/icons/condition_immobilize.png" class="inline-condition"/> **Lähmung:** Die Figur kann keine Bewegungsfertigkeiten ausführen. Lähmung wird am Ende des nächsten Zuges der Figur entfernt.
 
 <img src="assets/icons/condition_disarm.png" class="inline-condition"/> **Entwaffnen:** Die Figur kann keine Angriffsfertigkeiten ausführen. Entwaffnen wird am Ende des nächsten Zuges der Figur entfernt.
 
-<img src="assets/icons/condition_muddle.png" class="inline-condition"/> **Verwirrung:** Die Figur erhält bei allen Angriffen einen Nachteil. Verwirrung wird am Ende des nächsten Zuges der Figur entfernt.
+<img src="assets/icons/condition_muddle.png" class="inline-condition"/> **Verwirrung:** Die Figur erhält bei allen Angriffen Nachteil. Verwirrung wird am Ende des nächsten Zuges der Figur entfernt.
 
 ---
 
@@ -645,27 +647,27 @@ Ein Zustandseffekt kann auch als zusätzlicher Effekt zu anderen Fähigkeiten hi
 
 ### Heilen
 
-<img src="assets/icons/ability_heal.png" class="inline-icon"/> "**Heilung X**" ist eine positive Zielfähigkeit, die es dem Ziel ermöglicht, X Schaden zu heilen und so seinen aktuellen Trefferpunktwert zu erhöhen. Wenn der Schaden geheilt ist, aktualisiere die Trefferpunktskala des Ziels, um die neue Gesamttrefferpunktzahl anzuzeigen.
+<img src="assets/icons/ability_heal.png" class="inline-icon"/> **„Heilung X“** ist eine positive Zielfähigkeit, die es dem Ziel ermöglicht, X Schaden zu heilen und so seinen aktuellen Trefferpunktewert zu erhöhen. Wenn Schaden geheilt wird, aktualisiere Trefferpunke-Zählscheibe des Ziels, um den neuen Trefferpunktewert anzuzeigen.
 
-Der aktuelle Trefferpunktwert einer Figur kann niemals ihren maximalen Trefferpunktwert überschreiten. Es ist jedoch erlaubt, eine Figur, die bereits ihren maximalen Trefferpunktwert erreicht hat, mit einer Heilfähigkeit anzugreifen. Dies kann z.B. durchgeführt werden, um Gift oder Wunde zu entfernen.
+Der aktuelle Trefferpunktewert einer Figur kann niemals ihren maximalen Trefferpunktewert überschreiten. Es ist jedoch erlaubt, eine Figur, die bereits ihren maximalen Trefferpunktewert erreicht hat, mit einer Heilfertigkeiten anzuvisieren. Dies kann z. B. durchgeführt werden, um Gift oder Wunde zu entfernen.
 
-Heileffekte von Angriffsmodifikatoren funktionieren genau wie Heilfähigkeiten.
+Heileffekte von Angriffsmodifikatoren funktionieren genau wie Heilfertigkeiten.
 
-Eine einzelne Heilung kann jede beliebige Kombination aus Wunde und Gift von einer Figur entfernen. Wenn jedoch Gift vorhanden ist, wird die Erhöhung der Trefferpunkte verhindert.
+Eine einzige Heilung kann jede beliebige Kombination aus Wunde und Gift von einer Figur entfernen. Wenn jedoch Gift vorhanden ist, wird die Erhöhung der Trefferpunkte verhindert.
 
 ### Aktive Boni
 
 Eine aktive Bonusfähigkeit ist jede Fertigkeit, die einer Figur oder ihren Verbündeten einen aktiven Bonus verleiht. Wenn ein Charakter eine aktive Bonusfertigkeit ausführt, wird die Karte in seinen aktiven Bereich gelegt, um den Bonus festzuhalten.
 
-> Aktive Bonusfertigkeiten haben Symbole, die die Dauer der von ihnen gewährten Boni anzeigen. Wenn ein Bonus abläuft, wird die Karte aus dem aktiven Bereich des Charakters entfernt, auch wenn die Aktion andere aktive Bonusfähigkeiten hat;  Eine Karte der Seite A wird auf die Seite B umgedreht und auf die Hand zurückgebracht, eine Karte der Seite B wird auf deinen Ablagestapel oder deinen Verloren-Stapel gelegt, falls die Aktion ein Verloren-Symbol hat (siehe [S.28](#page_28)).
+> Aktive Bonusfertigkeiten haben Symbole, die die Dauer der von ihnen gewährten Boni anzeigen. Wenn ein Bonus abläuft, wird die Karte aus dem aktiven Bereich des Charakters entfernt, auch wenn die Aktion andere aktive Bonusfähigkeiten hat. Karte, die auf ihrer A-Seite ist, drehst du dabei auf ihre B-Seite um und nimmst sie zurück auf die Hand. Eine Karte, die auf ihrer B-Seite ist, legst du auf deinen Ablagestapel oder deinen Verloren-Stapel, falls die Aktion ein Verloren-Symbol hat (siehe [S.28](#page_28)).
 
-<img src="assets/icons/use_round_bonus.png" class="inline-icon"/> **Rundenboni:** Diese Boni werden aktiviert, wenn die Fertigkeit ausgeführt wird, und verfallen am Ende der Runde.
+<img src="assets/icons/use_round_bonus.png" class="inline-icon"/> **Rundenboni:** Diese Boni werden aktiviert, wenn die Fertigkeit ausgeführt wird, und laufen am Ende der Runde ab.
 
-<img src="assets/icons/use_persistent_bonus.png" class="inline-icon"/> **Dauerhafte Boni:** Diese Boni werden aktiviert, wenn die Fertigkeit ausgeführt wird, und verfallen, wenn die angegebene Entfernungsbedingung erfüllt ist.
+<img src="assets/icons/use_persistent_bonus.png" class="inline-icon"/> **Dauerhafte Boni:** Diese Boni werden aktiviert, wenn die Fertigkeit ausgeführt wird, und laufen ab, wenn die angegebene Entfernungsbedingung erfüllt ist.
 
-Ein Charakter kann freiwillig eine Karte mit einem dauerhaften Bonus (aber keinem Rundenbonus) aus seinem aktiven Bereich entfernen, bevor der Bonus abläuft. Dies kann jederzeit außer während einer anderen Fertigkeit passieren. Da Karten mit dauerhaften Boni in deinem aktiven Bereich jederzeit entfernt werden können, kannst du davon ausgehen, dass sie sich in dem Bereich befinden, in den sie verschoben werden, sobald sie entfernt wurden. <span class="new-to-bnb">Dieser Bereich ist die Hand für Karten der A-Seite, der Ablagestapel für Karten der B-Seite </span> oder der Verloren-Stapel für jede Karte mit einem Verloren-Symbol. Daher können Karten mit einem dauerhaften Boni on deinem aktiven Bereich auf die beiden Karten <span class="new-to-bnb">in deiner Hand und/oder Ablagestapel angerechnet werden, die zum Ruhen erforderlich sind (siehe <a href="#page_27">S.27</a>). Ebenso können sie abgelegt und dann abgeworfen werden oder verloren gehen, um Schaden zu verhindern (siehe <a href="#page_28">S.28</a>).</span> Wenn du abgeworfene Karten zurückholst (z.B. durch Rasten) oder verlorene Karten (durch Sonderaktionen), hast du die Wahl, Karten in deinem aktiven Bereich zurückzuholen oder sie im aktiven Bereich zu belassen.
+Ein Charakter kann freiwillig eine Karte mit einem dauerhaften Bonus (aber keinem Rundenbonus) aus seinem aktiven Bereich entfernen, bevor der Bonus abläuft, sodass der Bonus nicht mehr aktiv ist. Dies kann zu jeder Zeit gemacht werden, außer während einer anderen Fertigkeit. Da du Karten mit dauerhaften Boni in deinem aktiven Bereich entfernen darfst, darfst du sie so behandeln, als wären sie in dem Bereich, in den du sie verschiebst, sobald du sie entfernst. <span class="new-to-bnb">Dieser Bereich ist für Karten auf der A-Seite deine Hand, für Karten auf der B-Seite dein Ablagestapel oder für alle Karten mit einem Verloren-Symbol der Verloren-Stapel. Daher kannst du Karten mit dauerhaften Boni in deinem aktiven Bereich auf die beiden Karten <span class="new-to-bnb">in deiner Hand und/oder deinem Ablagestapel anrechnen, die zum Rasten erforderlich sind (siehe <a href="#page_27">S.27</a>). Ebenso kannst du sie ablegen und dann auf den Ablage- oder Verluststapel legen, um Schaden zu verhindern (siehe <a href="#page_28">S.28</a>).</span> Wenn du abgeworfene Karten (z. B. durch Rasten) oder verlorene Karten (durch Sonderaktionen) zurückholst, hast du die Wahl, Karten in deinem aktiven Bereich zurückzuholen oder sie im aktiven Bereich zu belassen.
 
-Aktionen mit aktiven Bonusfertigkeiten können auch noch andere Fertigkeiten haben. Diese anderen Fertigkeiten werden jedoch nur ausgeführt, wenn die Karte ausgespielt wird. Es gibt eine Vielzahl aktiver Bonusfertigkeiten. Während diese Fertigkeiten normalerweise durch einen Text definiert werden, gibt es zwei häufige mit zusätzlichen Regeln.
+Aktionen mit aktiven Bonusfertigkeiten können auch noch andere Fertigkeiten haben. Diese anderen Fertigkeiten führst du jedoch nur in dem Moment aus, in dem du die Karte ausspielst. Es gibt eine Vielzahl aktiver Bonusfertigkeiten. Normalerweise werden diese Fertigkeiten durch einen Text definiert. Zwei davon sind besonders gängig und haben zusätzliche Regeln.
 
 ---
 
@@ -675,19 +677,19 @@ Aktionen mit aktiven Bonusfertigkeiten können auch noch andere Fertigkeiten hab
 
 #### Schild
 
-<img src="assets/icons/ability_shield.png" class="inline-icon"/> "**Schild X**" ist eine positive Fertigkeit, die der handelnden Figur einen Schildbonus von X verleiht. Dadurch wird der Angriffswert eines eingehenden Angriffs um X reduziert. Der Schildbonus wird erst angewendet, nachdem alle Angriffsboni bzw. Abzüge und Modifikatoren angewendet wurden. Mehrere Schildboni werden zusammengerechnet und gelten als einzelne Reduzierung des Angriffswerts. Ein Schildbonus gilt nicht für Schadensquellen, die keine Angriffe sind, und macht zusätzliche Effekte nicht zunichte.
+<img src="assets/icons/ability_shield.png" class="inline-icon"/> **„Schild X“** ist eine positive Fertigkeit, die der handelnden Figur einen Schildbonus von X verleiht. Dadurch wird der Angriffswert eines eingehenden Angriffs um X reduziert. Der Schildbonus wird erst angewendet, nachdem alle Angriffsboni bzw. Abzüge und Modifikatoren angewendet wurden. Mehrere Schildboni werden zusammengerechnet und reduzieren den Angriffswert um ihren Gesamtwert. Ein Schildbonus gilt nicht für Schadensquellen, die keine Angriffe sind, und negiert auch keine zusätzlichen Effekte.
 
-Eine Schildfähigkeit gilt für die handelnde Figur, sofern nicht anders angegeben.
+Eine Schildfertigkeit wird auf die handelnde Figur angewendet, sofern nicht anders angegeben.
 
 #### Vergeltung
 
-<img src="assets/icons/ability_retaliate.png" class="inline-icon"/> "**Vergeltung X**" ist eine positive Fertigkeit, die der handelnden Figur einen Vergeltungsbonus von X verleiht. Dies fügt jeder Figur, die sie angreift, X Schaden zu, wenn sie sich innerhalb der angegebenen Reichweite befindet, nachdem alle Angriffseffekte (einschließlich Stoßen oder Ziehen) abgehandelt wurden. Wenn keine Reichweite angegeben ist, wird der Bonus nur auf benachbarte Angreifer angewendet. Dieser Bonus wird bei jedem Angriff ausgelöst und tritt ein, nachdem ein Angriff ausgeführt wurde.
+<img src="assets/icons/ability_retaliate.png" class="inline-icon"/> **„Vergeltung X“** ist eine positive Fertigkeit, die der handelnden Figur einen Vergeltungsbonus von X verleiht. Das bedeutet, dass jeder Charakter, der die Figur mit dem Vergeltungsbonus angreift, X Schaden erleidet, wenn er sich nach Anwendung aller Angriffseffekte (einschließlich Schieben und Ziehen) innerhalb der angegebenen Reichweite befindet. Wenn keine Reichweite angegeben ist, wird der Bonus nur auf benachbarte Angreifer angewendet. Dieser Bonus wird bei jedem Angriff ausgelöst und tritt ein, nachdem der Angriff abgehandelt wurde.
 
->Einige Vergeltungsfertigkeiten umfassen zusätzliche Effekte wie Stoßen oder Zustände. Diese Effekte werden angewendet, nachdem der Vergeltungsschaden angewendet wurde.
+>Einige Vergeltungsfertigkeiten umfassen zusätzliche Effekte wie Schieben oder Zustände. Diese Effekte werden angewendet, nachdem der Vergeltungsschaden angewendet wurde.
 
-Ein Vergeltungsbonus ist kein Angriff oder Zieleffekt, daher kann der Schaden nicht durch einen Schildbonus reduziert werden. Wenn eine Vergeltungsfigur durch einen Angriff getötet oder erschöpft wird, wird der Vergeltungsbonus nicht angewendet. Mehrere Vergeltungsboni bilden zusammen eine einzige Schadensquelle, aber jeder Vergeltungsbonus wird nur innerhalb seines angegebenen Bereichs angewendet.
+Ein Vergeltungsbonus ist kein Angriff oder gezielter Effekt, daher kann der Schaden nicht durch einen Schildbonus reduziert werden. Wenn eine Figur mit Vergeltung durch einen Angriff getötet oder erschöpft wird, wird der Vergeltungsbonus nicht angewendet. Mehrere Vergeltungsboni werden zusammengerechnet und bilden eine einzige Schadensquelle, aber jeder Vergeltungsbonus wird nur innerhalb seiner angegebenen Reichweite angewendet.
 
-Eine Vergeltungsfertigkeit gilt für die handelnde Figur, sofern nicht anders angegeben.
+Eine Vergeltungsfertigkeit wird auf die handelnde Figur angewendet, sofern nicht anders angegeben.
 
 ---
 
@@ -699,19 +701,19 @@ Eine Vergeltungsfertigkeit gilt für die handelnde Figur, sofern nicht anders an
 
 Erzwungene Bewegung ist jede negative gezielte Fähigkeit, die es einer Figur ermöglicht, die Bewegung einer anderen Figur zu kontrollieren. Die erzwungene Bewegung muss allen normalen Bewegungsregeln für das Ziel folgen. Wenn beispielsweise eine fliegende Figur gezwungen wird, sich zu bewegen, gilt weiterhin das Fliegen.
 
-Es gibt zwei primäre erzwungene Bewegungsfähigkeiten:
+Es gibt zwei primäre erzwungene Bewegungsfertigkeiten:
 
-<img src="assets/icons/condition_push.png" class="inline-condition"/> "**Schieben X**" zwingt das Ziel, sich bis zu X Felder von der handelnden Figur wegzubewegen. Jedes betretene Hexfeld muss das Ziel in eine größerer Entfernung von der handelnden Figur bringen.
+<img src="assets/icons/condition_push.png" class="inline-condition"/> **„Schieben X“** zwingt das Ziel, sich bis zu X Felder von der handelnden Figur wegzubewegen. Jedes Feld, das betreten wird, muss das Ziel weiter von der handelnden Figur entfernen.
 
-<img src="assets/icons/condition_pull.png" class="inline-condition"/> "**Ziehen X**" zwingt das Ziel, sich bis zu X Felder auf die handelnde Figur zuzubewegen. Jedes betretene Hexfeld muss das Ziel näher an die handelnde Figur bringen.
+<img src="assets/icons/condition_pull.png" class="inline-condition"/> **„Ziehen X“** zwingt das Ziel, sich bis zu X Felder auf die handelnde Figur zuzubewegen. Jedes Feld, das betreten wird, muss das Ziel näher an die handelnde Figur bringen.
 
-Wenn du Schieben oder Ziehen ausführst, bestimmst du die Richtung und Entfernung, in der sich das Ziel bewegt. Wenn Sie das Ziel in ein Gefahrenfeld schieben oder ziehen, erleidet es die Auswirkungen dieses Gefahrenfelds, es sei denn, es fliegt.
+Wenn du Schieben oder Ziehen ausführst, bestimmst du die Richtung und Entfernung, in die sich das Ziel bewegt. Wenn du das Ziel in ein Gefahrenfeld schiebst oder ziehst, erleidet es die Auswirkungen dieses Gefahrenfelds, es sei denn, es fliegt.
 
-Wenn ein Monster Schieben oder Ziehen ausführt, bestimmst du die Richtung, aber das Ziel muss sich so weit wie möglich bewegen. Schwieriges Gelände hat keinen Einfluss auf Schieben und Ziehen. Alle anderen normalen Bewegungsregeln gelten jedoch weiterhin (einschließlich der Regeln für fliegende Figuren). Auch gelähmte Figuren können durch Schieben und Ziehen beeinträchtigt werden.
+Wenn ein Monster Schieben oder Ziehen ausführt, bestimmst du die Richtung, aber das Ziel muss sich so weit wie möglich bewegen. Schwieriges Gelände hat keinen Einfluss auf Schieben und Ziehen. Alle anderen normalen Bewegungsregeln gelten jedoch weiterhin (einschließlich der Regeln für fliegende Figuren). Auch gelähmte Figuren können durch Schieben und Ziehen bewegt werden.
 
 Schieben und Ziehen kann auch als zusätzlicher Effekt zu anderen Fertigkeiten hinzugefügt werden, wodurch die erzwungene Bewegung eines oder mehrerer Ziele dieser Fertigkeit ermöglicht wird, nachdem der Haupteffekt abgehandelt wurde. Wenn es sich bei der Fertigkeit um einen Angriff handelt, kann das Ziel gezwungen werden, sich zu bewegen, selbst wenn der Angriff keinen Schaden verursacht hat. Es kann jedoch nicht dazu gezwungen werden, sich zu bewegen, wenn der Angriff es getötet oder erschöpft hat.
 
-Mehrere Schieben- und Zieheneffekte können kombiniert werden. Wenn beispielsweise eine Fertigkeit mit "<img src="assets/icons/condition_push.png" class="inline-condition"/> **1**" zusätzlich "<img src="assets/icons/condition_push.png" class="inline-condition"/> **2**" erhält, ist das Ergebnis eine "<img src="assets/icons/condition_push.png" class="inline-condition"/> **3**" Fertigkeit.
+Mehrere Schieben- und Zieheneffekte können kombiniert werden. Wenn beispielsweise eine Fertigkeit mit „<img src="assets/icons/condition_push.png" class="inline-condition"/> **1**“ zusätzlich „<img src="assets/icons/condition_push.png" class="inline-condition"/> **2**“ erhält, ist das Ergebnis eine „<img src="assets/icons/condition_push.png" class="inline-condition"/> **3**“ Fertigkeit.
 
 ---
 
@@ -721,13 +723,13 @@ Mehrere Schieben- und Zieheneffekte können kombiniert werden. Wenn beispielswei
 
 ### Kontrolle
 
-**Kontrolle** ermöglicht es dir, ein Monster zu zwingen, eine oder mehrere Fertigkeiten auszuführen. Du entscheidest, wie die Fertigkeiten ausgeführt wird. Während dieser Fertigkeit behandelt die kontrollierte Figur deine Feinde als ihre Feinde.
+**Kontrolle** ermöglicht es dir, ein Monster zu zwingen, eine oder mehrere Fertigkeiten auszuführen. Du entscheidest, wie die Fertigkeiten ausgeführt wird. Während dieser Fertigkeit behandelt die kontrollierte Figur deine Gegner als ihre Gegner.
 
-Wenn eine kontrollierte Bewegungsfertigkeit ausgeführt wird, gilt sie als erzwungene Bewegung. Eine Bewegungsfertigkeit kann nicht kontrolliert werden, wenn die kontrollierte Figur keinen möglichen Weg hat oder bewegungsunfähig ist.
+Wenn eine kontrollierte Bewegungsfertigkeit ausgeführt wird, gilt sie als erzwungene Bewegung. Eine Bewegungsfertigkeit kann nicht unter Kontrolle ausgeführt werden, wenn die kontrollierte Figur keinen möglichen Weg hat oder gelähmt ist.
 
-Wenn eine kontrollierte Angriffsfertigkeit ausgeführt wird, verwendet die kontrollierte Figur ihre eigene Angriffsmodifikatortabelle. Eine Angriffsfertigkeit kann nicht kontrolliert werden, wenn die kontrollierte Figur keine gültigen Ziele hat oder entwaffnet ist.
+Wenn eine kontrollierte Angriffsfertigkeit ausgeführt wird, verwendet die kontrollierte Figur ihre eigene Angriffsmodifikator-Tabelle. Eine Angriffsfertigkeit kann nicht unter Kontrolle ausgeführt werden, wenn die kontrollierte Figur keine gültigen Ziele hat oder entwaffnet ist.
 
-Eine Figur kann kontrolliert werden, um eine "<img src="assets/icons/ability_attack.png" class="inline-icon"/> **X**" oder "<img src="assets/icons/ability_move.png" class="inline-icon"/> **X**" Fertigkeit auszuführen, auch wenn sie in ihrer gewürfelten Aktion für die Runde keine Angriffs- oder Bewegungsfertigkeit haben. Eine kontrollierte Figur behält alle ihre dauerhaften Boni und Sondereigenschaften. Eine kontrollierte Fertigkeit gilt nicht als separater Zug.
+Eine Figur kann kontrolliert werden, um eine „<img src="assets/icons/ability_attack.png" class="inline-icon"/> **X**“- oder „<img src="assets/icons/ability_move.png" class="inline-icon"/> **X**“-Fertigkeit auszuführen, auch wenn sie in ihrer gewürfelten Aktion für diese Runde keine Angriffs- oder Bewegungsfertigkeit hat. Eine kontrollierte Figur behält alle ihre dauerhaften Boni und Sondereigenschaften. Eine kontrollierte Fertigkeit gilt nicht als separater Zug.
 
 ### Schaden erleiden
 
@@ -735,7 +737,7 @@ Einige Fertigkeiten führen dazu, dass Figuren Schaden erleiden, ohne dass ein A
 
 ### Zurückbekommen
 
-<img src="assets/icons/ability_recover_card.png" class="inline-icon"/> **Zurückbekommen** ist eine positive, nicht gezielte Fertigkeit, mit der du abgeworfene, umgedrehte oder verlorene Fertigkeitskarten wiederherstellen kannst (siehe S.28). Du durchsuchst deine Hand, deinen Ablagestapel oder den Verloren-Stapel und wählst soviel Karten bis zu dem durch die Fertigkeit angegebenen Limit aus und nimmst sie auf der A-Seite zurück auf deine Hand.
+<img src="assets/icons/ability_recover_card.png" class="inline-icon"/> **Zurückbekommen** ist eine positive, nicht gezielte Fertigkeit, mit der du abgeworfene, umgedrehte oder verlorene Fertigkeitskarten wiederherstellen kannst (siehe [S.28](#page_28)). Du durchsuchst deine Hand, deinen Ablagestapel oder den Verloren-Stapel und wählst Karten bis zu der durch die Fertigkeit festgelegten Anzahl aus und nimmst sie mit der A-Seite zurück auf deine Hand.
 
 ---
 
@@ -745,13 +747,13 @@ Einige Fertigkeiten führen dazu, dass Figuren Schaden erleiden, ohne dass ein A
 
 ## Das Ziehen des Charakters
 
-Wenn du an der Reihe bist, führst du, sofern du keine lange Pause einlegst (siehe [S.27](#page_27)), die oberste Aktion einer deiner gespielten Fertigkeitskarten und die unterste Aktion der anderen aus. Du kannst nicht zwei obere oder zwei untere Aktionen ausführen. Du kannst egal welche der beide Aktionen zuerst ausführen. Welche Karte für die Initiative ausgewählt wurde, spielt keine Rolle mehr.
+Wenn du an der Reihe bist, führst du, sofern du keine lange Rast einlegst (siehe [S.27](#page_27)), die obere Aktion einer deiner gespielten Fertigkeitskarten und die untere Aktion der anderen aus. Du kannst nicht zwei obere oder zwei untere Aktionen ausführen. Du kannst eine beliebige der beide Aktionen zuerst ausführen. Welche Karte du für die Initiative ausgewählt hast, spielt keine Rolle mehr.
 
-<span class="new-to-bnb">Nach dem Ausspielen werden Fertigkeitskarten der A-Seite auf die B-Seite umgedreht und auf die Hand zurückgenommen, anstatt abgelegt zu werden. Karten der B-Seite werden abgeworfen.</span> Fertigkeitskarten werden um die Seiten der Charakterkarte gelegt: abgelegt Fertigkeitskarten links, verlorene Fertigkeitskarten rechts und aktive Fertigkeitskarten oberhalb der Charakterkarte. Die Karten auf deiner Hand müssen getrennt aufbewahrt werden.
+<span class="new-to-bnb">Nach dem Ausspielen drehst du Fertigkeitskarten von ihrer A-Seite auf ihre B-Seite um und nimmst sie zurück auf die Hand, anstatt sie abzulegen. Karten, die schon auf der B-Seite sind, wirfst du ab.</span> Lege deine Fertigkeitskarten um deine Charakterkarte herum aus: abgelegte Fertigkeitskarten links, verlorene Fertigkeitskarten rechts und aktive Fertigkeitskarten oberhalb der Charakterkarte. Die Karten auf deiner Hand musst du von diesen getrennt halten.
 
 ### Fertigkeitskarten
 
-Fertigkeitskarten, die alle einzigartig sind, bestimmen, welche Aktionen Sie ausführen können.
+Alle Fertigkeitskarten sind einzigartig und bestimmen, welche Aktionen du ausführen kannst.
 
 ![component breakdown of ability card](/assets/diagrams/component_diagram_ability_de.png)
 
@@ -761,14 +763,14 @@ Eine Fertigkeitskarte besteht aus folgenden Teilen:
 <ol type="A">
   <li><strong>Seitenanzeige:</strong> Zeigt an, ob du die A-Seite oder die B-Seite der Karte ansiehst.</li>
   <li><strong>Kartenname:</strong> Der Name der Karte.</li>
-  <li><strong>Stufe:</strong>Die Stufe der Karte. Entweder die Basisstufe 1 oder die verbesserte Stufe 2(siehe <a href="#page_35">S.35</a>).</li>
+  <li><strong>Stufe: </strong>Die Stufe der Karte. Entweder die Basisstufe 1 oder die verbesserte Stufe 2 (siehe <a href="#page_35">S.35</a>).</li>
   <li><strong>Initiativewert:</strong> Dieser Wert bestimmt, wann du während der Runde am Zug bist (siehe <a href="#page_11">S.11</a>).</li>
-  <li><strong>Aktionen:</strong> Jede Karte hat eine obere und eine untere Aktion. Die Fertigkeiten einer Aktion werden von oben nach unten ausgeführt, wobei mehrere Fertigkeiten durch eine Linie getrennt ist.</li>
+  <li><strong>Aktionen:</strong> Jede Karte hat eine obere und eine untere Aktion. Die Fertigkeiten einer Aktion werden von oben nach unten ausgeführt, wobei jede Fertigkeit durch eine Linie abgetrennt ist.</li>
   <li><ol type="a">
-    <li>Eine Aktion kann ein aktives Fertigkeitssymbol enthalten (siehe <a href="#page_21">S.21</a>). In diesem Fall wird die Karte in deinen aktiven Bereich gelegt.</li>
-    <li>Eine Aktion kann ein Verloren-Symbol enthalten (siehe <a href="#page_28">S.28</a>). In diesem Fall wird die Karte nach Ausführung der Aktion auf den Verloren-Stapel gelegt. </li>
+    <li>Eine Aktion kann ein aktives Fertigkeitssymbol enthalten (siehe <a href="#page_21">S.21</a>). In diesem Fall legst du die Karte beim Ausspielen in deinen aktiven Bereich.</li>
+    <li>Eine Aktion kann ein Verloren-Symbol enthalten (siehe <a href="#page_28">S.28</a>). In diesem Fall legst du die Karte nach Ausführung der Aktion auf deinen Verloren-Stapel. </li>
   </ol></li>
-  <li><strong>Grundlegende Aktionssymbole:</strong> Eine Fertigkeitskarte kann immer als eine einfache "<img src="assets/icons/ability_attack.png" class="inline-icon"/> <strong>2</strong>" obere Fertigkeit oder "<img src="assets/icons/ability_move.png" class="inline-icon"/> <strong>2</strong>" untere Fertigkeit verwendet werden. <span class="new-to-bnb"> Wenn eine Karte auf diese Weise verwendet wird, wird die Karte umgedreht und auf die Hand zurückgegeben (wenn sie auf der A-Seite war) oder abgeworfen (wenn sie auf der B-Seite war), als ob sie keine anderen Symbole hätte.</span></li>
+  <li><strong>Standardaktionssymbole:</strong> Du kannst eine Fertigkeitskarte immer für die obere Standardaktion „<img src="assets/icons/ability_attack.png" class="inline-icon"/> <strong>2</strong>“ oder die untere Standardaktion „<img src="assets/icons/ability_move.png" class="inline-icon"/> <strong>2</strong>“ verwenden. <span class="new-to-bnb"> Verwendest du eine Karte auf diese Weise, drehe die Karte anschließend um und nimm sie wieder auf die Hand (falls sie auf der A-Seite war) oder wirf sie ab (falls sie auf der B-Seite war), als ob sie keine anderen Symbole hätte.</span></li>
 </ol>
 
 ---
@@ -779,7 +781,7 @@ Eine Fertigkeitskarte besteht aus folgenden Teilen:
 
 ### Gegenstände
 
-<span class="new-to-bnb">Jede Szenariokarte enthält zwei Gegenständeinträge, die über und unter dem Szenarioeintrag angezeigt werden.</span> Gegenstände bieten eine Vielzahl von Boni und zusätzlichen Fertigkeiten an, die zusätzlich zu den normalen zwei Aktionen pro Runde verwendet werden können.
+<span class="new-to-bnb">Jede Szenariokarte zeigt 2 Gegenständseinträge, die über und unter dem Szenarioeintrag stehen.</span> Gegenstände bieten eine Vielzahl von Boni und zusätzlichen Fertigkeiten, die du zusätzlich zu deinen beiden Aktionen pro Runde verwenden kannst.
 
 ![component breakdown of item entry on scenario card](/assets/diagrams/component_diagram_items_de.png)
 
@@ -788,15 +790,15 @@ Eine Gegenstandskarte besteht aus folgenden Teilen:
 <ol type="A">
   <li><strong>Gegenstandsname:</strong> Der Name des Gegenstands.</li>
   <li><strong>Gegenstandseffekt:</strong> Wann der Gegenstand verwendet werden kann und welchen Bonus oder welche Fertigkeit du erhälst.</li>
-  <li><strong>Gegenstandsverwendung:</strong> Was mit dem Gegenstand passiert, nachdem er verwendet wurde (siehe <a href="#page_26">S.26</a>). Manche Gegenstände werden nur verbraucht, andere gehen verloren. Einige Gegenstände können sogar mehrfach verwendet werden.</li>
+  <li><strong>Gegenstandsverwendung:</strong> Was mit dem Gegenstand passiert, nachdem du ihn verwendet hast (siehe unten). Manche Gegenstände nutzen sich ab, andere gehen verloren. Einige Gegenstände kannst du sogar mehrfach verwenden.</li>
   <li><strong>Gegenstandstyp:</strong> Jeder Gegenstand zählt als einer von drei Typen: <img src="assets/icons/equip_single_hand.png" class="inline-icon"/>, <img src="assets/icons/equip_dual_hand.png" class="inline-icon"/>, or <img src="assets/icons/equip_item.png" class="inline-icon"/>. Diese Typen bestimmen, welche Gegenstände du in ein Szenario mitnehmen kannst.</li>
 </ol>
 
 #### Gegenstandsbeschränkungen
 
-Alle Gegenstände, die du in ein Szenario mitbringst, werden unter deiner Charakterkarte platziert und können wie im Gegenstandseintrag angegeben verwendet werden.
+Alle Gegenstände, die du in ein Szenario mitbringst, platzierst du unterhalb deiner Charakterkarte und darfst sie verwenden, wie im Gegenstandseintrag angegeben.
 
-Du kannst jeden Gegenstand verwenden, solange er verfügbar ist (siehe <a href="#page_35">S.35</a>), aber du kannst nur eine begrenzte Anzahl von Gegenständen in ein Szenario mitnehmen. Du kannst bis zu zwei  <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> Gegenstände oder einen <img src="assets/icons/equip_dual_hand.png" class="inline-icon"/> Gegenstand, und eine Anzahl von <img src="assets/icons/equip_item.png" class="inline-icon"/> Gegenständen bis zur Hälfte der Szenariostufe (aufgerundet) mitnehmen.
+Du kannst jeden Gegenstand verwenden, solange er verfügbar ist (siehe <a href="#page_35">S.35</a>), aber du kannst nur eine begrenzte Anzahl von Gegenständen in ein Szenario mitnehmen. Du kannst bis zu 2 <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> Gegenstände oder 1 <img src="assets/icons/equip_dual_hand.png" class="inline-icon"/> Gegenstand mitnehmen sowie eine Anzahl von <img src="assets/icons/equip_item.png" class="inline-icon"/>-Gegenständen, die der Hälfte der Szenariostufe (aufgerundet) entspricht.
 
 #### Verwendung eines Gegenstands
 
