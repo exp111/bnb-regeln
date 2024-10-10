@@ -1094,7 +1094,7 @@ Wenn du das Szenario abgeschlossen hast, lies den Abschluss des Szenarios, der i
 - 1 Würfel
 
 **Fehlende Teile?** 
-Wenn du feststellst, dass Teile fehlen, kannst du unter folgender Adresse Ersatz anfordern [feuerland-spiele.de](https://www.feuerland-spiele.de/kontakt).
+Wenn du feststellst, dass Teile fehlen, kannst du unter folgender Adresse Ersatz anfordern [feuerland-spiele.de](https://www.feuerland-spiele.de/support/).
 
 ---
 
