@@ -1410,7 +1410,7 @@ Inspiriert durch <em>Gloomholdin</em></p>
 <li>Wende alle verbleibenden Szenarioeffekte an.</li>
 </ol>
 
-<h3>Ein Szenario spielen (<a href="#page_11">S. 11</a>)</h3>
+<h3>Ein Szenario spielen (<a href="#page_10">S. 10</a>)</h3>
 
 <ol>
 <li>Rundenbeginn mit Szenarioeffekten</li>
