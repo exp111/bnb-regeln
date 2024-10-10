@@ -737,7 +737,7 @@ Einige Fertigkeiten führen dazu, dass Figuren Schaden erleiden, ohne dass ein A
 
 ### Zurückbekommen
 
-<img src="assets/icons/ability_recover_card.png" class="inline-icon"/> **Zurückbekommen** ist eine positive, nicht gezielte Fertigkeit, mit der du abgeworfene, umgedrehte oder verlorene Fertigkeitskarten wiederherstellen kannst (siehe [S. 28](#page_28)). Du durchsuchst deine Hand, deinen Ablagestapel oder den Verloren-Stapel und wählst Karten bis zu der durch die Fertigkeit festgelegten Anzahl aus und nimmst sie mit der A-Seite zurück auf deine Hand.
+<img src="assets/icons/ability_recover_card.png" class="inline-icon"/> **Zurückbekommen** ist eine positive, nicht gezielte Fertigkeit, mit der du abgeworfene, umgedrehte oder verlorene Fertigkeitskarten wiederherstellen kannst (siehe [S. 28](#page_28)). Du durchsuchst deine Hand, deinen Ablagestapel und/oder den Verloren-Stapel und wählst Karten bis zu der durch die Fertigkeit festgelegten Anzahl aus und nimmst sie mit der A-Seite zurück auf deine Hand.
 
 ---
 
@@ -1094,7 +1094,7 @@ Wenn du das Szenario abgeschlossen hast, lies den Abschluss des Szenarios, der i
 - 1 Würfel
 
 **Fehlende Teile?** 
-Wenn du feststellst, dass Teile fehlen, kannst du unter folgender Adresse Ersatz anfordern [feuerland-spiele.de](https://www.feuerland-spiele.de/support/).
+Wenn du feststellst, dass Teile fehlen, kannst du unter folgender Adresse Ersatz anfordern: [feuerland-spiele.de](https://www.feuerland-spiele.de/support/).
 
 ---
 
@@ -1371,6 +1371,10 @@ Inspiriert durch <em>Gloomholdin</em></p>
 <h3 id="crowdfunding">Deutsche Übersetzung der Spielregeln</h3>
 
 <p>Wanja Heeren</p>
+
+<h3 id="crowdfunding">Deutsches Lektorat</h3>
+
+<p>Felina Haun</p>
 
 
 
