@@ -397,7 +397,7 @@ Bei einer **Aktion** handelt es sich um eine Reihe von einer oder mehreren Ferti
 
 Monster führen in ihrem Zug 1 Aktion aus. Die gesamte Fertigkeitsspalte gilt als eine einzige Aktion.
 
-Eine Aktion wird durch ihre Fertigkeiten definiert. Wenn eine Aktion z. B. sowohl eine “<img src="assets/icons/ability_move.png" class="inline-icon"/> **2**“-Fertigkeit als auch eine “<img src="assets/icons/ability_attack.png" class="inline-icon"/> **2**“-Fertigkeit beinhaltet, kann sie sowohl als Bewegungs- als auch als Angriffsaktion bezeichnet werden.
+Eine Aktion wird durch ihre Fertigkeiten definiert. Wenn eine Aktion z. B. sowohl eine „<img src="assets/icons/ability_move.png" class="inline-icon"/> **2**“-Fertigkeit als auch eine „<img src="assets/icons/ability_attack.png" class="inline-icon"/> **2**“-Fertigkeit beinhaltet, kann sie sowohl als Bewegungs- als auch als Angriffsaktion bezeichnet werden.
 
 #### Fertigkeiten
 
