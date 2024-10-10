@@ -8,7 +8,7 @@
 
 Dieses Regelwerk für *Gloomhaven: Knöpfe & Krabbler* soll einfach zugänglich, durchsuchbar und ausdruckbar sein. Es wird mit Korrekturen aktualisiert.
 
-Zuletzt aktualisiert: 19.09.2024
+Zuletzt aktualisiert: 10.10.2024
 
 Für mehr Informationen besuche einfach: [feuerland-spiele.de](https://www.feuerland-spiele.de/)
 
@@ -239,7 +239,7 @@ Jede Szenariophase besteht aus drei verschiedenen Schritten:
 > 1. Die bunten Steine stellen die Monster dar. Platziere sie in der Farbe, in der Raumseite angegeben sind. Platziere außerdem deine Charakterfigur auf dem vorgesehenen Startfeld. 
 > 1. Lege beide Angriffsmodifikator-Ablagen bereit. Falls das Szenario Stufe 2 oder höher ist, nimm dir die entsprechende Level-Modifikatorkarte für deinen Charakter und lege sie in die Charaktermodifikator-Ablage. Du kannst einen anderen Monster-Schwierigkeitsgrad als „Standard“ auswählen, indem du die gewählte Monster-Modifikatorkarte für den entsprechenden Schwierigkeitsgrad in die Monstermodifikator-Ablage legst.
 > 1. Halte alle Zustandsmarker, den Würfel und die Symbol-Referenzkarte griffbereit.
-> 1. Entscheide, welche Gegenstände du von den verfügbaren Gegenständen ausrüsten willst. (siehe [S.26](#page_26)).
+> 1. Entscheide, welche Gegenstände du von den verfügbaren Gegenständen ausrüsten willst. (siehe [S. 26](#page_26)).
 > 1. Nimm dir die Fertigkeitskarten der Stufe 1 für deinen Charakter und wähle eine Anzahl an Karten aus, die du verbessern möchtest. Die Anzahl entspricht der Szenariostufe minus 1. Ersetze dann die ausgewählten Fertigkeitskarten der Stufe 1 durch die entsprechenden Fertigkeitskarten der Stufe 2 (abgebildet auf der Rückseite deiner Charakterkarte). Die ausgewählten Karten nimmst du direkt auf deine Hand. 
 > 1. Stelle die Zählscheibe deines Charakters auf deinen maximalen Trefferwert. Diesen findest du auf deiner Charakterkarte in der Tabelle unter der Szenariostufe. Stelle nun die Trefferpunkte-Räder der Monster auf den jeweiligen maximalen Trefferwert des entsprechenden Monsters.
 > 1. Wende alle verbleibenden Szenarioeffekte an. 
@@ -276,7 +276,7 @@ Jede Szenariophase besteht aus drei verschiedenen Schritten:
 <blockquote>
   <ol type="A">
     <li><strong>Startfeld:</strong> Am Anfang des Szenarios stellst du deine Figur auf dieses Feld.</li>
-    <li><strong>Gelände:</strong> Auf diesen Feldern gelten besondere Raumeigenschaften (siehe <a href="#page_9">S.9</a>).</li>
+    <li><strong>Gelände:</strong> Auf diesen Feldern gelten besondere Raumeigenschaften (siehe <a href="#page_9">S. 9</a>).</li>
     <li><strong>Monsterfelder:</strong> Auf diesen Feldern ist ein Monster abgebildet. Platziere den jeweilgen Monsterwürfel auf dem Feld mit der entsprechenden Farbe.</li>
     <li><strong>Besondere Felder:</strong> Diese Felder sind mit einem Buchstaben markiert und werden in den Sonderregeln des Szenarios erläutert.</li>
   </ol>
@@ -311,7 +311,7 @@ Jedes Szenario besteht aus verschiedenen Geländetypen. Dieser Typ wird durch di
 <blockquote>
   <div class="float-container">
     <span class="floating-image"><img src="assets/icons/terrain_hazard.png" height="48"/></span>
-    <p>Wenn eine Figur ohne zu fliegen oder springen ein Gefahrenfeld betritt, wird ein Effekt auf diese Figur angewendet. Es gibt viele verschiedene Effekte und sie werden auf der jeweiligen Szenariokarte spezifiziert. Figuren erleiden keinen Effekt, wenn sie auf einem Gefahrenfeld eine Runde beginnen oder dieses verlassen. Falls eine Figur aber eine Sprungbewegung auf einem Gefahrenfeld beendet, wird der Effekt angewendet. Wenn sich eine Figur auf einem Gefahrenfeld „<strong>Lähmung</strong> <img src="assets/icons/condition_immobilize.png" class="inline-condition"/>“ befindet (siehe <a href="#page_20">S.20</a>), gilt sie als Hindernis für die Bewegung anderer Figuren.</p>
+    <p>Wenn eine Figur ohne zu fliegen oder springen ein Gefahrenfeld betritt, wird ein Effekt auf diese Figur angewendet. Es gibt viele verschiedene Effekte und sie werden auf der jeweiligen Szenariokarte spezifiziert. Figuren erleiden keinen Effekt, wenn sie auf einem Gefahrenfeld eine Runde beginnen oder dieses verlassen. Falls eine Figur aber eine Sprungbewegung auf einem Gefahrenfeld beendet, wird der Effekt angewendet. Wenn sich eine Figur auf einem Gefahrenfeld „<strong>Lähmung</strong> <img src="assets/icons/condition_immobilize.png" class="inline-condition"/>“ befindet (siehe <a href="#page_20">S. 20</a>), gilt sie als Hindernis für die Bewegung anderer Figuren.</p>
   </div>
 </blockquote>
 
@@ -348,13 +348,13 @@ Diese Schritte werden wiederholt, bis das Szenarioziel erreicht ist.
 
 ## Rundenbeginn mit Szenarioeffekten
 
-Wende zu Beginn der Runde alle Effekte aus den Szenarioregeln an, wie zum Beispiel das Einsteigen von Monstern. Du kannst diese Effekte in beliebiger Reihenfolge anwenden, das Einsteigen sollte jedoch gleichzeitig passieren.  (siehe [S.32](#page_32)).
+Wende zu Beginn der Runde alle Effekte aus den Szenarioregeln an, wie zum Beispiel das Einsteigen von Monstern. Du kannst diese Effekte in beliebiger Reihenfolge anwenden, das Einsteigen sollte jedoch gleichzeitig passieren.  (siehe [S. 32](#page_32)).
 
 ## Kartenauswahl
 
-Nachdem du alle Effekte angewendet hast, wählst du 2 Fertigkeitskarten aus deiner Hand aus, die du während der Runde ausspielst. Eine dieser beiden Karten gilt als Initiativkarte. Der Initiativewert in der Mitte der Karte bestimmt deine Position in der Initiativreihenfolge.  (siehe [S.11](#page_11)).
+Nachdem du alle Effekte angewendet hast, wählst du 2 Fertigkeitskarten aus deiner Hand aus, die du während der Runde ausspielst. Eine dieser beiden Karten gilt als Initiativkarte. Der Initiativewert in der Mitte der Karte bestimmt deine Position in der Initiativreihenfolge.  (siehe [S. 11](#page_11)).
 
-Alternativ kannst du eine lange Rast ansagen, wenn du mindestens 2 Karten auf der Hand und/oder im Ablagestapel hast. (siehe [S.27](#page_27)). Machst du eine lange Rast, brauchst du dafür deine ganze Runde, hast dabei Initiative 99 und wählst und spielst keine Karten.
+Alternativ kannst du eine lange Rast ansagen, wenn du mindestens 2 Karten auf der Hand und/oder im Ablagestapel hast. (siehe [S. 27](#page_27)). Machst du eine lange Rast, brauchst du dafür deine ganze Runde, hast dabei Initiative 99 und wählst und spielst keine Karten.
 
 ---
 
@@ -375,7 +375,7 @@ Wenn ein Gleichstand zwischen deiner Intitative und der eines Monsters besteht, 
 
 ## Reihenfolge der Monster
 
-Jedes Monster ist gemäß der Initiativreihenfolge am Zug. Alle Monster des gleichen Typs haben die gleiche Initiative und sind in aufsteigender numerischer Reihenfolge am Zug. (siehe [S.30](#page_30)).
+Jedes Monster ist gemäß der Initiativreihenfolge am Zug. Alle Monster des gleichen Typs haben die gleiche Initiative und sind in aufsteigender numerischer Reihenfolge am Zug. (siehe [S. 30](#page_30)).
 
 ---
 
@@ -407,7 +407,7 @@ Besteht eine Aktion aus mehreren Fertigkeiten, werden diese durch Fertigkeitslin
 
 Führe Fertigkeiten innerhalb einer Aktion immer in der Reihenfolge aus, in der sie angegeben sind. Figuren können keine neue Fertigkeit ausführen, während sie bereits eine Fertigkeit ausführen, mit Ausnahme der Fertigkeiten von Angriffsmodifikatoren.
 
-Du darfst Charakterfertigkeiten überspringen, solange sie nicht verpflichtend sind (siehe [S.27](#page_27)).
+Du darfst Charakterfertigkeiten überspringen, solange sie nicht verpflichtend sind (siehe [S. 27](#page_27)).
 
 ---
 
@@ -425,7 +425,7 @@ Wenn „Ziele“ nicht spezifisch aufgeführt ist, ist der Zielwert 1. Es kann a
 
 #### Gezielte Fertigkeiten
 
-Angriffe ([S.18](#page_18)), Zustände ([S.20](#page_20)), Heilungen ([S.21](#page_21)), erzwungene Bewegungen ([S.23](#page_23)) und das Kontrollieren von Figuren ([S.24](#page_24)) sind die einzigen gezielten Fertigkeiten. Diese können nicht ausgeführt werden, wenn kein gütliges Ziel in Reichweite ist.
+Angriffe ([S. 18](#page_18)), Zustände ([S. 20](#page_20)), Heilungen ([S. 21](#page_21)), erzwungene Bewegungen ([S. 23](#page_23)) und das Kontrollieren von Figuren ([S. 24](#page_24)) sind die einzigen gezielten Fertigkeiten. Diese können nicht ausgeführt werden, wenn kein gütliges Ziel in Reichweite ist.
 
 #### Verbündete, Gegner und man selbst
 
@@ -455,7 +455,7 @@ Fertigkeiten mit einem Wirkungsbereich lassen die handelnde Figur mehrere Felder
 
 <div class="float-container">
   <span class="floating-image"><img src="assets/icons/hex_player.png" height="48"/></span>
-  <p>Ein graues Feld markiert das Feld, auf dem die handelnde Figur sich befindet. Jeder Angriff mit einem Wirkungsbereich, bei dem ein graues Feld abgebildet ist, gilt als Nahkampfangriff (siehe <a href="#page_18">S.18</a>).</p>
+  <p>Ein graues Feld markiert das Feld, auf dem die handelnde Figur sich befindet. Jeder Angriff mit einem Wirkungsbereich, bei dem ein graues Feld abgebildet ist, gilt als Nahkampfangriff (siehe <a href="#page_18">S. 18</a>).</p>
 </div>
 
 <div class="float-container">
@@ -473,7 +473,7 @@ Wenn eine Fertigkeit mit einem Wirkunsbereich „**+1** <img src="assets/icons/a
 
 #### Besondere Effekte
 
-Besondere Effekte sind an eine Fertigkeit angehängt und verändern sie auf irgendeine Weise. Häufige besondere Effekte, wie „<img src="assets/icons/condition_push.png" class="inline-condition"/> **X**“, „<img src="assets/icons/condition_pull.png" class="inline-condition"/> **X**“ oder Zustände stehen normalerweise in dem hervorgehobenen Abschnitt rechts von der Fertigkeit. Alle bedingten Effekte – also solche, die vom Verbrauch eines Elementes (siehe [S.16](#page_16)) oder der Zahlung anderer Kosten abhängen – sind unter der Fertigkeit in einem hervorgehoben Abschnitt mit gepunkteter Umrandung angegeben.
+Besondere Effekte sind an eine Fertigkeit angehängt und verändern sie auf irgendeine Weise. Häufige besondere Effekte, wie „<img src="assets/icons/condition_push.png" class="inline-condition"/> **X**“, „<img src="assets/icons/condition_pull.png" class="inline-condition"/> **X**“ oder Zustände stehen normalerweise in dem hervorgehobenen Abschnitt rechts von der Fertigkeit. Alle bedingten Effekte – also solche, die vom Verbrauch eines Elementes (siehe [S. 16](#page_16)) oder der Zahlung anderer Kosten abhängen – sind unter der Fertigkeit in einem hervorgehoben Abschnitt mit gepunkteter Umrandung angegeben.
 Du darfst besondere Effekte überspringen, musst aber vor dem Würfeln des Angriffsmodifikators entscheiden, ob du dies tun willst. Bedingte Effekte darfst du ebenfalls überspringen. Du bist nicht verpflichtet, die Kosten zu bezahlen. Und selbst wenn du die Kosten bezahlt hast, kannst du dich noch dafür entscheiden, den Effekt nicht anzuwenden. Im Falle eines überspringbaren Effekts, der an eine Angriffsfertigkeit mit mehreren Zielen angehängt ist, kannst du dich bei jedem einzelnen Ziel entscheiden, ob du den Effekt anwendest oder nicht. Auch hier muss das immer vor dem Würfeln des Angriffsmodifikators geschehen, sofern es nicht anders angeben ist.
 
 Komplexere besondere Effekte können unter einer Fertigkeit erläutert werden, aber nicht jeder Text unter einer Fertigkeit ist ein besonderer Effekt. Jeder Text, der Regeln für die Ausführung einer Fertigkeit (z.B. eine Zielbeschränkung) enthält, ist ein fester Bestandteil dieser Fertigkeit und du kannst ihn nicht überspringen.
@@ -525,7 +525,7 @@ Schwieriges Gelände wird beim springen vollständig ignoriert.
 
 ### Fliegen
 
-<img src="assets/icons/ability_flight.png" class="inline-icon"/> **„Fliegen“** ist ein aktiver Bonus (siehe [S.21](#page_21)). Fliegen erlaubt es einer Figur, alle Gegner, Hindernisse, Gefahren und Zielobjekte zu ignorieren, auch auf dem letzten Feld. Allerdings kann eine fliegende Figur ihre Bewegung immer noch nicht auf einem Feld beenden, das schon von einer anderen Figur besetzt ist (und umgekehrt).
+<img src="assets/icons/ability_flight.png" class="inline-icon"/> **„Fliegen“** ist ein aktiver Bonus (siehe [S. 21](#page_21)). Fliegen erlaubt es einer Figur, alle Gegner, Hindernisse, Gefahren und Zielobjekte zu ignorieren, auch auf dem letzten Feld. Allerdings kann eine fliegende Figur ihre Bewegung immer noch nicht auf einem Feld beenden, das schon von einer anderen Figur besetzt ist (und umgekehrt).
 
 ---
 
@@ -545,11 +545,11 @@ Ein **Angriff** ist ein einzelner Angriff, der gegen 1 Ziel ausgeführt wird. Ei
 
 Wenn ein Angriff ausgeführt wird, kann der auf der Karte angegebene Grundangriffswert auf drei verschiedene Arten verändert werden, die in der folgenden Reihenfolge erfolgen:
 
-1. Alle anwendbaren Angriffsboni und -strafen – wie z. B.  „**±X** <img src="assets/icons/ability_attack.png" class="inline-icon"/>“-Effekte, einschließlich Gift    (siehe [S.20](#page_20)) – werden angewendet.
+1. Alle anwendbaren Angriffsboni und -strafen – wie z. B.  „**±X** <img src="assets/icons/ability_attack.png" class="inline-icon"/>“-Effekte, einschließlich Gift    (siehe [S. 20](#page_20)) – werden angewendet.
 1. Ein Angriffsmodifikator wird gewürflet und angewendet.
-1. Der Schildbonus des Ziels wird angewendet (siehe [S.22](#page_22)).
+1. Der Schildbonus des Ziels wird angewendet (siehe [S. 22](#page_22)).
 
-Sobald alle Modifikationen angewendet wurden, erleidet das Ziel den resultierenden Schaden. Wenn das Ziel über Fertigkeiten oder Effekte verfügt, die eine Schadensquelle negieren können, einschließlich des Abwerfens oder Verlierens von Karten, um Schaden zu negieren (siehe [S.28](#page_28)), kann es diese jetzt benutzen.
+Sobald alle Modifikationen angewendet wurden, erleidet das Ziel den resultierenden Schaden. Wenn das Ziel über Fertigkeiten oder Effekte verfügt, die eine Schadensquelle negieren können, einschließlich des Abwerfens oder Verlierens von Karten, um Schaden zu negieren (siehe [S. 28](#page_28)), kann es diese jetzt benutzen.
 
 Diese Schritte werden für jedes einzelne Ziel der Angriffsfertigkeit wiederholt. Das bedeutet, dass verschiedene Ziele, die mit der gleichen Angriffsfertigkeit angegriffen werden, unterschiedlich viel Schaden erleiden können.
 
@@ -561,14 +561,14 @@ Diese Schritte werden für jedes einzelne Ziel der Angriffsfertigkeit wiederholt
 > 
 > Du hast deine eigene Angriffsmodifikator-Ablage, während alle Monster sich eine einzige Ablage teilen.
 > 
-> Jede Charakterklasse und alle Monster beginnen mit einer Standartablage mit 6× <img src="assets/icons/modifier_plus_0.png" class="inline-element"/>, 4× <img src="assets/icons/modifier_plus_1.png" class="inline-element"/>, 4× <img src="assets/icons/modifier_minus_1.png" class="inline-element"/>, 1× <img src="assets/icons/modifier_plus_2.png" class="inline-element"/>, 1× <img src="assets/icons/modifier_minus_2.png" class="inline-element"/>, 1× <img src="assets/icons/modifier_2x.png" class="inline-element"/>, und 1× <img src="assets/icons/modifier_miss.png" class="inline-element"/>. Jede Charakterklassenablage verbessert sich im Verlauf der Kampagne (siehe [S.35](#page_35)) und ermöglicht so andere Effekte.
+> Jede Charakterklasse und alle Monster beginnen mit einer Standartablage mit 6× <img src="assets/icons/modifier_plus_0.png" class="inline-element"/>, 4× <img src="assets/icons/modifier_plus_1.png" class="inline-element"/>, 4× <img src="assets/icons/modifier_minus_1.png" class="inline-element"/>, 1× <img src="assets/icons/modifier_plus_2.png" class="inline-element"/>, 1× <img src="assets/icons/modifier_minus_2.png" class="inline-element"/>, 1× <img src="assets/icons/modifier_2x.png" class="inline-element"/>, und 1× <img src="assets/icons/modifier_miss.png" class="inline-element"/>. Jede Charakterklassenablage verbessert sich im Verlauf der Kampagne (siehe [S. 35](#page_35)) und ermöglicht so andere Effekte.
 > 
 > Ein Angriffsmodifikator kann Folgendes haben:
 
 <quoteblock>
   <ol type="A">
     <li><strong>Modifikatorwert:</strong> Dieser Wert modifiziert den Angriffswert. Der <img src="assets/icons/modifier_miss.png" class="inline-element"/>-Modifikator reduziert den endgültigen Angriffswert auf Null. Der <img src="assets/icons/modifier_2x.png" class="inline-element"/>-Modifikator verdoppelt den aktuellen Angriffswert.</li>
-    <li><strong>Zusätzliche Effekte:</strong> Einige Modifikatoren haben Zustände (siehe <a href="#page_20">S.20</a>) oder andere zusätzliche Effekte. Bei Aktivierung funktionieren diese zusätzlichen Effekte genau so, wie es auf der Angriffsfertigkeit steht.</li>
+    <li><strong>Zusätzliche Effekte:</strong> Einige Modifikatoren haben Zustände (siehe <a href="#page_20">S. 20</a>) oder andere zusätzliche Effekte. Bei Aktivierung funktionieren diese zusätzlichen Effekte genau so, wie es auf der Angriffsfertigkeit steht.</li>
   </ol>
 </quoteblock>
 
@@ -582,7 +582,7 @@ Diese Schritte werden für jedes einzelne Ziel der Angriffsfertigkeit wiederholt
 
 Ein Angriffseffekt ist ein Effekt, der mit einem Angriff verbunden ist. Diese Effekte werden entweder während der Schadensabwicklung oder nach dem Angriff angewendet. Wenn der Angriffseffekt nach dem Angriff angewendet wird, wird er auch dann angewendet, fals der Angriff keinen Schaden verursacht (auch bei einem <img src="assets/icons/modifier_miss.png" class="inline-element"/>-Modifikator).
 
-Der Angreifer muss entscheiden, ob er Angriffseffekte anwenden möchte, bevor er einen Angriffsmodifikator würfelt. Alle Angriffseffekte außer <img src="assets/icons/ability_target.png" class="inline-icon"/> werden vor jedem Vergeltungsbonus angewendet (siehe [S.22](#page_22)). Der <img src="assets/icons/ability_target.png" class="inline-icon"/>-Effekt ermöglicht es dem Angreifer, zusätzliche Angriffe auszuführen, und jeder Angriff muss vollständig abgehandelt werden, bevor ein anderer ausgeführt werden kann.
+Der Angreifer muss entscheiden, ob er Angriffseffekte anwenden möchte, bevor er einen Angriffsmodifikator würfelt. Alle Angriffseffekte außer <img src="assets/icons/ability_target.png" class="inline-icon"/> werden vor jedem Vergeltungsbonus angewendet (siehe [S. 22](#page_22)). Der <img src="assets/icons/ability_target.png" class="inline-icon"/>-Effekt ermöglicht es dem Angreifer, zusätzliche Angriffe auszuführen, und jeder Angriff muss vollständig abgehandelt werden, bevor ein anderer ausgeführt werden kann.
 
 Einige Angriffe verfügen über Fertigkeiten (z. B. Heilfertigkeiten) die keine Angriffseffekte, aber dennoch mit dem Angriff verbunden sind. Diese Fertigkeiten werden ausgeführt, nachdem der Angriff vollständig abgehandelt wurde (einschließlich etwaiger Vergeltungsboni).
 
@@ -600,7 +600,7 @@ Jeder Fernangriff auf einen benachbarten Gegner erhält automatisch Nachteil.
 
 #### Durchstechen
 
-<img src="assets/icons/condition_pierce.png" class="inline-condition"/> **„Durchstechen X“** ist ein zusätzlicher Effekt, der den Schildbonus des Ziels (siehe [S.22](#page_22)) um X reduziert. Mehrere „<img src="assets/icons/condition_pierce.png" class="inline-condition"/> **X**“ Effekte können kombiniert werden. Wenn beispielsweise ein Angriff mit „<img src="assets/icons/condition_pierce.png" class="inline-condition"/> **2**“ zusätzlich „<img src="assets/icons/condition_pierce.png" class="inline-condition"/> **3**“ bekommt, würde der Effekt den Schildbonus des Ziels für diesen Angriff um 5 reduzieren.
+<img src="assets/icons/condition_pierce.png" class="inline-condition"/> **„Durchstechen X“** ist ein zusätzlicher Effekt, der den Schildbonus des Ziels (siehe [S. 22](#page_22)) um X reduziert. Mehrere „<img src="assets/icons/condition_pierce.png" class="inline-condition"/> **X**“ Effekte können kombiniert werden. Wenn beispielsweise ein Angriff mit „<img src="assets/icons/condition_pierce.png" class="inline-condition"/> **2**“ zusätzlich „<img src="assets/icons/condition_pierce.png" class="inline-condition"/> **3**“ bekommt, würde der Effekt den Schildbonus des Ziels für diesen Angriff um 5 reduzieren.
 
 ---
 
@@ -659,13 +659,13 @@ Eine einzige Heilung kann jede beliebige Kombination aus Wunde und Gift von eine
 
 Eine aktive Bonusfähigkeit ist jede Fertigkeit, die einer Figur oder ihren Verbündeten einen aktiven Bonus verleiht. Wenn ein Charakter eine aktive Bonusfertigkeit ausführt, wird die Karte in seinen aktiven Bereich gelegt, um den Bonus festzuhalten.
 
-> Aktive Bonusfertigkeiten haben Symbole, die die Dauer der von ihnen gewährten Boni anzeigen. Wenn ein Bonus abläuft, wird die Karte aus dem aktiven Bereich des Charakters entfernt, auch wenn die Aktion andere aktive Bonusfähigkeiten hat. Karte, die auf ihrer A-Seite ist, drehst du dabei auf ihre B-Seite um und nimmst sie zurück auf die Hand. Eine Karte, die auf ihrer B-Seite ist, legst du auf deinen Ablagestapel oder deinen Verloren-Stapel, falls die Aktion ein Verloren-Symbol hat (siehe [S.28](#page_28)).
+> Aktive Bonusfertigkeiten haben Symbole, die die Dauer der von ihnen gewährten Boni anzeigen. Wenn ein Bonus abläuft, wird die Karte aus dem aktiven Bereich des Charakters entfernt, auch wenn die Aktion andere aktive Bonusfähigkeiten hat. Karte, die auf ihrer A-Seite ist, drehst du dabei auf ihre B-Seite um und nimmst sie zurück auf die Hand. Eine Karte, die auf ihrer B-Seite ist, legst du auf deinen Ablagestapel oder deinen Verloren-Stapel, falls die Aktion ein Verloren-Symbol hat (siehe [S. 28](#page_28)).
 
 <img src="assets/icons/use_round_bonus.png" class="inline-icon"/> **Rundenboni:** Diese Boni werden aktiviert, wenn die Fertigkeit ausgeführt wird, und laufen am Ende der Runde ab.
 
 <img src="assets/icons/use_persistent_bonus.png" class="inline-icon"/> **Dauerhafte Boni:** Diese Boni werden aktiviert, wenn die Fertigkeit ausgeführt wird, und laufen ab, wenn die angegebene Entfernungsbedingung erfüllt ist.
 
-Ein Charakter kann freiwillig eine Karte mit einem dauerhaften Bonus (aber keinem Rundenbonus) aus seinem aktiven Bereich entfernen, bevor der Bonus abläuft, sodass der Bonus nicht mehr aktiv ist. Dies kann zu jeder Zeit gemacht werden, außer während einer anderen Fertigkeit. Da du Karten mit dauerhaften Boni in deinem aktiven Bereich entfernen darfst, darfst du sie so behandeln, als wären sie in dem Bereich, in den du sie verschiebst, sobald du sie entfernst. <span class="new-to-bnb">Dieser Bereich ist für Karten auf der A-Seite deine Hand, für Karten auf der B-Seite dein Ablagestapel oder für alle Karten mit einem Verloren-Symbol der Verloren-Stapel. Daher kannst du Karten mit dauerhaften Boni in deinem aktiven Bereich auf die beiden Karten <span class="new-to-bnb">in deiner Hand und/oder deinem Ablagestapel anrechnen, die zum Rasten erforderlich sind (siehe <a href="#page_27">S.27</a>). Ebenso kannst du sie ablegen und dann auf den Ablage- oder Verluststapel legen, um Schaden zu verhindern (siehe <a href="#page_28">S.28</a>).</span> Wenn du abgeworfene Karten (z. B. durch Rasten) oder verlorene Karten (durch Sonderaktionen) zurückholst, hast du die Wahl, Karten in deinem aktiven Bereich zurückzuholen oder sie im aktiven Bereich zu belassen.
+Ein Charakter kann freiwillig eine Karte mit einem dauerhaften Bonus (aber keinem Rundenbonus) aus seinem aktiven Bereich entfernen, bevor der Bonus abläuft, sodass der Bonus nicht mehr aktiv ist. Dies kann zu jeder Zeit gemacht werden, außer während einer anderen Fertigkeit. Da du Karten mit dauerhaften Boni in deinem aktiven Bereich entfernen darfst, darfst du sie so behandeln, als wären sie in dem Bereich, in den du sie verschiebst, sobald du sie entfernst. <span class="new-to-bnb">Dieser Bereich ist für Karten auf der A-Seite deine Hand, für Karten auf der B-Seite dein Ablagestapel oder für alle Karten mit einem Verloren-Symbol der Verloren-Stapel. Daher kannst du Karten mit dauerhaften Boni in deinem aktiven Bereich auf die beiden Karten <span class="new-to-bnb">in deiner Hand und/oder deinem Ablagestapel anrechnen, die zum Rasten erforderlich sind (siehe <a href="#page_27">S. 27</a>). Ebenso kannst du sie ablegen und dann auf den Ablage- oder Verluststapel legen, um Schaden zu verhindern (siehe <a href="#page_28">S. 28</a>).</span> Wenn du abgeworfene Karten (z. B. durch Rasten) oder verlorene Karten (durch Sonderaktionen) zurückholst, hast du die Wahl, Karten in deinem aktiven Bereich zurückzuholen oder sie im aktiven Bereich zu belassen.
 
 Aktionen mit aktiven Bonusfertigkeiten können auch noch andere Fertigkeiten haben. Diese anderen Fertigkeiten führst du jedoch nur in dem Moment aus, in dem du die Karte ausspielst. Es gibt eine Vielzahl aktiver Bonusfertigkeiten. Normalerweise werden diese Fertigkeiten durch einen Text definiert. Zwei davon sind besonders gängig und haben zusätzliche Regeln.
 
@@ -737,7 +737,7 @@ Einige Fertigkeiten führen dazu, dass Figuren Schaden erleiden, ohne dass ein A
 
 ### Zurückbekommen
 
-<img src="assets/icons/ability_recover_card.png" class="inline-icon"/> **Zurückbekommen** ist eine positive, nicht gezielte Fertigkeit, mit der du abgeworfene, umgedrehte oder verlorene Fertigkeitskarten wiederherstellen kannst (siehe [S.28](#page_28)). Du durchsuchst deine Hand, deinen Ablagestapel oder den Verloren-Stapel und wählst Karten bis zu der durch die Fertigkeit festgelegten Anzahl aus und nimmst sie mit der A-Seite zurück auf deine Hand.
+<img src="assets/icons/ability_recover_card.png" class="inline-icon"/> **Zurückbekommen** ist eine positive, nicht gezielte Fertigkeit, mit der du abgeworfene, umgedrehte oder verlorene Fertigkeitskarten wiederherstellen kannst (siehe [S. 28](#page_28)). Du durchsuchst deine Hand, deinen Ablagestapel oder den Verloren-Stapel und wählst Karten bis zu der durch die Fertigkeit festgelegten Anzahl aus und nimmst sie mit der A-Seite zurück auf deine Hand.
 
 ---
 
@@ -747,7 +747,7 @@ Einige Fertigkeiten führen dazu, dass Figuren Schaden erleiden, ohne dass ein A
 
 ## Das Ziehen des Charakters
 
-Wenn du an der Reihe bist, führst du, sofern du keine lange Rast einlegst (siehe [S.27](#page_27)), die obere Aktion einer deiner gespielten Fertigkeitskarten und die untere Aktion der anderen aus. Du kannst nicht zwei obere oder zwei untere Aktionen ausführen. Du kannst eine beliebige der beide Aktionen zuerst ausführen. Welche Karte du für die Initiative ausgewählt hast, spielt keine Rolle mehr.
+Wenn du an der Reihe bist, führst du, sofern du keine lange Rast einlegst (siehe [S. 27](#page_27)), die obere Aktion einer deiner gespielten Fertigkeitskarten und die untere Aktion der anderen aus. Du kannst nicht zwei obere oder zwei untere Aktionen ausführen. Du kannst eine beliebige der beide Aktionen zuerst ausführen. Welche Karte du für die Initiative ausgewählt hast, spielt keine Rolle mehr.
 
 <span class="new-to-bnb">Nach dem Ausspielen drehst du Fertigkeitskarten von ihrer A-Seite auf ihre B-Seite um und nimmst sie zurück auf die Hand, anstatt sie abzulegen. Karten, die schon auf der B-Seite sind, wirfst du ab.</span> Lege deine Fertigkeitskarten um deine Charakterkarte herum aus: abgelegte Fertigkeitskarten links, verlorene Fertigkeitskarten rechts und aktive Fertigkeitskarten oberhalb der Charakterkarte. Die Karten auf deiner Hand musst du von diesen getrennt halten.
 
@@ -763,12 +763,12 @@ Eine Fertigkeitskarte besteht aus folgenden Teilen:
 <ol type="A">
   <li><strong>Seitenanzeige:</strong> Zeigt an, ob du die A-Seite oder die B-Seite der Karte ansiehst.</li>
   <li><strong>Kartenname:</strong> Der Name der Karte.</li>
-  <li><strong>Stufe: </strong>Die Stufe der Karte. Entweder die Basisstufe 1 oder die verbesserte Stufe 2 (siehe <a href="#page_35">S.35</a>).</li>
-  <li><strong>Initiativewert:</strong> Dieser Wert bestimmt, wann du während der Runde am Zug bist (siehe <a href="#page_11">S.11</a>).</li>
+  <li><strong>Stufe: </strong>Die Stufe der Karte. Entweder die Basisstufe 1 oder die verbesserte Stufe 2 (siehe <a href="#page_35">S. 35</a>).</li>
+  <li><strong>Initiativewert:</strong> Dieser Wert bestimmt, wann du während der Runde am Zug bist (siehe <a href="#page_11">S. 11</a>).</li>
   <li><strong>Aktionen:</strong> Jede Karte hat eine obere und eine untere Aktion. Die Fertigkeiten einer Aktion werden von oben nach unten ausgeführt, wobei jede Fertigkeit durch eine Linie abgetrennt ist.</li>
   <li><ol type="a">
-    <li>Eine Aktion kann ein aktives Fertigkeitssymbol enthalten (siehe <a href="#page_21">S.21</a>). In diesem Fall legst du die Karte beim Ausspielen in deinen aktiven Bereich.</li>
-    <li>Eine Aktion kann ein Verloren-Symbol enthalten (siehe <a href="#page_28">S.28</a>). In diesem Fall legst du die Karte nach Ausführung der Aktion auf deinen Verloren-Stapel. </li>
+    <li>Eine Aktion kann ein aktives Fertigkeitssymbol enthalten (siehe <a href="#page_21">S. 21</a>). In diesem Fall legst du die Karte beim Ausspielen in deinen aktiven Bereich.</li>
+    <li>Eine Aktion kann ein Verloren-Symbol enthalten (siehe <a href="#page_28">S. 28</a>). In diesem Fall legst du die Karte nach Ausführung der Aktion auf deinen Verloren-Stapel. </li>
   </ol></li>
   <li><strong>Standardaktionssymbole:</strong> Du kannst eine Fertigkeitskarte immer für die obere Standardaktion „<img src="assets/icons/ability_attack.png" class="inline-icon"/> <strong>2</strong>“ oder die untere Standardaktion „<img src="assets/icons/ability_move.png" class="inline-icon"/> <strong>2</strong>“ verwenden. <span class="new-to-bnb"> Verwendest du eine Karte auf diese Weise, drehe die Karte anschließend um und nimm sie wieder auf die Hand (falls sie auf der A-Seite war) oder wirf sie ab (falls sie auf der B-Seite war), als ob sie keine anderen Symbole hätte.</span></li>
 </ol>
@@ -798,11 +798,11 @@ Eine Gegenstandskarte besteht aus folgenden Teilen:
 
 Alle Gegenstände, die du in ein Szenario mitbringst, platzierst du unterhalb deiner Charakterkarte und darfst sie verwenden, wie im Gegenstandseintrag angegeben.
 
-Du kannst jeden Gegenstand verwenden, solange er verfügbar ist (siehe <a href="#page_35">S.35</a>), aber du kannst nur eine begrenzte Anzahl von Gegenständen in ein Szenario mitnehmen. Du kannst bis zu 2 <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> Gegenstände oder 1 <img src="assets/icons/equip_dual_hand.png" class="inline-icon"/> Gegenstand mitnehmen sowie eine Anzahl von <img src="assets/icons/equip_item.png" class="inline-icon"/>-Gegenständen, die der Hälfte der Szenariostufe (aufgerundet) entspricht.
+Du kannst jeden Gegenstand verwenden, solange er verfügbar ist (siehe <a href="#page_35">S. 35</a>), aber du kannst nur eine begrenzte Anzahl von Gegenständen in ein Szenario mitnehmen. Du kannst bis zu 2 <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> Gegenstände oder 1 <img src="assets/icons/equip_dual_hand.png" class="inline-icon"/> Gegenstand mitnehmen sowie eine Anzahl von <img src="assets/icons/equip_item.png" class="inline-icon"/>-Gegenständen, die der Hälfte der Szenariostufe (aufgerundet) entspricht.
 
 #### Verwendung eines Gegenstands
 
-<img src="assets/icons/use_tap_card.png" class="inline-icon"/> **Abgenutzt-Symbol:** Das Abgenutzt-Symbol bedeutet, dass der Gegenstand nach der Verwendung verbraucht ist. Um dies anzuzeigen, drehst du die Karte quer. Abgenutzte Gegenstände kannst du bei der nächsten langen Rast wieder zurückbekommen (siehe [S.27](#page_27)).
+<img src="assets/icons/use_tap_card.png" class="inline-icon"/> **Abgenutzt-Symbol:** Das Abgenutzt-Symbol bedeutet, dass der Gegenstand nach der Verwendung verbraucht ist. Um dies anzuzeigen, drehst du die Karte quer. Abgenutzte Gegenstände kannst du bei der nächsten langen Rast wieder zurückbekommen (siehe [S. 27](#page_27)).
 
 <img src="assets/icons/use_lost.png" class="inline-icon"/> **Verloren-Symbol:** Das Verloren-Symbol bedeutet, dass der Gegenstand nach der Verwendung verloren geht. Um dies anzuzeigen, legst du die Karte wieder auf den Stapel mit unbenutzten Gegenständen zurück. Verlorene Gegenstände kannst du für den Rest des Szenarios nicht mehr verwenden.
 
@@ -824,16 +824,16 @@ Zwangsauslöser sind Effekte oder Fertigkeiten, die nicht übersprungen werden k
 
 ### Rasten
 
-Rasten ist die wichtigste Methode, Karten von deinem Ablagestapel zurückzubekommen. Es gibt zwei Möglichkeiten: eine kurze Pause oder eine lange Pause. <span class="new-to-bnb">In beiden Fällen kannst du das Rasten nur durchführen, wenn du mindestens 2 Karten auf der Hand und/oder im Ablagestapel hast. (Dazu gehören auch Karten mit dauerhaften Boni in deinem aktiven Bereich (siehe <a href="#page_21">S.21</a>) solange du sie nicht für eine Aktion mit Verloren-Symbol verwendet hast.)</span> Das Rasten führt dazu, dass du eine Karte verlierst.
+Rasten ist die wichtigste Methode, Karten von deinem Ablagestapel zurückzubekommen. Es gibt zwei Möglichkeiten: eine kurze Pause oder eine lange Pause. <span class="new-to-bnb">In beiden Fällen kannst du das Rasten nur durchführen, wenn du mindestens 2 Karten auf der Hand und/oder im Ablagestapel hast. (Dazu gehören auch Karten mit dauerhaften Boni in deinem aktiven Bereich (siehe <a href="#page_21">S. 21</a>) solange du sie nicht für eine Aktion mit Verloren-Symbol verwendet hast.)</span> Das Rasten führt dazu, dass du eine Karte verlierst.
 
-Während des Schritts „Rundenende“ (siehe [S.33](#page_33)), kannst du eine kurze Rast einlegen. <span class="new-to-bnb">Wenn du eine kurze Rast machst, nimmst du alle Karten von deinem Ablagestapel zurück auf deine Hand, drehst alle Karten mit B-Seite in deiner Hand auf die A-Seite und verlierst dann 1 zufällige Karte deiner Hand.</span> Wenn du die verlorene Karte behalten möchtest, kannst du 1 Schaden erleiden, um stattdessen eine andere, zufällige Karte zu verlieren. Dies ist jedoch nur einmal pro kurzer Rast möglich.
+Während des Schritts „Rundenende“ (siehe [S. 33](#page_33)), kannst du eine kurze Rast einlegen. <span class="new-to-bnb">Wenn du eine kurze Rast machst, nimmst du alle Karten von deinem Ablagestapel zurück auf deine Hand, drehst alle Karten mit B-Seite in deiner Hand auf die A-Seite und verlierst dann 1 zufällige Karte deiner Hand.</span> Wenn du die verlorene Karte behalten möchtest, kannst du 1 Schaden erleiden, um stattdessen eine andere, zufällige Karte zu verlieren. Dies ist jedoch nur einmal pro kurzer Rast möglich.
 
-Während der Kartenauswahl (siehe [S.10](#page_10)), kannst du eine lange Rast ansagen, statt 2 Karten von deiner Hand auszuwählen. Dies stellt dann deinen gesamten Zug für diese Runde dar (anstatt zwei Karten auszuspielen) und du führst ihn mit Initiative 99 aus. Befolge diese Schritte, wenn du eine lange Rast machst:
+Während der Kartenauswahl (siehe [S. 10](#page_10)), kannst du eine lange Rast ansagen, statt 2 Karten von deiner Hand auszuwählen. Dies stellt dann deinen gesamten Zug für diese Runde dar (anstatt zwei Karten auszuspielen) und du führst ihn mit Initiative 99 aus. Befolge diese Schritte, wenn du eine lange Rast machst:
 1. <span class="new-to-bnb"> Nimm alle Karten von deinem Ablagestapel zurück auf deine Hand und drehe alle Karten mit B-Seite in deiner Hand auf die A-Seite. Anschließend verlierst du 1 Karte deiner Wahl aus deiner Hand (verpflichtend).</span>
 1. Führe „**Heilung 2, selbst**“ durch (optional).
 1. Bekomme alle abgenutzten Gegenstände zurück (optional). Du darfst die Gegenstände in derselben Runde verwenden, in der du sie zurückbekommen hast.
    
-Beim Rasten musst du immer 1 Karte verlieren. Wenn du keine weiteren Karten auf der Hand hast, die du verlieren kannst, musst du stattdessen eine der Karten in deinem aktiven Bereich verlieren, die nicht über ein Verloren-Symbol verfügen. Befinden sich im aktiven Bereich auch keine Karten, die verloren gehen können, handle die weiteren Schritte der Rast ab und überprüfe zu Beginn der nächsten Runde wie gewohnt, ob du erschöpft bist (siehe [S.28](#page_28)).
+Beim Rasten musst du immer 1 Karte verlieren. Wenn du keine weiteren Karten auf der Hand hast, die du verlieren kannst, musst du stattdessen eine der Karten in deinem aktiven Bereich verlieren, die nicht über ein Verloren-Symbol verfügen. Befinden sich im aktiven Bereich auch keine Karten, die verloren gehen können, handle die weiteren Schritte der Rast ab und überprüfe zu Beginn der nächsten Runde wie gewohnt, ob du erschöpft bist (siehe [S. 28](#page_28)).
 
 
 ---
@@ -1011,7 +1011,7 @@ Nachdem alle Figuren auf der Karte am Zug waren, beginnt der Schritt „Rundenen
   - Karten auf der A-Seite: Drehe sie auf die B-Seite und nimm sie wieder auf die Hand
   - Karten auf der B-Seite: Lege sie auf deinen Ablagestapel 
   - Wenn die Karte ein Verloren-Symbol hat, lege sie auf deinen Verloren-Symbol
-1. Wenn du mindestens 2 Karten auf der Hand und/oder im Ablagestapel hast, darfst du eine kurze Pause einlegen (siehe [S.27](#page_27)).
+1. Wenn du mindestens 2 Karten auf der Hand und/oder im Ablagestapel hast, darfst du eine kurze Pause einlegen (siehe [S. 27](#page_27)).
 
 ### Runden zählen
 
@@ -1393,7 +1393,7 @@ Inspiriert durch <em>Gloomholdin</em></p>
 <table>
 <tr><td>
 
-<h3>Ein Szenario beginnen (<a href="#page_7">S.7</a>)</h3>
+<h3>Ein Szenario beginnen (<a href="#page_7">S. 7</a>)</h3>
 
 <ol>
 <li>Wähle ein Szenario aus.</li>
@@ -1410,7 +1410,7 @@ Inspiriert durch <em>Gloomholdin</em></p>
 <li>Wende alle verbleibenden Szenarioeffekte an.</li>
 </ol>
 
-<h3>Ein Szenario spielen (<a href="#page_11">S.11</a>)</h3>
+<h3>Ein Szenario spielen (<a href="#page_11">S. 11</a>)</h3>
 
 <ol>
 <li>Rundenbeginn mit Szenarioeffekten</li>
@@ -1419,19 +1419,19 @@ Inspiriert durch <em>Gloomholdin</em></p>
 <li>Charakter- und Monsterzüge</li>
 </ol>
 
-<h3>Gezielte Fertigkeiten(<a href="#page_13">S.13</a>)</h3>
+<h3>Gezielte Fertigkeiten(<a href="#page_13">S. 13</a>)</h3>
 
 <ul>
-<li>Angriff (<a href="#page_18">S.18</a>)</li>
-<li>Zustände (<a href="#page_20">S.20</a>)</li>
-<li>Heilen (<a href="#page_21">S.21</a>)</li>
-<li>Erzwungene Bewegungen (<a href="#page_23">S.23</a>)</li>
-<li>Kontrolle (<a href="#page_24">S.24</a>)</li>
+<li>Angriff (<a href="#page_18">S. 18</a>)</li>
+<li>Zustände (<a href="#page_20">S. 20</a>)</li>
+<li>Heilen (<a href="#page_21">S. 21</a>)</li>
+<li>Erzwungene Bewegungen (<a href="#page_23">S. 23</a>)</li>
+<li>Kontrolle (<a href="#page_24">S. 24</a>)</li>
 </ul>
 
 </td><td>
 
-<h3>Reihenfolge der Angriffsmodifikatoren (<a href="#page_18">S.18</a>)</h3>
+<h3>Reihenfolge der Angriffsmodifikatoren (<a href="#page_18">S. 18</a>)</h3>
 
 <ol>
 <li>Wende alle Angriffsboni und -strafen an.</li>
@@ -1439,7 +1439,7 @@ Inspiriert durch <em>Gloomholdin</em></p>
 <li>Wende den Schildbonus des Ziels an.</li>
 </ol>
 
-<h3>Rundenende (<a href="#page_33">S.33</a>)</h3>
+<h3>Rundenende (<a href="#page_33">S. 33</a>)</h3>
 
 <ol>
 <li>Löse alle „am Ende der Runde“-Effekte aus.</li>
@@ -1447,7 +1447,7 @@ Inspiriert durch <em>Gloomholdin</em></p>
 <li>Führe bei Bedarf eine kurze Rast durch.</li>
 </ol>
 
-<h3>Ein Szenario beenden (<a href="#page_34">S.34</a>)</h3>
+<h3>Ein Szenario beenden (<a href="#page_34">S. 34</a>)</h3>
 
 <h4>Egal ob du das Szenario verloren oder abgeschlossen hast:</h4>
 
@@ -1473,12 +1473,12 @@ Inspiriert durch <em>Gloomholdin</em></p>
 <h3>Zeitpunkt der Angriffseffekte</h3>
 
 <ul>
-<li>+X Angriff (<a href="#page_18">S.18</a>) – während der Schadensermittlung</li>
-<li>Durchstechen (<a href="#page_19">S.19</a>) – während der Schadensermittlung</li>
-<li>+X Ziele (<a href="#page_13">S.13</a>) – nachdem der Angriff ausgeführt wurde</li>
-<li>Zustände (<a href="#page_20">S.20</a>) – nachdem der Angriff ausgeführt wurde</li>
-<li>Erzwungene Bewegungen (<a href="#page_23">S.23</a>) – nachdem der Angriff ausgeführt wurde</li>
-<li>Andere zusätzliche Effekte (<a href="#page_19">S.19</a>) – nachdem der Angriff ausgeführt wurde</li>
+<li>+X Angriff (<a href="#page_18">S. 18</a>) – während der Schadensermittlung</li>
+<li>Durchstechen (<a href="#page_19">S. 19</a>) – während der Schadensermittlung</li>
+<li>+X Ziele (<a href="#page_13">S. 13</a>) – nachdem der Angriff ausgeführt wurde</li>
+<li>Zustände (<a href="#page_20">S. 20</a>) – nachdem der Angriff ausgeführt wurde</li>
+<li>Erzwungene Bewegungen (<a href="#page_23">S. 23</a>) – nachdem der Angriff ausgeführt wurde</li>
+<li>Andere zusätzliche Effekte (<a href="#page_19">S. 19</a>) – nachdem der Angriff ausgeführt wurde</li>
 </ul>
 
 </td></tr>
@@ -1486,7 +1486,7 @@ Inspiriert durch <em>Gloomholdin</em></p>
 </div>
 
 
-### Szenariostufe ([S.8](#page_8))
+### Szenariostufe ([S. 8](#page_8))
 
 |	Szenariostufe	          |	1	|	2	|	3	|	4	|	5	|
 | :---                      |:---:|:---:|:---:|:---:|:---:|
