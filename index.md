@@ -802,11 +802,11 @@ Du kannst jeden Gegenstand verwenden, solange er verfügbar ist (siehe <a href="
 
 #### Verwendung eines Gegenstands
 
-<img src="assets/icons/use_tap_card.png" class="inline-icon"/> **Verbrauchtsymbol:** Das Verbraucht-Symbol bedeutet, dass der Gegenstand nach der Verwendung verbraucht ist. Dies wird durch seitliches Drehen der Karte angezeigt. Verbrauchte Gegenstände können bei der nächsten langen Pause wiederhergestellt werden (siehe [S.27](#page_27)).
+<img src="assets/icons/use_tap_card.png" class="inline-icon"/> **Abgenutzt-Symbol:** Das Abgenutzt-Symbol bedeutet, dass der Gegenstand nach der Verwendung verbraucht ist. Um dies anzuzeigen, drehst du die Karte quer. Abgenutzte Gegenstände kannst du bei der nächsten langen Rast wieder zurückbekommen (siehe [S.27](#page_27)).
 
-<img src="assets/icons/use_lost.png" class="inline-icon"/> **Verloren-Symbol:** Das Verloren-Symbol bedeutet, dass der Gegenstand nach der Verwendung verloren geht. Dies wird dadurch angezeigt, dass die Karte wieder auf den Stapel der unbenutzten Gegenstände gelegt wird. Verlorene Gegenstände können für den Rest des Szenarios nicht wieder verwendet werden.
+<img src="assets/icons/use_lost.png" class="inline-icon"/> **Verloren-Symbol:** Das Verloren-Symbol bedeutet, dass der Gegenstand nach der Verwendung verloren geht. Um dies anzuzeigen, legst du die Karte wieder auf den Stapel mit unbenutzten Gegenständen zurück. Verlorene Gegenstände kannst du für den Rest des Szenarios nicht mehr verwenden.
 
-Einige Gegenstände verfügen nicht über eines dieser Symbole. Das bedeutet, dass der Gegenstand einen passiven Effekt ausübt. Es gibt keine Begrenzung, wie oft ein Gegenstand mit passivem Effekt verwendet werden kann.
+Einige Gegenstände verfügen nicht über eines dieser Symbole. Das bedeutet, dass der Gegenstand einen passiven Effekt hat. Es gibt keine Begrenzung dafür, wie oft du einen Gegenstand mit einem passiven Effekt verwenden kannst.
 
 
 ---
@@ -817,23 +817,23 @@ Einige Gegenstände verfügen nicht über eines dieser Symbole. Das bedeutet, da
 
 ### Zwangsauslöser
 
-Zwangsauslöser sind Effekte oder Fertigkeiten, die nicht übersprungen werden können, wenn ein Teil der Aktion ausgeführt wird. In solchen Fällen wird die Fertigkeit oder der Effekt in einem Kästchen mit einem „!“ davor hervorgehoben. Dazu gehören:
+Zwangsauslöser sind Effekte oder Fertigkeiten, die nicht übersprungen werden können, sobald irgendein Teil der Aktion ausgeführt wird. In solchen Fällen wird die Fertigkeit oder der Effekt in einem Kästchen mit einem „!“ davor hervorgehoben. Dazu gehören:
 - **Negative Fertigkeiten:** Die angegebene Fertigkeit erzeugt einen negativen Effekt für dich.
-- **Verloren-Symbol:** Die Karte muss auf den Verloren-Stapel gelegt werden.
-- **aktive Fertigkeitssymbole:** Die Karte muss in deinem aktiven Bereich platziert werden.
+- **Verloren-Symbol:** Du musst die Karte auf deinen Verloren-Stapel legen.
+- **Aktive Fertigkeitssymbole:** Du musst die Karte in deinen aktiven Bereich legen.
 
 ### Rasten
 
-Rasten ist die wichtigste Möglichkeit, Karten von deinem Ablagestapel zurückzunehmen. Es gibt zwei Möglichkeiten: eine kurze Pause oder eine lange Pause. <span class="new-to-bnb">In beiden Fällen kann das Rasten nur durchgeführt werden, wenn du mindestens zwei Karten auf der Hand und/oder im Ablagestapel hast. (Dazu gehören auch Karten mit dauerhaften Boni in deinem aktiven Bereich (siehe <a href="#page_21">S.21</a>) solange sie nicht für eine Aktion mit dem Verloren-Symbol verwendet wurden.)</span> Das Rasten führt immer zum Verlieren einer Karte.
+Rasten ist die wichtigste Methode, Karten von deinem Ablagestapel zurückzubekommen. Es gibt zwei Möglichkeiten: eine kurze Pause oder eine lange Pause. <span class="new-to-bnb">In beiden Fällen kannst du das Rasten nur durchführen, wenn du mindestens 2 Karten auf der Hand und/oder im Ablagestapel hast. (Dazu gehören auch Karten mit dauerhaften Boni in deinem aktiven Bereich (siehe <a href="#page_21">S.21</a>) solange du sie nicht für eine Aktion mit Verloren-Symbol verwendet hast.)</span> Das Rasten führt dazu, dass du eine Karte verlierst.
 
-Während einem Rundenende (siehe [S.33](#page_33)), kannst du eine kurze Pause einlegen. <span class="new-to-bnb">Wenn du eine kurze Pause machst, nimmst du alle Karten von deinem Ablagestapel zurück auf deine Hand, drehst alle Karten der B-Seite in deiner Hand auf die A-Seite und verlierst dann eine zufällige Karte deiner Hand.</span> Wenn du die verlorene Karte jeddoch behalten möchten, kannst du 1 Schaden erleiden, um stattdessen eine andere, zufällige Karte zu verlieren. Dies ist nur einmal pro kurzer Pause möglich.
+Während des Schritts „Rundenende“ (siehe [S.33](#page_33)), kannst du eine kurze Rast einlegen. <span class="new-to-bnb">Wenn du eine kurze Rast machst, nimmst du alle Karten von deinem Ablagestapel zurück auf deine Hand, drehst alle Karten mit B-Seite in deiner Hand auf die A-Seite und verlierst dann 1 zufällige Karte deiner Hand.</span> Wenn du die verlorene Karte behalten möchtest, kannst du 1 Schaden erleiden, um stattdessen eine andere, zufällige Karte zu verlieren. Dies ist jedoch nur einmal pro kurzer Rast möglich.
 
-Während der Kartenauswahl (siehe [S.10](#page_10)), kannst du eine lange Pause ankündigen. Dies stellt dann deinen gesamten Zug für die Runde dar (anstatt zwei Karten auszuspielen) und wird auf Initiative 99 ausgeführt. Wenn du eine lange Pause machst, befolgst du diese Schritte:
-1. <span class="new-to-bnb"> Nimm alle Karten von deinem Ablagestapel zurück auf deine Hand und drehe alle Karten der B-Seite in deiner Hand auf die A-Seite. Anschließend verlierst du eine Karte deiner Wahl aus deiner Hand (verpflichtend).</span>
+Während der Kartenauswahl (siehe [S.10](#page_10)), kannst du eine lange Rast ansagen, statt 2 Karten von deiner Hand auszuwählen. Dies stellt dann deinen gesamten Zug für diese Runde dar (anstatt zwei Karten auszuspielen) und du führst ihn mit Initiative 99 aus. Befolge diese Schritte, wenn du eine lange Rast machst:
+1. <span class="new-to-bnb"> Nimm alle Karten von deinem Ablagestapel zurück auf deine Hand und drehe alle Karten mit B-Seite in deiner Hand auf die A-Seite. Anschließend verlierst du 1 Karte deiner Wahl aus deiner Hand (verpflichtend).</span>
 1. Führe „**Heilung 2, selbst**“ durch (optional).
-1. Hole alle verbrauchten Gegenstände zurück (optional). Gegenstände können in derselben Runde verwendet werden, in der sie wiederhergestellt werden.
-
-Beim Rasten muss eine Karte verloren gehen. Wenn du keine weiteren Karten auf der Hand hast, die du verlieren kannst, musst du stattdessen eine der Karten in deinem aktiven Bereich verlieren, die nicht über ein Verloren-Symbol verfügen. Befinden sich im aktiven Bereich auch keine Karten, die verloren gehen können, werden die weiteren Schritte der Pause abgehandelt und zu Beginn der nächsten Runde wird wie immer auf eine mögliche Erschöpfung geprüft.
+1. Bekomme alle abgenutzten Gegenstände zurück (optional). Du darfst die Gegenstände in derselben Runde verwenden, in der du sie zurückbekommen hast.
+   
+Beim Rasten musst du immer 1 Karte verlieren. Wenn du keine weiteren Karten auf der Hand hast, die du verlieren kannst, musst du stattdessen eine der Karten in deinem aktiven Bereich verlieren, die nicht über ein Verloren-Symbol verfügen. Befinden sich im aktiven Bereich auch keine Karten, die verloren gehen können, handle die weiteren Schritte der Rast ab und überprüfe zu Beginn der nächsten Runde wie gewohnt, ob du erschöpft bist (siehe [S.28](#page_28)).
 
 
 ---
@@ -844,31 +844,31 @@ Beim Rasten muss eine Karte verloren gehen. Wenn du keine weiteren Karten auf de
 
 ### Aktionen mit Verloren-Symbol
 
-<img src="assets/icons/use_lost.png" class="inline-icon"/> Aktionen mit Verloren-Symbol können nur einmal ausgeführt werden. Wenn eine Aktion das Verloren-Symbol hat, muss die Karte nach Durchführung der Aktion (ganz oder teilweise) auf deinen Verloren-Stapel gelegt werden, wo sie bis zum Ende des Szenarios liegen bleibt (sofern sie nicht wiederhergestellt wird).
+<img src="assets/icons/use_lost.png" class="inline-icon"/> Aktionen mit Verloren-Symbol kannst du nur einmal ausführen. Wenn eine Aktion das Verloren-Symbol hat, musst du die Karte nach Durchführung der Aktion (ganz oder teilweise) auf deinen Verloren-Stapel legen, wo sie bis zum Ende des Szenarios liegen bleibt (sofern du sie nicht zurückbekommen kannst).
 
-Wenn die Aktion mit Verloren-Symbol dazu verwendet wurde, eine aktive Bonusfertigkeit auszuführen, gilt die Karte dennoch als verloren und muss vom aktiven Bereich auf den Verloren-Stapel verschoben werden, sobald der aktive Bonus nicht mehr wirksam ist.
+Wenn du die Aktion mit Verloren-Symbol dazu verwendet hast, eine aktive Bonusfertigkeit auszuführen, gilt die Karte dennoch als verloren und du musst sie vom aktiven Bereich auf deinen Verloren-Stapel verschieben, sobald der aktive Bonus nicht mehr wirksam ist.
 
-Einige Aktionen mit Verloren-Symbol haben das <img src="assets/icons/use_nonreturn_card.png" class="inline-icon"/> Symbol. Wenn du eine Aktion mit Verloren-Symbol mit diesem Symbol ausführst, kann die Karte bis zum Ende des Szenarios auf keinen Fall wiederhergestellt werden. Lege diese Karte auf den Verloren-Stapel und drehe sie zur Erinnerung um 180 Grad, sodass sie auf dem Kopf steht.
+Einige Aktionen mit Verloren-Symbol haben das <img src="assets/icons/use_nonreturn_card.png" class="inline-icon"/>-Symbol. Wenn du eine Aktion mit Verloren-Symbol mit diesem Symbol ausführst, kannst du diese Karte bis zum Ende des Szenarios auf keinen Fall mehr zurückbekommen. Lege diese Karte auf den Verloren-Stapel und drehe sie zur Erinnerung um 180 Grad, sodass sie auf dem Kopf steht.
 
 ### Charakterschaden
 
-Wenn du Schaden in beliebiger Höhe erleidest, musst du entweder deine Trefferpunktskala um diesen Betrag reduzieren oder den Schaden negieren. Schaden kann auf zwei Arten negiert werden:
+Wenn du Schaden in beliebiger Höhe erleidest, musst du entweder deine Trefferpunkte-Zählscheibe um diesen Betrag reduzieren oder den Schaden negieren. Schaden kann auf zwei Arten negiert werden:
 - **Fertigkeit oder Effekt:** Du kannst eine aktive Fertigkeit oder einen aktiven Effekt verwenden, der Schaden negiert.
 
-> - **Kartenverlust:** Du kannst den Schaden auf drei Arten negieren, indem du Karten abwirfst oder verlierst:
->   - **Wirf** eine A-Karte deiner Wahl aus deiner **Hand** auf den Ablagestapel.
->   - **Wirf** zwei B-Karten deiner Wahl aus deiner **Hand** auf den Ablagestapel.
->   - **Verliere** eine Karte deiner Wahl aus deinem **Hand- oder Ablagestapel**.
+> - **Kartenverlust:** Du kannst Schaden durch Abwerfen oder Verlieren von Karten auf eine von drei Arten negieren:
+>   - **Wirf** 1 A-Karte deiner Wahl aus deiner **Hand** auf den Ablagestapel.
+>   - **Wirf** 2 B-Karten deiner Wahl aus deiner **Hand** auf den Ablagestapel.
+>   - **Verliere** 1 Karte deiner Wahl aus deiner **Hand- oder vom Ablagestapel**.
 
-Wenn du während einer Runde noch nicht an der Reihe bist, befinden sich die Karten, die du im Schritt „Kartenauswahl“ ausgewählt hast, weder auf deiner Hand, noch im Ablagestapel und können daher nicht abgeworfen oder verloren werden, um Schaden zu negieren.
+Wenn du während einer Runde noch nicht am Zug warst, befinden sich die Karten, die du im Schritt „Kartenauswahl“ ausgewählt hast, weder auf deiner Hand noch im Ablagestapel. Du kannst sie daher nicht abwerfen oder verlieren, um Schaden zu negieren.
 
-Selbst wenn der Schaden negiert wird, werden Effekte oder Zustände der Schadensquelle weiterhin angewendet.
+Selbst wenn du Schaden negierst, musst du Effekte oder Zustände, die die Schadensquelle zufügt, weiterhin anwenden.
 
 ### Erschöpfung
 
 Du kannst auf zwei Arten erschöpft werden:
-- **Keine Trefferpunkte:** Wenn du auf deiner Trefferpunktskala Null erreichst.
-- **Keine Karten:** Wenn du zu Beginn einer Runde nicht mindestens zwei Karten auf der Hand (zum Ausspielen) oder mindestens zwei Karten auf der Hand und/oder im Ablagestapel (zum Rasten) hast.
+- **Keine Trefferpunkte:** Wenn du auf deiner Trefferpunkte-Zählscheibe Null erreichst.
+- **Keine Karten:** Wenn du zu Beginn einer Runde nicht mindestens 2 Karten auf der Hand (zum Ausspielen) oder mindestens 2 Karten auf der Hand und/oder im Ablagestapel (zum Rasten) hast.
 
 Wenn du erschöpft bist, verlierst du das Szenario.
 
@@ -880,7 +880,7 @@ Wenn du erschöpft bist, verlierst du das Szenario.
 
 ##  Monsterzüge
 
-Wenn ein Monster an der Reihe ist, führt es Fertigkeiten basierend auf der gewürfelten Aktion für seinen Monstertyp aus. Die Fertigkeiten der Monster werden nach bestimmten Richtlinien automatisiert, sodass Sie nur sehr wenige Entscheidungen über das Verhalten der Monster treffen müssen.
+Wenn ein Monster am Zug ist, führt es Fertigkeiten basierend auf der gewürfelten Aktion für seinen Monstertyp aus. Die Fertigkeiten der Monster werden nach bestimmten Richtlinien automatisiert, sodass du nur sehr wenige Entscheidungen treffen musst, was das Verhalten der Monster angeht.
 
 ### Monsterkarten
 
@@ -892,23 +892,22 @@ Eine Monsterkarte kann aus folgenden Teilen bestehen:
 
 <ol type="A">
   <li><strong>Monstername:</strong> Der Name des Monstertyps.</li>
-  <li><strong>Trefferpunktwert:</strong> Dies ist der Gesamtschaden, den ein Monster dieser Art erleiden kann, bevor es stirbt.</li>
+  <li><strong>Trefferpunktewert:</strong> Dies ist der Gesamtschaden, den ein Monster dieser Art erleiden kann, bevor es stirbt.</li>
   <li><strong>Angriffseffekte:</strong> Diese Effekte gelten für alle Angriffsfertigkeiten, die von Monstern dieses Typs ausgeführt werden.
 </li>
   <li><strong>Dauerhafte Boni:</strong> Die aktiven Boni, die alle Monster dieser Art für das gesamte Szenario haben.</li>
   <li><strong>Zustandsimmunitäten:</strong> Dies sind Zustände, die ein Monster dieser Art aufgrund der Immunität nicht erhalten kann.</li>
-  <li><span class="new-to-bnb"><strong>Aktionsspalten:</strong> Jeder Monstertyp verfügt über drei Aktionsspalten. Nachdem du deine Fertigkeitskarten für die Runde ausgewählt hast, wird für jeden Monstertyp, von dem sich derzeit mindestens eine Figur im Spiel befindet, eine Aktion gewürfelt. Diese Aktion bestimmt, wann und wie sich die Monster dieser Art während der Runde verhalten. Die Fertigkeiten einer Aktion werden von oben nach unten ausgeführt, wobei jede Fertigkeit durch eine Linie getrennt ist. Jede Aktionsspalte enthält Folgendes:
+  <li><span class="new-to-bnb"><strong>Aktionsspalten:</strong> Jeder Monstertyp verfügt über drei Aktionsspalten. Nachdem du deine Fertigkeitskarten für die Runde ausgewählt hast, würfelst du für jeden Monstertyp eine Aktion, von dem sich derzeit mindestens 1 Figur im Spiel befindet. Diese Aktion bestimmt, wann und wie sich die Monster dieser Art während der Runde verhalten. Die Fertigkeiten einer Aktion werden von oben nach unten ausgeführt, wobei jede Fertigkeit durch eine Linie getrennt ist. Jede Aktionsspalte enthält Folgendes:
 </span></li>
   <li><ol type="a">
     <li><strong>Initiativewert:</strong> Dieser Wert bestimmt, wann die Monster dieser Art während der Runde am Zug sind.
 </li>
-    <li><strong>Liste der Fertigkeiten:</strong> Diese Liste gibt an, welche Fertigkeiten die Monster dieses Typs in ihren Zügen und in welcher Reihenfolge ausführen.
+    <li><strong>Liste der Fertigkeiten:</strong> Diese Liste gibt an, welche Fertigkeiten die Monster dieses Typs in ihren Zügen ausführen und in welcher Reihenfolge.
 </li>
   </ol></li>
 </ol>
 
-**Jedes Monster führt in der aktuellen Runde nur die Fertigkeit aus, die in der gewürfelten Aktion für seinen Monstertyp angegeben ist.** Wenn in der gewürfelten Aktion beispielsweise keine Bewegungsfertigkeit angegeben ist, wird es sich nicht bewegen. Wenn die gewürfelte Aktion keine Angriffsfertigkeit ist, greift das Monster nicht an.
-
+**Jedes Monster führt nur die Fertigkeiten aus, die in der für seinen Monstertyp in der aktuellen Runde gewürfelten Aktion angegeben sind.** Wenn in der gewürfelten Aktion beispielsweise keine Bewegungsfertigkeit angegeben ist, wird das Monster sich nicht bewegen. Wenn in der gewürfelten Aktion keine Angriffsfertigkeit angegeben ist, wird es nicht angreifen.
 
 ---
 
@@ -918,25 +917,25 @@ Eine Monsterkarte kann aus folgenden Teilen bestehen:
 
 ### Zugreihenfolge der Monster
 
-Alle Monster jedes Typs handeln basierend auf dem Initiativewert, der für ihren Typ in der aktuellen Runde gewürfelt wurde. <span class="new-to-bnb">Alle Monster eines Typs handeln während sie an der Reihe sind in aufsteigender numerischer Reihenfolge.</span> Jedes Monster beendet seinen Zug, bevor das nächste Monster handelt.
+Alle Monster jedes Typs handeln basierend auf dem Initiativewert, den du in der aktuellen Runde für ihren Typ gewürfelt hast. <span class="new-to-bnb">Sind sie in Inititativreihenfolge am Zug, handeln alle Monster eines Typs in aufsteigender numerischer Reihenfolge.</span> Jedes Monster handelt seinen Zug vollständig ab, bevor das nächste Monster handelt.
 
 ### Fokus
 
 > Da es sich bei Knöfpe & Krabbler um ein Solospiel handelt, bist du der einzige Fokus der Monster. Sie greifen dich mit allen Angriffen und negativen Zielfähigkeiten an.
 
-Das Monster identifiziert das nächstgelegene Hexfeld, von dem aus es seine Angriffsfertigkeit ausführen kann, als "Angriffsfeld". Wenn das Monster in seinem Zug nicht angreifen kann, weil es keine Angriffsfertigkeit besitzt oder entwaffnet ist, bewegt es sich wie bei einem Einzelziel-Nahkampfangriff. Das Monster folgt dem kürzesten Weg zu seinem Angriffsfeld. Wenn es das Angriffsfeld in dieser Runde nicht erreichen kann, wählt es den kürzesten Weg, der es so nah wie möglich an das Angriffsfeld bringt. Wenn es in diesem Zug nicht näher an das Angriffsfeld herankommen kann, bewegt es sich nicht.
+Das Monster identifiziert das nächstgelegene Feld, von dem aus es seine Angriffsfertigkeit ausführen kann. Dieses Feld ist das „Angriffsfeld“. Wenn das Monster in seinem Zug nicht angreifen kann, weil es keine Angriffsfertigkeit besitzt oder entwaffnet ist, bewegt es sich, als würde es einen Nahkampfangriff gegen ein einzelnes Ziel ausführen. Das Monster folgt dem kürzesten Weg zu seinem Angriffsfeld. Wenn es das Angriffsfeld in dieser Runde nicht erreichen kann, wählt es den kürzesten Weg, der es so nah wie möglich an das Angriffsfeld bringt. Wenn es in diesem Zug nicht näher an das Angriffsfeld herankommen kann, bewegt es sich nicht.
 
-„Am nächsten“ und „Am kürzesten“ bedeuten, dass die wenigsten Bewegungspunkte verwendet werden, um Hindernisse und Gefahren (wenn möglich) zu umgehen und/oder durch schwieriges Gelände zu navigieren, wobei die normalen, Sprung- und Flugbewegungsregeln verwendet werden.
+„So nah wie möglich“ und „kürzester Weg“ bedeuten, dass das Monster immer so wenige Bewegungspunkte wie möglich verwendet, um Hindernisse und Gefahren (wenn möglich) zu umgehen und/oder durch schwieriges Gelände zu navigieren, wobei die normalen Bewegungsregeln gelten, einschließlich Springen und Fliegen.
 
 
 #### Pfadpriorität
 
-Monster bevorzugen immer einen Weg, der die wenigsten Gefahren auslöst, auch wenn das bedeutet, dass sie das Ziel in diesem Zug nicht erreichen. Monster lösen nur dann Gefahren aus, wenn es keinen anderen Weg gibt, einen Feind anzugreifen. Wenn ein Monster beispielsweise angreifen könnte, indem es sich zwei Felder durch ein Gefahrenfeld bewegt oder indem es sich 10 Felder bewegt und der Gefahr ausweicht, würde es den längeren Weg wählen. Es spielt keine Rolle, ob das Monster in seinem aktuellen Zug tatsächlich das Ende des Weges erreichen kann.
+Monster bevorzugen immer einen Weg, der die wenigsten Gefahren auslöst, auch wenn das bedeutet, dass sie das Ziel in diesem Zug nicht erreichen. Monster lösen nur dann Gefahren aus, wenn es keinen anderen Weg gibt, einen Gegner anzugreifen. Wenn ein Monster beispielsweise angreifen könnte, indem es sich zwei Felder durch ein Gefahrenfeld bewegt oder indem es sich 10 Felder bewegt und der Gefahr ausweicht, würde es den längeren Weg wählen. Es spielt keine Rolle, ob das Monster in seinem aktuellen Zug tatsächlich das Ende des Weges erreichen kann.
 
 
 #### Kein Fokus
 
-Wenn du unsichtbar bist oder das Monster auch bei unbegrenzter Bewegung kein Hexfeld erreichen kann, von dem aus es seinen Angriff ausführen kann, bewegt sich das Monster nicht und greift nicht an. Es führt aber dennoch alle anderen auf seiner Fertigkeitskarte aufgeführten Fertigkeiten aus.
+Wenn du unsichtbar bist oder das Monster auch bei unbegrenzter Bewegung kein Feld erreichen kann, von dem aus es seinen Angriff ausführen kann, bewegt sich das Monster nicht und greift nicht an. Es führt aber dennoch alle anderen auf seiner Fertigkeitskarte aufgeführten Fertigkeiten aus.
 
 
 ---
@@ -947,22 +946,22 @@ Wenn du unsichtbar bist oder das Monster auch bei unbegrenzter Bewegung kein Hex
 
 ### Monsterbewegung
 
-Sobald ein Monster seinen Weg zu einem Angriffsfeld identifiziert hat, führt es die auf seiner Fertigkeitskarte aufgeführten Fertigkeiten der Reihe nach aus. Die erste davon ist normalerweise seine Bewegung. Ein Monster bewegt sich in seinem Zug nur, wenn "<img src="assets/icons/ability_move.png" class="inline-icon"/> **X**" in seiner gewürfelten Aktion aufgeführt ist.
+Sobald ein Monster seinen Weg zu einem Angriffsfeld identifiziert hat, führt es die auf seiner Fertigkeitskarte aufgeführten Fertigkeiten der Reihe nach aus. Die erste davon ist normalerweise seine Bewegung. Ein Monster bewegt sich in seinem Zug nur, wenn „<img src="assets/icons/ability_move.png" class="inline-icon"/> **X**“ in seiner gewürfelten Aktion aufgeführt ist.
 
-Ein Monster verbraucht in seinem aktuellen Zug immer die wenigsten Bewegungspunkte, die erforderlich sind, um seine Angriffe zu maximieren. Wenn ein Monster in seinem aktuellen Zug nicht angreifen kann, bewegt es sich nur, wenn es den Weg zu seinem Angriffsfeld verkürzen kann. Wenn ein benachbartes Monster einen Fernangriff ausführt, bewegt es sich zunächst weg, damit es keinen Nachteil hat, sofern dies möglich ist.
+Ein Monster verbraucht in seinem aktuellen Zug immer die wenigsten Bewegungspunkte, die erforderlich sind, um seine Angriffe zu maximieren. Wenn ein Monster in seinem aktuellen Zug nicht angreifen kann, bewegt es sich nur, wenn es den Weg zu seinem Angriffsfeld verkürzen kann. Wenn ein Monster einen Fernkampfangriff ausführt und zu dir benachbart ist, bewegt es sich zunächst weg, damit es keinen Nachteil hat, sofern dies möglich ist.
  
-Wenn andere Fertigkeiten als <img src="assets/icons/ability_attack.png" class="inline-icon"/> auf der Fähigkeitskarte eines Monsters aufgeführt sind, hat dies keinen Einfluss auf seine Bewegung. Es bewegt sich einfach nach den oben genannten Regeln und führt dann seine anderen Fertigkeiten so gut wie möglich aus.
+Wenn andere Fertigkeiten als <img src="assets/icons/ability_attack.png" class="inline-icon"/> auf der Fertigkeitskarte eines Monsters aufgeführt sind, hat dies keinen Einfluss auf seine Bewegung. Es bewegt sich einfach nach den oben genannten Regeln und führt dann seine anderen Fertigkeiten so vollständig wie möglich aus.
 
 ### Monsterangriffe
 
-Ein Monster greift in seinem Zug nur an, wenn "<img src="assets/icons/ability_attack.png" class="inline-icon"/> **X**" in seinen gewürfelten Aktionen aufgeführt ist. Die Reichweite des Angriffs wird auf der Fertigkeit angegeben. Wenn keine Reichweite angegeben ist, handelt es sich um einen Nahkampfangriff.
+Ein Monster greift in seinem Zug nur an, wenn „<img src="assets/icons/ability_attack.png" class="inline-icon"/> **X**“ in seinen gewürfelten Aktionen aufgeführt ist. Die Reichweite des Angriffs ist auf der Fertigkeit angegeben. Wenn keine Reichweite angegeben ist, handelt es sich um einen Nahkampfangriff.
 
 ### Andere Monsterfertigkeiten
 
-- **Aktive Boni:** Dauerhafte Boni auf der Monsterkarte sind immer aktiv. Rundenboni aus gewürfelten Aktionen sind erst aktiv, wenn das Monster an der Reihe ist, bleiben dann aber bis zum Ende der Runde aktiv. Mehrere aktive Boni können zusammen als einzelner Effekt behandelt werden.
-- **Heilfertigkeiten:** Das Monster heilt sich selbst oder einen Verbündeten innerhalb der angegebenen Reichweite. Es zielt immer auf das Monster in Reichweite, dessen aktueller und maximaler Trefferpunktwert den größten Unterschied aufweist.
-- **Negative, gezielte Fertigkeiten:** Diese werden auf die gleiche Weise gezielt wie Angriffsfertigkeiten, haben jedoch keinen Einfluss darauf, wie sich das Monster bewegt.
-- **Positive Zustände:** Das Monster wendet den Zustand auf sich selbst oder einen Verbündeten innerhalb der angegebenen Reichweite an. Es zielt immer auf das Monster in der nächsten Entfernung, das diesen Zustand noch nicht aufweist. Bei Gleichstand hinsichtlich der größten Reichweite wird das Monster als Ziel ausgewählt, das die kleinste Initative in der aktuellen Runde hat.
+- **Aktive Boni:** Dauerhafte Boni auf der Monsterkarte sind immer aktiv. Rundenboni aus gewürfelten Aktionen sind erst aktiv, wenn das Monster an der Reihe ist, bleiben dann aber bis zum Ende der Runde aktiv. Mehrere aktive Boni derselben Art können zu einem einzigen Effekt kombiniert werden.
+- **Heilfertigkeiten:** Das Monster heilt sich selbst oder einen Verbündeten innerhalb der angegebenen Reichweite. Es zielt immer auf das Monster in Reichweite, das den größten Unterschied zwischen seinem aktuellen und maximalen Trefferpunktewert aufweist.
+- **Negative gezielte Fertigkeiten:** Diese werden auf die gleiche Weise gezielt wie Angriffsfertigkeiten, haben jedoch keinen Einfluss darauf, wie sich das Monster bewegt.
+- **Positive Zustände:** Das Monster wendet den Zustand auf sich selbst oder einen Verbündeten innerhalb der angegebenen Reichweite an. Es zielt immer auf das Monster in geringster Entfernung das diesen Zustand noch nicht hat. Bei Gleichstand hinsichtlich der geringsten Entfernung wählt es das Monster als Ziel, das in Initiativreihenfolge am frühesten am Zug ist.
 
 
 ---
@@ -973,30 +972,30 @@ Ein Monster greift in seinem Zug nur an, wenn "<img src="assets/icons/ability_at
 
 ### Monster und Elemente
 
-Monster können Elemente infundieren und konsumieren.
+Monster können Elemente anreichern und verbrauchen.
 
-Eine Infusion erfolgt sofort, wenn die Aktion gewürfelt wird. <span class="new-to-bnb">Ein Monster verbraucht ein Element nur, wenn es eine Fertigkeit ausführt, die vom Verbrauch des Elements profitiert.</span> Wenn das erste Monster eines Typs ein Element verbraucht, kommt dieser Verbrauch jedem Monster dieses Typs zu gute.
+Eine Anreicherung erfolgt sofort, wenn die Aktion gewürfelt wird. <span class="new-to-bnb">Ein Monster verbraucht ein Element nur, wenn es eine Fertigkeit ausführt, die vom Verbrauch des Elements profitiert.</span> Wenn das erste Monster eines Typs ein Element verbraucht, kommt dieser Verbrauch jedem Monster dieses Typs zugute.
 
-Wenn ein Monster ein wildes oder gemischtes Element verbraucht, entscheidest du, welche Infusion verbraucht wird.
+Wenn ein Monster ein beliebiges oder gemischtes Element verbraucht, entscheidest du, welche Anreicherung verbraucht wird.
 
 ### Das Einsteigen von Monstern
 
-Wenn die Szenarioregeln vorsehen, dass Monster zu bestimmten Zeiten an bestimmten Orten erscheinen, stellst du sie auf das Hexfeld, sobald die Vorraussetzungen dafür erfüllt sind. Wenn ein bestimmter Ort nicht leer ist, platziere das Monster stattdessen auf dem nächstgelegenen leeren Hexfeld.
+Wenn die Szenarioregeln vorgeben, dass Monster zu bestimmten Zeiten auf bestimmten Feldern einsteigen, stellst du nach diesen Vorgaben auf die Karte. Wenn ein vorgegebenes Feld nicht leer ist, platziere das Monster stattdessen auf dem nächstgelegenen leeren Feld.
 
-Neu erschienene Monster wirken in derselben Runde, in der sie dem Spiel hinzugefügt wurden. Wenn ein neu hinzugefügter Monstertyp in der aktuellen Runde keine gewürfelte Aktion hatte, würfelst du jetzt eine.
+Neu eingestiegene Monster handeln in derselben Runde, in der du sie dem Spiel hinzugefügt hast. Wenn ein neu hinzugefügter Monstertyp in der aktuellen Runde keine gewürfelte Aktion hat, würfelst du jetzt eine.
 
-Überprüfe den Initiativewert für jedes neu erschienene Monster. Liegt der Initiativewert des Monsters über dem Initiativewert der handelnden Figur, handeln sie in der normalen Initiativereihenfolge. Wenn ihr Initiativewert vor dem Initiativewert der handelnden Figur liegt, wird das Monster als nächstes handeln. Wenn als nächstes mehrere neu erschienene Monstertypen agieren würden, agieren sie basierend auf ihren Initiativewerten.
+Überprüfe den Initiativewert jedes neu einsteigenden Monsters. Liegt der Initiativewert des Monsters nach dem Initiativewert der handelnden Figur, handelt es in der normalen Initiativreihenfolge. Wenn sein Initiativewert vor dem Initiativewert der handelnden Figur liegt, handelt es nach dieser als Nächstes. Wenn als Nächstes mehrere neu eingestiegene Monstertypen handeln würden, handeln sie basierend auf ihren Initiativwerten.
 
 
 ### Monsterschaden und Tod
 
-Die Trefferpunkte jedes Monsters werden mithilfe des Monster-Trefferpunktsrads verfolgt, das der Farbe des Würfels entspricht, der es auf der Karte darstellt.
+Die Trefferpunkte jedes Monsters werden mithilfe des Monster-Trefferpunkte-Zählscheibe festgehalten, das der Farbe des Würfels entspricht, der das Monster auf der Karte darstellt.
 
-Wenn ein Monster Schaden erleidet, reduziere seine Trefferpunkt-Skala um diesen Betrag. Sobald das Monster keine Trefferpunkte mehr hat, stirbt es.
+Wenn ein Monster Schaden erleidet, reduziere seine Trefferpunkte-Zählscheibe um diesen Betrag. Sobald das Monster keine Trefferpunkte mehr hat, stirbt es.
 
-Wenn ein Monster stirbt, entferne seinen Würfel von der Karte und alle Zustände aus seiner Monsterablage.
+Wenn ein Monster stirbt, entferne seinen Stein von der Karte und alle Zustände aus seiner Monsterablage.
 
-Nach dem Tod eines Monsters können keine Angriffseffekte mehr angewendet werden. Wenn ein Monster stirbt, während es eine seiner eigenen Fertigkeiten ausführt, kann es keine weiteren Fertigkeiten ausführen.
+Nach dem Tod eines Monsters kannst du keine Angriffseffekte mehr auf es anwenden. Wenn ein Monster stirbt, während es eine seiner eigenen Fertigkeiten ausführt, kann es keine weiteren Fertigkeiten ausführen.
 
 ---
 
@@ -1006,17 +1005,17 @@ Nach dem Tod eines Monsters können keine Angriffseffekte mehr angewendet werden
 
 ## Rundenende
 
-Nachdem alle Figuren auf der Karte an der Reihe waren, beginnt der Schritt „Rundenende“. Führe die folgenden Schritte der Reihe nach aus:
-1. Löse alle Effekte aus den Szenarioregeln, Gegenständen oder Fertigkeitskarten aus, die am Ende der Runde in Kraft treten.
+Nachdem alle Figuren auf der Karte am Zug waren, beginnt der Schritt „Rundenende“. Führe die folgenden Schritte der Reihe nach aus:
+1. Handle alle Effekte aus den Szenarioregeln sowie von Gegenständen und Fertigkeitskarten ab, die am Ende der Runde ausgelöst werden.
 1. Für Fertigkeitskarten im aktiven Bereich mit Rundenboni:
-  - Karten der A-Seite: Drehe sie auf die B-Seite und nimm sie wieder auf die Hand
-  - Karten der B-Seite: Lege sie auf deinen Ablagestapel 
+  - Karten auf der A-Seite: Drehe sie auf die B-Seite und nimm sie wieder auf die Hand
+  - Karten auf der B-Seite: Lege sie auf deinen Ablagestapel 
   - Wenn die Karte ein Verloren-Symbol hat, lege sie auf deinen Verloren-Symbol
-1. Wenn du mindestens zwei Karten auf der Hand und/oder im Ablagestapel hast, darfst du eine kurze Pause einlegen(siehe [S.27](#page_27)).
+1. Wenn du mindestens 2 Karten auf der Hand und/oder im Ablagestapel hast, darfst du eine kurze Pause einlegen (siehe [S.27](#page_27)).
 
 ### Runden zählen
 
-Wenn ein Szenario Effekte hat, die zu einer bestimmten Zeit eintreten, können die Runden mithilfe eines nicht benutzten Monster-Trefferpunktsrads verfolgt werden. Am Ende jeder Runde rückst du die Skala einfach um eins vor.
+Wenn ein Szenario Effekte hat, die zu einer bestimmten Zeit eintreten, kannst du die Runden mithilfe eines nicht benutzten Monster-Trefferpunkte-Zählscheibe verfolgen. Am Ende jeder Runde drehst du die Zählscheibe eine Position weiter.
 
 ---
 
@@ -1026,11 +1025,11 @@ Wenn ein Szenario Effekte hat, die zu einer bestimmten Zeit eintreten, können d
 
 # Ein Szenario beenden
 
-Wenn ein Szenario endet, ist es entweder verloren oder abgeschlossen, je nachdem, ob das Szenarioziel erreicht wird. Das Szenario ist verloren, wenn du erschöpft bist oder eine andere in den Szenarioregeln aufgeführte Verlustbedingung eintritt. Das Szenario ist abgeschlossen, wenn das in den Szenarioregeln aufgeführte spezifische Ziel erreicht wird.
+Wenn ein Szenario endet, ist es entweder verloren oder abgeschlossen, je nachdem, ob du das Szenarioziel erreicht hast oder nicht. Das Szenario ist verloren, wenn du erschöpft bist oder eine andere Verlustbedingung eintritt, die in den Szenarioregeln angegeben ist. Das Szenario ist abgeschlossen, wenn du das spezifische Ziel erreicht hast, das in den Szenarioregeln angegeben ist.
 
-Sobald das Ende des Szenarios ausgelöst wird, wird das Spiel fortgesetzt, bis die aktuelle Runde beendet ist, und dann endet das Szenario. Wenn das Szenario in derselben Runde sowohl verloren als auch abgeschlossen würde, ist das Szenario verloren.
+Sobald das Ende des Szenarios ausgelöst wird, setzt du das Spiel fort, bis die aktuelle Runde beendet ist, und dann endet das Szenario. Wenn du das Szenario in derselben Runde sowohl verlieren als auch abschließen würdest, gilt das Szenario als verloren.
 
-Du erhälst alle abgelegten und verlorenen Fertigkeitskarten zurück, sowie alle benutzten und verlorenen Gegenstände und setzt deine Trefferpunktskala auf den maximalen Trefferpunktwert zurück. Alle Zustände werden entfernt.
+Du erhälst alle abgelegten und verlorenen Fertigkeitskarten sowie alle abgenutzten und verlorenen Gegenstände zurück und setzt deine Trefferpunkt-Zählscheibe auf den maximalen Trefferpunktewert zurück. Alle Zustände werden entfernt.
 
 ## Verlorenes Szenario
 
@@ -1038,7 +1037,7 @@ Wenn du das Szenario verloren hast, musst du es erneut versuchen.
 
 ## Abgeschlossenes Szenario
 
-Wenn das Szenario abgeschlossen wurde, lies den Abschluss des Szenarios, der im Szenarioeintrag auf der Szenariokarte zu finden ist. Dieser Text gibt an, welches Szenario als nächstes in der Kampagne gespielt werden soll.
+Wenn du das Szenario abgeschlossen hast, lies den Abschluss des Szenarios, der im Szenarioeintrag auf der Szenariokarte zu finden ist. Dieser Text gibt an, du in der Kampagne als Nächstes spielen sollst.
 
 ---
 
@@ -1048,21 +1047,21 @@ Wenn das Szenario abgeschlossen wurde, lies den Abschluss des Szenarios, der im 
 
 > # Das Abenteuer beginnt
 > 
-> An diesem Punkt solltest du bereit sein, dein erstes Abenteuer zu beginnen. Drehe die Deckkarte des Szenariostapels um, lies den Text auf der Rückseite und beginne deine Reise mit dem ersten Szenario. Die folgenden Regeln sind erst am Ende von Szenario 1 und Szenario 2 hilfreich, wenn Gegenstände und Stufenaufstiege dazukommen.
+> An diesem Punkt solltest du bereit sein, in dein erstes Abenteuer zu starten. Drehe die Abdeckkarte des Szenariostapels um, lies den Text auf der Rückseite und beginne deine Reise mit Szenario 1. Die folgenden Regeln werden am Ende von Szenario 1 und Szenario 2 hilfreich sein, wenn Gegenstände bzw. Stufenaufstiege eingeführt werden.
 
 > 
 > ## Gegenstandsvorrat
 > 
-> Auf jeder Karte im Szenariostapel sind oben und unten zwei Gegenstände aufgedruckt. Sobald Szenario 1 abgeschlossen ist, stehen zu Beginn jedes Szenarios die Gegenstände auf jeder Karte, die abgehandelt oder übersprungen wurde (alle vorherigen Szenarios sowie die Deck- und Sammelkarten), zum Ausrüsten zur Verfügung. Es kann jeweils nur ein Gegenstand auf jeder Karte ausgerüstet werden. Zu Beginn jedes Szenarios können jedoch verschiedene Gegenstände ausgerüstet werden.
+> Auf jeder Karte im Szenariostapel sind oben und unten zwei Gegenstände aufgedruckt. Sobald du Szenario 1 abgeschlossen hast, stehen dir zu Beginn jedes Szenarios die Gegenstände auf jeder Karte, die du abgehandelt oder übersprungen hast (alle vorherigen Szenarien sowie Abdeck- und Sammelkarten), zum Ausrüsten zur Verfügung. Du kannst immer nur 1 Gegenstand von jeder Karte ausrüsten. Zu Beginn jedes Szenarios kannst du jedoch verschiedene Gegenstände ausrüsten.
 
 > 
 > ## Charakterentwicklung
 > 
-> Rechts neben dem Titel des Szenarios befindet sich eine Levelanzeige, die die Stufe deines Charakters im Szenario bestimmt. Deine Stufe bestimmt vier Dinge:
+> Rechts neben dem Titel des Szenarios befindet sich eine Stufenanzeige, die die Stufe deines Charakters im Szenario angibt. Deine Stufe bestimmt vier Dinge:
 > - Wie viele Fertigkeitskarten der Stufe 1 du verbessern kannst (siehe unten)
 > - Welche Modifikatortabelle du verwenden sollst (verwende die Seite einer Karte, die der Szenariostufe entspricht)
-> - Dein maximaler Trefferpunktwert (Dies ist auf deiner Charaktertafel als rote Zahl unterhalb deiner angegebenen Stufe aufgedruckt.)
-> - Wie viele <img src="assets/icons/equip_item.png" class="inline-icon"/> Gegenstände du ausrüsten kannst (die Hälfte deines Levels, aufgerundet)
+> - Dein maximaler Trefferpunktewert (dies ist auf deiner Charaktertafel als rote Zahl unterhalb deiner angegebenen Stufe aufgedruckt.)
+> - Wie viele <img src="assets/icons/equip_item.png" class="inline-icon"/>-Gegenstände du ausrüsten kannst (die Hälfte deines Levels, aufgerundet)
 > 
 > ### Verbesserte Fertigkeitskarten
 
