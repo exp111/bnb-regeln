@@ -199,9 +199,7 @@ Für deinen ausgewählten Charakter nimmst du folgende Materialien:
 
 ## Die Regeln lernen
 
-Da du nun einen Charakter ausgewählt hast, ist es an der Zeit, die Regeln zu lernen. Wenn du dir lieber ein Video dazu angucken möchtest, findest du es hier:
-
-[feuerland-spiele.de](https://www.feuerland-spiele.de/)
+Da du nun einen Charakter ausgewählt hast, ist es an der Zeit, die Regeln zu lernen. 
 
 Ein großer Teil des Regelwerks behandelt das Spielen eines einzelnen Szenarios. Da es sich bei Knöpfe & Krabbler aber um ein Kampagnen-Spiel handelt, bei dem du viele Szenarien in einer festgelegten Reihenfolge spielst, gibt es dazu noch einige Informationen nach den grundlegenden Regeln. 
 
