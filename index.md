@@ -1243,7 +1243,8 @@ Im Folgenden findest du eine vollständige Liste aller Komponentenfehler. Wenn e
 
 ### Fertigkeitskarten
 
-- **Frostwirbel** — Die erste Fertigkeit der unteren Aktion sollte wie folgt lauten: „<img src="assets/icons/condition_pull.png" class="inline-condition"/> 3 <img src="assets/icons/ability_target.png" class="inline-icon"/> alle Gegner innerhalb von <img src="assets/icons/ability_range.png" class="inline-icon"/> 4“. Die Reichweite wurde im ersten Druck fälschlicherweise als 2 gedruckt.
+- **Frostwirbel** — Die erste Fertigkeit der unteren Aktion sollte wie folgt lauten: „<img src="assets/icons/condition_pull.png" class="inline-condition"/> 3   <img src="assets/icons/ability_target.png" class="inline-icon"/> alle Gegner innerhalb von <img src="assets/icons/ability_range.png" class="inline-icon"/> 4“. Die Reichweite wurde im ersten Druck fälschlicherweise als 2 gedruckt.
+- **Repulsorkanone**  — Die Fertigkeit der oberen Aktion sollte wie folgt lauten: „<img src="assets/icons/ability_attack.png" class="inline-icon"/> 3   <img src="assets/icons/ability_target.png" class="inline-icon"/> 1 Gegner im Umkreis von 2 Feldern, <img src="assets/icons/condition_push.png" class="inline-condition"/> 1". Der Zahlenwert 1 hinter dem Schieben fehlt im ersten Druck.
 
 ---
 
