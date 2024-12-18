@@ -234,7 +234,7 @@ Jede Szenariophase besteht aus drei verschiedenen Schritten:
 > 1. Lege die Monsterkarte für jeden Monstertyp in diesem Szenario bereit.
 > 1. Handle alle Szenarioeffekte ab oder schreibe dir eine Notiz, falls du diese erst später während des Aufbaus abhandeln sollst. Drehe die Szenariokarte auf die Raumseite um.
 > 1. Lege die Monsterkarten in je 1 Monsterablage und platziere auf jeder davon 1 weißen Stein auf der Position mit dem <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/>-Symbol. Lege außerdem die Monster-Zählscheiben in den Farben bereit, die unterhalb der Monster auf der Raumseite angegeben sind (ihr findet auch die abgebildeten Zahlen auf den Trefferpunkt-Rädern).
-> 1. Die bunten Steine stellen die Monster dar. Platziere sie in der Farbe, in der Raumseite angegeben sind. Platziere außerdem deine Charakterfigur auf dem vorgesehenen Startfeld. 
+> 1. Die bunten Steine stellen die Monster dar. Platziere sie in der Farbe und auf den Feldern, die auf der Raumseite angegeben sind. Platziere außerdem deine Charakterfigur auf dem vorgesehenen Startfeld. 
 > 1. Lege beide Angriffsmodifikator-Ablagen bereit. Falls das Szenario Stufe 2 oder höher ist, nimm dir die entsprechende Level-Modifikatorkarte für deinen Charakter und lege sie in die Charaktermodifikator-Ablage. Du kannst einen anderen Monster-Schwierigkeitsgrad als „Standard“ auswählen, indem du die gewählte Monster-Modifikatorkarte für den entsprechenden Schwierigkeitsgrad in die Monstermodifikator-Ablage legst.
 > 1. Halte alle Zustandsmarker, den Würfel und die Symbol-Referenzkarte griffbereit.
 > 1. Entscheide, welche Gegenstände du von den verfügbaren Gegenständen ausrüsten willst. (siehe [S. 26](#page_26)).
@@ -495,7 +495,7 @@ Komplexere besondere Effekte können unter einer Fertigkeit erläutert werden, a
 > 
 > Wenn eine Fertigkeit mehrere seperate Elementanreicherungen zeigt, wählt die handelnde Figur aus, welche aktiviert werden soll. Wenn eine einzelne Elementanreicherung mehrere Elemente zeigt, müssen all diese Elemente verbraucht werden, um sie zu aktivieren. Jedes Element kann gleichzeitig mehrfach angereichert werden, aber jede Elementanreicherung kann maximal einmal pro Runde verbraucht werden.
 > 
-> <img src="assets/icons/element_wild.png" class="inline-element"/> Dieses bunte Farbrad stellt 1 beliebiges der sechs Elemente dar (nicht alle gleichzeitig). Ein zusätzlicher Effekt, dieses Symbol zeigt, kann durch den Verbrauch eines beliebigen einzelnen Elements bezahlt werden. Ist das Symbol als Anreicherung zu sehen, kann es als 1 beliebiges der sechs Elemente verbraucht werden.
+> <img src="assets/icons/element_wild.png" class="inline-element"/> Dieses bunte Farbrad stellt 1 beliebiges der sechs Elemente dar (nicht alle gleichzeitig). Ein zusätzlicher Effekt, der dieses Symbol zeigt, kann durch den Verbrauch eines beliebigen einzelnen Elements bezahlt werden. Ist das Symbol als Anreicherung zu sehen, kann es als 1 beliebiges der sechs Elemente verbraucht werden.
 > 
 > <img src="assets/icons/element_fire_ice.png" class="inline-element"/> Ein gemischtes Elementsymbol, das zwei
 Elemente in einer Umrandung zeigt, stellt 1 dieser beiden Elemente dar (nicht beide gleichzeitig). Ein zusätzlicher Effekt, dieses Symbol zeigt, kann durch den Verbrauch eines einzelnen der beiden abgebildeten Elemente bezahlt werden. Ist das Symbol als Anreicherung zu sehen, kann es als 1 der beiden Elemente vebraucht werden.
