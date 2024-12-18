@@ -553,13 +553,13 @@ Diese Schritte werden für jedes einzelne Ziel der Angriffsfertigkeit wiederholt
 
 > #### Angriffsmodifikator-Ablage
 > 
-> Immer wenn eine Angriffsfertigkeit ausgeführt wird, **würfelst du für jedes Ziel der Angriffsfertigkeit ein separater Angriffsmodifikator**, indem du den Würfel wirfst und mit der Angriffsmodifikator-Ablage abgleichst. Der gewürfelte Modifikator ergibt sich aus dem Modifikator in der aktuell markierten Zeile und der Spalte, die dem gewürfelten Symbol entspricht (<img src="assets/icons/dice_result_minus.png" class="inline-icon"/>, <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/>, <img src="assets/icons/dice_result_plus.png" class="inline-icon"/>). Der gewürfelte Modifikator wird dann auf den Angriff angewendet, was möglicherweise den Angriffswert verringert oder erhöht. Sobald du die Effekte eines gewürfelten Modifikators angewendet hast, schiebe den Modifikator-Stein 1 Reihe nach unten. (Wenn du Schwierigkeiten hast, dich daran zu erinneren, den Stein nach einem Angriff nach unten zu bewegen, kannst du versuchen, den Stein zuerst zu bewegen und dann den Modifikator aus der Reihe zu verwenden, in der ssich der Stein nun befindet. Wenn du das so machst, startet der Stein am Anfang jedes Szenarios im letzten Feld und nicht im Ersten.)
+> Immer wenn eine Angriffsfertigkeit ausgeführt wird, **würfelst du für jedes Ziel der Angriffsfertigkeit einen separaten Angriffsmodifikator**, indem du den Würfel wirfst und mit der Angriffsmodifikator-Ablage abgleichst. Der gewürfelte Modifikator ergibt sich aus dem Modifikator in der aktuell markierten Zeile und der Spalte, die dem gewürfelten Symbol entspricht (<img src="assets/icons/dice_result_minus.png" class="inline-icon"/>, <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/>, <img src="assets/icons/dice_result_plus.png" class="inline-icon"/>). Der gewürfelte Modifikator wird dann auf den Angriff angewendet, was möglicherweise den Angriffswert verringert oder erhöht. Sobald du die Effekte eines gewürfelten Modifikators angewendet hast, schiebe den Modifikator-Stein 1 Reihe nach unten. (Wenn du Schwierigkeiten hast, dich daran zu erinneren, den Stein nach einem Angriff nach unten zu bewegen, kannst du versuchen, den Stein zuerst zu bewegen und dann den Modifikator aus der Reihe zu verwenden, in der sich der Stein nun befindet. Wenn du das so machst, startet der Stein am Anfang jedes Szenarios im letzten Feld und nicht im Ersten.)
 > 
 > Angriffsmodifikatoren würfelst du nur für Angriffe. Verwende sie nicht für andere Effekte, die Schaden verursachen.
 > 
 > Du hast deine eigene Angriffsmodifikator-Ablage, während alle Monster sich eine einzige Ablage teilen.
 > 
-> Jede Charakterklasse und alle Monster beginnen mit einer Standartablage mit 6× <img src="assets/icons/modifier_plus_0.png" class="inline-element"/>, 4× <img src="assets/icons/modifier_plus_1.png" class="inline-element"/>, 4× <img src="assets/icons/modifier_minus_1.png" class="inline-element"/>, 1× <img src="assets/icons/modifier_plus_2.png" class="inline-element"/>, 1× <img src="assets/icons/modifier_minus_2.png" class="inline-element"/>, 1× <img src="assets/icons/modifier_2x.png" class="inline-element"/>, und 1× <img src="assets/icons/modifier_miss.png" class="inline-element"/>. Jede Charakterklassenablage verbessert sich im Verlauf der Kampagne (siehe [S. 35](#page_35)) und ermöglicht so andere Effekte.
+> Jede Charakterklasse und alle Monster beginnen mit einer Standardablage mit 6× <img src="assets/icons/modifier_plus_0.png" class="inline-element"/>, 4× <img src="assets/icons/modifier_plus_1.png" class="inline-element"/>, 4× <img src="assets/icons/modifier_minus_1.png" class="inline-element"/>, 1× <img src="assets/icons/modifier_plus_2.png" class="inline-element"/>, 1× <img src="assets/icons/modifier_minus_2.png" class="inline-element"/>, 1× <img src="assets/icons/modifier_2x.png" class="inline-element"/>, und 1× <img src="assets/icons/modifier_miss.png" class="inline-element"/>. Jede Charakterklassenablage verbessert sich im Verlauf der Kampagne (siehe [S. 35](#page_35)) und ermöglicht so andere Effekte.
 > 
 > Ein Angriffsmodifikator kann Folgendes haben:
 
@@ -582,7 +582,7 @@ Ein Angriffseffekt ist ein Effekt, der mit einem Angriff verbunden ist. Diese Ef
 
 Der Angreifer muss entscheiden, ob er Angriffseffekte anwenden möchte, bevor er einen Angriffsmodifikator würfelt. Alle Angriffseffekte außer <img src="assets/icons/ability_target.png" class="inline-icon"/> werden vor jedem Vergeltungsbonus angewendet (siehe [S. 22](#page_22)). Der <img src="assets/icons/ability_target.png" class="inline-icon"/>-Effekt ermöglicht es dem Angreifer, zusätzliche Angriffe auszuführen, und jeder Angriff muss vollständig abgehandelt werden, bevor ein anderer ausgeführt werden kann.
 
-Einige Angriffe verfügen über Fertigkeiten (z. B. Heilfertigkeiten) die keine Angriffseffekte, aber dennoch mit dem Angriff verbunden sind. Diese Fertigkeiten werden ausgeführt, nachdem der Angriff vollständig abgehandelt wurde (einschließlich etwaiger Vergeltungsboni).
+Einige Angriffe verfügen über Fertigkeiten (z. B. Heilfertigkeiten), die selbst keine Angriffseffekte, aber dennoch mit dem Angriff verbunden sind. Diese Fertigkeiten werden ausgeführt, nachdem der Angriff vollständig abgehandelt wurde (einschließlich etwaiger Vergeltungsboni).
 
 Einige Modifikatoren haben neben der Änderung des Angriffswerts auch zusätzliche Effekte. **Der angreifende Charakter kann immer entscheiden**, ob er diese Effekte anwenden möchte, nachdem der Modifikator gewürfelt wurde.
 
@@ -657,7 +657,7 @@ Eine einzige Heilung kann jede beliebige Kombination aus Wunde und Gift von eine
 
 Eine aktive Bonusfähigkeit ist jede Fertigkeit, die einer Figur oder ihren Verbündeten einen aktiven Bonus verleiht. Wenn ein Charakter eine aktive Bonusfertigkeit ausführt, wird die Karte in seinen aktiven Bereich gelegt, um den Bonus festzuhalten.
 
-> Aktive Bonusfertigkeiten haben Symbole, die die Dauer der von ihnen gewährten Boni anzeigen. Wenn ein Bonus abläuft, wird die Karte aus dem aktiven Bereich des Charakters entfernt, auch wenn die Aktion andere aktive Bonusfähigkeiten hat. Karte, die auf ihrer A-Seite ist, drehst du dabei auf ihre B-Seite um und nimmst sie zurück auf die Hand. Eine Karte, die auf ihrer B-Seite ist, legst du auf deinen Ablagestapel oder deinen Verloren-Stapel, falls die Aktion ein Verloren-Symbol hat (siehe [S. 28](#page_28)).
+> Aktive Bonusfertigkeiten haben Symbole, die die Dauer der von ihnen gewährten Boni anzeigen. Wenn ein Bonus abläuft, wird die Karte aus dem aktiven Bereich des Charakters entfernt, auch wenn die Aktion andere aktive Bonusfähigkeiten hat. Eine Karte, die auf ihrer A-Seite ist, drehst du dabei auf ihre B-Seite um und nimmst sie zurück auf die Hand. Eine Karte, die auf ihrer B-Seite ist, legst du auf deinen Ablagestapel oder deinen Verloren-Stapel, falls die Aktion ein Verloren-Symbol hat (siehe [S. 28](#page_28)).
 
 <img src="assets/icons/use_round_bonus.png" class="inline-icon"/> **Rundenboni:** Diese Boni werden aktiviert, wenn die Fertigkeit ausgeführt wird, und laufen am Ende der Runde ab.
 
@@ -789,7 +789,7 @@ Eine Gegenstandskarte besteht aus folgenden Teilen:
   <li><strong>Gegenstandsname:</strong> Der Name des Gegenstands.</li>
   <li><strong>Gegenstandseffekt:</strong> Wann der Gegenstand verwendet werden kann und welchen Bonus oder welche Fertigkeit du erhälst.</li>
   <li><strong>Gegenstandsverwendung:</strong> Was mit dem Gegenstand passiert, nachdem du ihn verwendet hast (siehe unten). Manche Gegenstände nutzen sich ab, andere gehen verloren. Einige Gegenstände kannst du sogar mehrfach verwenden.</li>
-  <li><strong>Gegenstandstyp:</strong> Jeder Gegenstand zählt als einer von drei Typen: <img src="assets/icons/equip_single_hand.png" class="inline-icon"/>, <img src="assets/icons/equip_dual_hand.png" class="inline-icon"/>, or <img src="assets/icons/equip_item.png" class="inline-icon"/>. Diese Typen bestimmen, welche Gegenstände du in ein Szenario mitnehmen kannst.</li>
+  <li><strong>Gegenstandstyp:</strong> Jeder Gegenstand zählt als einer von drei Typen: <img src="assets/icons/equip_single_hand.png" class="inline-icon"/>, <img src="assets/icons/equip_dual_hand.png" class="inline-icon"/>, oder <img src="assets/icons/equip_item.png" class="inline-icon"/>. Diese Typen bestimmen, welche Gegenstände du in ein Szenario mitnehmen kannst.</li>
 </ol>
 
 #### Gegenstandsbeschränkungen
@@ -1013,7 +1013,7 @@ Nachdem alle Figuren auf der Karte am Zug waren, beginnt der Schritt „Rundenen
 
 ### Runden zählen
 
-Wenn ein Szenario Effekte hat, die zu einer bestimmten Zeit eintreten, kannst du die Runden mithilfe eines nicht benutzten Monster-Trefferpunkte-Zählscheibe verfolgen. Am Ende jeder Runde drehst du die Zählscheibe eine Position weiter.
+Wenn ein Szenario Effekte hat, die zu einer bestimmten Zeit eintreten, kannst du die Runden mithilfe einer nicht benutzten Monster-Trefferpunkte-Zählscheibe verfolgen. Am Ende jeder Runde drehst du die Zählscheibe eine Position weiter.
 
 ---
 
@@ -1035,7 +1035,7 @@ Wenn du das Szenario verloren hast, musst du es erneut versuchen.
 
 ## Abgeschlossenes Szenario
 
-Wenn du das Szenario abgeschlossen hast, lies den Abschluss des Szenarios, der im Szenarioeintrag auf der Szenariokarte zu finden ist. Dieser Text gibt an, du in der Kampagne als Nächstes spielen sollst.
+Wenn du das Szenario abgeschlossen hast, lies den Abschluss des Szenarios, der im Szenarioeintrag auf der Szenariokarte zu finden ist. Dieser Text gibt an, welches Szenario du in der Kampagne als Nächstes spielen sollst.
 
 ---
 
