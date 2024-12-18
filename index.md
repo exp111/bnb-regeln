@@ -294,7 +294,7 @@ Jedes Szenario besteht aus verschiedenen Geländetypen. Dieser Typ wird durch di
 
 <div class="float-container">
   <span class="floating-image"><img src="assets/icons/terrain_obstacle.png" height="48"/></span>
-  <p>Figuren können Felder mit Hindernissen nicht betreten, außer sie fliegen oder springen (der Sprung kann jedoch nicht auf dem Feld mit Hindernis enden). Reichweite darf durch Hindernisse gezählt werden. Hindernisse verhindern keine Fernagriffe.</p>
+  <p>Figuren können Felder mit Hindernissen nicht betreten, außer sie fliegen oder springen (der Sprung kann jedoch nicht auf dem Feld mit Hindernis enden). Reichweite darf durch Hindernisse gezählt werden. Hindernisse verhindern keine Fernangriffe.</p>
 </div>
 
 #### Schwieriges Gelände	
