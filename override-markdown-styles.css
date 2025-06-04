@@ -85,6 +85,7 @@ blockquote {
 }
 
 .three-columns table, .three-columns td {
+	table-layout: fixed;
 	border: none;
 	vertical-align: top;
 }
