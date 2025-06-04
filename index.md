@@ -275,7 +275,7 @@ Jede Szenariophase besteht aus drei verschiedenen Schritten:
   <ol type="A">
     <li><strong>Startfeld:</strong> Am Anfang des Szenarios stellst du deine Figur auf dieses Feld.</li>
     <li><strong>Gelände:</strong> Auf diesen Feldern gelten besondere Raumeigenschaften (siehe <a href="#page_9">S. 9</a>).</li>
-    <li><strong>Monsterfelder:</strong> Auf diesen Feldern ist ein Monster abgebildet. Platziere den jeweilgen Monsterwürfel auf dem Feld mit der entsprechenden Farbe.</li>
+    <li><strong>Monsterfelder:</strong> Auf diesen Feldern ist ein Monster abgebildet. Platziere den jeweiligen Monsterwürfel auf dem Feld mit der entsprechenden Farbe.</li>
     <li><strong>Besondere Felder:</strong> Diese Felder sind mit einem Buchstaben markiert und werden in den Sonderregeln des Szenarios erläutert.</li>
   </ol>
 </blockquote>
@@ -368,7 +368,7 @@ Dann bestimmst du die Initiativreihenfolge, indem du die Initiativewerte auf dei
 
 ## Gleichstand auflösen
 
-Wenn ein Gleichstand zwischen deiner Intitative und der eines Monsters besteht, bist du zuerst am Zug.
+Wenn ein Gleichstand zwischen deiner Initiative und der eines Monsters besteht, bist du zuerst am Zug.
 
 
 ## Reihenfolge der Monster
@@ -423,7 +423,7 @@ Wenn „Ziele“ nicht spezifisch aufgeführt ist, ist der Zielwert 1. Es kann a
 
 #### Gezielte Fertigkeiten
 
-Angriffe ([S. 18](#page_18)), Zustände ([S. 20](#page_20)), Heilungen ([S. 21](#page_21)), erzwungene Bewegungen ([S. 23](#page_23)) und das Kontrollieren von Figuren ([S. 24](#page_24)) sind die einzigen gezielten Fertigkeiten. Diese können nicht ausgeführt werden, wenn kein gütliges Ziel in Reichweite ist.
+Angriffe ([S. 18](#page_18)), Zustände ([S. 20](#page_20)), Heilungen ([S. 21](#page_21)), erzwungene Bewegungen ([S. 23](#page_23)) und das Kontrollieren von Figuren ([S. 24](#page_24)) sind die einzigen gezielten Fertigkeiten. Diese können nicht ausgeführt werden, wenn kein gültiges Ziel in Reichweite ist.
 
 #### Verbündete, Gegner und man selbst
 
@@ -461,7 +461,7 @@ Fertigkeiten mit einem Wirkungsbereich lassen die handelnde Figur mehrere Felder
   <p>Rote Felder markieren die Felder, auf denen Figuren anvisiert werden können. Es reicht, wenn sich nur ein rotes Feld in der Reichweite der Fertigkeit befindet. Dieses Feld muss nicht zwingend eine Figur enthalten. </p>
 </div>
 
-Wenn eine Fertigkeit mit einem Wirkunsbereich „**+1** <img src="assets/icons/ability_target.png" class="inline-icon"/>“ erhält, kann eine weitere Figur außerhalb des Wirkungsbereiches, aber innerhalb der Reichweite der Fertigkeit anvisiert werden. Dies bedeutet nicht, dass der gesamte Wirkungsbereich erneut angewendet wird. Es darf lediglich ein zusätzliches Feld anvisiert werden.
+Wenn eine Fertigkeit mit einem Wirkungsbereich „**+1** <img src="assets/icons/ability_target.png" class="inline-icon"/>“ erhält, kann eine weitere Figur außerhalb des Wirkungsbereiches, aber innerhalb der Reichweite der Fertigkeit anvisiert werden. Dies bedeutet nicht, dass der gesamte Wirkungsbereich erneut angewendet wird. Es darf lediglich ein zusätzliches Feld anvisiert werden.
 
 ---
 
@@ -484,7 +484,7 @@ Komplexere besondere Effekte können unter einer Fertigkeit erläutert werden, a
 
 > #### Elemente 
 > 
-> Einige Aktionen sind mit einem Element verbunden (Feuer, Eis, Luft, Erde, Licht oder Dunkel). Elementanreicherungen auf deinen gespielten Fertigkeitskarten, deinen Handkarten und im aktiven Bereich sowie Elementanreicherungen auf den gewürfelten Monsteraktionen können jeweils einmal pro Runde verbraucht werden. Es können mehrere Anreicherungen desselben Elementes verfügbar sein und in derselben Runde verbaucht werden.
+> Einige Aktionen sind mit einem Element verbunden (Feuer, Eis, Luft, Erde, Licht oder Dunkel). Elementanreicherungen auf deinen gespielten Fertigkeitskarten, deinen Handkarten und im aktiven Bereich sowie Elementanreicherungen auf den gewürfelten Monsteraktionen können jeweils einmal pro Runde verbraucht werden. Es können mehrere Anreicherungen desselben Elementes verfügbar sein und in derselben Runde verbraucht werden.
 > 
 > | <img src="assets/icons/element_fire.png"/> | <img src="assets/icons/element_ice.png"/> | <img src="assets/icons/element_wind.png"/> | <img src="assets/icons/element_earth.png"/> | <img src="assets/icons/element_light.png"/> | <img src="assets/icons/element_dark.png"/> |
 > | Feuer | Eis | Luft | Erde | Licht | Dunkel |
@@ -493,12 +493,12 @@ Komplexere besondere Effekte können unter einer Fertigkeit erläutert werden, a
 > 
 > Elementanreicherungen können verbraucht werden, um bestimmten Fertigkeiten Effekte hinzuzufügen, oder in manchen Fällen ganz neue Fertigkeiten auszuführen. Dies wird durch ein mit <img src="assets/icons/element_spent.png" class="inline-icon"/> markiertes Elementsymbol dargestellt, gefolgt von einem hinzugefügten Effekt. Wenn dieses Element verfügbar ist, kann es verbraucht werden. Immer wenn eine Elementanreicherung verbraucht wird, kann sie erst in der nächsten Runde erneut verbraucht werden. (Du kannst dir dies mit einem Ersatzwürfel oder einem anderen kleinen Gegenstand markieren, um es nicht zu vergessen.)
 > 
-> Wenn eine Fertigkeit mehrere seperate Elementanreicherungen zeigt, wählt die handelnde Figur aus, welche aktiviert werden soll. Wenn eine einzelne Elementanreicherung mehrere Elemente zeigt, müssen all diese Elemente verbraucht werden, um sie zu aktivieren. Jedes Element kann gleichzeitig mehrfach angereichert werden, aber jede Elementanreicherung kann maximal einmal pro Runde verbraucht werden.
+> Wenn eine Fertigkeit mehrere separate Elementanreicherungen zeigt, wählt die handelnde Figur aus, welche aktiviert werden soll. Wenn eine einzelne Elementanreicherung mehrere Elemente zeigt, müssen all diese Elemente verbraucht werden, um sie zu aktivieren. Jedes Element kann gleichzeitig mehrfach angereichert werden, aber jede Elementanreicherung kann maximal einmal pro Runde verbraucht werden.
 > 
 > <img src="assets/icons/element_wild.png" class="inline-element"/> Dieses bunte Farbrad stellt 1 beliebiges der sechs Elemente dar (nicht alle gleichzeitig). Ein zusätzlicher Effekt, der dieses Symbol zeigt, kann durch den Verbrauch eines beliebigen einzelnen Elements bezahlt werden. Ist das Symbol als Anreicherung zu sehen, kann es als 1 beliebiges der sechs Elemente verbraucht werden.
 > 
 > <img src="assets/icons/element_fire_ice.png" class="inline-element"/> Ein gemischtes Elementsymbol, das zwei
-Elemente in einer Umrandung zeigt, stellt 1 dieser beiden Elemente dar (nicht beide gleichzeitig). Ein zusätzlicher Effekt, dieses Symbol zeigt, kann durch den Verbrauch eines einzelnen der beiden abgebildeten Elemente bezahlt werden. Ist das Symbol als Anreicherung zu sehen, kann es als 1 der beiden Elemente vebraucht werden.
+Elemente in einer Umrandung zeigt, stellt 1 dieser beiden Elemente dar (nicht beide gleichzeitig). Ein zusätzlicher Effekt, dieses Symbol zeigt, kann durch den Verbrauch eines einzelnen der beiden abgebildeten Elemente bezahlt werden. Ist das Symbol als Anreicherung zu sehen, kann es als 1 der beiden Elemente verbraucht werden.
 
 ---
 
@@ -544,7 +544,7 @@ Ein **Angriff** ist ein einzelner Angriff, der gegen 1 Ziel ausgeführt wird. Ei
 Wenn ein Angriff ausgeführt wird, kann der auf der Karte angegebene Grundangriffswert auf drei verschiedene Arten verändert werden, die in der folgenden Reihenfolge erfolgen:
 
 1. Alle anwendbaren Angriffsboni und -strafen – wie z. B.  „**±X** <img src="assets/icons/ability_attack.png" class="inline-icon"/>“-Effekte, einschließlich Gift    (siehe [S. 20](#page_20)) – werden angewendet.
-1. Ein Angriffsmodifikator wird gewürflet und angewendet.
+1. Ein Angriffsmodifikator wird gewürfelt und angewendet.
 1. Der Schildbonus des Ziels wird angewendet (siehe [S. 22](#page_22)).
 
 Sobald alle Modifikationen angewendet wurden, erleidet das Ziel den resultierenden Schaden. Wenn das Ziel über Fertigkeiten oder Effekte verfügt, die eine Schadensquelle negieren können, einschließlich des Abwerfens oder Verlierens von Karten, um Schaden zu negieren (siehe [S. 28](#page_28)), kann es diese jetzt benutzen.
@@ -553,7 +553,7 @@ Diese Schritte werden für jedes einzelne Ziel der Angriffsfertigkeit wiederholt
 
 > #### Angriffsmodifikator-Ablage
 > 
-> Immer wenn eine Angriffsfertigkeit ausgeführt wird, **würfelst du für jedes Ziel der Angriffsfertigkeit einen separaten Angriffsmodifikator**, indem du den Würfel wirfst und mit der Angriffsmodifikator-Ablage abgleichst. Der gewürfelte Modifikator ergibt sich aus dem Modifikator in der aktuell markierten Zeile und der Spalte, die dem gewürfelten Symbol entspricht (<img src="assets/icons/dice_result_minus.png" class="inline-icon"/>, <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/>, <img src="assets/icons/dice_result_plus.png" class="inline-icon"/>). Der gewürfelte Modifikator wird dann auf den Angriff angewendet, was möglicherweise den Angriffswert verringert oder erhöht. Sobald du die Effekte eines gewürfelten Modifikators angewendet hast, schiebe den Modifikator-Stein 1 Reihe nach unten. (Wenn du Schwierigkeiten hast, dich daran zu erinneren, den Stein nach einem Angriff nach unten zu bewegen, kannst du versuchen, den Stein zuerst zu bewegen und dann den Modifikator aus der Reihe zu verwenden, in der sich der Stein nun befindet. Wenn du das so machst, startet der Stein am Anfang jedes Szenarios im letzten Feld und nicht im Ersten.)
+> Immer wenn eine Angriffsfertigkeit ausgeführt wird, **würfelst du für jedes Ziel der Angriffsfertigkeit einen separaten Angriffsmodifikator**, indem du den Würfel wirfst und mit der Angriffsmodifikator-Ablage abgleichst. Der gewürfelte Modifikator ergibt sich aus dem Modifikator in der aktuell markierten Zeile und der Spalte, die dem gewürfelten Symbol entspricht (<img src="assets/icons/dice_result_minus.png" class="inline-icon"/>, <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/>, <img src="assets/icons/dice_result_plus.png" class="inline-icon"/>). Der gewürfelte Modifikator wird dann auf den Angriff angewendet, was möglicherweise den Angriffswert verringert oder erhöht. Sobald du die Effekte eines gewürfelten Modifikators angewendet hast, schiebe den Modifikator-Stein 1 Reihe nach unten. (Wenn du Schwierigkeiten hast, dich daran zu erinnern, den Stein nach einem Angriff nach unten zu bewegen, kannst du versuchen, den Stein zuerst zu bewegen und dann den Modifikator aus der Reihe zu verwenden, in der sich der Stein nun befindet. Wenn du das so machst, startet der Stein am Anfang jedes Szenarios im letzten Feld und nicht im Ersten.)
 > 
 > Angriffsmodifikatoren würfelst du nur für Angriffe. Verwende sie nicht für andere Effekte, die Schaden verursachen.
 > 
@@ -611,7 +611,7 @@ Jeder Fernangriff auf einen benachbarten Gegner erhält automatisch Nachteil.
 Eine Zustandsfertigkeit ist eine positive oder negative Zielfertigkeit, abhängig von dem angegeben Zustand, und bewirkt, dass das Ziel der Fertigkeit diesen Zustand erhält.
 
 
-Wenn du einen Zustand erhälst, lege den entsprechenden Marker auf deine Charakterkarte. Wenn ein Monster einen Zustand erhält, lege den entsprechenden Marker in die Nähe der entsprechenden Trefferpunkte-Zählscheibe. 
+Wenn du einen Zustand erhältst, lege den entsprechenden Marker auf deine Charakterkarte. Wenn ein Monster einen Zustand erhält, lege den entsprechenden Marker in die Nähe der entsprechenden Trefferpunkte-Zählscheibe. 
 
 Einmal erlangt, bleibt ein Zustand bestehen, bis die Voraussetzungen für das Entfernen des Zustands erfüllt sind. Weder positive noch negative Zustände können freiwillig entfernt werden. Eine Figur kann nicht mehrfach denselben Zustand haben. Wenn eine Figur jedoch einen Zustand erhält, den sie bereits hat, wird die Dauer des Effekts zurückgesetzt.
 
@@ -645,7 +645,7 @@ Ein Zustandseffekt kann auch als zusätzlicher Effekt zu anderen Fähigkeiten hi
 
 ### Heilen
 
-<img src="assets/icons/ability_heal.png" class="inline-icon"/> **„Heilung X“** ist eine positive Zielfähigkeit, die es dem Ziel ermöglicht, X Schaden zu heilen und so seinen aktuellen Trefferpunktewert zu erhöhen. Wenn Schaden geheilt wird, aktualisiere Trefferpunke-Zählscheibe des Ziels, um den neuen Trefferpunktewert anzuzeigen.
+<img src="assets/icons/ability_heal.png" class="inline-icon"/> **„Heilung X“** ist eine positive Zielfähigkeit, die es dem Ziel ermöglicht, X Schaden zu heilen und so seinen aktuellen Trefferpunktewert zu erhöhen. Wenn Schaden geheilt wird, aktualisiere Trefferpunkte-Zählscheibe des Ziels, um den neuen Trefferpunktewert anzuzeigen.
 
 Der aktuelle Trefferpunktewert einer Figur kann niemals ihren maximalen Trefferpunktewert überschreiten. Es ist jedoch erlaubt, eine Figur, die bereits ihren maximalen Trefferpunktewert erreicht hat, mit einer Heilfertigkeiten anzuvisieren. Dies kann z. B. durchgeführt werden, um Gift oder Wunde zu entfernen.
 
