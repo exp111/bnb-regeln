@@ -89,7 +89,7 @@ Viel Glück, Abenteurer!
 <p>Springen <a href="#page_17">S. 17</a></p>
 <p>Fliegen <a href="#page_17">S. 17</a></p>
 <p>Angriff <a href="#page_18">S. 18</a></p>
-<p>Angriffsmodifikator-Ablage <a href="#page_18">S. 18</a></p>
+<p>Angriffs&shy;modifikator-Ablage <a href="#page_18">S. 18</a></p>
 <p>Angriffseffekte <a href="#page_19">S. 19</a></p>
 <p>Vor- und Nachteil <a href="#page_19">S. 19</a></p>
 <p>Durchstechen <a href="#page_19">S. 19</a></p>
@@ -109,7 +109,7 @@ Viel Glück, Abenteurer!
 <p>Das Ziehen des Charakters <a href="#page_25">S. 25</a></p>
 <p>Fertigkeitskarten <a href="#page_25">S. 25</a></p>
 <p>Gegenstände <a href="#page_26">S. 26</a></p>
-<p>Gegenstandsbeschränkungen <a href="#page_26">S. 26</a></p>
+<p>Gegenstands&shy;beschränkungen <a href="#page_26">S. 26</a></p>
 <p>Verwendung eines Gegenstands <a href="#page_26">S. 26</a></p>
 <p>Zwangsauslöser <a href="#page_27">S. 27</a></p>
 <p>Rasten <a href="#page_27">S. 27</a></p>
@@ -127,7 +127,7 @@ Viel Glück, Abenteurer!
 <p>Kein Fokus <a href="#page_30">S. 30</a></p>
 <p>Monsterbewegung <a href="#page_31">S. 31</a></p>
 <p>Monsterangriffe <a href="#page_31">S. 31</a></p>
-<p>Andere Monsterfertigkeiten <a href="#page_31">S. 31</a></p>
+<p>Andere Monster&shy;fertigkeiten <a href="#page_31">S. 31</a></p>
 <p>Monster und Elemente <a href="#page_32">S. 32</a></p>
 <p>Das Einsteigen von Monstern <a href="#page_32">S. 32</a></p>
 <p>Monsterschaden und Tod <a href="#page_32">S. 32</a></p>
@@ -143,7 +143,7 @@ Viel Glück, Abenteurer!
 <h4 id="the-adventure-begins-p35">Das Abenteuer beginnt <a href="#page_35">S. 35</a></h4>
 
 <p>Gegenstandsvorrat <a href="#page_35">S. 35</a></p>
-<p>Charakterentwicklung <a href="#page_35">S. 35</a></p>
+<p>Charakter&shy;entwicklung <a href="#page_35">S. 35</a></p>
 <p>Verbesserte Fertigkeitskarten <a href="#page_35">S. 35</a></p>
 
 <h4 id="appendices">Anhänge</h4>
@@ -151,7 +151,7 @@ Viel Glück, Abenteurer!
 <p>Anhang A: Spielmaterial <a href="#page_36">S. 36</a></p>
 <p>Anhang B: Leitfaden zu den Zügen der Monster <a href="#page_37">S. 37</a></p>
 <p>Anhang C: Wichtige Hinweise <a href="#page_38">S. 38</a></p>
-<p>Anhang D: Gegenstandsverzeichnis <a href="#page_39">S. 39</a></p>
+<p>Anhang D: Gegenstands&shy;verzeichnis <a href="#page_39">S. 39</a></p>
 <p>Anhang E: Komponenten-Errata <a href="#page_40">S. 40</a></p>
 
 <h4 id="credits-p41">Credits <a href="#page_41">S. 41</a></h4>
@@ -1057,7 +1057,7 @@ Wenn du das Szenario abgeschlossen hast, lies den Abschluss des Szenarios, der i
 > Auf jeder Karte im Szenariostapel sind oben und unten zwei Gegenstände aufgedruckt. Sobald du Szenario 1 abgeschlossen hast, stehen dir zu Beginn jedes Szenarios die Gegenstände auf jeder Karte, die du abgehandelt oder übersprungen hast (alle vorherigen Szenarien sowie Abdeck- und Sammelkarten), zum Ausrüsten zur Verfügung. Du kannst immer nur 1 Gegenstand von jeder Karte ausrüsten. Zu Beginn jedes Szenarios kannst du jedoch verschiedene Gegenstände ausrüsten.
 
 > 
-> ## Charakterentwicklung
+> ## Charakter&shy;entwicklung
 > 
 > Rechts neben dem Titel des Szenarios befindet sich eine Stufenanzeige, die die Stufe deines Charakters im Szenario angibt. Deine Stufe bestimmt vier Dinge:
 > - Wie viele Fertigkeitskarten der Stufe 1 du verbessern kannst (siehe unten)
@@ -1281,11 +1281,11 @@ Inspiriert durch <em>Gloomholdin</em></p>
 
 <h3 id="illustration">Illustration</h3>
 
-<h4 id="cover-character-and-monster-artist">Cover-, Charakter- und Monsterillustrator</h4>
+<h4 id="cover-character-and-monster-artist">Cover-, Charakter- und Monster&shy;illustrator</h4>
 
 <p>Mofei Wang</p>
 
-<h4 id="map-artist">Spielfeldillustrator</h4>
+<h4 id="map-artist">Spielfeld&shy;illustrator</h4>
 
 <p>Yannis Cardin</p>
 
@@ -1331,17 +1331,17 @@ Inspiriert durch <em>Gloomholdin</em></p>
 
 <h3 id="production">Produktion</h3>
 
-<h4 id="executive-producer-and-production-lead">Produktionsleitung</h4>
+<h4 id="executive-producer-and-production-lead">Produktions&shy;leitung</h4>
 
 <p>Price Johnson</p>
 
 <h3 id="playtesting">Spieltest</h3>
 
-<h4 id="playtest-coordinator">Spieltestkoordination</h4>
+<h4 id="playtest-coordinator">Spieltest&shy;koordination</h4>
 
 <p>Nikki Valens</p>
 
-<h4 id="campaign-playtesters">Kampagnenspieltests</h4>
+<h4 id="campaign-playtesters">Kampagnen&shy;spieltests</h4>
 
 <p>Amr Ammourazz, Calvin Wong Tze Loon 黃子倫, David Gregg, Duncan Henry, Fiona van den Heiligenberg, Hong Di-Anne, Joseph Bozarth, Kyle Kemp, Larry, Braden, and Maks Marburger, Misty Burgess, Rachel Woodfint, Z Svela</p>
 
@@ -1353,7 +1353,7 @@ Inspiriert durch <em>Gloomholdin</em></p>
 
 <h3 id="crowdfunding">Crowdfunding</h3>
 
-<h4 id="marketing-and-crowdfunding-manager">Marketing- und Crowdfundingmanager</h4>
+<h4 id="marketing-and-crowdfunding-manager">Marketing- und Crowdfunding&shy;manager</h4>
 
 <p>Ross Thompson</p>
 
