@@ -578,7 +578,7 @@ Diese Schritte werden für jedes einzelne Ziel der Angriffsfertigkeit wiederholt
 
 #### Angriffseffekte
 
-Ein Angriffseffekt ist ein Effekt, der mit einem Angriff verbunden ist. Diese Effekte werden entweder während der Schadensabwicklung oder nach dem Angriff angewendet. Wenn der Angriffseffekt nach dem Angriff angewendet wird, wird er auch dann angewendet, fals der Angriff keinen Schaden verursacht (auch bei einem <img src="assets/icons/modifier_miss.png" class="inline-element"/>-Modifikator).
+Ein Angriffseffekt ist ein Effekt, der mit einem Angriff verbunden ist. Diese Effekte werden entweder während der Schadensabwicklung oder nach dem Angriff angewendet. Wenn der Angriffseffekt nach dem Angriff angewendet wird, wird er auch dann angewendet, falls der Angriff keinen Schaden verursacht (auch bei einem <img src="assets/icons/modifier_miss.png" class="inline-element"/>-Modifikator).
 
 Der Angreifer muss entscheiden, ob er Angriffseffekte anwenden möchte, bevor er einen Angriffsmodifikator würfelt. Alle Angriffseffekte außer <img src="assets/icons/ability_target.png" class="inline-icon"/> werden vor jedem Vergeltungsbonus angewendet (siehe [S. 22](#page_22)). Der <img src="assets/icons/ability_target.png" class="inline-icon"/>-Effekt ermöglicht es dem Angreifer, zusätzliche Angriffe auszuführen, und jeder Angriff muss vollständig abgehandelt werden, bevor ein anderer ausgeführt werden kann.
 
